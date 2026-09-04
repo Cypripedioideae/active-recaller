@@ -63,14 +63,14 @@
     {
       "id": "q9",
       "type": "true_false",
-      "prompt": "Activation of Gq-coupled metabotropic receptors stimulates phospholipase C, leading to the generation of IP3 and DAG, which releases Ca^(2+) from the endoplasmic reticulum",
+      "prompt": "Activation of G_q-coupled metabotropic receptors stimulates phospholipase C, leading to the generation of IP_3 and DAG, which IP_3 releases Ca^(2+) from the endoplasmic reticulum",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q10",
       "type": "true_false",
-      "prompt": "Administering a drug that selectively blocks neural nicotinic receptors (NN) in autonomic ganglia will selectively inhibit parasympathetic outflow while leaving sympathetic outflow intact",
+      "prompt": "Administering a drug that selectively blocks neural nicotinic receptors (N_N) in autonomic ganglia will selectively inhibit parasympathetic outflow while leaving sympathetic outflow intact",
       "answer": "false",
       "explanation": "-"
     },
@@ -98,28 +98,28 @@
     {
       "id": "q14",
       "type": "true_false",
-      "prompt": "In a healthy individual standing upright, the ventilation-perfusion (V/Q) ratio is lowest at the apex of the lung because both ventilation and perfusion are highest at the apex",
+      "prompt": "In a healthy individual standing upright, the ventilation-perfusion (V/Q) ratio is lowest at the apex of the lung",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q15",
       "type": "true_false",
-      "prompt": "If a patient has a tidal volume of 500 mL, a respiratory rate of 12 breaths/minute, an arterial PaCO2 of 40 mmHg, and a mixed expired PECO2 of 28 mmHg, their physiological dead space is 150 mL and their alveolar ventilation is 4.2 L/minute",
+      "prompt": "If a patient has a tidal volume of 500 mL, a respiratory rate of 12 breaths/minute, an arterial P_(aCO2) of 40 mmHg, and a mixed expired P_(ECO2) of 28 mmHg, their physiological dead space is 150 mL and their alveolar ventilation is 4.2 L/minute",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q16",
       "type": "true_false",
-      "prompt": "Breathing 100% supplemental oxygen is highly effective at correcting hypoxemia caused by a true right-to-left anatomical shunt because the high alveolar PO2 easily oxygenates the shunted blood",
+      "prompt": "Breathing 100% supplemental oxygen is highly effective at correcting hypoxemia caused by a true right-to-left anatomical shunt because the high alveolar P_(O2) easily oxygenates the shunted blood",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q17",
       "type": "true_false",
-      "prompt": "During quiet inspiration, alveolar pressure becomes subatmospheric as the thoracic cavity expands, while intrapleural pressure drops from its resting end-expiratory value of approximately -3 cm H_2O to a more negative value of approximately -6 cm H_2O",
+      "prompt": "During quiet inspiration, alveolar pressure becomes subatmospheric as the thoracic cavity expands, while intrapleural pressure drops from its resting end-expiratory value to a more negative value",
       "answer": "true",
       "explanation": "-"
     },
@@ -147,7 +147,7 @@
     {
       "id": "q21",
       "type": "true_false",
-      "prompt": "A severe decrease in systemic arterial pressure during hemorrhage causes reflex sympathetic vasoconstriction of precapillary arterioles, which increases capillary hydrostatic pressure and promotes fluid movement into the interstitium to restore blood volume",
+      "prompt": "A severe decrease in systemic arterial pressure during hemorrhage causes reflex sympathetic vasoconstriction of precapillary arterioles, which increases capillary hydrostatic pressure",
       "answer": "false",
       "explanation": "-"
     },
@@ -168,7 +168,7 @@
     {
       "id": "q24",
       "type": "true_false",
-      "prompt": "Because the glomerulus is a capillary bed, the hydrostatic pressure inside the glomerular capillaries declines significantly along its length, dropping from approximately 60 mmHg at the afferent end to 20 mmHg at the efferent end",
+      "prompt": "Because the glomerulus is a capillary bed, the hydrostatic pressure inside the glomerular capillaries declines significantly along its length",
       "answer": "false",
       "explanation": "-"
     },
@@ -217,14 +217,14 @@
     {
       "id": "q31",
       "type": "true_false",
-      "prompt": "The basic electrical rhythm (BER) or slow waves of the gastrointestinal tract are initiated by the interstitial cells of Cajal, which act as the electrical pacemakers of the gut",
+      "prompt": "The basic electrical rhythm (BER) or slow waves of the gastrointestinal tract are initiated by the interstitial cells of Cajal",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q32",
       "type": "true_false",
-      "prompt": "Slow waves are true action potentials that propagate rapidly along the gastrointestinal tract, causing immediate smooth muscle contraction even in the absence of neurotransmitter input",
+      "prompt": "Slow waves are true action potentials that propagate rapidly along the gastrointestinal tract, causing immediate smooth muscle contraction",
       "answer": "false",
       "explanation": "-"
     },
@@ -252,7 +252,7 @@
     {
       "id": "q36",
       "type": "true_false",
-      "prompt": "Gastric acid secretion by parietal cells is stimulated by gastrin, acetylcholine, and histamine, which act synergistically such that blocking the H2 histamine receptor has no effect on gastrin-stimulated acid secretion",
+      "prompt": "Gastric acid secretion by parietal cells is stimulated by gastrin, acetylcholine, and histamine, which act synergistically such that blocking the H_2 histamine receptor has no effect on gastrin-stimulated acid secretion",
       "answer": "false",
       "explanation": "-"
     },
@@ -329,7 +329,7 @@
     {
       "id": "q47",
       "type": "true_false",
-      "prompt": "During intense exercise, the significant increase in metabolic rate and CO2 production shifts the oxygen-hemoglobin dissociation curve to the left, which facilitates oxygen loading in the pulmonary capillaries.",
+      "prompt": "During intense exercise, the significant increase in metabolic rate and CO_2 production shifts the oxygen-hemoglobin dissociation curve to the left, which facilitates oxygen loading in the pulmonary capillaries.",
       "answer": "false",
       "explanation": "-"
     },
@@ -343,8 +343,8 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "A severe increase in plasma osmolality is detected by hypothalamic osmoreceptors, which stimulates the release of aldosterone from the posterior pituitary to promote active water reabsorption in the collecting ducts",
-      "answer": "false",
+      "prompt": "A severe increase in plasma osmolality is detected by hypothalamic osmoreceptors, which stimulates the release of arginine vasopressin from the posterior pituitary to promote active water reabsorption in the collecting ducts",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -364,14 +364,14 @@
     {
       "id": "q52",
       "type": "true_false",
-      "prompt": "An isosmotic solution of urea (reflection coefficient = 0) will cause a red blood cell to shrink because urea does not easily cross the cell membrane.",
+      "prompt": "An isosmotic solution of urea will cause a red blood cell to shrink because urea does not easily cross the cell membrane.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q53",
       "type": "true_false",
-      "prompt": "The primary mechanism for maintaining the low resting intracellular Ca^(2+) concentration (~10-7 M) in mammalian cells is the Na^+-Ca^(2+) exchanger (NCX), which has a high affinity but low capacity for Ca^(2+).",
+      "prompt": "The primary mechanism for maintaining the low resting intracellular Ca^(2+) concentration (~10^(-7) M) in mammalian cells is the Na^+-Ca^(2+) exchanger (NCX), which has a high affinity but low capacity for Ca^(2+).",
       "answer": "false",
       "explanation": "-"
     },
@@ -406,7 +406,7 @@
     {
       "id": "q58",
       "type": "true_false",
-      "prompt": "According to the Weber-Fechner law, the frequency of action potentials generated by a sensory receptor is directly proportional to the absolute intensity of the stimulus.",
+      "prompt": "The frequency of action potentials generated by a sensory receptor is directly proportional to the absolute intensity of the stimulus.",
       "answer": "false",
       "explanation": "-"
     },
@@ -420,7 +420,7 @@
     {
       "id": "q60",
       "type": "true_false",
-      "prompt": "Long-term potentiation (LTP) in the hippocampus requires the activation of NMDA receptors, which occurs when postsynaptic depolarization expels Mg2+ ions blocking the channel pore, allowing Ca^(2+) influx.",
+      "prompt": "Long-term potentiation in the hippocampus requires the activation of NMDA receptors, which occurs when postsynaptic depolarization expels Mg^(2+) ions blocking the channel pore, allowing Ca^(2+) influx.",
       "answer": "true",
       "explanation": "-"
     },
@@ -448,7 +448,7 @@
     {
       "id": "q64",
       "type": "true_false",
-      "prompt": "An increase in erythrocyte 2,3-BPG concentration stabilizes the relaxed (R) state of hemoglobin, thereby increasing its affinity for oxygen and shifting the oxygen dissociation curve to the left.",
+      "prompt": "An increase in erythrocyte 2,3-BPG concentration stabilizes the relaxed (R) state of hemoglobin, thereby increasing its affinity for oxygen and shifting the oxygen dissociation curve to the right.",
       "answer": "false",
       "explanation": "-"
     },
@@ -462,14 +462,14 @@
     {
       "id": "q66",
       "type": "true_false",
-      "prompt": "If a region of the lung has a ventilation-perfusion (V/Q) ratio of infinity, the gas composition in the alveoli of that region will equilibrate to have a PO2 of 40 mmHg and a PCO2 of 46 mmHg.",
+      "prompt": "If a region of the lung has a ventilation-perfusion (V/Q) ratio of infinity, the gas composition in the alveoli of that region will equilibrate to have a P_(O2) of 40 mmHg and a P_(CO2) of 46 mmHg.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q67",
       "type": "true_false",
-      "prompt": "A patient breathing room air (PIO2 = 150 mmHg) at sea level has an arterial PaCO2 of 40 mmHg and a respiratory quotient (R) of 0.8. If their arterial PaO2 is 90 mmHg, their alveolar-arterial (A-a) oxygen gradient is 10 mmHg.",
+      "prompt": "A patient breathing room air (P_(IO2) = 150 mmHg) at sea level has an arterial P_(aCO2) of 40 mmHg and a respiratory quotient of 0.8. If their arterial P_(aO2) is 90 mmHg, their alveolar-arterial oxygen gradient is 10 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -525,14 +525,14 @@
     {
       "id": "q75",
       "type": "true_false",
-      "prompt": "The ascending limb of the loop of Henle is highly permeable to water but impermeable to NaCl, which allows the active transport of solutes out of the descending limb to generate the hyperosmolal medullary interstitium.",
+      "prompt": "The ascending limb of the loop of Henle is highly permeable to NaCl but impermeable to impermeable, which allows the transport of solutes out of the ascending limb to generate the hyperosmolal medullary interstitium.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q76",
       "type": "true_false",
-      "prompt": "In the principal cells of the late distal tubule and collecting duct, aldosterone increases K^+ secretion by stimulating the Na^+-K^+ ATPase on the basolateral membrane and increasing the permeability of K^+ channels on the apical membrane.",
+      "prompt": "In the principal cells of the late distal tubule and collecting duct, aldosterone increases K^+ secretion by various changes including stimulating the Na^+-K^+ ATPase on the basolateral membrane and increasing the permeability of K^+ channels on the apical membrane.",
       "answer": "true",
       "explanation": "-"
     },
@@ -567,7 +567,7 @@
     {
       "id": "q81",
       "type": "true_false",
-      "prompt": "Salivary amylase and pancreatic amylase break down dietary starches into free glucose molecules that are then directly absorbed across the apical membrane of enterocytes via GLUT2.",
+      "prompt": "Salivary amylase and pancreatic amylase break down dietary starches into free glucose molecules that are then directly absorbed across the apical membrane of enterocytes.",
       "answer": "false",
       "explanation": "-"
     },
@@ -581,8 +581,8 @@
     {
       "id": "q83",
       "type": "true_false",
-      "prompt": "The presence of acid, hyperosmotic chyme, or fat in the duodenum stimulates the release of CCK and secretin, which feedback to increase gastric motility and accelerate gastric emptying.",
-      "answer": "false",
+      "prompt": "The presence of acid, hyperosmotic chyme, or fat in the duodenum stimulates the release of CCK and secretin, which feedback to decelerate gastric emptying.",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -623,7 +623,7 @@
     {
       "id": "q89",
       "type": "true_false",
-      "prompt": "Antidiuretic hormone (ADH) acts on V2 receptors in the principal cells of the renal collecting duct to stimulate Gs-coupled pathways, increasing cAMP levels and causing the insertion of aquaporin-2 water channels into the apical membrane.",
+      "prompt": "Antidiuretic hormone (ADH) acts on V_2 receptors in the principal cells of the renal collecting duct to stimulate G_s-coupled pathways, increasing cAMP levels and causing the insertion of aquaporin-2 water channels into the apical membrane.",
       "answer": "true",
       "explanation": "-"
     },
@@ -665,21 +665,21 @@
     {
       "id": "q95",
       "type": "true_false",
-      "prompt": "In Cushing's disease caused by an ACTH-secreting pituitary adenoma, high doses of dexamethasone (a potent glucocorticoid) fail to suppress cortisol secretion, whereas in ectopic ACTH syndrome, cortisol secretion is suppressed by high doses of dexamethasone.",
+      "prompt": "In Cushing's disease caused by an ACTH-secreting pituitary adenoma, high doses of dexamethasone (a potent glucocorticoid) fail to suppress cortisol secretion.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q96",
       "type": "true_false",
-      "prompt": "An individual who ascends to an altitude of 4,000 meters will develop an acute respiratory alkalosis due to hypoxic hyperventilation, which the kidneys compensate for over several days by decreasing the filtration of HCO_3^-.",
+      "prompt": "An individual who ascends to an altitude of 4,000 meters will develop an acute respiratory alkalosis due to hypoxic hyperventilation, which the kidneys compensate for over several days by increasing the filtration of HCO_3^-.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q97",
       "type": "true_false",
-      "prompt": "During dynamic aerobic exercise, mean arterial pressure increases dramatically because the massive increase in cardiac output is accompanied by a significant increase in total peripheral resistance (TPR).",
+      "prompt": "During dynamic aerobic exercise, mean arterial pressure increases dramatically because the massive increase in cardiac output is accompanied by a significant increase in total peripheral resistance.",
       "answer": "false",
       "explanation": "-"
     },
@@ -693,14 +693,14 @@
     {
       "id": "q99",
       "type": "true_false",
-      "prompt": "During a fever, the hypothalamic set-point temperature is elevated by PGE2; the body perceives its current normal temperature as hypothermic, triggering shivering and cutaneous vasoconstriction to elevate body temperature to the new set-point.",
+      "prompt": "During a fever, the hypothalamic set-point temperature is elevated by PGE_2; the body perceives its current normal temperature as hypothermic, triggering shivering and cutaneous vasoconstriction to elevate body temperature to the new set-point.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q100",
       "type": "true_false",
-      "prompt": "In a patient with metabolic acidosis, the respiratory compensation is immediate hyperventilation, which can reduce the PaCO2 to a minimum value of approximately 10 mmHg to completely normalize the arterial pH.",
+      "prompt": "In a patient with metabolic acidosis, the respiratory compensation is immediate hyperventilation, which can reduce the P_(aCO2) to a minimum value of approximately 10 mmHg to completely normalize the arterial pH.",
       "answer": "false",
       "explanation": "-"
     }

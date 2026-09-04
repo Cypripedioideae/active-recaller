@@ -60,6 +60,14 @@ const loadSession = (setId: string) => {
   return null;
 };
 
+const normalizeBooleanAnswer = (ans: any) => {
+  if (typeof ans === "string") {
+    if (ans.toLowerCase() === "true") return true;
+    if (ans.toLowerCase() === "false") return false;
+  }
+  return ans;
+};
+
 export const QuizView: React.FC<QuizViewProps> = ({ questionSet, onExit }) => {
   const { questions } = questionSet;
 
@@ -142,14 +150,14 @@ export const QuizView: React.FC<QuizViewProps> = ({ questionSet, onExit }) => {
 
     if (q.type === "mcq" || q.type === "true_false") {
       if (val === undefined || val === null) return { earned: 0, max: 1 };
-      return { earned: val === q.answer ? 1 : 0, max: 1 };
+      return { earned: val === normalizeBooleanAnswer(q.answer) ? 1 : 0, max: 1 };
     }
 
     if (q.type === "multiple_true_false") {
       if (!q.subQuestions || q.subQuestions.length === 0) return null;
       const subAnswers = val || {};
       const correctSubCount = q.subQuestions.filter(
-        (subQ) => subAnswers[subQ.id] === subQ.answer
+        (subQ) => subAnswers[subQ.id] === normalizeBooleanAnswer(subQ.answer)
       ).length;
       return {
         earned: correctSubCount / q.subQuestions.length,
@@ -308,7 +316,7 @@ export const QuizView: React.FC<QuizViewProps> = ({ questionSet, onExit }) => {
       <div className="space-y-3">
         {choices.map((choice) => {
           const isSelected = currentAns === choice.value;
-          const isCorrectAns = choice.value === q.answer;
+          const isCorrectAns = choice.value === normalizeBooleanAnswer(q.answer);
 
           let cardStyle =
             "border-slate-200 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-900/30 hover:border-slate-300 dark:hover:border-slate-700 hover:bg-slate-100/50 dark:hover:bg-slate-800/40";
@@ -391,8 +399,9 @@ export const QuizView: React.FC<QuizViewProps> = ({ questionSet, onExit }) => {
           <tbody className="divide-y divide-slate-200 dark:divide-slate-800 bg-white dark:bg-slate-900">
             {subQs.map((subQ) => {
               const selectedValue = currentSubAnswers[subQ.id];
-              const isCorrectTrue = subQ.answer === true;
-              const isCorrectFalse = subQ.answer === false;
+              const normalizedAns = normalizeBooleanAnswer(subQ.answer);
+              const isCorrectTrue = normalizedAns === true;
+              const isCorrectFalse = normalizedAns === false;
 
               // True column selector styling
               let trueBtnStyle = "border-slate-300 dark:border-slate-700";
@@ -430,7 +439,7 @@ export const QuizView: React.FC<QuizViewProps> = ({ questionSet, onExit }) => {
               // Row background highlight after submission
               let rowStyle = "";
               if (isSubmitted) {
-                const isSubCorrect = selectedValue === subQ.answer;
+                const isSubCorrect = selectedValue === normalizedAns;
                 rowStyle = isSubCorrect
                   ? "bg-emerald-50/10 dark:bg-emerald-950/5"
                   : "bg-rose-50/10 dark:bg-rose-950/5";
@@ -764,7 +773,7 @@ export const QuizView: React.FC<QuizViewProps> = ({ questionSet, onExit }) => {
                       if (activeQuestion.type === "multiple_true_false" && activeQuestion.subQuestions) {
                         const val = answers[activeQuestion.id] || {};
                         const correctSubCount = activeQuestion.subQuestions.filter(
-                          (subQ) => val[subQ.id] === subQ.answer
+                          (subQ) => val[subQ.id] === normalizeBooleanAnswer(subQ.answer)
                         ).length;
                         scoreDisplay = `${correctSubCount}/${activeQuestion.subQuestions.length}`;
                       }
