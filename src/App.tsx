@@ -44,7 +44,7 @@ const AppContent: React.FC = () => {
     const fetchRegistry = async () => {
       try {
         setLoading(true);
-        const res = await fetch("/questions/registry.json");
+        const res = await fetch(`${import.meta.env.BASE_URL}questions/registry.json`);
         if (!res.ok) {
           throw new Error("Failed to load questions registry.");
         }
@@ -76,7 +76,7 @@ const AppContent: React.FC = () => {
 
     try {
       setLoading(true);
-      const res = await fetch(`/questions/${setMeta.filename}`);
+      const res = await fetch(`${import.meta.env.BASE_URL}questions/${setMeta.filename}`);
       if (!res.ok) {
         throw new Error(`Failed to load question set: ${setMeta.filename}`);
       }
