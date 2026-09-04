@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-9",
+  "title": "General Mycology 9",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A patient with invasive aspergillosis is being treated with an antifungal agent, which works by inhibiting 1,3-\u03b2-D-glucan synthase. Which of the following is a recognized adverse effect associated with the administration of this drug class?",
+      "options": [
+        "Distal renal tubular damage",
+        "Flushing due to histamine release",
+        "Hyperglycemia and seizures",
+        "Optic neuritis and color blindness",
+        "Teratogenicity and cartilage damage"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Fungal taxonomy recognizes different names for a single fungus depending on its reproductive phase. Which of the following is the specific term used to describe the sexual phase of a mold that produces sexual spores?",
+      "options": [
+        "Anamorph",
+        "Arthroconidia",
+        "Conidiophore",
+        "Mycelium",
+        "Teleomorph"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 42-year-old female farmer presents with a highly inflammatory skin lesion on her neck characterized by pustules and a \"ringworm\" appearance after handling infected cattle. Laboratory identification confirms a zoophilic dermatophyte. Which of the following statements best describes the clinical nature of zoophilic species compared to anthropophilic species?",
+      "options": [
+        "They cause significantly less host inflammation",
+        "They are transmitted exclusively via soil exposure",
+        "They produce more intense inflammatory reactions in humans",
+        "They are unable to infect the hair or nails",
+        "They are the most common cause of tinea overall"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 22-year-old female presents with a solitary, irregular, black macule on her palm that appeared after a trip to Central America. Direct microscopy of skin scrapings in potassium hydroxide (KOH) reveals dark, branched hyphae. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Cutaneous candidiasis",
+        "Malignant melanoma",
+        "Pityriasis versicolor",
+        "Tinea corporis",
+        "Tinea nigra"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient with AIDS and a CD4+ T-cell count of 150 cells/mm\u00b3 presents with a non-productive cough, fever, and diffuse \"ground-glass\" opacities on chest X-ray. A Gomori methenamine silver (GMS) stain of a bronchoalveolar lavage specimen shows disc-shaped cysts. Which of the following is the recommended first-line treatment and primary prophylaxis for this condition?",
+      "options": [
+        "Amphotericin B",
+        "Clotrimazole",
+        "Itraconazole",
+        "Terbinafine",
+        "Co-trimoxazole"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 30-year-old female with a known history of Systemic Lupus Erythematosus (SLE) presents with tinea capitis. Which of the following antifungal agents is most appropriate to avoid in this patient because it can exacerbate her underlying condition",
+      "options": [
+        "Terbinafine",
+        "Griseofulvin",
+        "Itraconazole",
+        "Fluconazole",
+        "Ketoconazole"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A microbiology researcher is investigating the mechanism of action of a new antifungal drug that inhibits the *fks1* gene product. Based on the provided sources, this drug most likely causes fungal cell death by targeting which of the following?",
+      "options": [
+        "1,3-\u03b2-D-glucan synthase in the cell wall",
+        "14-\u03b1-demethylase in the ergosterol pathway",
+        "DNA and RNA biosynthesis in the nucleus",
+        "Microtubule function during mitosis",
+        "Squalene epoxidase in the cell membrane"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 32-year-old patient with AIDS presents with fever, weight loss, and generalized skin papules that are centrally umbilicated. Laboratory culture of a skin biopsy specimen on Sabouraud agar at 25\u00b0C yields a hyaline septate mold that produces a distinctive deep red pigment. Which of the following is the most likely natural reservoir for the causative pathogen?",
+      "options": [
+        "Pigeon droppings",
+        "Bamboo rats",
+        "Sphagnum moss",
+        "Bat droppings",
+        "Fresh water"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A diabetic patient in ketoacidosis presents with severe facial pain and a black necrotic eschar on the nasal mucosa. Histological examination shows broad, irregular, non-septate hyphae with right-angle branching. Which of the following processes is primarily responsible for the rapid tissue necrosis and destruction seen in this infection?",
+      "options": [
+        "Allergic IgE-mediated hypersensitivity response",
+        "Angioinvasion leading to thrombosis and infarction",
+        "Formation of granulomas by T-lymphocytes",
+        "Production of aflatoxins leading to hepatocellular damage",
+        "Release of keratinase to digest the stratum corneum"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient with a serious systemic fungal infection requires treatment with amphotericin B. The physician chooses a lipid-associated formulation rather than the conventional deoxycholate suspension. What is the primary advantage of using lipid formulations of this medication?",
+      "options": [
+        "Improved absorption from the gastrointestinal tract",
+        "Increased activity against Mucormycetes",
+        "Prevention of high-level drug resistance",
+        "Reduced non-specific binding and nephrotoxicity",
+        "Shorter treatment duration for onychomycosis"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

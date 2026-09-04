@@ -1,0 +1,148 @@
+{
+  "id": "general-parasitology-10",
+  "title": "General Parasitology 10",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 29-year-old patient presents with a history of passing flat, motile segments in his stool. He admits to frequently consuming undercooked beef. Laboratory examination of a gravid proglottid reveals 22 primary uterine branches. Which of the following is the drug of choice for treating this intestinal infection?",
+      "options": [
+        "Praziquantel",
+        "Ivermectin",
+        "Albendazole",
+        "Diethylcarbamazine",
+        "Triclabendazole"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 40-year-old male presents with chronic epigastric pain and a pruritic, serpiginous skin lesion on his lower back that moves several centimetres per hour. Stool examination using a concentration technique reveals the presence of rhabditiform larvae. What is the drug of choice for this patient's condition?",
+      "options": [
+        "Ivermectin",
+        "Albendazole",
+        "Praziquantel",
+        "Pyrantel pamoate",
+        "Diethylcarbamazine"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 30-year-old male traveler presents with a 2-month history of spiking fevers, significant weight loss, and fatigue. Physical examination reveals massive splenomegaly and hepatomegaly, along with distinct hyperpigmentation of the skin. Laboratory studies confirm pancytopenia. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Granulomatous amebic encephalitis",
+        "Malaria",
+        "Toxoplasmosis",
+        "Cutaneous gnathostomiasis",
+        "Visceral leishmaniasis"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 40-year-old patient presents with a 3-day history of bloody, mucoid diarrhea, lower abdominal pain, and tenesmus. Stool examination reveals motile trophozoites. Which of the following features specifically identifies the pathogen as invasive *Entamoeba histolytica*?",
+      "options": [
+        "Presence of an eccentric karyosome",
+        "Blunt, dome-shaped pseudopods",
+        "Presence of ingested erythrocytes",
+        "Cysts containing eight nuclei",
+        "Trophozoites with a kidney-shaped macronucleus"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 32-year-old male presents to the emergency department with a 3-day history of a severe, \"pounding\" headache, nausea, and a stiff neck. He reports that he recently consumed a local delicacy featuring raw golden apple snails. Laboratory studies show a peripheral blood eosinophil count of 22%. A cerebrospinal fluid analysis reveals 550 WBCs/mm^3 with 35% eosinophils and elevated protein levels. Brain MRI demonstrates multiple inflammatory foci within the parenchyma. Which of the following is the most appropriate management strategy for this patient?",
+      "options": [
+        "Intravenous amphotericin B",
+        "Oral corticosteroid therapy and therapeutic lumbar puncture",
+        "Immediate surgical drainage of ring-enhancing lesions",
+        "Administration of sodium stibogluconate",
+        "Oral ivermectin therapy"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 45-year-old patient with a history of renal transplantation presents with a slow-onset headache and focal neurological deficits. Brain MRI reveals multiple space-occupying lesions with ring enhancement. A brain biopsy is performed. Which of the following microscopic findings in the brain tissue would be most compatible with the radiology findings?",
+      "options": [
+        "Rapidly moving amebae with semispherical pseudopods",
+        "Presence of both trophozoites and thick-walled, polygonal cysts",
+        "Migratory larvae with head bulb with 4 rows of spines",
+        "Young adult worms with a characteristic \"barber-pole\" appearance",
+        "Crescent-shaped tachyzoites and bradyzoite-containing cysts"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 42-year-old male presents with recurrent fever and chills. He reports that he was successfully treated for a malaria infection eighteen months ago after a trip to Southeast Asia. His current symptoms are identical to his previous illness, and a reactivation of dormant liver stages is suspected. Which of the following species pairs is most likely responsible for this clinical presentation?",
+      "options": [
+        "*Plasmodium falciparum* and *Plasmodium malariae*",
+        "*Plasmodium vivax* and *Plasmodium ovale*",
+        "*Plasmodium ovale* and *Plasmodium knowlesi*",
+        "*Plasmodium malariae* and *Plasmodium knowlesi*",
+        "*Plasmodium falciparum* and *Plasmodium vivax*"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A thick blood film is prepared from a patient exhibiting significant lymphedema of the right leg. Microscopic examination reveals sheathed microfilariae characterized by a long cephalic space (2:1 ratio) and overlapping nuclei in the body. Which parasite is the most likely cause of these findings?",
+      "options": [
+        "*Wuchereria bancrofti*",
+        "*Brugia malayi*",
+        "*Loa loa*",
+        "*Onchocerca volvulus*",
+        "*Trichinella spiralis*"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "During a blood meal, an infected *Anopheles* mosquito introduces a specific developmental stage of *Wuchereria bancrofti* into the skin of a human host. Which of the following represents the infective stage of this parasite?",
+      "options": [
+        "Microfilaria",
+        "First-stage larva (L1)",
+        "Second-stage larva (L2)",
+        "Third-stage larva (L3)",
+        "Adult worm"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "During the transmission cycle of malaria, a female *Anopheles* mosquito bites a human host and introduces a specific developmental stage of the parasite into the bloodstream from its salivary glands. Which of the following represents this infective stage for humans?",
+      "options": [
+        "Merozoite",
+        "Sporozoite",
+        "Trophozoite",
+        "Gametocyte",
+        "Hypnozoite"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

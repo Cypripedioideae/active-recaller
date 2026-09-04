@@ -1,0 +1,218 @@
+{
+  "id": "general-bacteriology-2",
+  "title": "General Bacteriology 2",
+  "topic": "General Bacteriology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 68-year-old patient presents with symptoms of endocarditis following a recent gastrointestinal procedure. Laboratory cultures grow catalase-negative, Gram-positive cocci in pairs and short chains. The isolate demonstrates a positive result on a bile-esculin test and grows in a 6.5% NaCl salt tolerance test. Which identification is most consistent with these findings?",
+      "options": [
+        "*Streptococcus pneumoniae*",
+        "*Streptococcus agalactiae*",
+        "*Enterococcus faecalis*",
+        "*Streptococcus gallolyticus*",
+        "*Staphylococcus aureus*"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A group of individuals develops food intoxication after a shared meal. The laboratory isolates a large, spore-forming Gram-positive bacillus that is motility positive and catalase positive. Which characteristic is associated with the toxins produced by this pathogen?",
+      "options": [
+        "Destruction of intercellular connections in the epidermis",
+        "Activation of T-cells via MHC Class II binding",
+        "Triggering of vascular damage via Lipooligosaccharide (LOS)",
+        "Production of both heat-labile and heat-stable enterotoxins",
+        "Inhibition of protein synthesis via EF-2 inactivation"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A patient develops spastic paralysis and neck rigidity following a deep puncture wound. The causative agent is identified as a strict anaerobic, Gram-positive large bacillus that produces highly tolerant endospores. What is the primary cellular target of the major toxin produced by this organism?",
+      "options": [
+        "Presynaptic inhibitory neurons",
+        "Ciliated respiratory epithelium",
+        "Intestinal enterocytes",
+        "Glomerular basement membrane",
+        "Cholinergic motor neurons"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient being treated with clindamycin for a skin infection develops severe diarrhea and is diagnosed with pseudomembranous colitis. The laboratory confirms the presence of a Gram-positive large bacillus. Which virulence factor is primarily responsible for the tissue damage in this condition?",
+      "options": [
+        "Lipooligosaccharide (LOS)",
+        "Sialic acid capsule",
+        "Toxin A and Toxin B",
+        "Exfoliative toxin",
+        "Alpha toxin"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A child presents with a high fever and a rapidly progressing skin rash characterized by vascular damage. Laboratory tests confirm a systemic infection with *Neisseria meningitidis*. Which specific bacterial component is responsible for triggering the sepsis and vascular damage?",
+      "options": [
+        "Mycolic acid",
+        "Lipooligosaccharide (LOS)",
+        "Polysaccharide capsule",
+        "M protein",
+        "Endospores"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 24-year-old patient presents with symptoms of pelvic inflammatory disease (PID). Laboratory results confirm an infection with *Neisseria gonorrhoeae*. How does this pathogen differ structurally from *Neisseria meningitidis*?",
+      "options": [
+        "It is a Gram-positive kidney-shaped diplococcus",
+        "It lacks a polysaccharide capsule",
+        "It utilizes endoflagella for movement",
+        "It possesses a thick hyaluronic acid capsule",
+        "It produces colorful pigments like pyocyanin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A laboratory receives a stool specimen from a patient with severe watery diarrhea. Culture on MacConkey agar yields pink-purple colonies. Further biochemical testing reveals that the isolate is a Gram-negative rod that is oxidase-negative and capable of glucose fermentation. Which of the following is the most likely identification of this organism?",
+      "options": [
+        "*Vibrio cholerae*",
+        "*Pseudomonas aeruginosa*",
+        "*Salmonella enterica*",
+        "*Shigella sonnei*",
+        "*Escherichia coli*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with Guillain-Barr\u00e9 syndrome following a gastrointestinal infection with *Campylobacter jejuni*. Which structure is associated with the development of this complication?",
+      "options": [
+        "P1 adhesin",
+        "Ganglioside (Sialic acid structure)",
+        "Poly-D-glutamic acid capsule",
+        "Toxin-coregulated pili (TCP)",
+        "Lipooligosaccharide (LOS)"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with an infection involving *Fusobacterium nucleatum*. Which of the following is a characteristic of this bacterium??",
+      "options": [
+        "Facultative anaerobic Gram-negative curved rods",
+        "Obligate aerobic Gram-negative bacilli",
+        "Aerobic Gram-negative coccobacilli",
+        "Anaerobic Gram-negative bacilli",
+        "Microaerophilic Gram-negative bacilli"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient presents with a generalized maculopapular rash on the trunk and extremities during the secondary phase of a syphilis infection. What virulence factor is the primary means for *Treponema pallidum* to evade the host immune system?",
+      "options": [
+        "Lack of surface antigens",
+        "Presence of a thick polysaccharide capsule",
+        "Production of a metal ion-sequestering system",
+        "Ability to form biofilms on mucosal surfaces",
+        "Secretion of a potent AB-type intracellular toxin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A 30-year-old patient presents with a systemic febrile illness. The causative agent is identified as *Leptospira interrogans*. Which mechanism describes the primary route of transmission for this pathogen?",
+      "options": [
+        "Penetration of skin abrasions by water contaminated with rodent urine",
+        "Sexual contact leading to mucosal colonization",
+        "Ingestion of undercooked poultry products",
+        "Inhalation of large respiratory droplets",
+        "Direct bite from an infected Ixodes tick"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A college student is diagnosed with atypical \"walking\" pneumonia caused by *Mycoplasma pneumoniae*. Which structural characteristic of this pathogen explains why it is naturally resistant to treatment with \u03b2-lactam antibiotics?",
+      "options": [
+        "Use of a Type III secretion system (T3SS)",
+        "Inclusion of sterols within the cell membrane",
+        "Presence of high G+C content in the DNA",
+        "Production of a thick polysaccharide capsule",
+        "Lack of a peptidoglycan cell wall"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "Following an outbreak of severe pneumonia at a convention, laboratory staff attempt to isolate the causative agent from respiratory secretions. The organism is a fastidious, pleomorphic Gram-negative rod that replicates intracellularly. Which specialized medium is required for its growth?",
+      "options": [
+        "Buffered charcoal yeast extract (BCYE) agar",
+        "Tellurite blood agar",
+        "Bordet-Gengou agar",
+        "TCBS agar",
+        "Thayer-Martin agar"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "A patient presents with a chronic infection of the jaw area characterized by draining sinus tracts and the presence of \"sulfur granules.\" Microscopic examination reveals Gram-positive branching filaments that are modified-acid fast (mAFB) negative. Which organism is the most likely causative agent?",
+      "options": [
+        "*Rhodococcus equi*",
+        "*Nocardia asteroides*",
+        "*Cutibacterium acnes*",
+        "*Mycobacterium tuberculosis*",
+        "*Actinomyces israelii*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "A patient with a history of chronic gastritis is found to be infected with *Helicobacter pylori*. What is the biochemical role of the urease produced by this pathogen in the context of its pathogenesis?",
+      "options": [
+        "Inhibition of protein synthesis via EF-2 inactivation",
+        "Degradation of desmosomes in the gastric epithelium",
+        "Cleavage of IgA antibodies on mucosal surfaces",
+        "Breakdown of urea into ammonia to neutralize gastric acid",
+        "Sequestration of metal ions via siderophore production"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "id": "comprehensive-cvs-review-15",
+  "title": "Cardiovascular Comprehensive Set 2: Special Circulations (MCQ)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 35-year-old male is participating in a cognitive task while undergoing a PET scan. The scan reveals a significant increase in local blood flow to the parietal cortex. Which of the following metabolic factors is the most important primary mediator of this regional vasodilation in the brain?",
+      "options": [
+        "Carbon dioxide (CO_2)",
+        "Oxygen (O_2)",
+        "Adenosine",
+        "Nitric oxide",
+        "Atrial natriuretic peptide"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A researcher is studying the phenomenon where blood flow to an organ remains constant despite fluctuations in mean arterial pressure from 80 to 160 mmHg. Which group of organs is most likely to exhibit this intrinsic regulatory property known as autoregulation?",
+      "options": [
+        "Heart, brain, and kidney",
+        "Skin, skeletal muscle, and lungs",
+        "Liver, gastrointestinal tract, and spleen",
+        "Skin, heart, and splanchnic organs",
+        "Lung, kidney, and skeletal muscle"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "During the early phase of ventricular systole, a clinician notes a sharp, transient decrease in coronary blood flow. What is the most accurate mechanical analysis of this phenomenon?",
+      "options": [
+        "Opening of the aortic valve causes a sudden pressure drop at the coronary ostia.",
+        "High intra-atrial pressure inhibits coronary venous drainage.",
+        "A surge in sympathetic activity produces \u03b1_1 mediated vasoconstriction.",
+        "The contracting myocardium mechanically compresses the intramyocardial blood vessels.",
+        "Rapid ejection of the stroke volume creates a suction effect (Bernoulli principle)."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient with severe chronic obstructive pulmonary disease (COPD) has regions of the lung that are poorly ventilated. Which statement correctly analyzes the unique local vascular response to hypoxia in these specific lung regions?",
+      "options": [
+        "Local hypoxia causes vasodilation to increase oxygen delivery to the tissues.",
+        "Local hypoxia has no effect on pulmonary resistance.",
+        "Local hypoxia inhibits the Na^+/K^+ pump, leading to edema.",
+        "Local hypoxia stimulates the release of histamine to increase capillary permeability.",
+        "Local hypoxia produces vasoconstriction to redirect blood toward better-ventilated alveoli."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "During a 5K race, a medical student's skeletal muscles require a massive increase in blood flow. Despite a significant increase in sympathetic outflow directed by the \"central command,\" why does the total peripheral resistance (TPR) actually decrease?",
+      "options": [
+        "Sympathetic activity is selectively inhibited in all skeletal muscle groups.",
+        "Local vasodilator metabolites accumulate and override the sympathetic vasoconstrictor effect.",
+        "The baroreceptor reflex set point is lowered to produce vasodilation.",
+        "Parasympathetic cholinergic fibers produce widespread vasodilation.",
+        "Epinephrine activates \u03b1_2 receptors on the venous side."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 60-year-old male with a high-grade intracranial tumor develops a sudden, extreme elevation in arterial blood pressure (210/120 mmHg) accompanied by a heart rate of 45 beats/min. Which stimulus is responsible for this integrated cardiovascular reaction?",
+      "options": [
+        "Cerebral ischemia resulting in high intracranial P_(CO2).",
+        "Activation of the Bainbridge reflex due to volume expansion.",
+        "Peripheral chemoreceptor response to decreased Pa_(O2).",
+        "Inhibition of the nucleus tractus solitarius by mechanical stretch.",
+        "Massive release of atrial natriuretic peptide (ANP)."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A woman sustains a minor burn on her forearm, and the area quickly becomes red and swollen. Which substance, released in response to this tissue trauma, is responsible for producing local edema by simultaneously dilating arterioles and constricting venules?",
+      "options": [
+        "Bradykinin",
+        "Nitric oxide",
+        "Serotonin",
+        "Angiotensin II",
+        "Histamine"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "According to the myogenic hypothesis, how do arterioles maintain a constant blood flow in the face of an acute increase in perfusion pressure?",
+      "options": [
+        "By producing vasodilator metabolites that wash out the excess pressure.",
+        "By decreasing the wall thickness to allow for more compliance.",
+        "By contracting in response to the stretch, thereby increasing resistance.",
+        "By activating parasympathetic fibers to relax the vascular smooth muscle.",
+        "By shifting blood from the stressed to the unstressed volume."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "During the \"fight or flight\" response, catecholamines are released from the adrenal medulla. What is the specific mechanism by which low doses of epinephrine produce vasodilation in skeletal muscle?",
+      "options": [
+        "Activation of \u03b1_1 adrenergic receptors.",
+        "Activation of \u03b2_1 adrenergic receptors.",
+        "Activation of \u03b2_2 adrenergic receptors.",
+        "Activation of muscarinic M_3 receptors.",
+        "Inhibition of nitric oxide synthase."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A researcher occludes the femoral artery of an experimental animal for 5 minutes and then releases the clamp. The subsequent blood flow is 200% of the baseline level for several minutes. How should this physiological response be classified?",
+      "options": [
+        "Active hyperemia.",
+        "Autoregulation.",
+        "Myogenic contraction.",
+        "Sympathetic escape.",
+        "Reactive hyperemia."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A marathon runner at the 20-mile mark has a very high rate of blood flow to his working legs. Which set of metabolic factors is most likely responsible for this sustained \"active hyperemia\"?",
+      "options": [
+        "Increased Lactate, increased Adenosine, and increased K^+.",
+        "Decreased P_(CO2), decreased H^+, and increased O_2.",
+        "Decreased Temperature, increased pH, and decreased Lactate.",
+        "Increased Glucose, increased Insulin, and increased Na^+.",
+        "Increased Histamine, increased Bradykinin, and increased Serotonin."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "In the context of renal physiology, what is the role of tubuloglomerular feedback in the autoregulation of blood flow?",
+      "options": [
+        "The afferent arteriole relaxes when it senses an increase in transmural pressure.",
+        "The macula densa senses an increased delivered load and causes afferent arteriolar constriction.",
+        "High pressure in Bowman's space triggers the release of renin to dilate the efferent arteriole.",
+        "Parasympathetic nerves inhibit the Na^+/K^+ pump to reduce resistance.",
+        "Angiotensin II produces a global vasodilation to increase the glomerular filtration rate."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A subject is placed in a room where the temperature is 40\u00b0C (104\u00b0F). Which set of autonomic adjustments is coordinated by the anterior hypothalamus to dissipate heat?",
+      "options": [
+        "Increased sympathetic tone to skin blood vessels and shivering.",
+        "Increased parasympathetic tone to skin blood vessels and piloerection.",
+        "Activation of \u03b1_1 receptors in the skin and decreased metabolic rate.",
+        "Decreased sympathetic tone to skin blood vessels and increased sweating.",
+        "Release of vasopressin to increase blood volume and cool the core."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "What is the physiological purpose of the unique \"Hypoxic Pulmonary Vasoconstriction\" (HPV)?",
+      "options": [
+        "To increase blood flow to hypoxic tissues to repay an oxygen debt.",
+        "To reduce the workload of the right ventricle during periods of lung disease.",
+        "To increase the total O2-carrying capacity of the blood.",
+        "To stimulate the production of erythropoietin in the lung parenchyma.",
+        "To maintain optimal ventilation/perfusion (V/Q) matching by shunting blood away from poorly ventilated alveoli."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "An elderly patient has cold, pale skin and a rapid heart rate following a moderate hemorrhage. Which receptor is responsible for the cutaneous vasoconstriction observed in this patient?",
+      "options": [
+        "Beta-1 adrenergic.",
+        "Beta-2 adrenergic.",
+        "Muscarinic M2.",
+        "Muscarinic M3.",
+        "Alpha-1 adrenergic."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "A 55-year-old male with myocardial hypertrophy requires an increase in coronary blood flow during stress. According to the metabolic hypothesis, which vasodilator substance is the most important controller of coronary blood flow?",
+      "options": [
+        "Adenosine",
+        "Potassium ions",
+        "Carbon dioxide",
+        "Bradykinin",
+        "Prostaglandins"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "A clinician administers a low-dose infusion of dopamine to a patient in cardiogenic shock. What is the analytical expectation for renal blood flow?",
+      "options": [
+        "It will decrease because dopamine is a potent vasoconstrictor at all doses.",
+        "It will increase because low-dose dopamine dilates renal arterioles.",
+        "It will remain constant because of the overriding effect of autoregulation.",
+        "It will decrease due to the stimulation of alpha-1 receptors in the kidney.",
+        "It will decrease only if the patient is also given a loop diuretic."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "If the total peripheral resistance (TPR) increases significantly due to systemic vasoconstriction, how is the vascular function (venous return) curve affected?",
+      "options": [
+        "The curve shifts to the right in a parallel fashion.",
+        "The curve shifts to the left in a parallel fashion.",
+        "The curve rotates counterclockwise.",
+        "The curve rotates clockwise.",
+        "The curve becomes a horizontal line at the level of mean systemic pressure."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with renovascular hypertension. In this condition, which enzyme secreted by the juxtaglomerular cells is the initiating factor for the rise in blood pressure?",
+      "options": [
+        "Renin.",
+        "Carbonic anhydrase.",
+        "Nitric oxide synthase.",
+        "1\u03b1-hydroxylase.",
+        "Angiotensin-converting enzyme (ACE)."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "A clinician notes that many large vasoactive substances in the systemic blood have virtually no effect on cerebral blood flow. What is the correct analytical explanation?",
+      "options": [
+        "Cerebral vessels lack all known autonomic and metabolic receptors.",
+        "The brain utilizes only glucose as a vasodilator.",
+        "High intracranial pressure pushes the substances out of the cranium.",
+        "Fast linear velocity of blood flow prevents substances from binding.",
+        "The blood-brain barrier is impermeable to many large or polar substances."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

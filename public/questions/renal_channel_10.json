@@ -1,0 +1,78 @@
+{
+  "id": "nephron-function-set-10",
+  "title": "Renal Channels 10",
+  "topic": "Nephron Function Set",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "Contrast the renal response to metabolic alkalosis caused by excessive NaHCO3 ingestion versus that caused by severe protracted vomiting, focusing on the role of effective circulating volume in the \"maintenance\" phase of the alkalosis.",
+      "modelAnswer": "In NaHCO3  ingestion, the ECF volume is normal or expanded, allowing the kidney to rapidly excrete the excess HCO 3 -  as the filtered load exceeds the proximal threshold . In contrast, severe vomiting causes volume contraction, which activates the RAAS; high levels of Angiotensin II and aldosterone stimulate proximal NHE3 and distal H-ATPase respectively . This logic dictates that the kidney prioritizes volume defense over pH defense, reabsorbing Na + and HCO 3 -  to sustain the alkalosis (maintenance phase), often resulting in paradoxically acidic urine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Analyze why a patient with chronic primary hyperaldosteronism (Conn syndrome) develops significant hypokalemia, while a patient with secondary hyperaldosteronism due to prerenal azotemia often maintains a near-normal serum potassium level.",
+      "modelAnswer": "In Conn syndrome, aldosterone is autonomously high while distal delivery of Na + and water is preserved or increased (due to \"aldosterone escape\" inhibiting proximal reabsorption); this provides both the hormonal stimulus and the high tubular flow required for massive K + secretion . In prerenal azotemia, although aldosterone is high, the low effective circulating volume causes a profound decrease in GFR and increased proximal reabsorption, leading to low distal delivery of Na + and water; this \"flow-limited\" state restricts K + secretion despite the high aldosterone, preventing severe hypokalemia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "Predict the impact of initiating a high-dose thiazide diuretic on the serum levels of calcium and lithium in a patient being treated for bipolar disorder and recurrent calcium oxalate nephrolithiasis.",
+      "modelAnswer": "Thiazides inhibit the NCC in the early distal tubule, causing a mild volume contraction that increases proximal Na + and water reabsorption . Because lithium and calcium reabsorption in the proximal tubule are coupled to sodium, this results in increased lithium reabsorption (increasing risk of toxicity) and increased proximal calcium reabsorption via solvent drag/diffusion . Additionally, the decreased intracellular [Na + ] in the DCT increases the driving force for apical TRPV5 calcium entry, leading to hypocalciuria (stone prevention) and potentially elevated serum levels of both substances.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "Evaluate the physiological mechanism by which an acute transition to a strictly vegan, low-protein diet would impair the kidney's maximum concentrating ability during a fluid deprivation test.",
+      "modelAnswer": "A low-protein diet reduces the hepatic production of urea, the primary end-product of protein catabolism . Urea normally accounts for ~40-50% of the inner medullary osmotic gradient; in the presence of AVP, urea is recycled from the IMCD into the medullary interstitium via UT-A transporters . Reduced interstitial urea lowers the total medullary tonicity, which decreases the osmotic driving force for water reabsorption from the collecting ducts, resulting in an inability to produce maximally concentrated urine regardless of AVP levels.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "Analyze the sequence of events that allows the kidney to \"escape\" from the sodium-retaining effects of chronic aldosterone excess (aldosterone escape) and explain the role of peritubular Starling forces in this compensation.",
+      "modelAnswer": "Initial aldosterone-mediated Na + retention expands the ECF volume, which increases arterial blood pressure . This hypertension triggers pressure natriuresis by increasing peritubular capillary hydrostatic pressure and decreasing oncotic pressure (due to ANP-mediated changes and filtration fraction shifts); these altered Starling forces increase the passive backleak of Na + through the \"leaky\" tight junctions of the proximal tubule . This proximal natriuresis eventually matches the distal reabsorptive rate, establishing a new steady state where Na + excretion equals intake, albeit at the expense of persistent hypertension.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "In a patient with early diabetic nephropathy exhibiting glomerular hyperfiltration, analyze how the administration of an SGLT2 inhibitor (gliflozin) provides long-term nephroprotection through the tubuloglomerular feedback (TGF) mechanism.",
+      "modelAnswer": "Hyperglycemia causes excessive glucose and Na + reabsorption in the proximal tubule via SGLT2, which decreases NaCl delivery to the macula densa . The macula densa misinterprets this as low GFR and triggers afferent arteriolar vasodilation, leading to hyperfiltration and glomerular damage . By inhibiting SGLT2, the drug increases the distal delivery of NaCl to the macula densa; this activates the TGF mechanism to cause afferent arteriolar constriction, thereby normalizing GFR and reducing the intraglomerular pressure that drives diabetic damage.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "Predict the change in the renal clearance of a weak acid drug (e.g., salicylate) and a weak base drug (e.g., amphetamine) when a patient develops severe, untreated Type 1 (distal) renal tubular acidosis (RTA).",
+      "modelAnswer": "In Type 1 RTA, the distal nephron fails to secrete H + , resulting in a persistently alkaline urine pH . For a weak acid (salicylate), the alkaline pH shifts the equilibrium toward the ionized form (A - ), which is lipid-insoluble and becomes trapped in the lumen, thereby increasing its clearance . Conversely, for a weak base (amphetamine), the alkaline pH shifts the equilibrium toward the non-ionized form B, which is lipid-soluble and can easily diffuse back into the blood, thereby decreasing its clearance.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "Contrast the renal mechanism for handling metabolic acid during the first 24 hours of an acute acid load versus a state of chronic metabolic acidosis (e.g., after 5 days).",
+      "modelAnswer": "During the first 24 hours, the kidney relies on the titration of existing urinary buffers, primarily filtered phosphate (HPO 4 2-  ), and a modest increase in H + secretion by intercalated cells . However, in chronic metabolic acidosis, the proximal tubule undergoes an adaptive induction of ammoniagenic enzymes (e.g., glutaminase and PEPCK) . This allows the kidney to significantly increase NH 3  synthesis from glutamine, providing a vastly expanded supply of buffer for diffusion trapping as NH 4 +  in the collecting duct, which is the only way the kidney can excrete large daily acid loads.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "Analyze why the \"sluggish\" blood flow in the vasa recta is critical for the maintenance of the corticomedullary osmotic gradient, and predict the effect of vasa recta vasodilation on maximum urine osmolality.",
+      "modelAnswer": "The vasa recta act as countercurrent exchangers; their low flow velocity allows time for solutes to diffuse from the ascending to the descending limb (and water vice-versa), ensuring that solutes are trapped in the medulla . Vasa recta vasodilation (e.g., due to hypertension or PGE2) increases blood flow velocity, which washes out the accumulated NaCl and urea from the medullary interstitium . This reduces the interstitial hypertonicity, thereby decreasing the driving force for water reabsorption in the collecting ducts and resulting in polyuria and dilute urine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "Evaluate how a defect in the receptor-mediated endocytosis of the megalin/cubilin complex in the proximal tubule impacts systemic calcium balance, identifying the specific hormonal intermediary involved.",
+      "modelAnswer": "The megalin/cubilin complex is responsible for the reabsorption of filtered Vitamin D-binding protein (DBP) and its associated Vitamin D . A defect in this complex (or general proximal dysfunction) causes the urinary loss of filtered Vitamin D, preventing its conversion in the proximal tubule to the active form, 1,25-(OH)2-D, via 1\u03b1-hydroxylase . The resulting Vitamin D deficiency impairs intestinal calcium absorption, leading to hypocalcemia and secondary hyperparathyroidism, which stimulates bone resorption and can cause \"renal rickets\" or osteomalacia.",
+      "explanation": "-"
+    }
+  ]
+}

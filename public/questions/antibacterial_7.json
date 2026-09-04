@@ -1,0 +1,148 @@
+{
+  "id": "antibacterial-agents-7",
+  "title": "Antibacterial Agents 7",
+  "topic": "Antibacterial Agents",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which first-generation cephalosporin, commonly used as surgical prophylaxis against *Staphylococcus aureus* wound infections, works by inhibiting cell wall synthesis through the prevention of peptidoglycan cross-linking?",
+      "options": [
+        "Cefazolin",
+        "Ceftazidime",
+        "Ceftriaxone",
+        "Cefuroxime",
+        "Cefepime"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "What is the molecular basis for penicillin G resistance in most *Staphylococcus aureus* isolates?",
+      "options": [
+        "Acquisition of the mecA gene encoding an altered PBP2a",
+        "Overproduction of p-aminobenzoic acid (PABA)",
+        "Mutation in the rpoB gene encoding RNA polymerase",
+        "Synthesis of a dipeptide with reduced affinity for glycopeptides",
+        "Production of \u03b2-lactamase enzymes that cleave the drug"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Which bacteriostatic antibiotic inhibits peptidyl transferase at the 50S subunit but is restricted in use due to the risk of aplastic anemia and Gray Baby Syndrome?",
+      "options": [
+        "Clindamycin",
+        "Doxycycline",
+        "Chloramphenicol",
+        "Linezolid",
+        "Azithromycin"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Which glycopeptide antibiotic binds to the D-Ala-D-Ala portion of cell wall precursors and is associated with \"red man syndrome\" during intravenous infusion?",
+      "options": [
+        "Azithromycin",
+        "Gentamicin",
+        "Amoxicillin",
+        "Vancomycin",
+        "Daptomycin"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A microbiology laboratory report confirms the isolation of *Bacteroides fragilis* from a patient's intra-abdominal abscess. The attending physician notes that aminoglycosides, such as gentamicin, are intrinsically ineffective against this organism. Which of the following best describes the mechanism of resistance in this case?",
+      "options": [
+        "Production of aminoglycoside-modifying enzymes",
+        "Methylation of the 16S rRNA ribosomal subunit",
+        "Active efflux of the drug via energy-dependent pumps",
+        "Alteration of the 30S ribosomal binding site through chromosomal mutation",
+        "Lack of an oxygen-dependent transport system for drug uptake"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 30-year-old male presents with an atypical pneumonia caused by *Mycoplasma pneumoniae*, he is then started on the treatment. Later on during the treatment, he is brought to the emergency department after a sudden episode of palpitations and lightheadedness. An electrocardiogram (ECG) demonstrates a prolonged QTc interval. Which of the following is the specific molecular target of the medication responsible for this patient's ECG findings?",
+      "options": [
+        "30S ribosomal subunit",
+        "50S ribosomal subunit",
+        "DNA-dependent RNA polymerase",
+        "DNA gyrase",
+        "Peptidyltransferase"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 52-year-old male is hospitalized for a persistent bloodstream infection following an orthopedic procedure. Blood cultures grow *Staphylococcus aureus* that is resistant to methicillin and possesses a high minimum inhibitory concentration for vancomycin. The patient is initiated on a cyclic lipopeptide agent that is notably inactivated by pulmonary surfactant. Which of the following best describes the molecular mechanism of this drug?",
+      "options": [
+        "Binding to the D-Ala-D-Ala terminus of peptidoglycan precursors",
+        "Insertion into the cytoplasmic membrane to create transmembrane channels",
+        "Binding to the 23S rRNA of the 50S ribosomal subunit to block translocation",
+        "Binding to Penicillin-Binding Protein 2a (PBP2a) to inhibit cross-linking",
+        "Prevention of the formation of the 70S ribosomal initiation complex"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 52-year-old male undergoing treatment for pulmonary tuberculosis presents to the clinic with concerns of decreased vision. Physical examination reveals impaired visual acuity and an inability to distinguish between red and green colours. Which of the following describes the molecular mechanism of action of the drug most likely responsible for these symptoms?",
+      "options": [
+        "Inhibition of mycolic acid synthesis",
+        "Inhibition of DNA-dependent RNA polymerase",
+        "Inhibition of arabinosyltransferase",
+        "Interference with the 30S ribosomal subunit",
+        "Disruption of cell membrane function"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 72-year-old male with a history of chronic obstructive pulmonary disease (COPD) presents with an acute respiratory infection. He reports taking a leftover course of amoxicillin for three days prior to his visit with no clinical improvement. A Gram stain of his sputum reveals numerous Gram-negative diplococci with flattened adjacent sides. Which of the following is the most likely mechanism of resistance responsible for the failure of amoxicillin in this patient?",
+      "options": [
+        "Production of \u03b2-lactamase enzymes",
+        "Alteration of the penicillin-binding proteins",
+        "Lack of a peptidoglycan cell wall",
+        "Active efflux of the drug via membrane pumps",
+        "Structural modification of the 30S ribosomal subunit"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 62-year-old male develops an infection by *Pseudomonas aeruginosa* during his hospitalization. He receives an intravenous antibiotic for his treatment. Later on, the patient develops spontaneous bleeding from his gums. Laboratory evaluation reveals a significantly prolonged prothrombin time (PT), and the clinician suspects interference with vitamin K-dependent coagulation factors. Which of the following antibiotic was most likely administered to this patient?",
+      "options": [
+        "Cefoperazone",
+        "Cefepime",
+        "Ceftriaxone",
+        "Cefazolin",
+        "Cefuroxime"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    }
+  ]
+}

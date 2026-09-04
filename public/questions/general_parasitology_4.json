@@ -1,0 +1,148 @@
+{
+  "id": "general-parasitology-4",
+  "title": "General Parasitology 4",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 50-year-old farmer presents with persistent bloody diarrhea and abdominal pain; stool microscopy reveals large, ovoid trophozoites covered in cilia. Which morphological feature is most diagnostic for the causative ciliate?",
+      "options": [
+        "A small central karyosome",
+        "A large, kidney-shaped macronucleus",
+        "Presence of ingested erythrocytes",
+        "Multiple pairs of flagella",
+        "A terminal spine on the cyst wall"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A parasite commonly acquired through the consumption of raw apple snails is identified on microscopy as a third-stage larva measuring approximately 0.5 mm in length, with two chitinous rods at its anterior end. Which of the following conditions is most likely to result from infection with this organism?",
+      "options": [
+        "Cutaneous larva migrans",
+        "Rectal prolapse",
+        "Microcytic anemia",
+        "Eosinophilic meningitis",
+        "Intestinal obstruction"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 7-year-old child presents with a 4-month history of abdominal pain, straining during defecation, and persistent diarrhea containing mucus and streaks of blood. Physical examination reveals significant pallor and fatigue. A colonoscopy is performed, revealing numerous thin nematodes with long, whip-like anterior ends deeply embedded in the inflamed, hemorrhagic mucosa of the large intestine. Which of the following clinical manifestations is most likely to occur in this patient next?",
+      "options": [
+        "Rectal prolapse",
+        "Periorbital edema",
+        "Bladder carcinoma",
+        "Anal pruritus",
+        "Intestinal obstruction"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 35-year-old patient with AIDS presents with chronic, voluminous watery diarrhea and significant weight loss. Stool examination reveals acid-fast oocysts, confirming a diagnosis of cryptosporidiosis. The physician explains that the clinical severity in this patient is exacerbated by an internal autoinfection cycle that increases the parasite burden entirely within the host's gastrointestinal tract. Which of the following mechanisms is directly responsible for this process of internal autoinfection?",
+      "options": [
+        "Direct penetration of the colonic basement membrane by replicating trophozoites",
+        "Intracellular maturation of type II meronts into extra-epithelial macrogametes",
+        "Premature rupture of thick-walled oocysts within the gastric antrum",
+        "Spontaneous transformation of sporozoites into motile environmental spores",
+        "Rupture of thin-walled oocysts within the intestinal lumen"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "During a routine stool examination of an asymptomatic food handler, spherical cysts measuring 14 \u00b5m in diameter are identified. The presence of four nuclei within these cysts is diagnostic for which organism?",
+      "options": [
+        "*Cystoisospora belli*",
+        "*Giardia lamblia*",
+        "*Cryptosporidium hominis*",
+        "*Entamoeba histolytica*",
+        "*Balantidium coli*"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 35-year-old man presents with fever, hemoptysis, and dyspnea after frequently consuming raw freshwater crabs. Which infective stage is responsible for this condition?",
+      "options": [
+        "Embryonated egg",
+        "Filariform larvae",
+        "Metacercariae",
+        "Plerocercoid larvae",
+        "Cercariae"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 36-year-old woman originally from Vietnam presents with recurrent right upper quadrant pain, fever, and jaundice. Imaging demonstrates biliary dilation with multiple stones and filing defects in the common and left hepatic ducts. A partial hepatectomy is performed, and microscopic examination of the biliary calculous material reveals collections of parasite eggs and a degenerated, fragmented nematode. Blood cultures concurrently grow mucoid, gram-negative bacilli. Which combination of pathogens is most likely associated with this clinical presentation?",
+      "options": [
+        "*Strongyloides stercoralis* and *Bacteroides fragilis*",
+        "*Ascaris lumbricoides* and *Klebsiella* spp.",
+        "*Opisthorchis viverrini* and *Shigella sonnei*",
+        "*Entamoeba histolytica* and *Escherichia coli*",
+        "*Fasciola hepatica* and *Salmonella typhi*"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "During a routine stool examination, a technician identifies a protozoan cyst with an eccentric karyosome, coarse peripheral chromatin, and 8 nuclei. Which of the following correctly identifies this organism?",
+      "options": [
+        "*Entamoeba histolytica*",
+        "*Entamoeba coli*",
+        "*Dientamoeba fragilis*",
+        "*Entamoeba dispar*",
+        "*Endolimax nana*"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient in a region endemic for lymphatic filariasis presents with significant lymphedema of the scrotum and recurrent \"filarial fever.\" What is the most common diagnostic method for the laboratory diagnosis of this condition?",
+      "options": [
+        "Presence of rhabditiform larvae in the feces",
+        "Visualizing trophozoites in a skin biopsy",
+        "Identification of microfilariae in a thick blood film",
+        "Detection of adult worms in the stool",
+        "Microscopic examination of sputum for eggs"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 32-year-old patient presents with a painful, migratory swelling on the abdominal wall following the consumption of raw freshwater fish. Clinical investigation confirms an infection with *Gnathostoma spinigerum*. Considering the specific host-parasite relationship established when this organism infects a human, which characteristic best describes the progression of the parasite in this patient?",
+      "options": [
+        "The organism achieves sexual maturity and initiates egg production",
+        "The parasite undergoes metamorphosis and matures into an adult worm",
+        "The parasite undergoes asexual reproduction, increasing the total worm burden",
+        "The larvae migrate through tissues but fail to reach sexual maturity",
+        "The organism reaches its definitive habitat to complete its life cycle"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

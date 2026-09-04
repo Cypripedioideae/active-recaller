@@ -1,0 +1,183 @@
+{
+  "id": "comprehensive-neuro-review-10",
+  "title": "Comprehensive Neuro Set 1: Brain Stem, Cerebellum, Basal Ganglia (Short Answer)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What are the two major classifications of descending motor pathways based on whether they pass through the medullary pyramids?",
+      "modelAnswer": "Pyramidal tracts (corticospinal and corticobulbar) and extrapyramidal tracts (all others).",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Which specific descending tract is responsible for the execution of fine, discrete voluntary movements, particularly of the hands and fingers?",
+      "modelAnswer": "Corticospinal tract (specifically the lateral portion).",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Name the brain stem nucleus that gives rise to the rubrospinal tract and describe its primary effect on muscle groups.",
+      "modelAnswer": "The red nucleus; it produces excitation of flexors and inhibition of extensors.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Contrast the effects of the pontine reticulospinal tract and the medullary reticulospinal tract on the activity of extensor muscles.",
+      "modelAnswer": "The pontine tract is generally excitatory to extensors; the medullary tract is generally inhibitory to extensors.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Which extrapyramidal tract originates in the vestibular nuclei and causes powerful excitation of antigravity (extensor) muscles?",
+      "modelAnswer": "Lateral vestibulospinal tract.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Explain the physiological basis of \"decerebrate rigidity\" in terms of excitatory and inhibitory brain stem influences.",
+      "modelAnswer": "It is caused by a lesion that removes inhibition from higher centers, leaving the powerful excitatory effects of the pontine reticular formation and lateral vestibular nucleus on extensor muscles unopposed.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Identify the three functional divisions of the cerebellum and the specific aspect of movement each regulates.",
+      "modelAnswer": "Vestibulocerebellum (balance/eye movement); Spinocerebellum (synergy/coordination); Pontocerebellum (planning/initiation).",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "List the three histological layers of the cerebellar cortex from innermost to outermost.",
+      "modelAnswer": "Granular layer (inner), Purkinje cell layer (middle), and molecular layer (outer).",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Name the only output cells of the cerebellar cortex and identify their primary inhibitory neurotransmitter.",
+      "modelAnswer": "Purkinje cells; they release GABA.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Contrast \"climbing fibers\" and \"mossy fibers\" in terms of their origin and the type of electrical \"spikes\" they produce in Purkinje cells.",
+      "modelAnswer": "Climbing fibers originate in the inferior olive and produce complex spikes; mossy fibers originate in various brain stem/spinal centers and produce simple spikes (via granule cells).",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Define \"synergy\" within the context of cerebellar function.",
+      "modelAnswer": "The control of the rate, range, force, and direction of movement.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "List three classic clinical signs of a cerebellar lesion.",
+      "modelAnswer": "Ataxia (lack of coordination), dysmetria (overshooting/undershooting), and intention tremor.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "How does an \"intention tremor\" differ from a \"resting tremor\" in terms of the likely location of the neurological lesion?",
+      "modelAnswer": "Intention tremor suggests cerebellar disease; resting tremor suggests basal ganglia (substantia nigra) disease.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Name the four primary nuclei that constitute the basal ganglia.",
+      "modelAnswer": "Striatum (caudate and putamen), globus pallidus, subthalamic nuclei, and substantia nigra.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What is the fundamental role of the basal ganglia in the planning and execution of movement?",
+      "modelAnswer": "To modulate thalamic outflow to the motor cortex to plan and execute smooth, coordinated movements.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "In the basal ganglia circuitry, which pathway (direct or indirect) is overall excitatory to the motor cortex?",
+      "modelAnswer": "The direct pathway.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Describe the divergent effects of dopamine on the direct versus indirect pathways via its specific receptor subtypes (D1 and D2).",
+      "modelAnswer": "Dopamine excites the direct pathway (via D1 receptors) and inhibits the indirect pathway (via D2 receptors), meaning its overall effect is excitatory.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "What is the primary inhibitory neurotransmitter used by the efferent neurons of the striatum?",
+      "modelAnswer": "GABA.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Which specific nucleus of the basal ganglia is damaged in a patient presenting with wild, flinging movements known as hemiballismus?",
+      "modelAnswer": "Subthalamic nucleus.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Explain the neurochemical and cellular defect responsible for Huntington's disease.",
+      "modelAnswer": "A hereditary disorder involving the destruction of striatal cholinergic and GABAergic neurons, leading to a release of inhibition.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "What is the primary pathological finding in Parkinson's disease?",
+      "modelAnswer": "Degeneration of dopaminergic neurons in the pars compacta of the substantia nigra.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "Why is L-dopa, rather than dopamine, used as a pharmacological treatment for Parkinson's disease?",
+      "modelAnswer": "Because L-dopa can cross the blood-brain barrier, whereas dopamine cannot.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "Define \"dysdiadochokinesia\" and identify the organ system involved.",
+      "modelAnswer": "The inability to perform rapid, alternating movements; it is associated with cerebellar lesions.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "Where are the \"upper motoneurons\" located, and what is their relationship to the \"lower motoneurons\" in the spinal cord?",
+      "modelAnswer": "Upper motoneurons are in the motor cortex (and brainstem centers); they synapse on and activate the lower motoneurons in the anterior horn of the spinal cord.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Define the \"motor homunculus\" and identify which body parts have the largest cortical representation.",
+      "modelAnswer": "A somatotopic map of the body on the motor cortex; the fingers, hands, and face have the largest representation due to their role in complex movements.",
+      "explanation": "-"
+    }
+  ]
+}

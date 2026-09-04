@@ -1,0 +1,218 @@
+{
+  "id": "neuro-true-false-3",
+  "title": "Muscle Physiology 1",
+  "topic": "True-False Neuro",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "Skeletal muscle fibres are multinucleated cells formed by the fusion of many individual cells.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "The sarcomere is defined as the region between two adjacent M lines within a myofibril.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "Thick filaments are primarily composed of the protein myosin.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "Troponin C initiates contraction by binding to sodium ions in the sarcoplasm.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "The A band represents the region of the sarcomere that contains only thick filaments and never overlaps with thin filaments.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "Transverse tubules (T tubules) are invaginations of the sarcolemma that allow action potentials to reach the interior of the muscle fiber.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "Acetylcholine is the endogenous neurotransmitter used to initiate contraction at the somatic neuromuscular junction.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "Smooth muscle is characterized by the presence of sarcomeres arranged in highly regular, parallel arrays.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "The sarcoplasmic reticulum acts as the primary storage organelle for intracellular calcium in skeletal muscle fibers.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "The binding of a new ATP molecule to the myosin head causes the dissociation of the actomyosin complex.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "In a single muscle twitch, the duration of the mechanical response is significantly longer than the duration of the exciting action potential.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "Gap junctions are essential for the electrical coupling of cardiac myocytes, allowing the heart to function as a syncytium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "Multi-unit smooth muscle behaves as a syncytium because its cells are interconnected by numerous low-resistance gap junctions.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "Tropomyosin functions as a regulatory protein that covers myosin-binding sites on actin when a muscle is at rest.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "Fast-glycolytic (Type IIb/IIx) muscle fibers contain a higher concentration of myoglobin than slow-oxidative (Type I) fibers.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "Calcium ions trigger smooth muscle contraction by binding to calmodulin, which then activates myosin light chain kinase.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "The power stroke of the cross-bridge cycle is directly triggered by the hydrolysis of ATP into ADP and P_i.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "An isotonic contraction occurs when the muscle shortens while lifting a constant load.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "Frequency summation occurs when a second action potential stimulates a twitch before the first twitch has fully subsided.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "Skeletal muscle contraction is entirely dependent on the influx of extracellular calcium through L-type calcium channels.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "The plateau phase of the cardiac action potential is primarily maintained by a prolonged inward calcium current.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "Maximum active tension is developed when a sarcomere is stretched to its maximum length, minimizing filament overlap.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "Unitary smooth muscle is the predominant muscle type found in the walls of the gastrointestinal tract and bladder.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "Acetylcholinesterase is synthesized in the presynaptic terminal to facilitate the rapid synthesis of new acetylcholine molecules.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "Relaxation in smooth muscle requires the enzyme myosin light chain phosphatase to remove phosphate groups from the regulatory light chain.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "The I band of a sarcomere increases in length as the muscle contracts and filaments overlap more.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "Slow-twitch muscle fibers are characterized by low mitochondrial density and high glycolytic enzyme activity.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "Rigor mortis is caused by an excess of ATP, which prevents myosin from detaching from the actin filament.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "Skeletal muscle excitation-contraction coupling requires a net influx of extracellular calcium through L-type channels to trigger RyR1.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "Dense bodies in smooth muscle are restricted to the inner surface of the cell membrane and are not found within the cytoplasm.",
+      "answer": "false",
+      "explanation": "-"
+    }
+  ]
+}

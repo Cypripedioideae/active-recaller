@@ -1,0 +1,358 @@
+{
+  "id": "rs-true-false-9",
+  "title": "Respiratory Physiology 9 (Hard)",
+  "topic": "True-False RS",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "In a climber ascending Mount Everest where the barometric pressure is 253 mmHg, the tracheal partial pressure of inspired oxygen (PI_(O2) ) will be approximately 43 mmHg, assuming the air is fully humidified at 37\u00b0C.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "In the presence of a chronic right-to-left intrapulmonary shunt, the administration of 100% supplemental oxygen will fail to significantly increase the systemic arterial P_(O2)  because the shunted blood completely bypasses ventilated alveoli.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "According to Laplace's Law, if two alveoli of different sizes have the same surface tension, the smaller alveolus will have a higher collapsing pressure, making it more likely to empty its contents into the larger alveolus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "During strenuous exercise, the alveolar-arterial (A-a) P_(O2)  gradient in a healthy individual may widen slightly because the increased cardiac output reduces the transit time of erythrocytes in the pulmonary capillaries, potentially preventing full diffusion equilibrium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "Pulmonary vascular resistance (PVR) is mathematically minimized when the lung volume is at functional residual capacity (FRC) because the combined resistance of alveolar and extra-alveolar vessels is at its lowest point.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "In a patient with carbon monoxide poisoning, the peripheral chemoreceptors will stimulate a massive increase in ventilation because the total oxygen content of the arterial blood is severely reduced.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "The \"chloride shift\" in systemic capillaries involves the movement of Cl^-into the erythrocyte via Band 3 protein to maintain electrical neutrality as HCO3-  moves out into the plasma.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "For a single conducting airway, if the radius is reduced by 50% through bronchoconstriction, the resistance to airflow through that specific airway increases by a factor of 8.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "Central chemoreceptors in the medulla are sheltered from changes in arterial H+by the blood-brain barrier but respond to H+ions generated within the cerebrospinal fluid after CO2  diffuses across.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "In obstructive lung diseases like emphysema, the functional residual capacity (FRC) increases because the loss of elastic recoil shifts the equilibrium point between the lung's inward pull and the chest wall's outward pull to a higher volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "Fetal hemoglobin (HbF) has a higher oxygen affinity than adult hemoglobin (HbA) primarily because it binds 2,3-diphosphoglycerate (2,3-DPG) more avidly, shifting the curve to the left.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "The Bohr effect describes how an increase in blood PCO2  or a decrease in pH shifts the oxyhemoglobin dissociation curve to the right, which facilitates the unloading of oxygen in metabolically active tissues.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "During a forced expiration, the \"equal pressure point\" moves toward the smaller, non-cartilaginous airways as lung volume decreases, which increases the likelihood of dynamic airway collapse.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "In a patient with severe pulmonary fibrosis, the FEV1 /FVC ratio is typically normal or increased because the high elastic recoil of the \"stiff\" lungs allows for rapid (though low-volume) exhalation.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "If a patient's tidal volume is 500 mL, respiratory rate is 15 bpm, and physiological dead space is 150 mL, the calculated alveolar ventilation (VA ) is 5.25 L/min.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "The Haldane effect states that the deoxygenation of hemoglobin increases its affinity for CO2, allowing venous blood to carry more CO2for a given PCO2  than arterial blood.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "In Zone 1 of the upright lung, alveolar pressure is higher than arterial pressure, which can lead to the compression of pulmonary capillaries and the creation of alveolar dead space.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "The \"respiratory pump\" mechanism enhances venous return during inspiration because the drop in intrapleural pressure is transmitted to the right atrium, increasing the pressure gradient for blood flowing from the systemic veins.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "A shift of the oxyhemoglobin dissociation curve to the left, caused by a decrease in temperature, results in a higher hemoglobin saturation for any given P_(O2)  but impairs the delivery of oxygen to the tissues.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "In high-altitude acclimatization, the kidneys compensate for respiratory alkalosis by increasing the excretion of HCO3- , which helps return the blood pH toward normal.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "Hypoxic pulmonary vasoconstriction (HPV) is a local mechanism that diverts blood flow away from poorly ventilated alveoli to minimize V/Q mismatching.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "The solubility of CO2in blood is approximately 20 times greater than that of O2at 37\u00b0C, which explains why CO2  diffusion is rarely a limiting factor in gas exchange.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "In a patient with an anatomical right-to-left shunt, the A-a P_(O2)  gradient will be normal because the blood that reaches the systemic circulation has equilibrated perfectly with alveolar air.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "During exercise, the primary stimulus for the immediate increase in ventilation is the significant rise in mean arterial PCO2and the corresponding drop in arterial P_(O2) .",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "The Hering-Breuer inflation reflex is mediated by lung stretch receptors and serves to terminate inspiration to prevent over-distension of the lungs during large tidal breaths.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "In a saline-filled lung, the pressure-volume curve shows much less hysteresis than in an air-filled lung because the air-liquid interface and its associated surface tension have been removed.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "Polycythemia increases the total oxygen content of the blood but does not significantly change the arterial P_(O2)  or the percent saturation of hemoglobin.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "In carbon monoxide poisoning, the P_(50) of the remaining oxyhemoglobin dissociation curve decreases, representing an increased affinity of hemoglobin for the bound oxygen.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "Alveolar dead space is functionally defined as the volume of gas in the conducting airways that does not participate in gas exchange.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "Acetazolamide is used to treat mountain sickness because it inhibits carbonic anhydrase, leading to a metabolic acidosis that stimulates the ventilatory drive and offsets the respiratory alkalosis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "The \"alkaline tide\" refers to the increase in arterial pH that occurs immediately following hyperventilation as CO2  is rapidly cleared from the blood.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "In a subject with a V/Q ratio of infinity, the P_(O2)in the alveoli will approach the P_(O2)  of the mixed venous blood.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "During the plateau phase of the oxyhemoglobin dissociation curve, large changes in P_(O2)  result in only minimal changes in the total amount of oxygen bound to hemoglobin.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "Myoglobin has a sigmoidal oxygen dissociation curve, which allows it to release oxygen more effectively than hemoglobin at the very low P_(O2)  levels found in contracting muscle.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "Stimulation of J-receptors in the pulmonary interstitium by edema fluid results in a reflex pattern of rapid, shallow breathing known as tachypnea.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "At very high lung volumes (TLC), the resistance of the alveolar vessels increases due to compression by the expanded alveoli.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "In an upright individual, the V/Q ratio is highest at the base of the lung because blood flow increases more than ventilation as one moves down the lung.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "Carbonic anhydrase is an essential enzyme found in high concentrations within red blood cells and the pulmonary capillary endothelium but is virtually absent from the plasma.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "In a patient with an uncompensated metabolic acidosis (e.g., diabetic ketoacidosis), the respiratory compensation involves decreasing alveolar ventilation to raise the PaCO2 .",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "The vital capacity (VC) of a healthy adult decreases with age because of the gradual loss of lung elastic recoil and an increase in residual volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "Intrapleural pressure is always most negative at the very beginning of a normal tidal inspiration.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "In chronic obstructive pulmonary disease (COPD), \"Blue Bloaters\" are characterized by severe hypoxemia and hypercapnia, often leading to right ventricular failure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "The diffusing capacity of the lung for oxygen (DLO2 ) increases during exercise because the recruitment and distension of additional pulmonary capillaries increase the surface area available for exchange.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "According to the Fick Principle, if oxygen consumption is 250 mL/min and the A-V oxygen content difference is 5 mL per 100 mL of blood, the cardiac output is 5 L/min.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "In a tension pneumothorax, the intrapleural pressure on the affected side can become positive, causing the collapse of the lung and a shift of the mediastinum away from the affected side.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "Peripheral chemoreceptors in the carotid bodies are the only sensors in the body capable of stimulating a ventilatory response to arterial hypoxemia.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "During exercise, the respiratory exchange ratio (R) may rise above 1.0 because the buffering of lactic acid by HCO3-generates \"extra\" CO2  that is expired by the lungs.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "In a person breathing 50% O2at sea level with a PaCO2of 40 mmHg and R=0.8, the alveolar P_(O2)  is approximately 306 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "The work of breathing is significantly higher in patients with restrictive lung diseases because they must expend more energy to overcome the increased elastic recoil of the lungs.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "Mixed venous P_(O2)  in a patient with histotoxic hypoxia (e.g., cyanide poisoning) will be higher than normal because the tissues are unable to utilize the oxygen delivered to them.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

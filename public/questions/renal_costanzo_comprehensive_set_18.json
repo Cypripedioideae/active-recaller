@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-18",
+  "title": "Renal Comprehensive Set 2: Water Balance (MCQ)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 62-year-old patient is treated with a high dose of a loop diuretic to manage pulmonary edema. The patient begins excreting urine that is isosthenuric to plasma (approximately 300 mOsm/L), regardless of water intake levels. Which of the following best explains why the urine cannot be further diluted in this state?",
+      "options": [
+        "Decreased water permeability in the thin descending limb.",
+        "Stimulation of V_2 receptors in the collecting duct by the drug.",
+        "Inhibition of the Na^+-K^+-2Cl^- cotransporter prevents the generation of solute-free water in the thick ascending limb.",
+        "Decreased synthesis of urea within the medullary interstitium improves osmotic equilibration.",
+        "Excessive activation of the \"single effect\" of countercurrent multiplication."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A patient with central diabetes insipidus is administered an ADH analogue (dDAVP). Which physiological change in urea handling most significantly contributes to the patient's newfound ability to produce a maximally concentrated urine?",
+      "options": [
+        "Increased urea reabsorption from the proximal convoluted tubule.",
+        "Inhibition of urea transporter 1 (UT1) in the medullary collecting duct.",
+        "Enhanced urea recycling from the inner medullary collecting duct into the medullary interstitium.",
+        "Increased passive urea secretion from the vasa recta into the cortical interstitium.",
+        "Total filtered load of urea decreases, allowing complete reabsorption in the loop of Henle."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A research subject has a measured urine flow rate of 4 mL/min and a urine osmolarity of 150 mOsm/L, while his plasma osmolarity is 300 mOsm/L. Based on these parameters, what is the subject's calculated free-water clearance (C_(H_2O)), and what does this indicate regarding his antidiuretic hormone (ADH) status?",
+      "options": [
+        "-2 mL/min; indicates high circulating levels of ADH.",
+        "+2 mL/min; indicates low circulating levels of ADH or ineffective ADH action.",
+        "0 mL/min; indicates a loop diuretic effect on the thick ascending limb.",
+        "+4 mL/min; indicates maximal water diuresis where C_(osm) is zero.",
+        "-4 mL/min; indicates syndrome of inappropriate antidiuretic hormone (SIADH)."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 28-year-old man receiving lithium therapy for bipolar disorder presents with significant polyuria. A water deprivation test shows no increase in urine osmolarity even after the administration of exogenous dDAVP. What is the primary molecular mechanism responsible for this patient's water balance disturbance?",
+      "options": [
+        "Autoimmune destruction of the supraoptic and paraventricular nuclei.",
+        "Failure of the posterior pituitary to secrete neurophysin II and ADH.",
+        "Inactivating mutations of the V_1 receptors on vascular smooth muscle.",
+        "Overexpression of aquaporin 2 (AQP2) channels in the basolateral membrane.",
+        "Impaired response of the V_2 receptor or its downstream G-protein signaling in the principal cells."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 72-year-old man with a small cell lung tumor is admitted after a grand mal seizure. His plasma sodium is 113 mEq/L and plasma osmolarity is 230 mOsm/L, while his urine osmolarity is inappropriately high at 650 mOsm/L. Which of the following describes the resulting steady-state changes in his body fluid compartments?",
+      "options": [
+        "Increased ECF volume, increased ICF volume, and decreased osmolarity.",
+        "Decreased ECF volume, increased ICF volume, and decreased osmolarity.",
+        "Increased ECF volume, decreased ICF volume, and increased osmolarity.",
+        "Decreased ECF volume, decreased ICF volume, and increased osmolarity.",
+        "Increased ECF volume, unchanged ICF volume, and unchanged osmolarity."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A student in a renal physiology lab evaluates the role of the vasa recta in the concentration of urine. Slow blood flow through these medullary capillaries is essential because it allows the vessels to act as osmotic exchangers. Which statement best describes the primary consequence of this countercurrent exchange?",
+      "options": [
+        "It prevents the \"washout\" of the hyperosmotic medullary interstitium.",
+        "It actively generates the corticopapillary gradient via the Na^+/K^+ ATPase.",
+        "It ensures that the blood exiting the medulla is significantly hyposmotic to plasma.",
+        "It provides the hydrostatic pressure required for urea secretion into the thick ascending limb.",
+        "It increases the total surface area available for the reabsorption of glucose and amino acids."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "In a patient with high circulating levels of ADH (e.g., during severe water deprivation), which segment of the nephron contains the most dilute tubular fluid?",
+      "options": [
+        "The end of the proximal convoluted tubule.",
+        "The tip of the loop of Henle at the bend.",
+        "The end of the medullary collecting duct.",
+        "The end of the early distal convoluted tubule.",
+        "The final urine in the renal pelvis."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A subject ingests 2 L of distilled water within 30 minutes. Once a new steady state is achieved, which set of changes in urine flow rate (V) and osmolar clearance (Cosm) is most likely to be observed compared to baseline?",
+      "options": [
+        "Decreased V and increased C_(osm).",
+        "Increased V and decreased C_(osm).",
+        "Constant V and increased C_(osm).",
+        "Increased V and relatively constant C_(osm).",
+        "Decreased V and constant C_(osm) ."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient in the emergency department exhibits severe hypovolemia following a hemorrhage. His plasma osmolarity is slightly decreased at 280 mOsm/L. Why are his circulating ADH levels still markedly elevated despite the hyposmolarity?",
+      "options": [
+        "Hyposmolarity is the primary stimulant for ADH via hypothalamic osmoreceptors.",
+        "Hypovolemia acts as a potent stimulus for ADH secretion and overrides the inhibitory effect of hyposmolarity.",
+        "Atrial natriuretic peptide (ANP) is suppressed, which directly increases water permeability in the proximal tubule.",
+        "The baroreceptor reflex decreases the threshold for thirst, causing a secondary increase in ADH.",
+        "Increased GFR delivered to the macula densa triggers a neurogenic release of ADH."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "In the process of countercurrent exchange, which of the following accurately describes the movement of solutes and water as blood flows down the descending limb of the vasa recta?",
+      "options": [
+        "Solutes diffuse out of the blood; water diffuses into the blood.",
+        "Solutes are actively transported into the blood; water follows isosmotically.",
+        "Filtration of water occurs because hydrostatic pressure exceeds oncotic pressure.",
+        "Only water moves, while solutes are trapped by the water-impermeable endothelial wall.",
+        "Solutes (NaCl and urea) diffuse into the blood; water diffuses out of the blood."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

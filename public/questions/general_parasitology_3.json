@@ -1,0 +1,148 @@
+{
+  "id": "general-parasitology-3",
+  "title": "General Parasitology 3",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A stool specimen from a patient with chronic diarrhea and malabsorption is examined microscopically. The laboratory identifies a pear-shaped trophozoite containing two nuclei and four pairs of flagella. Which parasite has been identified?",
+      "options": [
+        "*Giardia lamblia*",
+        "*Dientamoeba fragilis*",
+        "*Cryptosporidium hominis*",
+        "*Balantidium coli*",
+        "*Entamoeba histolytica*"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 34-year-old patient with a history of irritable bowel syndrome presents with persistent mucous diarrhea, abdominal cramping, and myalgia. Stool microscopy reveals spherical structures measuring 10 \u00b5m with a large central vacuole and four small nuclei located at the cell periphery. Which of the following is the most appropriate pharmacological treatment for this patient?",
+      "options": [
+        "Albendazole",
+        "Nitazoxanide",
+        "Praziquantel",
+        "Metronidazole",
+        "Ivermectin"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 28-year-old hiker presents with a 3-week history of abdominal cramps, flatulence, and profuse, foul-smelling stools that appear \"greasy\" and float in the toilet. He reports consuming untreated mountain stream water during a camping trip 10 days prior to the onset of symptoms. Stool microscopy is performed, revealing multinucleated trophozoites exhibiting a characteristic \"falling leaf\" motility. Which of the following is the most appropriate first-line pharmacological treatment for this patient?",
+      "options": [
+        "Nitazoxanide",
+        "Iodoquinol",
+        "Praziquantel",
+        "Metronidazole",
+        "Albendazole"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "The patient describes the stool as containing mucus mixed with \"old blood\" and possessing a putrid odor. An ultrasound reveals a large mass in the liver, and percutaneous drainage yields \"anchovy paste\" material. Which mechanism best explains the development of this extraintestinal lesion?",
+      "options": [
+        "Trophozoite transport of intestinal bacteria through the diaphragm",
+        "Multiplication of sporozoites within the hepatocytes",
+        "Direct migration of adult trophozoites from the biliary tract",
+        "Ingestion of infectious cysts that hatch in the hepatic parenchyma",
+        "Hematogenous spread via the portal vein after intestinal invasion"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A public health officer is investigating a giardiasis outbreak at a local daycare center. To prevent further transmission through the facility's water supply, which characteristic of the infectious *Giardia* cyst is most critical to consider regarding water treatment?",
+      "options": [
+        "Rapid destruction by the low pH of gastric secretions",
+        "Resistance to standard chlorine disinfection",
+        "Inactivation by cold enrichment at 4\u00b0C",
+        "High sensitivity to standard municipal chlorination",
+        "Requirement for a high infectious dose to establish disease"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A previously healthy teenager develops a high fever, neck stiffness, and seizures three days after swimming in a warm freshwater lake. Despite intensive care, the patient dies within a week of symptom onset. Which organism is most likely responsible for this rapidly fatal infection?",
+      "options": [
+        "*Gnathostoma spinigerum*",
+        "*Toxoplasma gondii*",
+        "*Acanthamoeba* spp.",
+        "*Angiostrongylus cantonensis*",
+        "*Naegleria fowleri*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient with AIDS is diagnosed with multiple ring-enhancing brain lesions on MRI, which are determined to be caused by *Toxoplasma gondii*. Which process most likely led to the development of these abscesses?",
+      "options": [
+        "Continuous ingestion of infectious oocysts from cat feces",
+        "Reactivation of bradyzoites within latent tissue cysts",
+        "Hematogenous spread of trophozoites to the brain from a lung infection",
+        "Sequestration of merozoites in the cerebral microvasculature",
+        "Primary infection during the current immunosuppressed state"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 34-year-old patient presents with intestinal taeniasis after consuming undercooked meat, and a gravid proglottid recovered from the stool is examined by India ink injection. The segment reveals 22 primary lateral uterine branches on one side of the central uterine stem. Which of the following morphological features is characteristic of the scolex of this parasite?",
+      "options": [
+        "A scolex with a retractable proboscis and several rows of spines",
+        "A pair of longitudinal sucking grooves called bothria",
+        "A scolex containing a double set of reproductive organs",
+        "A globular shape with four suckers and a complete absence of hooks",
+        "A globular shape possessing an armed rostellum with hooks"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A laboratory technologist is examining infectious larvae recovered from a soil sample in a tropical region. Microscopic examination of a 500 \u00b5m long filariform larva is performed to differentiate between *Strongyloides stercoralis* and hookworm species. Which of the following morphological features is uniquely characteristic of the *Strongyloides stercoralis* filariform larva?",
+      "options": [
+        "A closed mouth",
+        "A long buccal cavity",
+        "A pointed tail",
+        "A rhabditiform esophagus",
+        "A notched tail"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 21-year-old man emigrates from an endemic region and presents with some symptoms; he reports a history of consuming raw freshwater crabs. To confirm a diagnosis of paragonimiasis, which specimen should be primarily collected to look for operculated eggs?",
+      "options": [
+        "Vaginal swab",
+        "Duodenal aspirate",
+        "Sputum",
+        "Peripheral blood film",
+        "Early morning urine"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

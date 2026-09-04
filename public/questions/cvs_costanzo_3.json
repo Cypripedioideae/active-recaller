@@ -1,0 +1,358 @@
+{
+  "id": "cvs-true-false-3",
+  "title": "Cardiovascular Physiology 3",
+  "topic": "True-False CVS",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "In the sinoatrial (SA) node, the Phase 0 upstroke is primarily the result of a transient increase in calcium conductance (gCa) through L-type calcium channels.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "The \"a\" wave observed in a standard jugular venous pulse recording is produced by the contraction of the right atrium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "During the cardiac cycle, aortic pressure is at its lowest value at the exact moment the aortic valve opens at the end of isovolumetric contraction.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "Activation of the sympathetic nervous system leads to the phosphorylation of phospholamban, which subsequently decreases the activity of the Ca^(2+)-ATPase (SERCA) in the sarcoplasmic reticulum.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "According to the Bowditch staircase effect, an increase in heart rate increases myocardial contractility because the cumulative intracellular calcium concentration increases over several beats.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "According to the law of Laplace for a sphere, the wall tension required to generate a specific intraventricular pressure is inversely proportional to the radius of the ventricular chamber.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "If the stroke volume of the left ventricle remains constant while the heart rate doubles, the mean arterial pressure will likely increase significantly, assuming total peripheral resistance remains unchanged.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "In a patient diagnosed with cardiac tamponade, a hallmark physiological finding is the near-equalization of diastolic pressures in all four cardiac chambers.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "The \"funny\" current (If), which is responsible for Phase 4 depolarization in the sinoatrial node, is activated by membrane hyperpolarization following the preceding action potential.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "A positive chronotropic effect is defined physiologically as an increase in the slope of the Phase 4 spontaneous depolarization in the pacemaker cells.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "Unlike skeletal muscle, cardiac muscle cannot be tetanised because the absolute refractory period lasts almost as long as the entire mechanical contraction (twitch).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "The second heart sound (S2) is physiologically produced when the pressure within the ventricles falls below the pressure within the atria, causing the atrioventricular valves to open.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "A decrease in venous compliance results in a shift of blood volume from the unstressed volume to the stressed volume, thereby increasing mean systemic filling pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "Atrial natriuretic peptide (ANP) acts on the kidneys to decrease the glomerular filtration rate (GFR) by constricting the afferent arterioles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "The linear velocity of blood flow is significantly lower in the capillaries than in the aorta because the hydrodynamic resistance of a single capillary is much higher than that of the aorta.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "Cardiac glycosides such as digoxin increase myocardial contractility by inhibiting the Na^+/K^+ ATPase, which reduces the Na^+ gradient required for Ca^(2+) extrusion via the Na^+-Ca^(2+) exchanger.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "An increase in myocardial contractility results in a shift of the left ventricular pressure-volume loop such that the end-systolic volume is decreased while the stroke volume is increased.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "Mean systemic filling pressure is a parameter determined primarily by total blood volume and venous compliance, and it remains unchanged by alterations in total peripheral resistance (TPR).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "In the coronary circulation, the extraction of oxygen from the blood is so high under resting conditions that any significant increase in myocardial oxygen demand must be met by an increase in blood flow.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "In a healthy subject, the intravenous infusion of pure norepinephrine typically results in a reflex decrease in heart rate due to the baroreceptor response to systemic vasoconstriction.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "Dromotropic effects refer to changes in the intrinsic strength of myocardial contraction, whereas inotropic effects refer to changes in conduction velocity.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "The absolute refractory period (ARP) of a cardiac ventricular myocyte concludes when the cell has repolarized to a membrane potential of approximately -50 mV.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "According to the principles of hemodynamics, if the resistance of an arteriole is reduced by exactly 50% while the pressure gradient remains constant, the blood flow through that vessel will increase 16-fold.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "On a standard electrocardiogram, the T wave represents the electrical depolarization of the Purkinje system.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "Myocardial oxygen consumption is significantly higher for pressure work (pumping against a high afterload) than for volume work (pumping a high stroke volume against a low afterload).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "The Frank-Starling law of the heart serves as an intrinsic mechanism that ensures the cardiac output from the left ventricle matches the venous return.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "In a patient with significant aortic valve stenosis, the pressure within the left ventricle is essentially equal to the pressure in the aorta during the rapid ejection phase.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "The first heart sound (S1) is normally heard at the beginning of the reduced ventricular ejection phase of the cardiac cycle.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "Local vasodilator metabolites, specifically adenosine and carbon dioxide, are the primary regulators of blood flow in the coronary circulation.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "The most significant drop in mean blood pressure within the systemic circulation occurs as blood passes through the capillary beds.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "A positive dromotropic effect on the atrioventricular (AV) node is represented on the electrocardiogram by a shortening of the P-R interval.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "Parasympathetic stimulation slows the heart rate primarily by decreasing the potassium (K^+) conductance in the sinoatrial node, which moves the maximum diastolic potential further from threshold.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "If a patient's cardiac output is 6 L/min and their heart rate is 60 beats/min, their calculated stroke volume is 100 mL per beat.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "A patient suffering from severe isosmotic volume contraction, such as from diarrhea, will exhibit a decrease in their mean systemic filling pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "The presence of a large arteriovenous (AV) fistula causes a decrease in the total peripheral resistance and a compensatory increase in the cardiac output.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "The \"v\" wave of the jugular venous pulse corresponds to the period of isovolumetric contraction when the ventricles are building pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "An increase in the filtration fraction leads to an increase in the oncotic pressure of the peritubular capillary blood, which subsequently promotes isosmotic reabsorption in the proximal tubule.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "Carotid sinus baroreceptors are physiologically sensitive to both increases and decreases in arterial pressure, whereas aortic arch baroreceptors respond primarily to increases.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "The vasa recta capillaries serve as the primary countercurrent multipliers responsible for actively generating the medullary osmotic gradient.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "Adding a new systemic blood vessel in a parallel arrangement within an organ circuit results in an increase in the total vascular resistance of that organ.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "A decrease in venous compliance, often termed venoconstriction, shifts the vascular function curve to the right along the right atrial pressure axis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "During the plateau phase (Phase 2) of a ventricular action potential, the net membrane current is zero because the inward calcium current is balanced by an outward potassium current.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "Based on the Fick principle, if a patient has an arterial O2 content of 20 mL/dL and a mixed venous O2 content of 15 mL/dL, a cardiac output of 5 L/min implies an O2 consumption of 250 mL/min.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "On a combined function graph, a positive inotropic effect results in a lower steady-state right atrial pressure and a higher cardiac output.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "A sudden fall in mean arterial pressure results in a baroreceptor-mediated decrease in the firing rate of the carotid sinus nerve (glossopharyngeal nerve).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "A patient with untreated hyperthyroidism typically exhibits a decreased pulse pressure because the resulting tachycardia significantly reduces ventricular filling time.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "In a patient with mitral valve stenosis, the measured pulmonary capillary wedge pressure is typically higher than the left ventricular end-diastolic pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "The myogenic response to an increase in transmural pressure in a renal arteriole involves the opening of stretch-activated calcium channels in the smooth muscle cell membrane.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "During the phase of reduced ventricular ejection, the left ventricular volume reaches its absolute minimum for that cardiac cycle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "Parasympathetic stimulation of the heart involves the release of norepinephrine at the sinoatrial node to produce a negative chronotropic effect.",
+      "answer": "false",
+      "explanation": "-"
+    }
+  ]
+}

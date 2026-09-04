@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-16",
+  "title": "Renal Comprehensive Set 2: Potassium Balance (MCQ)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 58-year-old male with untreated Type I diabetes mellitus presents with a blood glucose concentration of 650 mg/dL. He is found to have a serum potassium level of 6.2 mEq/L. Which of the following best explains the mechanism of his hyperkalemia?",
+      "options": [
+        "Water shifts out of the cells due to extracellular hyperosmolarity, carrying potassium with it via solvent drag, while a lack of insulin decreases cellular potassium uptake.",
+        "Metabolic acidosis causes hydrogen ions to leave the cells in exchange for extracellular potassium to maintain macroscopic electroneutrality.",
+        "The high filtered load of glucose exceeds the transport maximum, causing an osmotic diuresis that inhibits potassium reabsorption in the thick ascending limb.",
+        "ECF volume contraction stimulates the release of atrial natriuretic peptide (ANP), which directly inhibits the Na^+/K^+-ATPase pump in the principal cells.",
+        "Decreased renal perfusion pressure inhibits the secretion of renin, leading to hypoaldosteronism and a subsequent decrease in distal potassium secretion."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A patient is placed on a strictly controlled low-potassium diet for several weeks. After a steady state is achieved, his urinary potassium excretion is measured to be only 1% of the filtered load. Which cellular mechanism in the distal nephron is primarily responsible for this maximal potassium conservation?",
+      "options": [
+        "Inhibition of the Na^+-K^+-2Cl^- cotransporter in the thick ascending limb of Henle's loop.",
+        "Activation of the H^+/K^+ ATPase in the luminal membrane of the \u03b1-intercalated cells.",
+        "Increased conductance of the luminal K^+ channels in the principal cells of the collecting duct.",
+        "Down-regulation of the basolateral Na^+/K^+ ATPase pump in the principal cells.",
+        "Stimulation of the Na^+/H^+ exchanger in the early proximal convoluted tubule."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 62-year-old woman is treated with a loop diuretic for congestive heart failure. After two weeks of therapy, she develops muscle weakness and her serum potassium is 3.0 mEq/L. Which of the following factors contributes most significantly to the kaliuresis observed during loop diuretic therapy?",
+      "options": [
+        "Direct stimulation of the H^+/K^+ ATPase in the distal nephron by the drug.",
+        "Decreased delivery of sodium to the principal cells, which reduces the driving force for potassium uptake into the cell.",
+        "Increased distal tubule flow rate, which dilutes luminal potassium and increases the electrochemical driving force for secretion.",
+        "Metabolic acidosis caused by the drug, which promotes the exchange of intracellular potassium for extracellular hydrogen ions.",
+        "Inhibition of the apical Na^+-Cl^- cotransporter in the early distal tubule."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient with chronic metabolic acidosis exhibits a blood pH of 7.25. Which of the following describes the most likely shift of potassium between the intracellular and extracellular fluid (ICF/ECF) and the resulting impact on renal potassium handling?",
+      "options": [
+        "K^+ shifts into the cells to buffer the acid, increasing intracellular [K^+] and increasing the driving force for secretion.",
+        "K^+ shifts into the cells, but renal secretion decreases because metabolic acidosis inhibits the Na^+-H^+ exchanger in the proximal tubule.",
+        "K^+ shifts out of the cells, but renal secretion increases because H^+ and K^+ always move in the same direction across the luminal membrane.",
+        "K^+ shifts out of the cells, while renal secretion decreases because the resulting lower intracellular [K^+] reduces the driving force for K^+ secretion in the principal cells.",
+        "K^+ shifts out of the cells, and renal secretion increases due to the stimulatory effect of high extracellular [H^+] on the Na^/-K^+ ATPase pump."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 45-year-old patient with hyperpigmented skin and hypotension is diagnosed with Addison's disease (primary adrenal insufficiency). Which set of findings regarding her potassium and acid-base status would be expected?",
+      "options": [
+        "Hypokalemia and metabolic alkalosis.",
+        "Hypokalemia and metabolic acidosis (normal anion gap).",
+        "Hyperkalemia and metabolic alkalosis.",
+        "Hyperkalemia and metabolic acidosis (wide anion gap).",
+        "Hyperkalemia and metabolic acidosis (normal anion gap)."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "In a clinical physiology experiment, an analysis of the tubular fluid in the distal nephron of a subject on a high-potassium diet shows a [TF/P]_(K^+)/[TF/P]_(inulin) ratio of 1.1. Which of the following is the correct interpretation of this finding?",
+      "options": [
+        "More potassium is present in the tubular fluid at this site than was originally filtered at the glomerulus.",
+        "Net reabsorption of potassium has occurred, leaving 10% of the filtered load in the tubule.",
+        "Potassium reabsorption has occurred in exact proportion to water reabsorption.",
+        "The subject is in negative potassium balance and is at high risk for asystole.",
+        "Filtration of potassium has been inhibited, and all potassium in the urine is derived from secretion."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient with severe hypovolemia from hemorrhage has high circulating levels of aldosterone. Despite this, his serum potassium remains in the normal range (4.5 mEq/L). Which of the following best explains why he does not develop hypokalemia (the \"aldosterone paradox\")?",
+      "options": [
+        "Hypovolemia causes a shift of potassium out of the cells, which perfectly offsets the increased renal secretion.",
+        "The decreased distal flow rate and glomerular filtration rate (GFR) associated with hypovolemia reduce the driving force for potassium secretion, counteracting the effects of aldosterone.",
+        "Aldosterone only stimulates potassium secretion when the extracellular sodium concentration is also high.",
+        "High levels of angiotensin II directly inhibit the K^+ channels in the luminal membrane of the principal cells.",
+        "The sympathetic nervous system stimulates \u03b1-adrenergic receptors on the principal cells, which inhibits the Na^+/K^+ ATPase pump."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient is brought to the emergency department with severe hyperkalemia (serum K^+ = 8.0 mEq/L) following acute renal failure. The physician immediately orders an intravenous infusion of insulin and glucose. What is the molecular basis for this treatment?",
+      "options": [
+        "Insulin stimulates the H^+/K^+ ATPase to reabsorb hydrogen in exchange for potassium.",
+        "Insulin increases the permeability of the cell membrane to glucose, which \"drags\" potassium into the cell.",
+        "Insulin increases the activity of the basolateral Na^+/K^+ ATPase pump, promoting the shift of potassium from the ECF into the cells.",
+        "Glucose acts as an osmotic diuretic in the intracellular fluid, drawing potassium into the cells to maintain equilibrium.",
+        "Insulin directly inhibits the voltage-gated sodium channels, preventing the cardiotoxic effects of hyperkalemia."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "An experimental drug is used in a research model to selectively block the Na^+-K^+-2Cl^- cotransporter in the thick ascending limb of the loop of Henle. Based on the coupling of ion transport in this segment, what is the most likely effect on potassium handling at this site?",
+      "options": [
+        "Increased potassium reabsorption due to a more positive transepithelial potential.",
+        "Decreased potassium reabsorption because the lumen-positive potential difference is abolished, reducing the driving force for paracellular movement.",
+        "Increased potassium secretion into the lumen to compensate for the loss of chloride reabsorption.",
+        "Decreased potassium reabsorption due to the direct inhibition of the primary active transport step of the cotransporter.",
+        "No change in potassium handling, as this transporter is only responsible for sodium and chloride movement."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A woman with hypertension is currently being treated with propranolol, a non-selective \u03b2-adrenergic antagonist. She decides to begin a high-intensity aerobic exercise programme. Why is she at a significantly higher risk for developing severe hyperkalemia during exercise?",
+      "options": [
+        "Exercise causes cell lysis in skeletal muscle, and propranolol prevents the kidneys from excreting the released potassium.",
+        "Propranolol antagonises \u03b2_1-adrenergic receptors on the skeletal muscle membrane, preventing the metabolic activation of the Na\u207a-K\u207a ATPase pump during periods of high work intensity.",
+        "EPropranolol inhibits \u03b2_1-receptors in the juxtaglomerular apparatus, suppressing the exercise-induced rise in renin and aldosterone, thereby impairing the renal kaliuretic response. ",
+        "Propranolol blocks the aldosterone receptors in the kidney, preventing the kaliuretic response to exercise.",
+        "Exercise normally causes a K^+ shift out of muscle cells; propranolol blocks the \u03b2_2-adrenergic-mediated K^+ uptake that would otherwise mitigate this shift."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-12",
+  "title": "Renal Comprehensive Set 2: Glomerular Filtration (MCQ)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 45-year-old man presents to the emergency department with severe, colicky right-sided flank pain. An ultrasound reveals a large renal calculus obstructing the right ureter. Which set of changes in Starling forces and glomerular filtration rate (GFR) is most likely occurring in the affected kidney?",
+      "options": [
+        "Increased Bowman's space hydrostatic pressure (P_(BS)) and decreased GFR",
+        "Decreased glomerular capillary hydrostatic pressure (P_(GC)) and decreased GFR",
+        "Increased glomerular capillary oncotic pressure (\u03c0_(GC)) and increased GFR",
+        "Decreased Bowman's space hydrostatic pressure (P_(BS)) and increased GFR",
+        "Unchanged Starling forces with a compensatory increase in renal plasma flow (RPF)"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 62-year-old woman with a history of congestive heart failure and renal artery stenosis is prescribed an ACE inhibitor to manage her hypertension. Shortly after starting the medication, her serum creatinine increases significantly, and her GFR falls. This decline in renal function is primarily attributed to the loss of which physiological mechanism?",
+      "options": [
+        "Myogenic contraction of the afferent arteriole",
+        "Prostaglandin-mediated vasodilation of the afferent arteriole",
+        "Preferential constriction of the efferent arteriole by Angiotensin II",
+        "Tubuloglomerular feedback-mediated dilation of the afferent arteriole",
+        "Atrial natriuretic peptide-induced constriction of the efferent arteriole"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "In a laboratory experiment, a canine kidney is isolated and perfused. When the mean arterial perfusion pressure is increased from 100 mmHg to 130 mmHg, the renal blood flow remains relatively constant. Which of the following best describes the initial cellular event responsible for this autoregulatory response?",
+      "options": [
+        "Firing of sympathetic noradrenergic fibers activating alpha-1 receptors",
+        "Activation of the macula densa leading to the release of nitric oxide",
+        "Opening of stretch-activated calcium channels in afferent arteriolar smooth muscle",
+        "Increased delivery of NaCl to the macula densa causing efferent arteriolar constriction",
+        "Decreased resistance in the efferent arteriole due to reduced Angiotensin II levels"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A medical student consumes a high-protein steak dinner. Within one hour, his glomerular filtration rate (GFR) increases significantly. Which of the following best explains the integrative mechanism behind this change?",
+      "options": [
+        "Increased Na-amino acid cotransport in the proximal tubule reduces NaCl delivery to the macula densa",
+        "Amino acid-induced volume expansion inhibits the release of renin",
+        "Direct stimulation of V_2 receptors by circulating amino acids increases water reabsorption",
+        "Increased plasma oncotic pressure reduces the net filtration pressure",
+        "Selective constriction of the afferent arteriole increases the filtration fraction"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient suffering from severe dehydration has high circulating levels of Angiotensin II and high sympathetic tone. Despite these potent vasoconstrictor signals, renal blood flow is partially maintained to prevent ischemic injury. If this patient were to take a high dose of a non-steroidal anti-inflammatory drug (NSAID), which set of changes would most likely occur?",
+      "options": [
+        "Increased renal blood flow and increased GFR",
+        "Decreased total peripheral resistance and decreased arterial pressure",
+        "Increased prostaglandin synthesis leading to efferent vasodilation",
+        "Decreased sympathetic nerve activity due to baroreceptor resetting",
+        "Unopposed afferent arteriolar constriction leading to a sharp drop in GFR"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A clinical research subject is administered a drug that acts as a potent agonist for the Atrial Natriuretic Peptide (ANP) receptor. Which of the following sets of changes in renal hemodynamics would be expected?",
+      "options": [
+        "Decreased GFR, decreased RBF, and unchanged filtration fraction",
+        "Decreased GFR, increased RBF, and increased filtration fraction",
+        "Increased GFR, decreased RBF, and decreased filtration fraction",
+        "Increased GFR, increased RBF, and increased filtration fraction",
+        "Increased GFR, increased RBF, and decreased filtration fraction"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient experiences an increase in filtration fraction from 0.20 to 0.25. Based on the principles of glomerulotubular balance, what is the most significant consequence of this change for the peritubular capillaries?",
+      "options": [
+        "Decreased peritubular hydrostatic pressure (P_c) inhibits solute reabsorption",
+        "Increased peritubular oncotic pressure (\u03c0_c) enhances isosmotic fluid reabsorption",
+        "Decreased peritubular oncotic pressure (\u03c0_c) leads to increased sodium excretion",
+        "Increased peritubular hydrostatic pressure (P_c) stimulates solvent drag",
+        "Unchanged Starling forces because glomerulotubular balance is an intrinsic tubular mechanism"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A new pharmacological agent is found to selectively dilate the efferent arteriole without affecting the resistance of the afferent arteriole. What are the predicted effects of this drug on renal hemodynamics?",
+      "options": [
+        "Increased GFR and increased RPF",
+        "Increased GFR and decreased RPF",
+        "Decreased GFR and increased RPF",
+        "Decreased GFR and decreased RPF",
+        "Unchanged GFR and increased RPF"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 22-year-old man enters the emergency department following a major motorcycle accident with significant blood loss. His blood pressure is 85/50 mmHg. Which of the following renal responses is an appropriate compensatory mechanism to maintain his mean arterial pressure?",
+      "options": [
+        "Dilation of the afferent arteriole to protect the glomerular filtration rate",
+        "Decreased renin secretion from the juxtaglomerular cells",
+        "Increased filtration fraction due to afferent arteriolar dilation",
+        "Vasodilation of the efferent arteriole to maintain peritubular capillary pressure",
+        "Sympathetic-mediated afferent arteriolar constriction to increase total peripheral resistance"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient with nephrotic syndrome presents with massive proteinuria and a significantly reduced plasma albumin level. Which of the following changes in Starling forces within the glomerulus would be expected in the early stages?",
+      "options": [
+        "Increased P_(GC) due to compensatory efferent constriction",
+        "Increased P_(BS) due to tubular obstruction by protein casts",
+        "Increased \u03c0_(GC) because the remaining proteins are concentrated",
+        "Decreased \u03c0_(GC) and increased \u03c0_(BS) leading to an increased net filtration pressure",
+        "Decreased P_(GC) due to the activation of tubuloglomerular feedback"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

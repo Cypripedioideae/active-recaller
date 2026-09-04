@@ -1,0 +1,358 @@
+{
+  "id": "rs-true-false-2",
+  "title": "Respiratory Physiology 2",
+  "topic": "True-False RS",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "The phrenic nerve, which provides the primary motor supply to the diaphragm, originates from the C3, C4, and C5 segments of the spinal cord.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "The bronchial circulation provides the primary source of blood for gas exchange within the alveolar-capillary units.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "Physiological dead space is always equal to or smaller than the anatomical dead space in patients with pulmonary vascular disease.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "Mast cell degranulation in the airways leads to the release of histamine, which decreases airway resistance by causing significant bronchodilation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "During a normal respiratory cycle, the transpulmonary pressure reaches its maximum (most positive) value at the end of a tidal inspiration.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "The thebesian veins and bronchial veins contribute to a normal physiological right-to-left shunt, resulting in a systemic arterial P_(O2) that is slightly lower than the alveolar P_(O2).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "In the human lung, the rate of carbon dioxide diffusion is approximately 20 times slower than that of oxygen because CO_2 has a higher molecular weight.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "The peripheral chemoreceptors are located within the carotid sinuses and primarily respond to changes in mean arterial blood pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "Lung compliance is mathematically defined as the change in transpulmonary pressure required to produce a unit change in lung volume.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "The vital capacity is calculated as the sum of the tidal volume, the inspiratory reserve volume, and the expiratory reserve volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "Parasympathetic stimulation of the bronchial smooth muscle is mediated by muscarinic receptors and results in significant bronchodilation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "Carbon monoxide (CO) poisoning reduces the total oxygen content of the blood while the partial pressure of oxygen in the arterial blood (Pa_(O2)) typically remains normal.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "The P_(50) of fetal hemoglobin (HbF) is significantly higher than that of adult hemoglobin (HbA), which facilitates the transfer of oxygen across the placenta.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "During quiet, passive breathing, the intrapleural pressure becomes positive during the expiratory phase to help drive air out of the lungs.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "The \"respiratory pump\" mechanism enhances venous return to the right heart during inspiration by decreasing the pressure within the thoracic cavity.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "Although the apex of the upright lung has a higher P_(O2) than the base, the absolute amount of oxygen added to the blood is greater at the base due to higher perfusion.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "In the healthy respiratory tree, the site of the highest individual airway resistance is located within the terminal bronchioles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "At the functional residual capacity (FRC), the lungs are at their equilibrium volume where the inward elastic recoil of the lungs is exactly balanced by the outward recoil of the chest wall.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "A shift of the oxyhemoglobin dissociation curve to the left, such as that caused by decreased temperature, facilitates the unloading of oxygen in the peripheral tissues.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "An increase in the concentration of 2,3-diphosphoglycerate (2,3-DPG) within the erythrocyte increases the affinity of hemoglobin for oxygen.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "If the respiratory exchange ratio (R) is 0.8 and the arterial P_(CO2) is 40 mmHg, the \"correction factor\" used in the alveolar gas equation (Pa_(CO2)/R) is 50 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "Central chemoreceptors are sheltered from changes in arterial H^+ by the blood-brain barrier but are stimulated by H^+ generated from CO_2 diffusion into the cerebrospinal fluid.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "In a lung unit with a ventilation-perfusion (V/Q) ratio of infinity, the alveolar gas partial pressures will eventually reach equilibrium with the mixed venous blood.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "According to Laplace's Law, if the surface tension remains constant, smaller alveoli would require a higher internal pressure to remain expanded than larger alveoli.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "During strenuous aerobic exercise in a healthy individual, the arterial P_(O2) (Pa_(O2)) typically rises to above 110 mmHg to compensate for the increased oxygen demand of the muscles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "A saline-filled lung is significantly more compliant than an air-filled lung because the liquid-air interface and the resulting surface tension are removed.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "The peripheral chemoreceptors in the carotid bodies are primarily stimulated by a decrease in the total oxygen content of the blood, even if the Pa_(O2) remains at 100 mmHg.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "The \"air trapping\" observed in obstructive lung diseases like emphysema leads to a pathological decrease in the residual volume (RV).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "For inspiration to occur, the contraction of the inspiratory muscles must cause the intra-alveolar pressure to fall below the atmospheric pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "Carbonic anhydrase is an enzyme primarily found in the plasma that ensures the rapid conversion of CO_2 into bicarbonate before it enters the red blood cells.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "Hysteresis in the pressure-volume relationship of the lung indicates that for any given transpulmonary pressure, the lung volume is greater during expiration than during inspiration.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "In a patient with a significant intrapulmonary right-to-left shunt, the resulting hypoxemia cannot be fully corrected by the administration of 100% supplemental oxygen.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "A patient with a tidal volume of 500 mL, an anatomical dead space of 150 mL, and a respiratory rate of 10 breaths per minute has a minute ventilation of 3.5 L/min.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "If a subject voluntarily doubles their alveolar ventilation while their CO_2 production rate remains constant, their arterial P_(CO2) will be reduced by exactly half.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "In a person with a hemoglobin concentration of 10 g/dL (anemia) and a Pa_(O2) of 100 mmHg, the percentage saturation of hemoglobin with oxygen will be approximately 66%.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "A lecithin-to-sphingomyelin (L/S) ratio of 3.5:1 in the amniotic fluid indicates that the fetal lungs are immature and at high risk for respiratory distress syndrome.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "The initial physiological response to the low partial pressure of oxygen at high altitude is a decrease in the ventilation rate to prevent the development of respiratory alkalosis.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "A patient with an FEV_1/FVC ratio of 0.92 is more likely to be suffering from a restrictive lung disease, such as silicosis, than an obstructive disease like chronic bronchitis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "In response to the metabolic acidosis caused by severe diarrhea, the central and peripheral chemoreceptors stimulate an increase in alveolar ventilation to lower Pa_(CO2).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "Given a mean pulmonary artery pressure of 25 mmHg, a left atrial pressure of 5 mmHg, and a cardiac output of 5 L/min, the pulmonary vascular resistance (PVR) is 4 mmHg/L/min.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "A person breathing 100% oxygen at sea level (760 mmHg) with a Pa_(CO2) of 40 mmHg and R=0.8 will have an alveolar P_(O2) of approximately 663 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "In carbon monoxide poisoning, the characteristic \"cherry-red\" appearance of the skin and mucous membranes is due to the high concentration of deoxygenated hemoglobin.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "In emphysema, the functional residual capacity (FRC) increases because the loss of elastic tissue decreases the inward recoil of the lung, requiring a higher volume to balance the chest wall.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "During a forced expiration, an increase in lung compliance (such as in emphysema) causes the \"equal pressure point\" to move closer to the alveoli, increasing the risk of airway collapse.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "During the \"chloride shift\" in systemic tissues, the movement of bicarbonate out of the red blood cell is accompanied by the outward movement of hydrogen ions to maintain electrical neutrality.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "A patient with a significantly increased alveolar-arterial (A-a) P_(O2) gradient is likely suffering from hypoxemia caused solely by simple alveolar hypoventilation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "During exercise, the diffusing capacity of the lung (D_L) increases primarily because the partial pressure gradient for oxygen across the alveolar-capillary membrane increases tenfold.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "Alveoli at the apex of the upright lung are larger and less compliant than those at the base because the intrapleural pressure is more negative at the apex due to the weight of the lung.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "An arterial blood gas sample showing a pH of 7.22, a Pa_(CO2) of 65 mmHg, and a bicarbonate of 25 mEq/L is consistent with a state of acute, uncompensated respiratory acidosis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "Inspiration results in an increase in the resistance of the alveolar vessels (capillaries) but a decrease in the resistance of the extra-alveolar vessels.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

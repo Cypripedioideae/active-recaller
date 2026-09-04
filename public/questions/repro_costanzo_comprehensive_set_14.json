@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-repro-review-14",
+  "title": "Reproductive Comprehensive Set 2: Female Physiology - Oogenesis (MCQ)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 24-year-old woman is on day 6 of her menstrual cycle. An ultrasound of her ovaries reveals that one follicle has significantly outpaced its cohorts in size, while the others are beginning to undergo atresia. Which of the following best describes the physiological selection mechanism for this \"dominant follicle\"?",
+      "options": [
+        "It is the follicle that has most effectively up-regulated its own FSH receptors via local estradiol production.",
+        "It is the only follicle that possesses LH receptors on its theca cells at this stage.",
+        "It has developed a higher concentration of progesterone in its antral fluid to inhibit neighboring follicles.",
+        "It is the follicle that has successfully completed its first meiotic division earliest.",
+        "It is the only follicle currently capable of synthesizing cholesterol from acetate."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A pathologist is examining an ovary from a 22-year-old woman. He identifies a follicle characterized by a large, fluid-filled central cavity and an oocyte surrounded by a cluster of granulosa cells. Which of the following is true regarding the oocyte within this specific follicle?",
+      "options": [
+        "It has completed the second meiotic division and is haploid (1N).",
+        "It is currently arrested in the prophase of the first meiotic division.",
+        "It has just extruded the second polar body in response to the LH surge.",
+        "It is a diploid 4N cell that has completed its mitotic divisions in the last month.",
+        "It will remain in its current meiotic state even after fertilization occurs."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 7-year-old girl and a 27-year-old woman both have primordial follicles in their ovaries. Which of the following best describes the difference in follicular development between these two individuals?",
+      "options": [
+        "The child's follicles lack theca cells, which only develop after the onset of menarche.",
+        "The child's oocytes are arrested in metaphase II, while the woman's are in prophase I.",
+        "The child's follicles cannot progress to the antral stage due to the lack of pulsatile gonadotropin stimulation.",
+        "The child's ovaries have a higher number of oogonia undergoing active mitosis.",
+        "The child's oocytes have already completed the first meiotic division."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 28-year-old woman experiences ovulation on day 14 of her cycle. If fertilization does not occur, the corpus luteum will begin to regress approximately 12 days later. This regression is primarily triggered by which of the following?",
+      "options": [
+        "A sudden increase in FSH that stimulates the growth of a new cohort.",
+        "The positive feedback of progesterone on the anterior pituitary.",
+        "The paracrine action of relaxin on the granulosa-lutein cells.",
+        "The lack of human chorionic gonadotropin (hCG) to maintain steroidogenic activity.",
+        "The completion of the second meiotic division by the unfertilized oocyte."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 52-year-old woman is transitioning into menopause. Laboratory tests reveal significantly elevated levels of FSH and LH. Which of the following best explains the cellular basis for the cessation of her menstrual cycles?",
+      "options": [
+        "The hypothalamus has become insensitive to the negative feedback of inhibin.",
+        "The anterior pituitary has developed a resistance to GnRH pulses.",
+        "The remaining oocytes have completed their second meiotic division prematurely.",
+        "The theca cells are no longer able to convert androstenedione to estradiol.",
+        "The pool of functional ovarian follicles has been depleted through years of ovulation and atresia."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "During the \"two-cell theory\" of follicular steroidogenesis, the granulosa cells are noted to be highly dependent on the theca cells for the production of estradiol. What is the specific biochemical reason for this dependence?",
+      "options": [
+        "Granulosa cells lack the enzyme 17\u03b1-hydroxylase and cannot produce androgens.",
+        "Theca cells are the only cells that possess aromatase activity.",
+        "Granulosa cells cannot respond to FSH without prior LH stimulation of the theca cells.",
+        "Theca cells secrete progesterone, which acts as the only precursor for granulosa-derived estrogens.",
+        "Granulosa cells are located outside the blood-ovary barrier and cannot access LDL."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A researcher is studying the first meiotic division in human oocytes. He notes that this division is completed at a very specific temporal point. When does this typically occur?",
+      "options": [
+        "At the moment the sperm penetrates the zona pellucida.",
+        "Just prior to the rupture of the Graafian follicle during ovulation.",
+        "During the transition from a primordial follicle to a primary follicle.",
+        "Immediately following the selected follicle's arrival in the uterine cavity.",
+        "At the peak of the HCG concentration during the first trimester."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "In a secondary (antral) follicle, the fluid that accumulates in the antrum is found to have a very high concentration of several substances. Which of the following would be found in the highest relative concentration within this fluid compared to the systemic circulation?",
+      "options": [
+        "Testosterone.",
+        "Prolactin.",
+        "FSH and Estradiol.",
+        "Oxytocin and ADH.",
+        "Lactic acid and Urea."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A woman with a regular 32-day menstrual cycle is trying to determine her most fertile window. Based on the constant nature of the luteal phase, on which day is she most likely to undergo ovulation?",
+      "options": [
+        "Day 14.",
+        "Day 16.",
+        "Day 17.",
+        "Day 18.",
+        "Day 21."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "The LH surge is the definitive signal for ovulation. Aside from follicular rupture, which of the following is a direct effect of this surge on the oocyte itself?",
+      "options": [
+        "It initiates the mitotic proliferation of the surrounding stroma.",
+        "It triggers the closing of the gap junctions between the oocyte and granulosa cells.",
+        "It stimulates the oocyte to synthesize its own supply of HCG.",
+        "It causes the oocyte to enter the prophase of the first meiotic division.",
+        "It induces the completion of the first meiotic division, resulting in a secondary oocyte."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A 30-year-old woman is pregnant. Her corpus luteum remains functional throughout the first trimester. If the corpus luteum were to be removed at week 4 of gestation, what would be the most likely outcome?",
+      "options": [
+        "Spontaneous abortion due to the sudden drop in progesterone.",
+        "Normal continuation of pregnancy as the placenta is already the primary source of steroids.",
+        "Accelerated fetal lung maturation due to a compensatory rise in cortisol.",
+        "Development of a male phenotype in an XX fetus due to lack of estrogen.",
+        "Conversion of the remaining follicles into a large syncytiotrophoblast."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "In the process of oogenesis, the first meiotic division is asymmetric. What is the primary physiological purpose of producing a small, non-functional first polar body?",
+      "options": [
+        "To provide a source of mitochondria for the remaining oocyte.",
+        "To reduce the chromosome number to haploid while conserving the cytoplasm for the oocyte.",
+        "To signal the theca cells to begin the process of luteinization.",
+        "To act as a physical barrier to prevent polyspermy during fertilization.",
+        "To synthesize the enzymes required for the acrosomal reaction."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A 14-year-old girl is experiencing her first several menstrual cycles. Her physician explains that these cycles are likely anovulatory. What is the most likely reason why ovulation does not occur in these early cycles?",
+      "options": [
+        "There is a total absence of primordial follicles in the ovaries at this age.",
+        "FSH levels are consistently higher than LH levels, preventing any follicular growth.",
+        "The positive feedback mechanism of estrogen on the anterior pituitary is not yet mature.",
+        "The ovaries are producing only androstenedione and cannot yet synthesize estradiol.",
+        "The hypothalamic pulse generator is secreting GnRH in a continuous, rather than pulsatile, pattern."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "Comparison of gametogenesis between the two sexes reveals fundamental differences. While a male produces four functional gametes from one primary spermatocyte, a female produces how many functional gametes from one primary oocyte?",
+      "options": [
+        "Four functional ova.",
+        "Two functional ova and two polar bodies.",
+        "Three functional ova and one polar body.",
+        "One functional ovum and two or three polar bodies.",
+        "Zero functional gametes until the menopause transition."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "At the end of the follicular phase, estradiol reaches a threshold that triggers the LH surge. Which of the following changes occurs in the anterior pituitary to facilitate this massive release of gonadotropins?",
+      "options": [
+        "Decrease in the number of GnRH receptors to prevent overstimulation.",
+        "Shift in the second messenger system from cAMP to cGMP.",
+        "Down-regulation of the inhibin receptors on the gonadotrophs.",
+        "Direct inhibition of the dopamine-secreting neurons in the hypothalamus.",
+        "Up-regulation of GnRH receptors, increasing the sensitivity of the pituitary to GnRH."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

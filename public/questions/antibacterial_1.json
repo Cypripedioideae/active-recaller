@@ -1,0 +1,148 @@
+{
+  "id": "antibacterial-agents-1",
+  "title": "Antibacterial Agents 1",
+  "topic": "Antibacterial Agents",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which antibacterial agent exerts its effect by binding to the D-Ala-D-Ala terminus of nascent peptidoglycan pentapeptides, thereby sterically hindering peptidoglycan cross-linking and polymerization?",
+      "options": [
+        "Vancomycin",
+        "Ciprofloxacin",
+        "Gentamicin",
+        "Amoxicillin",
+        "Bacitracin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 24-year-old woman presents with a thin, grayish-white vaginal discharge and a \"fishy\" odor that intensifies after adding KOH to the sample. Which of the following antibacterial is used as the drug of choice for this condition and act by mechanisms involving DNAs?",
+      "options": [
+        "Azithromycin",
+        "Clindamycin",
+        "Ciprofloxacin",
+        "Rifampin",
+        "Metronidazole"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 23-week pregnant patient requires treatment for an acute uncomplicated cystitis. Which of the following drugs is appropriate for this patient?",
+      "options": [
+        "Trimethoprim-sulfamethoxazole",
+        "Ciprofloxacin",
+        "Doxycycline",
+        "Amikacin",
+        "Nitrofurantoin"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A member of which class of antibacterial agents inhibits bacterial cell wall synthesis by interfering with the movement of peptidoglycan precursors across the cytoplasmic membrane?",
+      "options": [
+        "Monobactams",
+        "Cephalosporins",
+        "Glycopeptides",
+        "Polypeptides",
+        "Carbapenems"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 7-year-old child presents with a localized skin infection caused by Methicillin-Susceptible Staphylococcus aureus (MSSA). Which of the following is a first-line oral antibiotic for this condition?",
+      "options": [
+        "Dicloxacillin",
+        "Piperacillin",
+        "Amoxicillin",
+        "Benzathine penicillin G",
+        "Penicillin V"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient undergoing treatment for *Mycobacterium tuberculosis* complains that their tears and urine have turned an orange-red colour. Which bacterial enzyme is specifically inhibited by the antibiotic responsible for this side effect?",
+      "options": [
+        "Mycolic acid synthase",
+        "Enolpyruvate transferase",
+        "DNA-dependent RNA polymerase",
+        "DNA gyrase",
+        "Arabinosyl transferase"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 12-year-old boy requires treatment for a suspected Gram-negative infection. Which antibiotic class should be avoided in this patient due to its potential to cause damage to developing cartilage and tendons?",
+      "options": [
+        "Aminoglycosides",
+        "Carbapenems",
+        "Tetracyclines",
+        "Fluoroquinolones",
+        "Macrolides"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Which of the following \u03b2-lactam antibiotics is unique among cephalosporins for its clinical activity against Methicillin-Resistant Staphylococcus aureus (MRSA)?",
+      "options": [
+        "Cefuroxime",
+        "Ceftaroline",
+        "Cefepime",
+        "Cefazolin",
+        "Ceftazidime"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Which antibiotic prevents the formation of the bacterial initiation complex by specifically binding to the 50S ribosomal subunit?",
+      "options": [
+        "Clindamycin",
+        "Linezolid",
+        "Doxycycline",
+        "Tetracycline",
+        "Amikacin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Azithromycin is frequently used to treat atypical pneumonia caused by *Mycoplasma pneumoniae*. Which of the following best describes its primary mechanism of action?",
+      "options": [
+        "Prevention of polypeptide elongation at the 50S ribosome",
+        "Inhibition of DNA gyrase and topoisomerase IV",
+        "Binding to the 30S ribosomal subunit to block mRNA translation",
+        "Inhibition of cell wall peptidoglycan synthesis",
+        "Disruption of the bacterial cell membrane integrity"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    }
+  ]
+}

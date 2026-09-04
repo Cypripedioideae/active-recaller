@@ -1,0 +1,197 @@
+{
+  "id": "comprehensive-renal-review-5",
+  "title": "Renal Comprehensive Set 1: Sodium and ECF Regulation (Short Answer)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What primary factor determines the volume of the extracellular fluid (ECF) compartment?",
+      "modelAnswer": "Total body Na^+ content (sodium balance).",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Approximately what percentage of the filtered load of sodium is typically excreted in the final urine under normal conditions?",
+      "modelAnswer": "Less than 1%.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Which specific portion of the nephron is responsible for the bulk reabsorption of filtered sodium (approximately 67%)?",
+      "modelAnswer": "The proximal convoluted tubule.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Identify four solutes that are reabsorbed via Na^+-dependent cotransport in the early proximal tubule.",
+      "modelAnswer": "Glucose, amino acids, phosphate, lactate, or citrate.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Explain the role of the Na^+-H^+ exchanger in the early proximal tubule regarding bicarbonate handling.",
+      "modelAnswer": "It secretes H^+ into the lumen to combine with filtered HCO_3^-, ultimately allowing for the reabsorption of HCO_3^-as CO2 .",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "What is the primary energy source for the secondary active transport of sodium across the luminal membrane?",
+      "modelAnswer": "The Na^+ concentration gradient established and maintained by the basolateral Na^+/K^+ ATPase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Why does the chloride (Cl^- ) concentration in the tubular fluid increase as it moves through the early proximal tubule?",
+      "modelAnswer": "Because HCO_3^-is preferentially reabsorbed in the early proximal tubule, leaving Cl^-behind to be concentrated as water follows the HCO_3^- .",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Describe the two mechanisms (cellular and paracellular) of NaCl reabsorption in the late proximal tubule.",
+      "modelAnswer": "Cellular: Na^+-H^+ and Cl^--formate exchangers. Paracellular: Cl^-  diffusion down its concentration gradient, creating a lumen-positive potential that drives Na^+ reabsorption.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "What does the term \"isosmotic reabsorption\" signify regarding the relationship between solute and water in the proximal tubule?",
+      "modelAnswer": "It means solute and water reabsorption are coupled and occurs in exact proportion (e.g., 67% of both are reabsorbed).",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Which Starling force in the peritubular capillaries is the most significant driving force for isosmotic fluid reabsorption?",
+      "modelAnswer": "High peritubular capillary oncotic pressure (\u03c0c ).",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Define the physiologic concept of \"glomerulotubular (G-T) balance.\"",
+      "modelAnswer": "The mechanism that ensures a constant fraction (percentage) of the filtered load is reabsorbed by the proximal tubule, regardless of changes in GFR.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "How does an increase in filtration fraction specifically enhance proximal tubule reabsorption in the context of G-T balance?",
+      "modelAnswer": "A higher filtration fraction increases the protein concentration and \u03c0c  of the peritubular capillary blood, which increases the driving force for reabsorption.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "What are the effects of ECF volume expansion on the peritubular capillary Starling forces?",
+      "modelAnswer": "It decreases \u03c0c(via dilution) and increases hydrostatic pressure (Pc ).",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "How does Angiotensin II contribute to \"contraction alkalosis\" via its action on the proximal tubule?",
+      "modelAnswer": "It stimulates Na^+-H^+ exchange, which increases the reabsorption of Na^+, water, and filtered HCO_3^- .",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "By what mechanism do osmotic diuretics, such as mannitol, increase sodium excretion?",
+      "modelAnswer": "They increase the osmolarity of the tubular fluid, which limits the amount of water (and consequently Na^+) that can be reabsorbed isosmotically.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Name the specific transport protein found in the luminal membrane of the thick ascending limb of the loop of Henle.",
+      "modelAnswer": "The Na^+-K^+-2Cl^-  cotransporter (NKCC2).",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Why is the thick ascending limb referred to as the \"diluting segment\"?",
+      "modelAnswer": "Because it reabsorbs NaCl but is impermeable to water, thereby leaving water behind and diluting the tubular fluid.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "Explain the origin of the lumen-positive potential difference in the thick ascending limb.",
+      "modelAnswer": "It is caused by the back-leak of some reabsorbed K^+ into the lumen.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "At which specific ionic binding site do loop diuretics, such as furosemide, act on the Na^+-K^+-2Cl^-  cotransporter?",
+      "modelAnswer": "The Cl^- -binding site.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "What is the primary transport mechanism for sodium in the early distal convoluted tubule?",
+      "modelAnswer": "Na^+-Cl^- cotransport.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "Contrast the effects of thiazide diuretics and loop diuretics on urinary calcium (Ca^(2+) ) excretion.",
+      "modelAnswer": "Thiazides increase Ca^(2+)reabsorption (decreasing excretion); loop diuretics inhibit Ca^(2+)  reabsorption (increasing excretion).",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "Which specific cell type in the late distal tubule and collecting duct is responsible for sodium reabsorption?",
+      "modelAnswer": "Principal cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "List three specific proteins whose synthesis is induced by aldosterone in its target cells in the distal nephron.",
+      "modelAnswer": "Luminal Na^+ channels (ENaC), Na^+/K^+ ATPase, and mitochondrial enzymes (e.g., citrate synthase).",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "How do K^+-sparing diuretics like amiloride and spironolactone differ in their mechanism of inhibiting sodium reabsorption?",
+      "modelAnswer": "Amiloride directly blocks the luminal ENaC channels; spironolactone is a competitive antagonist of the aldosterone receptor.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Describe the effects of Atrial Natriuretic Peptide (ANP) on renal hemodynamics and sodium reabsorption.",
+      "modelAnswer": "It increases GFR (dilates afferent, constricts efferent) and decreases Na^+ reabsorption in the late distal tubule and collecting ducts.",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "short_answer",
+      "prompt": "Define \"Effective Arterial Blood Volume (EABV).\"",
+      "modelAnswer": "The portion of the ECF volume contained in the arteries that is effectively perfusing the tissues.",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "short_answer",
+      "prompt": "Explain the \"Aldosterone Escape\" phenomenon in the context of primary hyperaldosteronism.",
+      "modelAnswer": "In primary hyperaldosteronism, ECF volume expansion occurs, but persistent Na^+ retention is countered by increased ANP and increased arterial pressure (pressure natriuresis), preventing significant edema.",
+      "explanation": "-"
+    }
+  ]
+}

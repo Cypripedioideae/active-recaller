@@ -1,0 +1,218 @@
+{
+  "id": "autonomic-pharmacology-1",
+  "title": "Cholinomimetics (Short Answer)",
+  "topic": "Autonomic Pharmacology",
+  "category": "Pharmacology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "A researcher develops a novel drug that prevents the hydrolysis of the carbamyl enzyme complex during its interaction with acetylcholinesterase AChE. Compared to neostigmine what is the most likely effect on the duration of action?",
+      "modelAnswer": "The duration will increase significantly. Neostigmine's effect lasts 0.5 to 6 hours because the carbamylated enzyme is eventually hydrolyzed. Preventing this hydrolysis makes the bond essentially irreversible similar to organophosphates.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "An experimental drug activates M2 muscarinic receptors in the sinoatrial node. What is the immediate intracellular consequence?",
+      "modelAnswer": "Inhibition of adenylyl cyclase and opening of potassium channels. M2 receptors couple via Gi proteins to decrease cAMP and hyperpolarize the cell.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Why does bethanechol have negligible effects on the motor endplate compared to carbachol?",
+      "modelAnswer": "The addition of a beta methyl group. This structural modification reduces the drug's affinity for nicotinic receptors while maintaining muscarinic activity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "During the aging process of acetylcholinesterase inhibited by an organophosphate what molecular event prevents pralidoxime from working?",
+      "modelAnswer": "The loss of an alkyl group from the phosphorylated enzyme. This strengthens the covalent bond between the phosphorus and the enzyme's serine residue making it resistant to nucleophilic attack by oximes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Acetylcholine is administered intravenously at a very low dose. The patient's heart rate increases. Explain the physiological paradox?",
+      "modelAnswer": "Reflex sympathetic discharge. Low doses cause peripheral vasodilation via M3 mediated nitric oxide release leading to a drop in blood pressure that triggers a baroreceptor mediated increase in heart rate.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Compare the distribution of physostigmine and neostigmine. Which would be preferred for a central effect and why?",
+      "modelAnswer": "Physostigmine. As a tertiary amine it is uncharged and lipid soluble allowing it to cross the blood brain barrier. Neostigmine is a quaternary ammonium compound and remains ionized excluding it from the CNS.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "A laboratory animal is pre treated with atropine. Subsequent administration of a high dose indirect acting cholinomimetic fails to cause bradycardia but still results in muscle fasciculations. Why?",
+      "modelAnswer": "Atropine only blocks muscarinic receptors. Indirect acting agents increase acetylcholine levels at all cholinergic sites therefore nicotinic receptors at the neuromuscular junction remain active and susceptible to overstimulation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "A tissue sample of a denervated iris is exposed to pilocarpine and physostigmine in separate trials. Predict the results?",
+      "modelAnswer": "Pilocarpine will cause miosis. Physostigmine will have no effect. Direct agonists act on receptors directly while indirect agents require endogenous acetylcholine release which is absent in denervated tissue.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Why is malathion considered relatively safe for humans but lethal for insects?",
+      "modelAnswer": "Mammalian metabolic detoxification. Humans rapidly metabolize malathion to inactive products via plasma esterases whereas insects convert it to malaoxon the active toxic metabolite.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "In an isolated heart preparation no reflex arcs what is the effect of a high dose of acetylcholine on AV node conduction?",
+      "modelAnswer": "A decrease in conduction velocity negative dromotropy. This occurs via M2 receptor activation which inhibits cAMP and affects calcium channels.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Activation of M3 receptors on the bladder detrusor muscle leads to contraction. Identify the second messenger responsible for initiating calcium release?",
+      "modelAnswer": "Inositol trisphosphate IP3. M3 receptors activate Gq which stimulates phospholipase C to produce IP3 and DAG.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "A patient accidentally ingests a large quantity of muscarine containing mushrooms. Why is the onset of symptoms slower than if they had smoked nicotine?",
+      "modelAnswer": "Muscarine is a quaternary amine and poorly absorbed from the gastrointestinal tract. Nicotine is a tertiary amine and highly lipid soluble allowing rapid absorption across membranes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Edrophonium's bond with acetylcholinesterase is described as reversible. Describe the nature of this bond compared to neostigmine?",
+      "modelAnswer": "Edrophonium binds non covalently through electrostatic and hydrogen bonds to the active site. Neostigmine forms a covalent carbamoyl enzyme bond that must be hydrolyzed.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "How does the accentuated antagonism of the parasympathetic system affect the ventricles?",
+      "modelAnswer": "While ventricles have low muscarinic receptor density muscarinic activation inhibits sympathetic effects by reducing norepinephrine release and opposing cAMP mediated contractility.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "A drug inhibits choline acetyltransferase (ChAT). What is the specific effect on a cholinergic synapse?",
+      "modelAnswer": "Depletion of the available acetylcholine store for release. Choline acetyltransferase is responsible for synthesizing acetylcholine from choline and acetyl-CoA.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "A patient with acute angle closure glaucoma is given pilocarpine. What is the mechanical rationale for this choice?",
+      "modelAnswer": "It contracts the iris sphincter pulling the iris away from the anterior chamber angle and opening the trabecular meshwork to facilitate aqueous humor outflow.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "A patient being treated for myasthenia gravis with pyridostigmine presents with profound weakness. A Tensilon test edrophonium is performed and the patient's weakness increases. What is the diagnosis?",
+      "modelAnswer": "Cholinergic crisis. The worsening of symptoms indicates that the acetylcholinesterase inhibitor dose was already too high causing a depolarizing blockade at the neuromuscular junction.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "A farmer is brought to the ER with miosis salivation and respiratory distress. He is given atropine. Which symptom will not be relieved by this treatment?",
+      "modelAnswer": "Muscle fasciculations or weakness. These are nicotinic effects at the neuromuscular junction which are not blocked by the muscarinic antagonist atropine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Following surgery a patient remains paralyzed due to a nondepolarizing neuromuscular blocker such as pancuronium. Why is neostigmine co administered with glycopyrrolate to reverse this?",
+      "modelAnswer": "Neostigmine increases acetylcholine to compete with the blocker while glycopyrrolate an antimuscarinic is given to prevent unwanted muscarinic side effects caused by increased acetylcholine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "A physician switches a patient from tacrine to donepezil. What is the primary clinical advantage gained?",
+      "modelAnswer": "Reduced hepatotoxicity. Donepezil lacks the significant liver toxicity associated with tacrine and has a longer half life allowing for once daily dosing.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "A patient on long term neostigmine therapy is exposed to an organophosphate insecticide. Why is this patient potentially more at risk?",
+      "modelAnswer": "Cumulative acetylcholinesterase inhibition. Both agents inhibit the same enzyme and the net effect is usually extreme cholinergic excess.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "A patient with severe dry mouth is prescribed cevimeline. Why might this drug be preferred over pilocarpine?",
+      "modelAnswer": "Greater M3 receptor selectivity. Cevimeline targets M3 receptors on salivary glands more specifically potentially reducing systemic side effects.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "Why is bethanechol contraindicated in a patient with a suspected mechanical bowel obstruction?",
+      "modelAnswer": "Risk of perforation. The drug increases the force of contraction and pressure in the gastrointestinal tract and if there is an obstruction this increased pressure can rupture the bowel wall.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "A patient with a genetic deficiency in plasma cholinesterase is given succinylcholine. What is the expected clinical outcome?",
+      "modelAnswer": "Prolonged apnea. Succinylcholine is normally rapidly inactivated by plasma cholinesterase and deficiency leads to sustained depolarization of the diaphragm and respiratory paralysis.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "A patient is treated for organophosphate poisoning 4 hours after exposure. Why is pralidoxime likely to be less effective than if given within 30 minutes?",
+      "modelAnswer": "Enzyme aging. The covalent bond between the organophosphate and acetylcholinesterase has likely strengthened making it impossible for pralidoxime to regenerate the enzyme.",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "short_answer",
+      "prompt": "An elderly patient with Alzheimer's disease and controlled hypertension is started on rivastigmine. What parameter must be monitored closely?",
+      "modelAnswer": "Blood pressure. Cholinomimetics can increase systemic vascular resistance at moderate doses through ganglionic effects potentially requiring adjustment of antihypertensive therapy.",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "short_answer",
+      "prompt": "Methacholine is used to diagnose bronchial hyperreactivity. A patient shows a 20 percent drop in FEV_1 at a low dose. What does this confirm?",
+      "modelAnswer": "A diagnosis of asthma. Patients with asthma are hypersensitive to muscarinic induced bronchoconstriction even when symptoms are not clinically apparent.",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "short_answer",
+      "prompt": "A child ingests a bottle of deadly nightshade atropine. Which cholinomimetic is the specific antidote and why?",
+      "modelAnswer": "Physostigmine. It is the only acetylcholinesterase inhibitor that crosses the blood brain barrier to reverse central atropine toxicity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "short_answer",
+      "prompt": "Why is pyridostigmine preferred over neostigmine for chronic management of myasthenia gravis?",
+      "modelAnswer": "Longer duration of action. Pyridostigmine lasts 3 to 6 hours whereas neostigmine lasts 0.5 to 2 hours requiring less frequent dosing.",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "short_answer",
+      "prompt": "A patient using echothiophate for glaucoma complains of a constant brow ache. What is the cause?",
+      "modelAnswer": "Sustained contraction of the ciliary muscle. This is a common local side effect of potent long acting cholinomimetics in the eye.",
+      "explanation": "-"
+    }
+  ]
+}

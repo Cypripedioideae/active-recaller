@@ -1,0 +1,148 @@
+{
+  "id": "general-virology-1",
+  "title": "General Virology 1",
+  "topic": "General Virology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A microbiology student is comparing members of the Picornaviridae and Orthomyxoviridae families. She notes that while most picornaviruses (excluding rhinoviruses) can survive transit through the acidic environment of the gastrointestinal tract to be transmitted via the fecal-oral route, orthomyxoviruses are unable to do so. Which structural property of orthomyxoviruses primarily accounts for their susceptibility to inactivation by gastric acid?",
+      "options": [
+        "Helical capsid symmetry",
+        "Use of a viral-encoded RNA-dependent RNA polymerase",
+        "Absence of a tegument layer",
+        "Presence of a lipid-containing envelope",
+        "Possession of a segmented genome"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 30-year-old patient presents with symptoms of acute hepatitis. Laboratory serology results are negative for Hepatitis B surface antigen (HBsAg) and negative for Hepatitis B surface antibody (anti-HBs). However, the patient tests positive for IgM antibody to the Hepatitis B core antigen (IgM anti-HBc). Based on these markers, what is the most likely clinical stage of the infection?",
+      "options": [
+        "The \"window period\"",
+        "Chronic carrier state",
+        "Complete recovery and immunity",
+        "Post-vaccination status",
+        "Early acute infection"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Influenza A virus is capable of causing major global pandemics through a process known as \"antigenic shift,\" whereas the measles virus (a paramyxovirus) only undergoes minor \"antigenic drift.\" Which genomic characteristic of Influenza A allows for the reassortment of genetic material that leads to this sudden shift?",
+      "options": [
+        "Possession of a segmented RNA genome",
+        "Integration into the host cell chromosome",
+        "Use of a diploid positive-sense RNA genome",
+        "Presence of a circular RNA genome",
+        "Lack of a viral-encoded RNA polymerase"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "During the maturation of the Human Immunodeficiency Virus (HIV), the precursor glycoprotein gp160 is cleaved into two functional subunits. Which of these resulting proteins is primarily responsible for the initial attachment of the virion to the host CD4 receptor?",
+      "options": [
+        "gp41",
+        "gp120",
+        "p17",
+        "Reverse transcriptase",
+        "p24"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "While most DNA viruses utilize the host cell's nucleus for their replication and transcription, members of the Poxviridae family are unique in their ability to replicate entirely within the host cell's cytoplasm. What is the primary biochemical reason for this independence from the host nucleus?",
+      "options": [
+        "They utilize a reverse transcriptase step in the mitochondria",
+        "They carry their own viral DNA-dependent RNA polymerase",
+        "They utilize host cell ribosomes directly to translate DNA",
+        "They replicate only in the host cell's nucleolus",
+        "They possess a linear single-stranded DNA genome"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Acyclovir is clinically effective for treating Herpes Simplex Virus and Varicella-Zoster Virus infections, but it typically lacks clinical activity against Cytomegalovirus. Which biochemical factor explains why CMV is naturally resistant to the effects of acyclovir?",
+      "options": [
+        "CMV does not produce the specific thymidine kinase needed to phosphorylate the drug",
+        "CMV lacks a viral-encoded DNA polymerase",
+        "CMV utilizes a protein-based primer for DNA synthesis",
+        "Acyclovir cannot penetrate the large, complex CMV envelope",
+        "CMV replicates exclusively in the host cell cytoplasm"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Neuraminidase inhibitors, such as oseltamivir and zanamivir, are used for the treatment and prophylaxis of Influenza A and B. By inhibiting the viral neuraminidase enzyme, these drugs specifically block which stage of the viral life cycle?",
+      "options": [
+        "Attachment to host cell sialic acid receptors",
+        "Uncoating of the viral genome via M2 channels",
+        "Proteolytic processing of viral polyproteins",
+        "Transcription of negative-strand RNA into mRNA",
+        "Release of mature progeny virions from the host cell"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Rhinovirus is the most common cause of the \"common cold\" but, unlike other members of the Picornaviridae family such as Poliovirus or Hepatitis A, it does not cause gastrointestinal disease. Which property of Rhinovirus accounts for its inability to establish an infection in the digestive tract?",
+      "options": [
+        "It requires a coreceptor found only in the lung",
+        "It is an enveloped virus",
+        "It posses a ssRNA genome",
+        "It possesses a helical rather than icosahedral capsid",
+        "It replicates optimally only at 37\u00b0C"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 34-year-old HIV-positive patient is initiated on a regimen containing zidovudine (AZT). The healthcare team plans to monitor the patient's complete blood count regularly to assess for toxicity. Which dose-limiting adverse effect of this medication are they primarily monitoring for?",
+      "options": [
+        "Stevens-Johnson syndrome",
+        "Acute pancreatitis and lactic acidosis",
+        "Reversible sensory peripheral neuropathy",
+        "Obstructive crystalline nephropathy",
+        "Myelosuppression resulting in anemia"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Researchers attempting to develop a vaccine for the Hepatitis C virus have faced significant challenges due to the virus's rapid genetic evolution and high degree of antigenic variation. Which biochemical characteristic of the HCV replication cycle is responsible for this genetic instability?",
+      "options": [
+        "Formation of circular partially double-stranded DNA intermediates",
+        "Integration of the viral genome into host chromosomes as a provirus",
+        "Lack of 3'-5' exonuclease proofreading activity in the RNA polymerase",
+        "High error rate of the viral-encoded reverse transcriptase",
+        "Requirement of a helper virus for successful viral assembly"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

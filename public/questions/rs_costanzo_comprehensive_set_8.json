@@ -1,0 +1,113 @@
+{
+  "id": "comprehensive-rs-review-8",
+  "title": "Comprehensive Respiratory Set 1: Integrative Physiology (Short Answer)",
+  "topic": "Comprehensive RS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the typical status of the A-a gradient in a person suffering from hypoxemia strictly due to high altitude?",
+      "modelAnswer": "The A-a gradient remains normal (<10 mmHg).",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Which renal enzyme is inhibited by acetazolamide, and how does the resulting change in bicarbonate excretion facilitate high-altitude acclimatization?",
+      "modelAnswer": "Carbonic anhydrase; it increases bicarbonate excretion, causing a mild metabolic acidosis that offsets respiratory alkalosis and stabilizes the drive to breathe.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "During moderate exercise, do the mean values of arterial P_(O2)and P_(CO2)  typically increase, decrease, or remain constant?",
+      "modelAnswer": "They remain constant.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "What is the clinical term for the increase in ventilation rate that specifically matches the increased VO2and VCO2  during exercise?",
+      "modelAnswer": "Hyperpnea.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "List the three primary factors that cause the O2 -haemoglobin dissociation curve to shift to the right during physical exertion.",
+      "modelAnswer": "Increased P_(CO2), decreased pH (increased H^+), and increased temperature.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "In a patient with emphysema, how is the slope of the pressure-volume curve altered compared to a healthy individual?",
+      "modelAnswer": "The slope is steeper, representing increased lung compliance.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Define the FEV_1 /FVC ratio and state its approximate normal value in a healthy adult.",
+      "modelAnswer": "It is the fraction of the forced vital capacity expired in one second; normal value is approximately 0.8 (80%).",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "How is the total lung capacity (TLC) typically affected in restrictive lung diseases such as pulmonary fibrosis?",
+      "modelAnswer": "TLC is decreased.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Which specific lung volumes or capacities are increased in obstructive lung diseases due to the phenomenon of \"air trapping\"?",
+      "modelAnswer": "Residual Volume (RV), Functional Residual Capacity (FRC), and Total Lung Capacity (TLC).",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Describe the effect of chronic global alveolar hypoxia at high altitude on pulmonary vascular resistance and right ventricular morphology.",
+      "modelAnswer": "It causes increased pulmonary vascular resistance (pulmonary hypertension) and right ventricular hypertrophy.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Which specific classification of hypoxia is characterized by a normal Pa_(O2)and normal O2delivery but an abnormally high P_(O2)  in mixed venous blood?",
+      "modelAnswer": "Histotoxic hypoxia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Distinguish between \"pink puffers\" and \"blue bloaters\" regarding their arterial P_(CO2)  levels and the presence of secondary heart failure.",
+      "modelAnswer": "Pink puffers (primarily emphysema) have relatively normal P_(CO2); blue bloaters (primarily bronchitis) have hypercapnia and right ventricular failure (edema).",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Why does the administration of 100% O2have a limited effect on raising Pa_(O2)  in a patient with a significant right-to-left cardiac shunt?",
+      "modelAnswer": "Because the shunted blood never contacts ventilated alveoli, continuing to dilute the oxygenated blood regardless of inspired P_(O2).",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Identify the specific stimulus for the renal synthesis of erythropoietin during the process of high-altitude adaptation.",
+      "modelAnswer": "Renal hypoxia (decreased oxygen delivery to the kidneys).",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What happens to the distribution of ventilation/perfusion (V\u02d9/Q\u02d9 ) ratios throughout the lung during strenuous exercise?",
+      "modelAnswer": "The distribution ofV\u02d9/Q\u02d9ratios becomes more uniform or even.",
+      "explanation": "-"
+    }
+  ]
+}

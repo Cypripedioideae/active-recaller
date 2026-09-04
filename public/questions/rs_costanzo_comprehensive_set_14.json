@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-rs-review-14",
+  "title": "Comprehensive Respiratory Set 2: Pulmonary Circulation and V/Q (MCQ)",
+  "topic": "Comprehensive RS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 65-year-old patient with severe hypovolaemia is placed on positive pressure ventilation. If his pulmonary arterial pressure falls significantly, which of the following best describes the physiological status of the lung's apex?",
+      "options": [
+        "Ventilation decreases, resulting in a V/Q ratio of zero.",
+        "Alveolar pressure exceeds arterial pressure (PA>Pa), creating alveolar dead space.",
+        "Perfusion increases due to the recruitment of previously closed capillaries.",
+        "The region enters Zone 3, where flow is driven by the Pa-Pv  gradient.",
+        "Hypoxic pulmonary vasoconstriction occurs to redirect flow to the base."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A researcher measures pulmonary vascular resistance (PVR) across different lung volumes. He notes that as a subject inspires from functional residual capacity (FRC) to total lung capacity (TLC), the total PVR increases. Which of the following is the most likely mechanistic explanation for this increase at high volumes?",
+      "options": [
+        "Extra-alveolar vessels are compressed by the increasingly negative intrapleural pressure.",
+        "The decrease in total lung cross-sectional area leads to a rise in flow velocity.",
+        "Recruitment of new parallel vascular beds is inhibited by reduced cardiac output.",
+        "Sympathetic discharge causing generalized vasodilation is overwhelmed by mechanical stretch.",
+        "Alveolar capillaries are stretched and crushed by the expansion of the air-filled alveoli."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 55-year-old man has a pulmonary embolism that completely blocks the blood flow to a specific region of his right lung. In the alveoli of this non-perfused but ventilated region, what is the expected gas composition?",
+      "options": [
+        "P_(O2)=40 mmHg,P_(CO2)=46 mmHg.",
+        "P_(O2)=100 mmHg,P_(CO2)=40 mmHg.",
+        "P_(O2)=150 mmHg,P_(CO2)=0 mmHg.",
+        "P_(O2)=47 mmHg,P_(CO2)=40 mmHg.",
+        "P_(O2)=120 mmHg,P_(CO2) =27 mmHg."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 4-year-old child with a large right-to-left cardiac shunt presents with cyanosis. Despite the administration of 100% oxygen, his arterial P_(O2)remains significantly below normal. Which statement best explains this physiological observation?",
+      "options": [
+        "Alveolar P_(O2)  cannot be increased by supplemental oxygen in the presence of a shunt.",
+        "The peripheral chemoreceptors are inhibited by high inspired oxygen, suppressing ventilation.",
+        "100% oxygen decreases the affinity of hemoglobin for oxygen via the Bohr effect.",
+        "The shunt results in dead space where oxygen cannot reach the blood.",
+        "The shunted blood never reaches ventilated alveoli and dilutes the oxygenated blood returning from the lungs."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Analysis of an upright lung reveals that the apex has a ventilation/perfusion (V/Q) ratio of 3.0, while the base has a ratio of 0.6. Based on these ratios, which of the following is true regarding gas exchange in these regions?",
+      "options": [
+        "The base has higher Pa_(O2)than the apex.",
+        "The apex has a lower Pa_(O2)than the base.",
+        "The base has a lower Pa_(CO2)than the apex.",
+        "The apex has a lower Pa_(CO2)and higher Pa_(O2)  than the base.",
+        "Both regions have identical capillary gas partial pressures due to rapid equilibration."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A healthy resident of a sea-level city flies to a high-altitude research station (PA_(O2) <70 mmHg). Which of the following describes the immediate pulmonary vascular response and the potential long-term cardiac adaptation?",
+      "options": [
+        "Arteriolar vasoconstriction; right ventricular hypertrophy.",
+        "Decreased pulmonary vascular resistance; left ventricular hypertrophy.",
+        "Arteriolar vasodilation; increased stressed volume.",
+        "Recruitment of alveolar capillaries; decreased right ventricular afterload.",
+        "Increased nitric oxide production; decreased pulmonary arterial pressure."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient undergoes cardiac catheterization to evaluate for pulmonary hypertension. The mean pulmonary artery pressure is 35 mmHg, the pulmonary wedge pressure is 15 mmHg, and the cardiac output is 4 L/min. What is the patient's calculated pulmonary vascular resistance (PVR)?",
+      "options": [
+        "0.2 mmHg/L/min.",
+        "8.75 mmHg/L/min.",
+        "5.0 mmHg/L/min.",
+        "15.0 mmHg/L/min.",
+        "80.0 mmHg/L/min."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Hypoxic pulmonary vasoconstriction (HPV) is a critical regulatory mechanism in the lung. Which of the following best describes the cellular mechanism and the physiological purpose of HPV?",
+      "options": [
+        "Hyperpolarization of smooth muscle cells to increase total blood flow.",
+        "Depolarization of vascular smooth muscle by closing potassium channels to match perfusion with ventilation.",
+        "Opening of voltage-gated sodium channels to increase pulmonary arterial pressure.",
+        "Inhibition of nitric oxide synthase to decrease the work of the right ventricle.",
+        "Activation of muscarinic receptors to dilate vessels in hypoxic zones."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "During strenuous exercise, several changes occur in the pulmonary circulation. Which statement correctly analyzes the effect of these changes on the distribution of V/Q ratios?",
+      "options": [
+        "The V/Q ratio at the apex increases significantly compared to rest.",
+        "Pulmonary vascular resistance increases to prevent pulmonary edema.",
+        "The A-a gradient increases because gas exchange becomes perfusion-limited.",
+        "The distribution of V/Q ratios becomes more uniform throughout the lung as cardiac output rises.",
+        "Alveolar ventilation increases less than cardiac output, lowering the overall V/Q ratio."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A healthy individual is standing upright. Which of the following best analyzes the physiological reason why ventilation is better at the base than at the apex?",
+      "options": [
+        "The intrapleural pressure at the base is less negative, keeping the basal alveoli on the steep, compliant portion of their volume-pressure curve.",
+        "The apical alveoli are smaller and more compliant than the basal alveoli.",
+        "The transpulmonary pressure is higher at the base, forcing more air into the alveoli.",
+        "Surfactant density is higher at the base, reducing the work of breathing.",
+        "Gravity pulls the diaphragm downward, increasing the volume of the basal airways more than the apical ones."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    }
+  ]
+}

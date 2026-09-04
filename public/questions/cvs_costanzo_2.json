@@ -1,0 +1,358 @@
+{
+  "id": "cvs-true-false-2",
+  "title": "Cardiovascular Physiology 2",
+  "topic": "True-False CVS",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "Doubling the length of a systemic blood vessel while keeping all other factors constant will result in a doubling of the hydrodynamic resistance to blood flow.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "In a series arrangement of blood vessels, such as within a single organ, the total vascular resistance is calculated as the sum of the individual resistances of each segment.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "According to the relationship between flow, pressure, and resistance, doubling the pressure gradient across a vessel while keeping its resistance constant will lead to a 50% reduction in blood flow.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "In a patient with polycythemia, the resulting increase in blood viscosity leads to a decrease in the Reynolds number, which tends to suppress the formation of bruits.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "If the internal radius of an arteriole decreases by exactly 10%, the resistance to blood flow through that vessel increases by approximately 52%.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "The absolute refractory period of the ventricular myocardium is shortened during periods of high sympathetic nerve activity to the heart.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "The duration of an action potential in a typical skeletal muscle fiber is significantly longer than the duration of an action potential in a cardiac ventricular muscle cell.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "Phase 1 of the ventricular action potential (initial repolarization) is primarily produced by a net inward sodium current and a simultaneous outward chloride current.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "A negative chronotropic effect in the sinoatrial node is achieved when the slope of the Phase 4 spontaneous depolarization is increased.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "Digoxin increases the risk of cardiac arrhythmias because the inhibition of the sodium-potassium pump leads to a cumulative increase in intracellular calcium via the sodium-calcium exchanger.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "If the membrane permeability of a resting cardiac cell to sodium ions were to increase suddenly, the resting membrane potential would shift in the direction of the potassium equilibrium potential.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "The \"v\" wave observed in a standard jugular venous pulse recording corresponds to the period of the cardiac cycle when the atrium is filling against a closed atrioventricular valve.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "The fourth heart sound (S4) is a low-frequency sound typically produced during the period of diastasis when ventricular filling is at its slowest.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "The T wave on a standard electrocardiogram occurs during the reduced ventricular ejection phase, signaling the onset of ventricular repolarization.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "Left ventricular volume reaches its absolute maximum value at the end of the atrial systole phase of the cardiac cycle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "In a patient with significant mitral valve stenosis, the measured pulmonary capillary wedge pressure is typically higher than the left ventricular end-diastolic pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "The rapid drop in ventricular pressure during isovolumetric relaxation is primarily facilitated by the active sequestration of calcium into the sarcoplasmic reticulum by the SERCA pump.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "Afferent sensory information from the aortic arch baroreceptors is transmitted to the medullary vasomotor centers via the glossopharyngeal nerve (CN IX).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "Angiotensin II serves as a potent regulator of sodium balance by directly stimulating the Na^+-H^+ exchange mechanism in the renal proximal convoluted tubule.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "In response to a sudden increase in mean arterial pressure, the baroreceptor reflex directs a decrease in the firing rate of the medullary cardiac accelerator center.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "A decrease in arterial compliance, as commonly observed in atherosclerosis, leads to an increase in systolic pressure and a concomitant decrease in diastolic pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "In a patient with Conn's syndrome (primary hyperaldosteronism), the high circulating levels of aldosterone lead to a feedback-mediated decrease in the plasma concentration of renin.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "During the Valsalva maneuver, the rebound bradycardia observed immediately after the release of the breath is caused by the baroreceptor response to a sudden surge in cardiac output.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "Under normal physiological conditions, the interstitial fluid oncotic pressure is significantly higher than the capillary oncotic pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "The filtration coefficient (Kf) is a measure of the capillary wall's water permeability and is determined by both the total surface area and the hydraulic conductance of the membrane.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "An increase in the resistance of the venous system (post-capillary resistance) leads to a significant decrease in the capillary hydrostatic pressure (Pc).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "The \"autotransfusion\" mechanism observed during severe hypovolemia involves a net shift of fluid from the vascular compartment into the interstitial space.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "Nephrotic syndrome promotes the formation of generalized edema because the loss of plasma proteins in the urine leads to a decrease in the capillary oncotic pressure (\u03c0c).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "In a capillary bed where the hydrostatic pressure gradient (Pc - Pi) is exactly balanced by the oncotic pressure gradient (\u03c0c - \u03c0i), no net movement of water occurs across the capillary wall.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "Mean systemic filling pressure is a value primarily determined by the total blood volume and venous compliance, remaining independent of changes in total peripheral resistance.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "On a combined graph, the intersection of the cardiac function curve and the vascular function curve identifies the operating point where right atrial pressure is equal to mean arterial pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "A decrease in venous compliance, which shifts blood from the unstressed to the stressed volume, results in a leftward, non-parallel shift of the vascular function curve.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "An increase in myocardial contractility, such as that produced by catecholamines, shifts the cardiac function curve to the right and results in a higher steady-state right atrial pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "Following an acute hemorrhage, the steady-state operating point of the cardiovascular system shifts to a position characterized by both a lower cardiac output and a lower right atrial pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "An increase in total peripheral resistance (TPR) results in a clockwise rotation of the vascular function curve, representing an increase in the ease of blood flow back to the heart for a given right atrial pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "During strenuous physical exercise, the arteriovenous (a-v) oxygen content difference typically decreases because the increase in cardiac output outweighs the increase in tissue oxygen extraction.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "The \"central command\" response to exercise initiates an immediate increase in sympathetic outflow to the heart and systemic arterioles before local vasodilator metabolites accumulate in the muscle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "In the minutes immediately following an acute hemorrhage, the hematocrit remains unchanged because the lost fluid and red blood cells are removed from the circulation in equal proportions.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "The Bainbridge reflex is a compensatory mechanism that increases the heart rate when low-pressure atrial receptors detect an increase in blood volume, preventing venous congestion.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "In an individual who is standing still, the gradual increase in interstitial hydrostatic pressure in the lower limbs promotes further capillary filtration.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "During strenuous exercise, the increase in mean arterial pressure is proportionately much smaller than the increase in cardiac output due to a significant reduction in the total peripheral resistance.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "The rate of blood flow to the brain is primarily regulated by systemic baroreceptor reflexes rather than by the local tissue partial pressure of carbon dioxide (PCO\u2082).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "In the cutaneous circulation, the primary physiological function of the sympathetic noradrenergic nerves is to regulate heat dissipation by altering the resistance of skin arterioles.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "During the phase of isovolumetric contraction, coronary blood flow to the left ventricular myocardium is at its maximum because the aortic pressure is high.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "In the coronary circulation, autoregulation of blood flow is primarily mediated by the myogenic response of the arterioles to changes in transmural pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "A patient with a head injury and severely increased intracranial pressure may exhibit reflex bradycardia as a result of the baroreceptor response to a massive, Cushing-induced rise in systemic blood pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "Left ventricular stroke work is defined mathematically as the product of the stroke volume and the mean aortic pressure against which the blood is ejected.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "In a normal individual, the first heart sound (S1) is heard at a point in time that occurs just after the peak of the T wave on a standard electrocardiogram.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "An increase in the ventricular ejection fraction, provided that preload is constant, is almost always associated with a decrease in the end-systolic volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "If a person's cardiac output remains constant at 5 L/min, a decrease in the mixed venous oxygen content from 15 mL/dL to 10 mL/dL implies that the total oxygen consumption of the body has doubled.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

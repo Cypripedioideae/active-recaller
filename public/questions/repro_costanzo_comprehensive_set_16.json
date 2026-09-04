@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-repro-review-16",
+  "title": "Reproductive Comprehensive Set 2: Menstrual Cycle (MCQ)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A woman with a regular 35-day menstrual cycle is attempting to predict her most fertile window. On which day of her cycle is ovulation most likely to occur?",
+      "options": [
+        "Day 12.",
+        "Day 14.",
+        "Day 21.",
+        "Day 24.",
+        "Day 28."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "During a normal menstrual cycle, a critical shift in the feedback relationship between ovarian steroids and the anterior pituitary triggers the mid-cycle gonadotropin surge. Which condition is necessary to initiate this positive feedback loop?",
+      "options": [
+        "Sustained estradiol levels of at least 200 pg/mL.",
+        "A sudden decrease in the frequency of GnRH pulses.",
+        "Regression of the previous cycle's corpus albicans.",
+        "Inhibition of the cholesterol desmolase enzyme in theca cells.",
+        "Up-regulation of progesterone receptors in the hypothalamus."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 26-year-old woman tracking her basal body temperature (BBT) notices a sustained rise of approximately 0.5\u00b0F starting on day 15 of her cycle. Which of the following best explains the physiological basis for this rise?",
+      "options": [
+        "The LH surge causes a transient increase in systemic metabolic rate.",
+        "Progesterone increases the set-point temperature in the hypothalamic thermoregulatory center.",
+        "Estradiol stimulates the release of pyrogens from the developing Graafian follicle.",
+        "Increased synthesis of Na^+/K^+ ATPase in the liver during the follicular phase.",
+        "Direct stimulation of beta receptors in brown fat by circulating androstenedione."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A medical student examines a sample of cervical mucus and observes that it is thick, non-elastic, and does not exhibit a \"ferning\" pattern under the microscope. This mucus profile is most characteristic of which phase of the cycle?",
+      "options": [
+        "Mid-follicular phase.",
+        "Preovulatory phase.",
+        "Menses.",
+        "Early proliferative phase.",
+        "Mid-luteal phase."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 19-year-old marathon runner with very low body fat presents with secondary amenorrhea. Her laboratory results show significantly reduced levels of FSH, LH, and estradiol. Which of the following is the most likely upstream cause of her hormonal profile?",
+      "options": [
+        "Primary failure of the ovaries to respond to FSH.",
+        "Hyperprolactinemia caused by excessive nipple stimulation during exercise.",
+        "Competitive inhibition of GnRH receptors by high levels of cortisol.",
+        "Reduced leptin levels leading to suppression of the hypothalamic GnRH pulse generator.",
+        "Premature closure of the epiphyseal plates."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "In the \"two-cell theory\" of ovarian steroidogenesis, which action is specifically mediated by Follicle-Stimulating Hormone (FSH) to enable the production of the major ovarian estrogen?",
+      "options": [
+        "Stimulation of cholesterol desmolase in the theca interna cells.",
+        "Conversion of progesterone to androstenedione in the theca cells.",
+        "Stimulation of aromatase activity in the granulosa cells.",
+        "Phosphorylation of 17\u03b2-hydroxysteroid dehydrogenase in theca cells.",
+        "Down-regulation of LH receptors in the dominant follicle."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "If a woman fails to conceive during a cycle, the corpus luteum begins to regress approximately 10-12 days after ovulation. What is the immediate consequence of this regression on the endometrium?",
+      "options": [
+        "Proliferation of the functional layer due to a lack of inhibitory progesterone.",
+        "Abrupt withdrawal of estradiol and progesterone, triggering menses.",
+        "Increased synthesis of HCG by the spiral arteries.",
+        "Transformation of the functional layer into the decidua.",
+        "Up-regulation of FSH receptors in the uterine stroma."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "During the selection of the dominant follicle, one follicle thrives while others undergo atresia despite falling systemic FSH levels. What is the primary mechanism for this selection?",
+      "options": [
+        "The dominant follicle up-regulates its own FSH receptors via local estradiol production.",
+        "It is the only follicle that possesses 17,20-lyase activity at this stage.",
+        "It synthesizes 11\u03b2-hydroxylase to protect itself from androgens.",
+        "It lacks a blood-ovary barrier, allowing it to absorb more systemic LH.",
+        "It contains the highest concentration of Inhibin B in its antrum."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A biopsy of the endometrium on day 22 of a 28-day cycle reveals tortuous uterine glands accumulating glycogen and coiled spiral arteries. These findings are characteristic of which phase?",
+      "options": [
+        "Menstrual phase.",
+        "Early follicular phase.",
+        "Proliferative phase.",
+        "Ovulatory phase.",
+        "Secretory phase."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient is treated with a long-acting, continuous GnRH agonist for endometriosis. After an initial \"flare,\" her menstrual cycles cease. What is the cellular mechanism for this induced amenorrhea?",
+      "options": [
+        "Exhaustion of the follicular pool in the ovarian cortex.",
+        "Massive stimulation of the corpus luteum leading to progesterone toxicity.",
+        "Down-regulation of GnRH receptors on the anterior pituitary gonadotrophs.",
+        "Direct inhibition of the aromatase enzyme in the granulosa cells.",
+        "Inactivation of the Gs protein coupled to the LH receptor."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "If fertilization occurs, the zygote begins to secrete a hormone that prevents the involution of the corpus luteum. This hormone is:",
+      "options": [
+        "Ovarian relaxin.",
+        "Hypothalamic oxytocin.",
+        "Pituitary prolactin.",
+        "Human chorionic gonadotropin (HCG).",
+        "Placental lactogen."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A phenotypic female with a 46, XX genotype is found to have a deficiency in the enzyme 17\u03b1-hydroxylase. Which of the following is the most likely clinical presentation at age 16?",
+      "options": [
+        "Precocious puberty with frequent, heavy menses.",
+        "Primary amenorrhea and failure to develop secondary sex characteristics.",
+        "Normal fertility but with excessive facial hair (hirsutism).",
+        "Recurrent cycles with an exceptionally long proliferative phase.",
+        "Accelerated bone maturation and short stature."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "Which event occurs within the endometrial vasculature just prior to the onset of menstrual bleeding?",
+      "options": [
+        "Intense vasoconstriction of spiral arteries leading to ischemic necrosis.",
+        "Rapid vasodilation of the spiral arteries to flush out the functionalis.",
+        "Formation of arteriovenous shunts to bypass the capillary beds.",
+        "Atrophy of the spiral arteries followed by mass endothelial proliferation.",
+        "Closure of the venous sinusoids by high levels of LH."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "During the follicular phase, which hormone is primarily responsible for the proliferation of the endometrial lining?",
+      "options": [
+        "Progesterone.",
+        "LH.",
+        "Activin.",
+        "17\u03b2-estradiol.",
+        "Testosterone."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "What is the direct effect of the mid-cycle LH surge on the mature oocyte within the Graafian follicle?",
+      "options": [
+        "It initiates the second meiotic division.",
+        "It causes the oocyte to revert to the primary oogonia stage.",
+        "It triggers the production of placental progesterone.",
+        "It arrests the oocyte in prophase I.",
+        "It induces the completion of the first meiotic division."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

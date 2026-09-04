@@ -1,0 +1,78 @@
+{
+  "id": "nephron-function-set-9",
+  "title": "Renal Channels 9",
+  "topic": "Nephron Function Set",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "Predict the effect of extracellular fluid (ECF) volume contraction on the plasma concentration of lithium in a patient being treated for bipolar disorder, specifically identifying the tubular segment and mechanism involved.",
+      "modelAnswer": "Lithium is handled by the kidney similarly to sodium; it is filtered and primarily reabsorbed (~80%) in the proximal tubule. ECF volume contraction stimulates proximal sodium and water reabsorption (via Angiotensin II and Starling forces), which secondary increases lithium reabsorption. This logic implies that dehydration can lead to a dangerous increase in plasma lithium levels and potential toxicity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Analyze the physiological rationale for using intravenous sodium bicarbonate to enhance the renal clearance of a weak acid drug, such as aspirin (salicylate), during an overdose.",
+      "modelAnswer": "Salicylate is a weak acid that exists in equilibrium between its non-ionized (lipid-soluble) and ionized (lipid-insoluble) forms. Administering sodium bicarbonate alkalizes the urine, shifting the equilibrium toward the ionized form (A - ); because the ionized form cannot easily diffuse back across the tubular epithelium, it becomes trapped in the lumen and is excreted, a process known as ion trapping.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "A climber spends 48 hours at high altitude and develops respiratory alkalosis. Analyze the renal tubular compensation required to normalize blood pH, identifying the specific cell type and transporters involved.",
+      "modelAnswer": "To compensate for respiratory alkalosis (low PCO2), the kidney must excrete excess HCO 3 -  . This is achieved by Type B intercalated cells in the collecting duct, which utilize apical pendrin (Cl - /HCO 3 -  exchangers) to secrete bicarbonate into the lumen and basolateral H-ATPase to pump protons into the blood, thereby lowering systemic pH back toward normal.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "Evaluate why the administration of an SGLT2 inhibitor might lead to a significant increase in the fractional excretion of uric acid, considering the transport mechanisms in the proximal tubule.",
+      "modelAnswer": "SGLT2 inhibitors increase the concentration of glucose in the late proximal tubule. High luminal glucose levels competitively inhibit the URAT1 (urate-anion exchanger) and/or provide a gradient that facilitates urate secretion via GLUT9 (isoform 2). This logic dictates that the drug produces a uricosuric effect, lowering serum uric acid levels as a secondary consequence of its primary effect on glucose.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "Compare a gain-of-function mutation in the ENaC channel (Liddle syndrome) with primary hyperaldosteronism (Conn syndrome) regarding their effects on plasma renin levels and their clinical response to mineralocorticoid receptor antagonists.",
+      "modelAnswer": "Both syndromes present with hypertension and hypokalemia due to overactive ENaC channels, which expand ECF volume and suppress plasma renin via negative feedback. However, Liddle syndrome is a primary channel defect independent of aldosterone; therefore, it does not respond to spironolactone (a receptor antagonist) but does respond to amiloride (a direct ENaC blocker). Conn syndrome involves high aldosterone and is responsive to spironolactone.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "Analyze the mechanism by which chronic hypercalcemia results in polyuria and the production of inappropriately dilute urine, identifying the receptors and specific tubular segments involved.",
+      "modelAnswer": "High peritubular [Ca^(2+)]  activates the Calcium-Sensing Receptor (CaSR) on the basolateral membrane of the TAL and collecting duct. Activation of the CaSR inhibits NKCC2 and ROMK (reducing the medullary gradient) and also antagonizes the action of AVP on Aquaporin-2 (AQP2) insertion. This integrated effect results in nephrogenic diabetes insipidus, characterized by the inability to concentrate urine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "Predict the impact of a \"urea-splitting\" bacterial urinary tract infection (e.g., Proteus mirabilis) on the effectiveness of the renal ammonium (NH4+) excretion mechanism.",
+      "modelAnswer": "*Proteus* bacteria produce the enzyme urease, which hydrolyzes urea into ammonia (NH 3  ) and CO 2  , significantly raising the urinary pH. An alkaline luminal environment prevents the protonation of NH 3  into ammonium (NH 4 +  ); since NH 3  is lipid-soluble and can diffuse back into the interstitium, the \"diffusion trapping\" mechanism fails, and the kidney's ability to excrete metabolic acid is severely compromised.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "Analyze the effect of a profound decrease in peritubular capillary oncotic pressure (e.g., in nephrotic syndrome) on the \"backleak\" of solutes in the proximal tubule and the resulting impact on net sodium reabsorption.",
+      "modelAnswer": "A decrease in peritubular oncotic pressure (\u03c0PC) reduces the reabsorptive Starling force at the peritubular capillaries. This leads to an accumulation of fluid in the lateral intercellular space, increasing its hydrostatic pressure; this pressure gradient drives the passive backleak of Na + and water through the tight junctions back into the tubule lumen, thereby decreasing net sodium reabsorption in the proximal tubule.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "A patient is given a high dose of an osmotic diuretic (e.g., mannitol). Analyze the resulting change in the [TF/P]inulin ratio along the proximal tubule and what this indicates about water reabsorption.",
+      "modelAnswer": "Under normal conditions, water is reabsorbed isosmotically in the proximal tubule, causing the concentration of the unreabsorbed marker inulin to rise ([TF/P] inulin  \u22483 by the end of the PT). Mannitol acts as an unreabsorbed solute that osmotically \"holds\" water in the lumen; this results in a lower [TF/P] inulin  ratio along the proximal tubule, indicating that a smaller percentage of filtered water has been reabsorbed.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "Contrast the renal handling of Para-aminohippurate (PAH) at very low plasma concentrations versus concentrations exceeding 50 mg/dL, and explain the impact on the measurement of effective renal plasma flow (eRPF).",
+      "modelAnswer": "At low plasma concentrations, PAH is efficiently cleared by both filtration and secretion, allowing its clearance to approximate eRPF. However, at high concentrations, the secretion transporters (OAT1/3) become saturated (T m  is reached). Beyond this point, the clearance of PAH decreases and begins to approach the clearance of inulin (GFR), as the fixed amount of secretion becomes a smaller fraction of the total PAH excreted.",
+      "explanation": "-"
+    }
+  ]
+}

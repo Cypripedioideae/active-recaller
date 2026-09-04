@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-5",
+  "title": "General Mycology 5",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Azole antifungal agents are known to target a specific step in the fungal sterol biosynthesis pathway. Which of the following describes the function of the enzyme 14-\u03b1-demethylase in fungal cells?",
+      "options": [
+        "Cross-linking of peptidoglycan layers in the cell wall",
+        "Conversion of lanosterol to ergosterol",
+        "Conversion of squalene to lanosterol",
+        "Inhibition of 1,3-\u03b2-D-glucan synthase",
+        "Synthesis of chitin from N-acetylglucosamine"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 12-year-old child presents with an inflammatory, scaly lesion on the scalp characterized by patches of hair loss (alopecia). Which of the following fungal species is the most probable cause of this condition?",
+      "options": [
+        "*Microsporum canis*",
+        "*Malassezia furfur*",
+        "*Candida albicans*",
+        "*Exophiala dermatitidis*",
+        "*Rhizopus oryzae*"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 35-year-old male with a known history of HIV infection and a CD4 count of 85 cells/mm\u00b3 presents with fever, weight loss, and generalized skin papules, some of which exhibit central umbilication. A biopsy of a skin lesion is performed and stained with Gomori methenamine silver (GMS). Microscopic examination reveals numerous small intracellular yeast cells. Which of the following microscopic features is most characteristic of this pathogen in tissue specimens?",
+      "options": [
+        "Single budding with a narrow base",
+        "Multiple budding in a \"captain's wheel\" formation",
+        "Transverse septation and division by fission",
+        "Broad-based budding with a thick cell wall",
+        "Formation of endosporulating spherules"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient with invasive aspergillosis is switched from an imidazole to a different antifungal agent. Along with the new antifungal treatment, the physician also administered supplementary potassium and magnesium. What is the mechanism of action of the antifungal agent administered in this patient?",
+      "options": [
+        "Inhibition of 14-\u03b1-demethylase",
+        "Binding to ergosterol to form membrane pores",
+        "Interference with microtubule function",
+        "Inhibition of squalene epoxidase",
+        "Inhibition of \u03b2-(1,3)-D-glucan synthase"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "*Histoplasma capsulatum* is a dimorphic fungus that causes systemic disease. Which of the following features allows the yeast form of this pathogen to evade the host immune system during infection?",
+      "options": [
+        "Formation of a thick polysaccharide capsule",
+        "Production of melanin in the cell wall",
+        "Secretion of keratinase to digest tissue",
+        "Survival as an extracellular spherule",
+        "Survival as an intracellular pathogen within macrophages"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A chronic asthmatic patient presents with a worsening cough and the production of brownish mucus plugs containing eosinophils. Laboratory evaluation reveals significantly elevated serum IgE levels. What is the most likely diagnosis for this response to *Aspergillus* spp.?",
+      "options": [
+        "Aspergilloma",
+        "Allergic bronchopulmonary aspergillosis",
+        "Chronic pulmonary aspergillosis",
+        "Invasive aspergillosis",
+        "Mycotic keratitis"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 55-year-old male presents with chronic thickening, discoloration, and deformity of his toenails. He is initiated on oral terbinafine therapy. Which of the following best describes the pharmacokinetic property of this drug that makes it effective for this condition?",
+      "options": [
+        "It is inactivated by pulmonary surfactant.",
+        "It reaches high concentrations and persists in the nail bed.",
+        "It requires a high-fat meal for any absorption.",
+        "It is primarily excreted unchanged in the urine within hours.",
+        "It requires an acidic gastric pH for absorption."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A clinician is managing a neutropenic patient and orders a serum galactomannan test. Based on the provided clinical cases and descriptions, which statement correctly identifies the clinical utility of this test?",
+      "options": [
+        "It is a pan-fungal marker used to detect all yeasts and molds.",
+        "It is specifically used to detect invasive *Aspergillus* spp. infections.",
+        "It detects the polysaccharide capsule of *Cryptococcus neoformans*.",
+        "It is the gold standard for diagnosing mucormycosis.",
+        "It is used to monitor the efficacy of terbinafine in onychomycosis."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Terbinafine is an allylamine antifungal commonly used for the treatment of dermatophyte infections. What is the primary mechanism by which this medication exerts its antifungal effect?",
+      "options": [
+        "Inhibition of 1,3-\u03b2-D-glucan synthase",
+        "Inhibition of squalene epoxidase leading to squalene accumulation",
+        "Binding to ergosterol to form membrane pores",
+        "Interference with microtubule function to disrupt mitosis",
+        "Conversion to 5-fluorouracil to inhibit DNA synthesis"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 25-year-old male presents with several itchy, annular scaly plaques with active erythematous elevated edges on his trunk. He recently began a competitive wrestling program. What is the most likely diagnosis?",
+      "options": [
+        "Tinea versicolor",
+        "Tinea corporis",
+        "Tinea nigra",
+        "Cutaneous candidiasis",
+        "White piedra"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

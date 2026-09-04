@@ -1,0 +1,358 @@
+{
+  "id": "neuro-true-false-7",
+  "title": "Neurophysiology 5",
+  "topic": "True-False Neuro",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "In a myelinated nerve axon, if the membrane resistance (Rm) is decreased by half due to a demyelinating process while all other factors remain constant, the length constant (\u03bb) will decrease by a factor of2 .",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "If the extracellular potassium concentration is significantly increased, the resting membrane potential of a neuron moves closer to threshold, but the cell may become less excitable because the sustained depolarization keeps voltage-gated sodium channels in an inactivated state.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "During the upstroke of a neuronal action potential, the net driving force on sodium ions decreases as the membrane potential approaches the sodium equilibrium potential (ENa ).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "In the visual system, a light stimulus falling on the surround of an \"on-center\" bipolar cell's receptive field causes hyperpolarization of that bipolar cell via the inhibitory action of horizontal cells.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "The absolute refractory period of a cardiac ventricular muscle cell is significantly longer than that of a skeletal muscle cell because of the prolonged inward calcium current that maintains the plateau phase.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "A patient with a lesion in the right subthalamic nucleus will likely exhibit hemiballismus, characterized by involuntary, flinging movements of the left-side limbs.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "In the cochlea, the base of the basilar membrane is physically narrow and stiff, making it most sensitive to low-frequency sound waves.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "During the generation of an inhibitory postsynaptic potential (IPSP), the opening of ligand-gated potassium channels drives the membrane potential toward a value more negative than the resting membrane potential.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "In a motor unit, a single alpha-motoneuron innervates a variable number of muscle fibers; the fewer the fibers per motoneuron, the greater the precision of the movement.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "If an experimental drug blocks the inactivation gates of voltage-gated sodium channels without affecting the activation gates, the repolarization phase of the action potential will be significantly delayed.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "In the vestibular-ocular reflex, rotating the head to the left causes the endolymph in the left horizontal semicircular canal to move to the right relative to the crista ampullaris, leading to excitation of the associated hair cells.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "The \"size principle\" of motor recruitment dictates that larger motoneurons with higher conduction velocities are recruited first to ensure that high-force movements are executed rapidly.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "Cerebrospinal fluid (CSF) has a significantly lower concentration of potassium ions and a significantly higher concentration of proteins compared to blood plasma.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "In the visual transduction process, light causes the photoisomerization of 11-cis retinal to all-trans retinal, which eventually leads to a decrease in the intracellular concentration of cGMP.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "If the density of voltage-gated sodium channels at the axon hillock were decreased, the threshold potential for firing an action potential would move to a more positive (less negative) value.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "Stimulation of the climbing fibers from the inferior olive produces complex spikes in the Purkinje cells of the cerebellum, a mechanism believed to be critical for motor learning.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "A lesion of the left optic tract results in a right homonymous hemianopia, where vision is lost in the right visual fields of both eyes.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "The \"latch-bridge\" mechanism in smooth muscle allows for the maintenance of high muscle tension with low ATP consumption because dephosphorylated myosin cross-bridges detach very slowly from actin.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "Hyperventilation can lead to increased neuronal excitability and potential seizures because the resulting respiratory alkalosis reduces the concentration of ionized extracellular calcium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "In the dorsal column-medial lemniscal system, the second-order neurons originate in the nucleus gracilis and nucleus cuneatus and cross the midline in the medulla before ascending to the thalamus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "When a muscle is stretched, the Ia afferent fibers from the muscle spindle increase their firing rate, which leads to the monosynaptic excitation of the alpha-motoneurons innervating the same muscle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "The blood-brain barrier is highly permeable to lipid-soluble substances like oxygen and carbon dioxide, but requires specific carrier-mediated transport for water-soluble substances like glucose.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "In the direct pathway of the basal ganglia, the striatum provides inhibitory input to the internal segment of the globus pallidus, which ultimately results in the disinhibition of the thalamus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "During REM sleep, the electroencephalogram (EEG) displays low-voltage, high-frequency activity similar to the awake state, but skeletal muscle tone is at its lowest level (atonia).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "The end-plate potential (EPP) at the neuromuscular junction is a graded potential caused by the simultaneous increase in conductance to both sodium and potassium ions.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "In a patient with Wernicke's aphasia, the primary deficit is an inability to produce fluent speech, although their comprehension of spoken and written language remains perfectly intact.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "The absolute refractory period of a neuron is primarily caused by the closure of voltage-gated potassium channels during the repolarization phase.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "In the visual system, photoreceptors hyperpolarize in response to light, leading to a decrease in the release of the neurotransmitter glutamate.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "The Golgi tendon reflex is a disynaptic reflex where Ib afferent fibers activate inhibitory interneurons that then reduce the activity of alpha-motoneurons to the same muscle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "According to the Nernst equation, if the intracellular potassium concentration is increased while the extracellular concentration remains constant, the potassium equilibrium potential will become more negative.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "High-frequency sound waves cause the maximum displacement of the basilar membrane near the helicotrema at the apex of the cochlea.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "In the dark, rod photoreceptors are relatively depolarized due to a constant influx of sodium ions through channels kept open by high levels of intracellular cGMP.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "A midline lesion of the optic chiasm, such as from a pituitary tumor, destroys decussating nasal retinal fibers and results in bitemporal hemianopia.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "Lateral inhibition improves sensory acuity by using inhibitory interneurons to suppress the activity of neurons with receptive fields adjacent to the center of a stimulus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "The time constant (\u03c4) of a neuronal membrane increases if the membrane resistance (Rm ) increases, meaning it will take longer for the membrane potential to change in response to a stimulus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "Synaptic fatigue is primarily caused by the inactivation of postsynaptic receptors during periods of high-frequency presynaptic stimulation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "In smooth muscle contraction, calcium binds to troponin C, which then allows the interaction between actin and myosin.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "The sympathetic nervous system utilizes acetylcholine as the neurotransmitter at the synapses between preganglionic and postganglionic neurons.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "A positive Babinski sign in an adult is a clinical indicator of damage to the lower motor neurons in the spinal cord.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "The utricle and saccule are vestibular organs specifically designed to detect angular acceleration of the head in various planes.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "In the somatic motor system, gamma-motoneurons innervate the intrafusal fibers of the muscle spindle and serve to maintain spindle sensitivity during voluntary muscle contraction.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "Long-term potentiation (LTP) is a mechanism of synaptic plasticity that requires the activation of NMDA receptors and the subsequent entry of calcium into the postsynaptic neuron.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "Myasthenia gravis is an autoimmune disease where antibodies attack the presynaptic voltage-gated calcium channels, leading to reduced acetylcholine release.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "The primary motor cortex (Brodmann's area 4) is somatotopically organized, with the largest areas of the cortex dedicated to the trunk and lower limbs.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "In the auditory pathway, the superior olivary nuclei are the first site where information from both ears is integrated to assist in sound localization.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "Type C nerve fibers are small, unmyelinated fibers that conduct impulses for slow, aching pain at the slowest velocities in the nervous system.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "During the relative refractory period, a second action potential can be generated, but it requires a larger-than-normal depolarizing stimulus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "The Cushing reaction to increased intracranial pressure is characterized by the clinical triad of systemic hypertension, bradycardia, and irregular respirations.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "Tonic receptors, like the Pacinian corpuscle, are rapidly adapting and provide information primarily about the change in stimulus intensity.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "The autonomic preganglionic neurons of the parasympathetic division originate in the nuclei of cranial nerves III, VII, IX, and X, as well as the sacral spinal cord (S2-S4).",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "comprehensive-cvs-review-1",
+  "title": "Cardiovascular Comprehensive Set 1: Hemodynamics (Short answer)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "How is the relationship between the velocity of blood flow (v), blood flow (Q), and cross-sectional area (A) mathematically expressed?",
+      "modelAnswer": "v = Q/A (Velocity = Flow / Cross-sectional area).",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "At which specific level of the systemic vasculature is the total cross-sectional area the largest, and how does this affect the velocity of blood flow at that site?",
+      "modelAnswer": "The capillaries have the largest total cross-sectional area; as a result, the velocity of blood flow is lowest there to optimize gas and nutrient exchange.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Which type of blood vessels are referred to as the \"stressed volume\" due to being under high pressure, and which are the \"unstressed volume\"?",
+      "modelAnswer": "Arteries are the stressed volume; veins are the unstressed volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "In terms of the relationship between flow (Q), pressure (\u0394P), and resistance (R), what is the driving force for blood flow?",
+      "modelAnswer": "The pressure gradient (\u0394P).",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "According to Poiseuille's Law, which factor has the most significant mathematical influence on the resistance (R) of a blood vessel?",
+      "modelAnswer": "The radius of the blood vessel (inversely proportional to r to the fourth power).",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "If the radius of a blood vessel is reduced by half, by what factor does the resistance to blood flow increase?",
+      "modelAnswer": "It increases 16-fold (2 to the power of 4).",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "How is the total resistance calculated for blood vessels arranged in a series (e.g., within an organ)?",
+      "modelAnswer": "It is the sum of the individual resistances (Rtotal = R1 + R2 + R3...).",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "In a parallel arrangement of blood vessels (e.g., the major systemic arteries), what is the effect of adding an additional vessel on the total resistance?",
+      "modelAnswer": "The total resistance decreases.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "What dimensionless number is used to predict whether blood flow will be laminar or turbulent?",
+      "modelAnswer": "The Reynolds number.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "How does a decrease in blood viscosity, such as in cases of significant anemia, affect the Reynolds number and the likelihood of turbulence?",
+      "modelAnswer": "It increases the Reynolds number, thereby increasing the likelihood of turbulence.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Within a blood vessel, where is the velocity of flow highest, and where is the shear rate highest?",
+      "modelAnswer": "Velocity is highest at the center of the vessel; shear rate is highest at the vessel wall.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Define the compliance (capacitance) of a blood vessel and state the formula used to calculate it.",
+      "modelAnswer": "Compliance is the volume a vessel can hold at a given pressure (C = V/P).",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Why are veins able to hold a much larger percentage of the total blood volume at much lower pressures compared to arteries?",
+      "modelAnswer": "Because veins have much higher compliance (capacitance) than arteries.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "At which site in the systemic vasculature does the largest decrease in mean pressure occur, and why?",
+      "modelAnswer": "Across the arterioles, because they are the site of the highest resistance in the vasculature.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Define systolic pressure and identify the specific event during the cardiac cycle that produces the dicrotic notch (incisura).",
+      "modelAnswer": "Systolic pressure is the highest arterial pressure during a cardiac cycle; the dicrotic notch is produced by the closure of the aortic valve.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "How is pulse pressure calculated, and what is its primary determinant?",
+      "modelAnswer": "Pulse pressure = Systolic pressure - Diastolic pressure; its primary determinant is stroke volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "What is the standard formula for calculating Mean Arterial Pressure (MAP)?",
+      "modelAnswer": "MAP = Diastolic pressure + 1/3 Pulse pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "Why is Mean Arterial Pressure not a simple mathematical average of systolic and diastolic pressures?",
+      "modelAnswer": "Because a greater fraction of the cardiac cycle is spent in diastole than in systole.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "How does arteriosclerosis (hardening of the arteries) affect arterial compliance and the resulting pulse pressure?",
+      "modelAnswer": "It decreases compliance, which increases pulse pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "In the case of aortic stenosis, what is the expected effect on stroke volume and pulse pressure?",
+      "modelAnswer": "Stroke volume decreases and pulse pressure decreases.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "What is the approximate mean pressure in the aorta compared to the right atrium, and what does this difference represent?",
+      "modelAnswer": "Aorta (~100 mmHg) vs. Right Atrium (0-2 mmHg); the difference is the driving force for systemic blood flow.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "How does the pulmonary circulation differ from the systemic circulation in terms of total resistance and mean arterial pressure?",
+      "modelAnswer": "Pulmonary circulation has much lower resistance and much lower mean arterial pressure (~15 mmHg).",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "Which property of blood is determined primarily by the hematocrit?",
+      "modelAnswer": "Viscosity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "What are \"bruits\" and what hemodynamic change typically causes them?",
+      "modelAnswer": "Bruits are audible vibrations caused by turbulent blood flow.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Explain the \"Bainbridge reflex\" in the context of venous return and heart rate.",
+      "modelAnswer": "The Bainbridge reflex is an increase in heart rate in response to an increase in pressure at the venous low-pressure receptors (indicating increased blood volume).",
+      "explanation": "-"
+    }
+  ]
+}

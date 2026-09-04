@@ -1,0 +1,358 @@
+{
+  "id": "rs-true-false-1",
+  "title": "Respiratory Physiology 1",
+  "topic": "True-False RS",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "Under normal physiological conditions, the partial pressure of carbon dioxide (P_(CO2)) in mixed venous blood is approximately 46 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "In the gas transport system, one gram of hemoglobin A has the capacity to bind approximately 2.34 mL of oxygen when fully saturated.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "Type II pneumocytes function as progenitor cells with the ability to proliferate and differentiate into Type I pneumocytes following lung injury.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "The solubility coefficient of oxygen in blood at body temperature is approximately 0.07 mL O_2/100 mL blood per mmHg.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "In the Henderson-Hasselbalch equation for the bicarbonate buffer system, the pK value used is 6.1.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "The Bohr effect states that an increase in blood P_(CO2) or a decrease in pH shifts the oxyhemoglobin dissociation curve to the left, increasing hemoglobin's affinity for oxygen.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "The Haldane effect describes the phenomenon where the deoxygenation of hemoglobin increases its affinity and carrying capacity for carbon dioxide.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "The solubility of oxygen in plasma at 37\u00b0C is approximately 0.03 mL O_2 per 100 mL of blood for every mmHg of partial pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "At the end of a normal tidal inspiration, the intrapleural pressure typically reaches a value of approximately -8 cm H_2O.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "The majority of carbon dioxide transported from the tissues to the lungs is carried in the form of carbaminohemoglobin.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "Carbonic anhydrase is an essential enzyme within erythrocytes that catalyzes the reversible hydration of carbon dioxide to form carbonic acid.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "The apneustic center, which stimulates prolonged inspiratory gasps, is anatomically located in the upper pons.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "In a healthy adult at sea level, the normal partial pressure of carbon dioxide in systemic arterial blood (Pa_(CO2)) is 40 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "The P_(50) of the oxyhemoglobin dissociation curve represents the partial pressure of oxygen at which hemoglobin is 75% saturated.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "Alveolar macrophages are the primary defense mechanism for removing small particulate matter that reaches the respiratory zone of the lungs.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "In the lungs of a healthy resting individual, the transfer of oxygen from the alveoli into the pulmonary capillaries is primarily limited by the rate of diffusion.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "The fractional concentration of oxygen (Fi_(O2)) in dry inspired air at sea level is constant at approximately 0.21.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "The normal tidal volume for a healthy, resting adult is approximately 1.5 liters.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "Airway resistance increases significantly at low lung volumes because the radial traction exerted by the surrounding lung tissue on the bronchioles is reduced.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "Positive cooperativity in hemoglobin binding means that the binding of the first oxygen molecule to a heme group decreases the affinity of the remaining subunits for oxygen.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "At very high expanding pressures, lung compliance decreases and the pressure-volume curve flattens because the elastic limits of the pulmonary tissues are approached.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "Intrapleural pressure becomes less negative (closer to zero) during inspiration as the lung volume increases and the diaphragm contracts.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "During a forced expiration, the contraction of expiratory muscles can raise the intrapleural pressure to positive values, potentially leading to dynamic compression of the airways.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "Diffusion-limited gas exchange is characterized by the partial pressure of the gas in the pulmonary capillary reaching complete equilibrium with the alveolar gas early in its transit.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "The sigmoidal shape of the oxyhemoglobin dissociation curve is physiologically advantageous because it allows for high oxygen loading in the lungs while facilitating unloading in the tissues.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "Central chemoreceptors on the ventral surface of the medulla are highly sensitive to changes in arterial P_(O2) and provide the primary drive for breathing during hypoxemia.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "A rightward shift of the oxyhemoglobin dissociation curve results in a higher hemoglobin saturation for any given partial pressure of oxygen.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "In an upright individual at rest, absolute blood flow (perfusion) is highest at the apex of the lung due to the lower resistance of the apical vessels.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "During moderate exercise, the oxyhemoglobin dissociation curve shifts to the right, facilitating the unloading of oxygen to the working muscles.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "The \"chloride shift\" involves the movement of chloride ions out of the red blood cell in exchange for bicarbonate ions as blood passes through systemic capillaries.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "The lung diffusing capacity (D_L) for oxygen increases during exercise because of the recruitment and distension of additional pulmonary capillaries.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "Perfusion-limited gas exchange occurs when the gas fails to reach partial pressure equilibrium between the alveoli and the blood by the end of the pulmonary capillary.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "The Fick principle can be used to calculate cardiac output by measuring the rate of oxygen consumption and the difference in oxygen content between arterial and mixed venous blood.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "A lecithin-to-sphingomyelin (L/S) ratio of 1.5:1 in amniotic fluid indicates that the fetal lungs are biochemically mature and unlikely to suffer from surfactant deficiency.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "In a patient with severe anemia and a 50% reduction in hemoglobin concentration, the systemic arterial P_(O2) will be approximately 50 mmHg.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "Patients with restrictive lung diseases, such as pulmonary fibrosis, typically demonstrate a forced expiratory volume in one second (FEV_1) to forced vital capacity (FVC) ratio that is normal or elevated.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "In carbon monoxide poisoning, the P_(50) of the oxyhemoglobin dissociation curve increases, representing a decrease in the affinity of the remaining hemoglobin sites for oxygen.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "Stimulation of \u03b2_2-adrenergic receptors on the bronchial smooth muscle leads to bronchodilation and a subsequent decrease in airway resistance.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "In a patient suffering from metabolic acidosis, the primary respiratory compensation involves a decrease in the alveolar ventilation rate to raise the arterial P_(CO2).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "In a patient with a massive intrapulmonary shunt (V/Q = 0), the administration of 100% supplemental oxygen will fail to significantly increase the systemic arterial P_(O2).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "The affinity of hemoglobin for carbon dioxide (the Haldane effect) is higher in oxygenated arterial blood than it is in deoxygenated mixed venous blood.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "Adaptation to high altitude includes an increase in the erythrocyte concentration of 2,3-diphosphoglycerate (2,3-DPG) to shift the Hb-O_2 curve to the right and improve tissue oxygen delivery.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "Obstructive lung diseases such as emphysema are characterized by a decrease in the functional residual capacity (FRC) due to increased elastic recoil.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "In a normal healthy individual, the alveolar-arterial (A-a) P_(O2) gradient is small because oxygen equilibration is typically reached before the blood leaves the pulmonary capillary.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "At high altitude, the initial respiratory alkalosis produced by hyperventilation acts as a powerful stimulus to further increase the ventilation rate.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "If a pulmonary embolism completely obstructs a branch of the pulmonary artery, the ventilation/perfusion (V/Q) ratio for the affected lung units becomes infinite.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "In a healthy person, the loss of lung tissue through aging or disease causes an increase in lung recoil, which prevents the collapse of the airways during forced expiration.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "In Zone 1 of the upright lung, alveolar pressure is higher than the arterial pressure, which can cause the compression and closure of the pulmonary capillaries.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "A decrease in arterial P_(O2) from 100 mmHg to 70 mmHg results in a massive increase in the firing rate of peripheral chemoreceptors and a steep, linear increase in ventilation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "The pH of mixed venous blood is only slightly more acidic than arterial blood because deoxygenated hemoglobin acts as an effective buffer for the hydrogen ions generated from CO_2.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

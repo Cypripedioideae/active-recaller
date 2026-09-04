@@ -1,0 +1,708 @@
+{
+  "id": "imspq-t/f-8",
+  "title": "IMSPQ T/F 8",
+  "topic": "IMSPQ",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "Under physiological conditions, the intracellular concentration of free Mg2+ is significantly higher than the intracellular concentration of free Ca2+.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "During receptor-mediated endocytosis, the coat protein clathrin remains attached to the endocytic vesicle until it fuses with the lysosome, facilitating targeted vesicle delivery.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "In skeletal muscle, the Ryanodine receptor (RyR1) acts as a ligand-gated calcium channel that must be opened by extracellular Ca2+ entering through the L-type calcium channel during depolarization.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "In smooth muscle, the binding of calcium to troponin C is the primary rate-limiting step that allows the phosphorylation of myosin light chains by MLCK to initiate contraction.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "Fast-twitch glycolytic (Type IIb) muscle fibers have a larger cross-sectional area, higher glycogen content, and fewer capillaries per fiber than slow-twitch oxidative (Type I) fibers.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "The Goldman-Hodgkin-Katz equation predicts that if a membrane becomes exclusively permeable to Na+, the membrane potential will equal the Na+ equilibrium potential.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "During the relative refractory period, the threshold for firing an action potential is less negative (more depolarized) than at rest because some voltage-gated Na+ channels are still inactivated and there is an increased K+ conductance.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "In the mammalian spinal cord, the Renshaw cell is an inhibitory interneuron that uses GABA as its primary neurotransmitter to inhibit alpha motor neurons.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "Presynaptic inhibition is typically achieved by hyperpolarizing the presynaptic terminal, which completely blocks the propagation of the incoming action potential before it reaches the active zone.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "In the visual system, amacrine cells provide the primary lateral inhibition in the outer plexiform layer of the retina, which is essential for establishing the center-surround receptive field organization of photoreceptors.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "The blind spot of the retina (optic disc) lacks photoreceptors because it is the site where the axons of retinal ganglion cells exit the eye to form the optic nerve and where the retinal blood vessels enter.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "A patient with a complete lesion of the left trochlear nerve (CN IV) will present with diplopia that worsens when looking down and inward, such as when walking down stairs.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "The functional residual capacity (FRC) of a patient with severe pulmonary emphysema is significantly increased, which acts to increase the efficiency of gas exchange by providing a larger reservoir of oxygen.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "During quiet expiration, the relaxation of inspiratory muscles causes alveolar pressure to rise above atmospheric pressure, driving air out of the lungs, while intrapleural pressure remains subatmospheric throughout the entire phase.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "If a patient breathing room air at sea level has a PaCO2 of 40 mmHg and a PaO2 of 50 mmHg, their Alveolar-arterial (A-a) oxygen gradient must be elevated, indicating a ventilation-perfusion mismatch, shunt, or diffusion barrier.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "The diffusion of carbon dioxide across the alveolar-capillary membrane is typically diffusion-limited under normal physiological conditions because of its high molecular weight relative to oxygen.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "Under normal conditions, peripheral chemoreceptors in the carotid bodies contribute only a small fraction of the resting ventilatory drive, but they become the primary drivers of ventilation when arterial PO2 drops below 60 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "Because of the unique electrical properties of the AV node, an increase in sympathetic stimulation increases conduction velocity primarily by shortening the duration of the Phase 2 plateau of the nodal action potential.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "According to the Frank-Starling mechanism, stretching the ventricular myocardium increases the force of contraction primarily by increasing the affinity of troponin C for calcium and optimizing the alignment of thick and thin filaments.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "In a patient with severe aortic stenosis, the left ventricular pressure-volume loop exhibits an increased peak systolic pressure, a decreased stroke volume, and an increased end-systolic volume, which shifts the end-systolic pressure-volume relationship (ESPVR) line to the left.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "Vasodilator metabolites produced by skeletal muscle during exercise, such as adenosine, lactate, and K+, cause relaxation of vascular smooth muscle by opening ATP-sensitive potassium (K_ATP) channels or activating Na+-K+ ATPase.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "Turbulent blood flow is more likely to occur in larger blood vessels because the Reynolds number is directly proportional to both the vessel diameter and the velocity of blood flow.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "If the clearance of a substance that is freely filtered is greater than the clearance of inulin, the substance must undergo net tubular secretion, even if substantial passive reabsorption also occurs along the nephron.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "The thick ascending limb of the loop of Henle is highly permeable to water and actively reabsorbs NaCl via the NKCC2 cotransporter, which generates a lumen-negative transepithelial potential that drives the paracellular reabsorption of anions like Cl-.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "Constriction of the efferent arteriole always increases GFR because it increases glomerular capillary hydrostatic pressure, regardless of the severity of the constriction or the effect on renal blood flow.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "In a patient with central diabetes insipidus, the administration of exogenous desmopressin (dDAVP) will decrease their urine flow rate and increase urine osmolality, whereas in a patient with nephrogenic diabetes insipidus, it will have no significant effect.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "If a patient's urine flow rate is 2.0 mL/minute, urine creatinine is 150 mg/dL, and plasma creatinine is 1.5 mg/dL, their creatinine clearance is 200 mL/minute.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "In the cortical collecting duct, aldosterone stimulates Na+ reabsorption and K+ secretion by increasing the number of active epithelial sodium channels (ENaC) on the apical membrane and stimulating Na+-K+ ATPase pumps on the basolateral membrane.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "Acetazolamide, a carbonic anhydrase inhibitor, acts in the proximal tubule to inhibit both brush-border and intracellular carbonic anhydrase, which reduces Na+ and HCO3- reabsorption and leads to a metabolic alkalosis with a high urine pH.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "Glomerulotubular balance is an intrinsic mechanism of the proximal tubule where an increase in GFR leads to a proportional decrease in fractional sodium reabsorption to prevent volume overload.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "Slow waves in the gastrointestinal tract are oscillating depolarizations of the membrane potential that are initiated by the interstitial cells of Cajal, and they always trigger smooth muscle contractions even if they do not reach the threshold to fire action potential spikes.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "Gastric acid secretion is stimulated by histamine, acetylcholine, and gastrin, which act synergistically such that blocking the H2 receptor with cimetidine significantly reduces the acid secretion stimulated by both acetylcholine and gastrin.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "The hormone secretin is secreted by S cells in the duodenum in response to low luminal pH (< 4.5), and it stimulates pancreatic ductal cells to secrete a large volume of HCO3--rich fluid via a cAMP-dependent pathway.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "Dietary triglycerides are digested by pancreatic lipase into free fatty acids and glycerol, which are bound to albumin in the intestinal lumen to cross the apical membrane of enterocytes via facilitated transport.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "Bilirubin is conjugated with glucuronic acid in hepatocytes to form water-soluble conjugated bilirubin, which is then actively secreted into the bile canaliculi, and it cannot be reabsorbed in the small intestine in this conjugated form.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "During the cephalic phase of digestion, the anticipation or smell of food stimulates gastric acid secretion via vagal efferent fibers that release acetylcholine onto parietal cells and gastrin-releasing peptide (GRP) onto G cells.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "Saliva is always hypertonic to plasma, and its osmolality decreases as the salivary flow rate increases because more time is available for the ductal cells to secrete water.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "Growth hormone (GH) acts on target tissues primarily by binding to a receptor tyrosine kinase that directly phosphorylates and activates the insulin receptor substrate 1 (IRS-1) signaling pathway.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "In the thyroid gland, the coupling reaction that joins two diiodotyrosine (DIT) molecules to form thyroxine (T4) occurs intracellularly within the lysosome after thyroglobulin is reabsorbed from the colloid.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "Cortisol stimulates gluconeogenesis in the liver by upregulating key rate-limiting enzymes like phosphoenolpyruvate carboxykinase (PEPCK), while simultaneously decreasing insulin-stimulated glucose uptake in skeletal muscle and adipose tissue.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "In a patient with primary hyperaldosteronism (Conn's syndrome), the high aldosterone levels cause hypertension, hypokalemia, and a metabolic acidosis.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "Active vitamin D (1,25-dihydroxycholecalciferol) stimulates its own synthesis in the kidney via a positive feedback loop that upregulates the transcription of 1-alpha-hydroxylase.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "In the female menstrual cycle, the LH surge is triggered by a switch from negative to positive feedback of estrogen on the anterior pituitary and hypothalamus, which requires estrogen levels to remain elevated above a threshold for at least 36 hours.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "In males, luteinizing hormone (LH) acts on Leydig cells to stimulate testosterone synthesis, while follicle-stimulating hormone (FSH) acts on Sertoli cells to stimulate spermatogenesis and the secretion of inhibin and androgen-binding protein.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "Prolactin secretion from the anterior pituitary is primarily under tonic excitatory control by thyrotropin-releasing hormone (TRH) released from the paraventricular nucleus of the hypothalamus.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "During dynamic aerobic exercise, mean arterial pressure increases dramatically because the massive increase in cardiac output is accompanied by a significant increase in total peripheral resistance (TPR).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "Following an acute, moderate hemorrhage, the hematocrit drops immediately due to the loss of whole blood, before any fluid shifts from the interstitial compartment can occur.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "In a patient with metabolic acidosis, respiratory compensation is immediate, and the expected PaCO2 can be calculated using Winters' formula (PaCO2 = 1.5 * [HCO3-] + 8 +/- 2); however, the respiratory system can never compensate enough to return the arterial pH completely to 7.40.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "Under microgravity conditions, the cephalad fluid shift causes a transient increase in central blood volume, which stimulates atrial stretch receptors and triggers a reflex release of atrial natriuretic peptide (ANP) and inhibition of ADH, leading to a rapid reduction in blood volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "During Phase II of the Valsalva maneuver (forced expiration against a closed glottis), the sustained high intrathoracic pressure compresses the vena cava, reducing venous return and cardiac output, which triggers baroreceptor-mediated reflex tachycardia and peripheral vasoconstriction.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q51",
+      "type": "true_false",
+      "prompt": "The rate of facilitated diffusion of a solute across a cell membrane is directly proportional to its concentration gradient at high concentrations, showing no saturation limit because no metabolic energy is consumed.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q52",
+      "type": "true_false",
+      "prompt": "If a cell containing 300 mOsm/L of non-penetrating solutes is placed in an isosmotic solution of glycerol (reflection coefficient = 0.2), the cell will initially shrink before swelling to its original volume.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q53",
+      "type": "true_false",
+      "prompt": "The Na+-Ca2+ exchanger (NCX) utilizes the energy of the Na+ gradient to pump Ca2+ out of the cell with a stoichiometry of 3 Na+ ions per 1 Ca2+ ion, which means its operation is electroneutral and unaffected by changes in membrane potential.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q54",
+      "type": "true_false",
+      "prompt": "In cardiac muscle, the ryanodine receptor (RyR2) is physically coupled to the L-type Ca2+ channel (DHPR) in the T-tubule membrane, which allows for mechanical coupling-induced Ca2+ release during excitation-contraction coupling.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q55",
+      "type": "true_false",
+      "prompt": "In a skeletal muscle fiber, when the afterload is set to zero, the velocity of shortening is maximal, but the rate of cross-bridge cycling and ATP consumption reaches its absolute minimum because no work is performed.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q56",
+      "type": "true_false",
+      "prompt": "Myelinated axons have voltage-gated Na+ channels concentrated almost exclusively at the nodes of Ranvier, while the internodal membrane under the myelin sheath is rich in voltage-gated K+ channels.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q57",
+      "type": "true_false",
+      "prompt": "Under physiological conditions, an increase in extracellular Ca2+ concentration (hypercalcemia) depolarizes the resting membrane potential of neurons, bringing them closer to threshold and increasing overall neuromuscular excitability.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q58",
+      "type": "true_false",
+      "prompt": "If the equilibrium potential for Cl- (E-Cl) in a mature neuron is -70 mV and the resting membrane potential is -70 mV, activation of GABA-A receptor Cl- channels will cause a massive influx of Cl- ions that hyperpolarizes the membrane.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q59",
+      "type": "true_false",
+      "prompt": "The withdrawal reflex (nociceptive reflex) is a monosynaptic reflex triggered by painful stimuli that causes rapid flexion of the ipsilateral limb and extension of the contralateral limb to support body weight.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q60",
+      "type": "true_false",
+      "prompt": "The primary somatosensory cortex (S1) receives its sensory input from the contralateral side of the body because the second-order neurons of both the dorsal column-medial lemniscal pathway and the spinothalamic tract decussate in the spinal cord immediately after synapsing.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q61",
+      "type": "true_false",
+      "prompt": "In the cochlea, high-frequency sounds produce maximum vibration of the basilar membrane near the apex where the membrane is wide and compliant, whereas low-frequency sounds produce maximum vibration near the base where the membrane is narrow and stiff.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q62",
+      "type": "true_false",
+      "prompt": "In a patient with cerebellar disease, a lesion of the midline structures (vermis) typically presents as limb ataxia and intention tremor, whereas a lateral hemisphere lesion presents primarily as truncal ataxia and gait instability.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q63",
+      "type": "true_false",
+      "prompt": "During NREM sleep, there is a progressive increase in parasympathetic activity and a decrease in sympathetic activity, resulting in a reduction in heart rate, blood pressure, and respiratory rate compared to wakefulness.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q64",
+      "type": "true_false",
+      "prompt": "If a patient's physiological dead space is equal to their anatomical dead space, it indicates that there is no alveolar dead space and all ventilated alveoli are also perfused with blood.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q65",
+      "type": "true_false",
+      "prompt": "A patient breathing room air at sea level (barometric pressure = 760 mmHg, water vapor pressure = 47 mmHg) has a PaCO2 of 40 mmHg and an arterial PaO2 of 85 mmHg. If their respiratory exchange ratio is 0.8, their alveolar-arterial (A-a) oxygen gradient is 15 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q66",
+      "type": "true_false",
+      "prompt": "Hyperventilation decreases the arterial PaCO2, which increases the proportion of ionized Ca2+ in the plasma because hydrogen ions compete with calcium for binding sites on albumin.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q67",
+      "type": "true_false",
+      "prompt": "In restrictive lung disease (such as idiopathic pulmonary fibrosis), the increase in lung elastic recoil shifts the static pressure-volume curve downward and to the right, leading to a decreased functional residual capacity (FRC) and elevated airway resistance.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q68",
+      "type": "true_false",
+      "prompt": "Under normal resting conditions, intrapleural pressure is subatmospheric throughout the entire respiratory cycle, but during a forced expiration (e.g., cough or Valsalva), intrapleural pressure can rise significantly above atmospheric pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q69",
+      "type": "true_false",
+      "prompt": "According to the Law of Laplace, dilated cardiomyopathy increases the wall stress of the left ventricle because the increased radius of the chamber requires a higher wall tension to generate the same intraventricular pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q70",
+      "type": "true_false",
+      "prompt": "If a patient has a cardiac output of 5 L/minute and their heart rate increases from 70 to 140 beats/minute with no change in venous return or inotropic state, their cardiac output will double to 10 L/minute.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q71",
+      "type": "true_false",
+      "prompt": "The phase 0 upstroke of the cardiac action potential in the sinoatrial (SA) node is mediated by the influx of Ca2+ through L-type Ca2+ channels, whereas in ventricular muscle, it is mediated by Na+ influx through fast voltage-gated Na+ channels.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q72",
+      "type": "true_false",
+      "prompt": "During Phase 4 of the sinoatrial nodal action potential, the funny current (If) is activated by hyperpolarization and conducts a net inward Na+ current, which is enhanced by sympathetic stimulation via cAMP-mediated channel opening.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q73",
+      "type": "true_false",
+      "prompt": "In a patient with severe aortic regurgitation, the pulse pressure is widened because the diastolic pressure is extremely low due to blood flowing backward into the left ventricle, and the systolic pressure is elevated due to an increased stroke volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q74",
+      "type": "true_false",
+      "prompt": "The reabsorption of filtered bicarbonate in the renal proximal tubule is a direct, active transport process across the apical membrane mediated by a sodium-bicarbonate cotransporter.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q75",
+      "type": "true_false",
+      "prompt": "At plasma glucose concentrations below the renal transport maximum (Tm), the renal clearance of glucose is equal to the glomerular filtration rate because glucose is freely filtered.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q76",
+      "type": "true_false",
+      "prompt": "A patient has a urine flow rate of 1.5 mL/minute, a urine inulin concentration of 160 mg/dL, and a plasma inulin concentration of 2 mg/dL. Their glomerular filtration rate (GFR) is 120 mL/minute.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q77",
+      "type": "true_false",
+      "prompt": "If a patient has a urine flow rate of 3 mL/minute, a urine osmolality of 100 mOsm/kg H2O, and a plasma osmolality of 300 mOsm/kg H2O, their free water clearance is +2 mL/minute.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q78",
+      "type": "true_false",
+      "prompt": "In the cortical collecting duct, aldosterone acts on principal cells to stimulate Na+ reabsorption and K+ secretion by decreasing the activity of epithelial sodium channels (ENaC) on the apical membrane.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q79",
+      "type": "true_false",
+      "prompt": "Loop diuretics like furosemide impair both the kidney's ability to concentrate urine during water deprivation and its ability to dilute urine during a water load because they inhibit NaCl reabsorption in the thick ascending limb of the loop of Henle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q80",
+      "type": "true_false",
+      "prompt": "Glomerulotubular (G-T) balance in the proximal tubule is primarily mediated by the peritubular capillary Starling forces, where an increase in GFR raises the filtration fraction, which in turn increases peritubular capillary oncotic pressure and promotes fluid reabsorption.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q81",
+      "type": "true_false",
+      "prompt": "During high salivary flow rates, the salivary HCO3- concentration decreases because the ductal cells reabsorb bicarbonate via an apical Na+-HCO3- cotransporter.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q82",
+      "type": "true_false",
+      "prompt": "In the gastric parietal cell, the apical H+-K+ ATPase pump transport rate is directly stimulated by gastrin, acetylcholine, and histamine, which act via G protein-coupled receptors to increase intracellular cAMP or calcium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q83",
+      "type": "true_false",
+      "prompt": "Secretin is secreted by S cells in the duodenum in response to luminal acid and fats, and its primary action is to stimulate the secretion of bicarbonate-rich fluid from pancreatic ductal cells.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q84",
+      "type": "true_false",
+      "prompt": "Micelles are essential for the absorption of fat-soluble vitamins (A, D, E, K) and long-chain fatty acids because they directly cross the enterocyte apical membrane via endocytosis.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q85",
+      "type": "true_false",
+      "prompt": "In a patient with a congenital absence of the enteric myenteric plexus (Auerbach's plexus) in the distal colon (Hirschsprung's disease), the affected segment of the colon is persistently contracted and fails to relax, obstructing the passage of stool.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q86",
+      "type": "true_false",
+      "prompt": "Unconjugated bilirubin is water-soluble and is actively secreted into the bile canaliculi, whereas conjugated bilirubin is bound to albumin in the blood and cannot be excreted in the urine.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q87",
+      "type": "true_false",
+      "prompt": "Digestion of carbohydrates in the small intestine is mediated by pancreatic amylase, which hydrolyzes starches into monosaccharides (glucose, galactose, fructose) that are directly absorbed across the apical membrane of the enterocyte.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q88",
+      "type": "true_false",
+      "prompt": "Splanchnic blood flow decreases significantly during the postprandial state due to widespread sympathetic vasoconstriction, which shunts blood to active skeletal muscles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q89",
+      "type": "true_false",
+      "prompt": "The posterior pituitary gland (neurohypophysis) does not synthesize hormones; instead, it stores and releases oxytocin and ADH, which are synthesized in the cell bodies of magnocellular neurons in the supraoptic and paraventricular nuclei of the hypothalamus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q90",
+      "type": "true_false",
+      "prompt": "Cortisol acts on target tissues to increase blood glucose levels by stimulating hepatic gluconeogenesis and glycogen synthesis, while simultaneously decreasing insulin-stimulated glucose uptake in skeletal muscle and adipose tissue.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q91",
+      "type": "true_false",
+      "prompt": "A patient with a thyroid-stimulating hormone (TSH)-secreting pituitary adenoma will present with clinical hyperthyroidism, elevated levels of free T3 and T4, and a paradoxically elevated or inappropriately normal TSH level.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q92",
+      "type": "true_false",
+      "prompt": "Active vitamin D (1,25-dihydroxycholecalciferol) increases the intestinal absorption of calcium by upregulating the expression of apical calcium channels (TRPV6), intracellular calbindin, and basolateral Ca2+-ATPase (PMCA).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q93",
+      "type": "true_false",
+      "prompt": "During the first trimester of pregnancy, human chorionic gonadotropin (hCG) is secreted by the cytotrophoblast of the blastocyst, and its main role is to rescue the corpus luteum from regression.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q94",
+      "type": "true_false",
+      "prompt": "Progesterone maintains uterine quiescence during pregnancy by hyperpolarizing the myometrial smooth muscle membrane potential and decreasing the expression of oxytocin receptors and gap junctions.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q95",
+      "type": "true_false",
+      "prompt": "In a patient with primary hypothyroidism (Hashimoto's thyroiditis), the circulating levels of free T4 are low, while the serum TSH level is significantly elevated due to the loss of negative feedback on the anterior pituitary.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q96",
+      "type": "true_false",
+      "prompt": "During dynamic aerobic exercise, mean arterial pressure increases dramatically because both systolic and diastolic blood pressures rise significantly to overcome the vasoconstriction in active skeletal muscles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q97",
+      "type": "true_false",
+      "prompt": "Following a moderate hemorrhage, the baroreceptor reflex causes selective arteriolar constriction in the cutaneous, splanchnic, and renal vascular beds to divert blood flow and preserve perfusion to the brain and heart.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q98",
+      "type": "true_false",
+      "prompt": "Acclimatization to high altitude involves a decrease in red blood cell 2,3-BPG concentration, which shifts the oxygen-hemoglobin dissociation curve to the left to facilitate oxygen loading in the lungs.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q99",
+      "type": "true_false",
+      "prompt": "In a patient presenting with an arterial blood pH of 7.20, HCO3- of 12 mEq/L, and PaCO2 of 26 mmHg, the primary disorder is a metabolic acidosis, and the respiratory compensation is fully adequate according to Winters' formula.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q100",
+      "type": "true_false",
+      "prompt": "In the fetal circulation, the ductus venosus allows oxygenated blood from the umbilical vein to bypass the hepatic circulation and flow directly into the inferior vena cava.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

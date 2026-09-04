@@ -1,0 +1,358 @@
+{
+  "id": "rs-true-false-5",
+  "title": "Respiratory Physiology 5",
+  "topic": "True-False RS",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "Dipalmitoylphosphatidylcholine (DPPC) is the primary surface-tension-reducing phospholipid found in pulmonary surfactant.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "In patients with restrictive lung diseases, such as interstitial fibrosis, lung compliance is characteristically increased.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "According to Henry's Law, the amount of oxygen physically dissolved in the plasma is directly proportional to the partial pressure of oxygen (P_(O2)).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "During moderate exercise, physiological dead space typically decreases because the increase in pulmonary blood flow improves the ventilation-perfusion (V/Q) match in the upper lobes.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "In the healthy human lung, the greatest portion of total airway resistance is located in the small bronchioles (diameter < 2mm).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "The oxygen-hemoglobin dissociation curve for fetal hemoglobin (HbF) is shifted to the right of the adult curve to facilitate oxygen delivery to fetal tissues.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "Angiotensin-converting enzyme (ACE) is primarily located on the luminal surface of the pulmonary capillary endothelium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "Central chemoreceptors on the medulla are directly stimulated by a decrease in arterial P_(O2) below 60 mmHg.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "In the \"chloride shift\" occurring in systemic tissues, chloride ions move into the erythrocyte to maintain electrical neutrality as bicarbonate ions diffuse out.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "The Bohr equation is the standard physiological method used to calculate the volume of the anatomical dead space.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "In Zone 3 of the upright lung, pulmonary arterial pressure is greater than venous pressure, and both exceed the alveolar pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "In a tension pneumothorax, the lung on the affected side collapses inward while the chest wall tends to expand or recoil outward.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "Carbon monoxide (CO) has an affinity for the heme binding sites on hemoglobin that is approximately 20 times greater than that of oxygen.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "Total lung capacity (TLC) and residual volume (RV) can be measured using standard simple spirometry.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "The P_(50) of the oxyhemoglobin dissociation curve represents the partial pressure of oxygen at which 50% of the hemoglobin binding sites are occupied by oxygen.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "The initial respiratory response to the hypoxia of high altitude is hyperventilation, which subsequently produces a state of respiratory alkalosis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "The \"oxygen cascade\" describes the series of steps in which the partial pressure of oxygen increases as it moves from the atmosphere to the mitochondria.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "In emphysema, the \"scooped-out\" appearance of the expiratory flow-volume curve is caused by the dynamic compression and premature closure of airways lacking radial traction.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "The Bohr effect states that a decrease in blood pH or an increase in P_(CO2) shifts the oxyhemoglobin dissociation curve to the right, decreasing hemoglobin's affinity for oxygen.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "Pulmonary vascular resistance (PVR) reaches its lowest point when the lung volume is at the functional residual capacity (FRC).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "The respiratory exchange ratio (R) is numerically higher when the body is primarily oxidizing lipids compared to when it is oxidizing carbohydrates.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "Juxtacapillary (J) receptors are sensory nerve endings in the alveolar walls that are stimulated by pulmonary capillary engorgement or interstitial edema.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "Alveolar ventilation is calculated by subtracting the anatomical dead space from the tidal volume and multiplying the result by the respiratory rate.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "In the upright lung, the ventilation-perfusion (V/Q) ratio is highest at the base of the lung and lowest at the apex.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "Hypoxic pulmonary vasoconstriction (HPV) is a local mechanism that diverts blood flow away from poorly ventilated alveoli to maintain optimal gas exchange.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "The carotid bodies are peripheral chemoreceptors that respond to a decrease in arterial P_(O2), an increase in P_(CO2), and a decrease in pH.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "Polycythemia, an increase in red blood cell count, is a long-term adaptation to high altitude mediated by the renal release of erythropoietin.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "Inspiratory capacity is defined as the maximum volume of gas that can be inspired starting from the end-expiratory level (FRC).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "In an upright person, the intrapleural pressure at the base of the lung is more negative (more subatmospheric) than the intrapleural pressure at the apex.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "During normal, quiet tidal breathing, expiration is an active process requiring the contraction of the internal intercostal muscles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "The solubility of carbon dioxide in blood is approximately 24 times greater than the solubility of oxygen at 37\u00b0C.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "Peripheral chemoreceptors are the only sensors responsible for the immediate increase in ventilation in response to a metabolic acidosis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "In a patient with severe iron-deficiency anemia, the percentage saturation of the available hemoglobin remains normal if the Pa_(O2) is 100 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "According to the Law of Laplace, for a constant surface tension, the pressure required to keep an alveolus open increases as the radius of the alveolus decreases.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "The methacholine challenge test is used clinically to confirm airway hyperresponsiveness by inducing bronchoconstriction in susceptible patients.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "An arterial blood gas result showing a pH of 7.25 and a Pa_(CO2) of 60 mmHg is consistent with a state of acute, uncompensated respiratory acidosis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "Hysteresis in the lung's pressure-volume relationship means that for a given transpulmonary pressure, lung volume is greater during expiration than during inspiration.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "The anatomical dead space consists of the volume of the conducting airways, including the trachea, bronchi, and the respiratory bronchioles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "In a patient with a complete intrapulmonary shunt (V/Q = 0), the systemic arterial P_(O2) will never reach the level of the inspired P_(O2), regardless of the Fi_(O2).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "Stimulation of the parasympathetic fibers in the vagus nerve leads to bronchodilation and a decrease in total airway resistance.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "An increase in the concentration of 2,3-diphosphoglycerate (2,3-DPG) in erythrocytes shifts the oxyhemoglobin dissociation curve to the left.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "Physiological dead space is a functional measurement that is always greater than or equal to the anatomical dead space.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "In an upright person, both ventilation and perfusion are quantitatively greater at the base of the lung than at the apex.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "A widened alveolar-arterial (A-a) P_(O2) gradient is expected in a healthy individual who is hypoventilating due to a drug overdose.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "Peripheral chemoreceptors in the carotid bodies respond specifically to the partial pressure of oxygen (Pa_(O2)) rather than the total oxygen content of the blood.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "Fetal hemoglobin has a higher affinity for oxygen because it binds the allosteric effector 2,3-DPG less strongly than adult hemoglobin A.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "If a patient develops a large pulmonary embolism, the V/Q ratio in the affected, non-perfused lung units becomes zero.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "The intrapleural pressure becomes less negative (moves toward zero) as a person inhales from FRC toward total lung capacity.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "The rate of diffusion for a gas across the blood-gas barrier is directly proportional to the surface area and inversely proportional to the thickness of the barrier.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "The dorsal respiratory group (DRG), located in the medulla, contains primarily inspiratory neurons that provide the basic rhythm for breathing.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

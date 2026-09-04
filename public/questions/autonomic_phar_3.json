@@ -1,0 +1,218 @@
+{
+  "id": "autonomic-pharmacology-3",
+  "title": "Sympathomimetic Drugs (Short Answer)",
+  "topic": "Autonomic Pharmacology",
+  "category": "Pharmacology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "A novel experimental agonist is found to selectively activate alpha 1 receptors in vascular smooth muscle. Predict the specific second messenger cascade that follows ligand binding?",
+      "modelAnswer": "Activation of Gq protein which stimulates phospholipase C to cleave PIP2 into inositol trisphosphate IP3 and diacylglycerol DAG. IP3 releases calcium from the endoplasmic reticulum leading to smooth muscle contraction.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "If a patient is administered a moderate dose of norepinephrine intravenously why does the heart rate typically decrease despite norepinephrine being an agonist at cardiac beta 1 receptors?",
+      "modelAnswer": "Norepinephrine causes strong alpha 1 mediated vasoconstriction increasing mean arterial pressure. This triggers baroreceptor mediated vagal activation which overrides beta 1 stimulation causing reflex bradycardia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Why are catecholamines like epinephrine ineffective when administered orally whereas non catecholamines like albuterol are orally active?",
+      "modelAnswer": "Catecholamines are rapidly degraded by catechol O methyltransferase in the gut and liver due to their catechol structure. Albuterol lacks this structure making it resistant to degradation and orally active.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Explain how a single molecule of epinephrine can generate thousands of molecules of glucose in the liver?",
+      "modelAnswer": "Through a signal amplification cascade. Epinephrine activates Gs protein and adenylyl cyclase increasing cAMP which activates protein kinase A. Each step amplifies the signal leading to activation of many glycogen phosphorylase molecules.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Contrast the termination of action of norepinephrine at the synapse with that of acetylcholine?",
+      "modelAnswer": "Acetylcholine is terminated by enzymatic hydrolysis via acetylcholinesterase. Norepinephrine is primarily terminated by reuptake into the presynaptic neuron via the norepinephrine transporter.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "How does the administration of cocaine lead to a sympathomimetic state if cocaine itself does not bind to adrenoceptors?",
+      "modelAnswer": "Cocaine blocks the norepinephrine transporter preventing reuptake. This leads to accumulation of norepinephrine in the synaptic cleft and prolonged stimulation of alpha and beta receptors.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "In medicinal chemistry what is the primary pharmacological advantage of adding an alpha methyl group to a phenylethylamine like amphetamine?",
+      "modelAnswer": "The alpha methyl group prevents degradation by monoamine oxidase prolonging the drug's duration of action and allowing persistence in nerve terminals.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Predict the effect of beta 2 receptor activation on plasma potassium levels and identify the tissue responsible?",
+      "modelAnswer": "Beta 2 activation causes hypokalemia by stimulating sodium potassium ATPase which drives potassium into skeletal muscle cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Describe the biochemical mechanism by which presynaptic alpha 2 receptors regulate the release of norepinephrine?",
+      "modelAnswer": "Activation of Gi protein inhibits adenylyl cyclase decreasing cAMP and reducing calcium influx required for vesicle release providing negative feedback on norepinephrine release.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "In a laboratory setup with a denervated heart no reflex arcs predict the heart rate response to a low dose infusion of isoproterenol?",
+      "modelAnswer": "Heart rate increases significantly. Isoproterenol directly stimulates beta 1 receptors in the sinoatrial node and without reflex arcs there is no opposing vagal effect.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Why is low dose dopamine used to maintain renal perfusion in patients with low cardiac output?",
+      "modelAnswer": "Low dose dopamine selectively activates D1 receptors in renal vasculature increasing cAMP and causing vasodilation which improves renal blood flow.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Recent evidence suggests that alpha and beta receptors may be constitutively active. How would an inverse agonist affect basal cAMP levels in a beta 1 rich tissue compared to a neutral antagonist?",
+      "modelAnswer": "An inverse agonist decreases basal cAMP by stabilizing the inactive receptor state. A neutral antagonist does not affect basal activity and only blocks agonist induced increases.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Explain the role of beta arrestin in the regulation of beta adrenoceptors following prolonged agonist exposure?",
+      "modelAnswer": "Receptor phosphorylation by G protein coupled receptor kinases increases affinity for beta arrestin which blocks G protein coupling and promotes receptor internalization.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Why is the ingestion of aged cheese potentially lethal for a patient taking a non selective monoamine oxidase inhibitor?",
+      "modelAnswer": "Tyramine is normally metabolized by monoamine oxidase. Inhibition allows tyramine to accumulate and displace norepinephrine from nerve terminals causing a hypertensive crisis.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What is the primary physiological rationale for developing selective beta 3 agonists for the treatment of metabolic disorders?",
+      "modelAnswer": "Beta 3 receptors in adipose tissue promote lipolysis and thermogenesis. They are less prone to desensitization making them useful targets for increasing energy expenditure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "A patient develops severe hypotension and bronchospasm after a bee sting. Why is epinephrine the drug of choice rather than a selective beta 2 agonist like albuterol?",
+      "modelAnswer": "Epinephrine activates alpha 1 beta 1 and beta 2 receptors. Alpha 1 reverses hypotension via vasoconstriction beta 1 improves cardiac output and beta 2 provides bronchodilation. Albuterol lacks alpha and beta 1 effects needed in shock.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "A patient with autonomic failure is prescribed midodrine. What clinical monitoring is essential to avoid a common nocturnal complication?",
+      "modelAnswer": "Monitoring for supine hypertension. Midodrine increases blood pressure via alpha 1 mediated vasoconstriction and when lying down this can lead to excessive hypertension.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "In a patient with acute heart failure and low blood pressure why might dobutamine be preferred over norepinephrine?",
+      "modelAnswer": "Dobutamine selectively stimulates beta 1 receptors increasing contractility with less increase in peripheral resistance. Norepinephrine increases afterload via alpha 1 which can worsen heart failure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Why is epinephrine frequently added to local anesthetic solutions like lidocaine?",
+      "modelAnswer": "Alpha mediated vasoconstriction reduces systemic absorption of the anesthetic prolonging its local effect and reducing toxicity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Explain why a rebound hypertensive crisis can occur when a patient abruptly stops taking clonidine?",
+      "modelAnswer": "Chronic clonidine use down regulates alpha 2 receptors. Abrupt withdrawal removes inhibition of sympathetic outflow leading to excessive catecholamine release and severe hypertension.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "A patient presents with a suspected cocaine overdose. Why is the administration of a non selective beta blocker like propranolol potentially dangerous?",
+      "modelAnswer": "Non selective beta blockade leads to unopposed alpha 1 vasoconstriction causing severe hypertension and coronary vasospasm.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "Why is inhalation the preferred route for beta 2 agonists in the maintenance of asthma?",
+      "modelAnswer": "Inhalation delivers high concentrations directly to bronchial smooth muscle with rapid onset and minimal systemic side effects.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "What is the proposed mechanism by which methylphenidate improves attention span in patients with ADHD?",
+      "modelAnswer": "It blocks dopamine and norepinephrine reuptake increasing their synaptic availability in the prefrontal cortex improving attention and behavioral control.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "A patient using an over the counter phenylephrine nasal spray for two weeks reports worsening congestion. Identify the phenomenon?",
+      "modelAnswer": "Rebound nasal congestion also known as rhinitis medicamentosa due to receptor down regulation and reflex hyperemia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "What is the pharmacological basis for using apraclonidine topically in glaucoma?",
+      "modelAnswer": "It is an alpha 2 agonist that reduces aqueous humor production lowering intraocular pressure with minimal central effects.",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "short_answer",
+      "prompt": "Why might pseudoephedrine be used off label for a patient with stress urinary incontinence?",
+      "modelAnswer": "It stimulates alpha 1 receptors in the urethral sphincter increasing outlet resistance and improving continence.",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "short_answer",
+      "prompt": "A patient on phenelzine presents with severe hypertension after eating aged cheese. What is the immediate pharmacological intervention?",
+      "modelAnswer": "Administration of an alpha adrenoceptor antagonist such as phentolamine to block vasoconstriction and lower blood pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "short_answer",
+      "prompt": "In what scenario would isoproterenol be used in an emergency cardiac setting?",
+      "modelAnswer": "Temporary treatment of complete heart block or cardiac arrest by increasing heart rate through beta 1 stimulation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "short_answer",
+      "prompt": "Why should patients taking digoxin be treated with extreme caution when receiving beta agonists?",
+      "modelAnswer": "Both increase intracellular calcium and myocardial excitability increasing the risk of arrhythmias.",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "short_answer",
+      "prompt": "Why is ritodrine used in the management of premature labor?",
+      "modelAnswer": "Ritodrine is a beta 2 agonist that relaxes uterine smooth muscle inhibiting contractions and delaying labor.",
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-14",
+  "title": "Renal Comprehensive Set 2: Tubular Function (MCQ)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A patient with poorly controlled type I diabetes mellitus presents to the clinic. Her glomerular filtration rate (GFR) is 125 mL/min, her plasma glucose concentration is 300 mg/dL, and her urine flow rate is 2 mL/min. If her renal transport maximum (Tm) for glucose is 250 mg/min, what is the calculated rate of glucose excretion?",
+      "options": [
+        "0 mg/min",
+        "125 mg/min",
+        "250 mg/min",
+        "375 mg/min",
+        "500 mg/min"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "During a micropuncture study on a healthy volunteer, a researcher samples tubular fluid from the end of the proximal convoluted tubule. Laboratory analysis reveals that the concentration of inulin in the tubular fluid is 4.0 mg/mL, while the plasma inulin concentration is 1.0 mg/mL. Based on these findings, what percentage of the filtered water remains in the tubule at this point?",
+      "options": [
+        "12.5%",
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "In an experimental model, a researcher applies a pharmacological agent that specifically inhibits the basolateral Na^+/K^+-ATPase within the proximal tubule. Which of the following changes in the tubular fluid-to-plasma concentration ratio ([TF/P]) for glucose would most likely be observed?",
+      "options": [
+        "[TF/P] for glucose decreases below 0.1",
+        "[TF/P] for glucose increases above 2.0",
+        "[TF/P] for glucose increases toward 1.0",
+        "[TF/P] for glucose is unaffected by Na^+ levels",
+        "[TF/P] for glucose becomes negative"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient experiences an acute physiological change that causes their filtration fraction to increase from 0.20 to 0.30. According to the principles of peritubular Starling forces and glomerulotubular balance, how will this change affect isosmotic reabsorption in the proximal tubule?",
+      "options": [
+        "Decreased reabsorption due to lower peritubular hydrostatic pressure",
+        "Decreased reabsorption due to lower peritubular oncotic pressure",
+        "No change in reabsorption as glomerulotubular balance is an intrinsic cellular mechanism",
+        "Increased reabsorption due to higher peritubular oncotic pressure",
+        "Increased reabsorption due to higher peritubular hydrostatic pressure"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A new experimental drug, \"Substance X,\" is studied for its renal handling. The plasma concentration of X is 2 mg/dL, the urine concentration is 100 mg/dL, and the urine flow rate is 2 mL/min. If the simultaneously measured GFR is 100 mL/min, which of the following statements regarding the renal handling of Substance X is correct?",
+      "options": [
+        "Substance X is net secreted by the renal tubules",
+        "Substance X is net reabsorbed by the renal tubules",
+        "Substance X is poorly filtered due to its molecular size",
+        "Substance X undergoes 50% reabsorption in the proximal tubule",
+        "Substance X is a glomerular marker (filtered, but not reabsorbed or secreted)"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 24-year-old man is brought to the emergency department following an overdose of aspirin (salicylic acid), which is a weak organic acid. To accelerate the renal excretion of the drug, the physician administers an intravenous infusion of sodium bicarbonate to alkalinize the urine. Which of the following best explains the efficacy of this treatment?",
+      "options": [
+        "Clearance decreases because the ionized form back-diffuses into the blood",
+        "Clearance decreases because the non-ionized form back-diffuses into the blood",
+        "Clearance increases because the non-ionized form is trapped in the lumen",
+        "Clearance increases because the ionized form is trapped in the lumen",
+        "Clearance is unaffected by urinary pH since aspirin is actively reabsorbed"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Laboratory analysis of tubular fluid from a experimental subject shows that the double ratio of a solute \"Z\" ([TF/P]_Z/[TF/P]_inulin) at the end of the proximal tubule is 0.3. Which of the following interpretations is correct?",
+      "options": [
+        "30% of the filtered load of Z has been reabsorbed",
+        "70% of the filtered load of Z has been reabsorbed",
+        "The concentration of Z is 3 times the plasma concentration at this point",
+        "Solute Z is a glomerular marker like inulin",
+        "Water reabsorption has exceeded the reabsorption of solute Z"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Following a high-protein meal, there is a significant increase in the filtered load of amino acids. Which of the following mechanisms in the proximal tubule accounts for the subsequent dilation of the afferent arteriole and increase in GFR?",
+      "options": [
+        "Decreased Na^+/H^+ exchange in the early proximal tubule",
+        "Increased parathyroid hormone (PTH) release in response to amino acids",
+        "Increased Na^+-amino acid cotransport reduces NaCl delivery to the macula densa",
+        "Dilation of the efferent arteriole via direct sympathetic inhibition",
+        "Inhibition of the Na^+/K^+-ATPase by high intracellular amino acid levels"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "To determine the true renal plasma flow (RPF) in a patient using the Fick principle, a clinician obtains the following steady-state values for para-aminohippuric acid (PAH): renal arterial [PAH] = 10 mg/L, renal venous [PAH] = 1 mg/L, urine [PAH] = 450 mg/L, and urine flow rate = 2 mL/min. What is the patient's calculated RPF?",
+      "options": [
+        "45 mL/min",
+        "50 mL/min",
+        "90 mL/min",
+        "100 mL/min",
+        "450 mL/min"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A mutation in the gene encoding the sodium-glucose linked transporter (SGLT) in the proximal tubule results in a decreased binding affinity for glucose. Which of the following changes to the glucose titration curve would be expected in this individual?",
+      "options": [
+        "The threshold would increase and the splay would decrease",
+        "The Tm would increase significantly to compensate for the defect",
+        "The threshold would remain unchanged but the Tm  would decrease",
+        "The threshold would decrease but splay would disappear entirely",
+        "The splay would increase, causing the renal threshold to decrease"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

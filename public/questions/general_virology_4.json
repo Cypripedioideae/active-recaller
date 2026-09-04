@@ -1,0 +1,148 @@
+{
+  "id": "general-virology-4",
+  "title": "General Virology 4",
+  "topic": "General Virology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 4-year-old unvaccinated child develops fever, sore throat, and malaise followed by asymmetric flaccid paralysis of the lower limbs without sensory loss. What is the mode of transmission of the viral causative agent in this patient?",
+      "options": [
+        "Sexual transmission",
+        "Direct contact",
+        "Respiratory droplets",
+        "Fecal-oral route",
+        "Vector-borne transmission"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Upon a direct examaination of a tissue sample, an inclusion body called molluscum bodies are found. The agent that causes the formation of these inclusion bodies is in the same family as which of the following viruses?",
+      "options": [
+        "Varicella-zoster virus",
+        "Variola virus",
+        "Coxsackie virus",
+        "Rubella virus",
+        "JC virus"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Hepatitis B virus (HBV) utilizes a unique replication strategy among DNA viruses. Following the entry of the viral genome into the host nucleus and the production of mRNA, which enzymatic process is required to generate the DNA genome of progeny virions?",
+      "options": [
+        "Rolling circle replication occurring in the host cytoplasm",
+        "Direct translation of the DNA genome by host cell ribosomes",
+        "Integration of the viral DNA into the host chromosome via integrase",
+        "Semiconservative DNA replication by host cell DNA polymerase",
+        "Reverse transcription of a pregenomic RNA intermediate into DNA"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 5-year-old child presents with a high fever, cough, and conjunctivitis. During the physical examination, the clinician observes small, bright red spots with blue-white centers on the buccal mucosa. This pathognomonic clinical finding is termed what?",
+      "options": [
+        "Owl's eye inclusions",
+        "Cowdry type A inclusions",
+        "Koplik spots",
+        "Guarnieri bodies",
+        "Negri bodies"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 5-year-old child presents with a high fever, cough, and conjunctivitis. During the physical examination, the clinician observes small, bright red spots with blue-white centers on the buccal mucosa. This pathognomonic clinical finding is associated with which viral infection?",
+      "options": [
+        "Parvovirus B19",
+        "Cytomegalovirus",
+        "Rubella virus",
+        "Measles virus",
+        "Adenovirus"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Favipiravir is an antiviral medication utilized in the treatment of various RNA viruses, including SARS-CoV-2 and certain influenza strains. What is the primary mechanism of action for the active triphosphate form of this drug?",
+      "options": [
+        "Interference with the host cell's ribosomal protein synthesis",
+        "Blockade of viral attachment to the host cell membrane",
+        "Prevention of mature virion release from the cell surface",
+        "Inhibition of the viral RNA-dependent RNA polymerase",
+        "Competitive inhibition of the viral integrase enzyme"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 19-year-old patient presents with painful vesicular lesions on the genitalia. A Tzanck smear prepared from the lesion reveals the presence of multinucleated giant cells. This microscopic finding confirms an infection by a member of which viral family?",
+      "options": [
+        "Herpesviridae",
+        "Papillomaviridae",
+        "Adenoviridae",
+        "Picornaviridae",
+        "Hepadnaviridae"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "In the replication cycle of HIV, the viral enzyme integrase is responsible for a critical step following the synthesis of double-stranded DNA. What is the primary function of this enzyme?",
+      "options": [
+        "Facilitating the uncoating of the viral core in the cytoplasm",
+        "Inserting the linear viral DNA into the host cell chromosome",
+        "Promoting the budding of new viral particles from the membrane",
+        "Cleaving large viral polyproteins into functional subunits",
+        "Synthesizing a DNA copy from the viral RNA template"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "The process of \"reassortment,\" which can lead to major antigenic shifts and global pandemics, occurs when two different viral strains infect the same cell and exchange genetic material. This process is possible only in viruses that possess which of the following genomic features?",
+      "options": [
+        "A positive-sense single-stranded RNA genome",
+        "A circular DNA genome",
+        "A diploid DNA genome",
+        "A double-stranded DNA genome",
+        "A segmented RNA genome"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "In a laboratory experiment, a cell is simultaneously infected with Virus A and Virus B. During the assembly phase, the genome of Virus A is packaged within a protein coat (capsid/envelope) derived entirely from Virus B. What determines the tropism (the ability to infect a specific cell type) of this resulting hybrid progeny?",
+      "options": [
+        "Reassortment of genomic segments between both viruses",
+        "The protein coat derived from Virus B",
+        "The site of viral replication in the cytoplasm",
+        "Host cell-derived tRNA molecules",
+        "The genetic material derived from Virus A"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "id": "comprehensive-cvs-review-13",
+  "title": "Cardiovascular Comprehensive Set 2: Regulation of Arterial Pressure (MCQ)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 16-year-old girl is diagnosed with Liddle's syndrome, a genetic mutation that increases the activity of epithelial sodium channels (ENaC). Which set of physiological findings is most consistent with the resulting effect on her arterial pressure regulation?",
+      "options": [
+        "Increased plasma renin, increased aldosterone, and hyperkalemia",
+        "Decreased plasma renin, increased aldosterone, and metabolic acidosis",
+        "Increased plasma renin, decreased aldosterone, and hypernatremia",
+        "Decreased plasma renin, decreased aldosterone, and hypokalemia",
+        "Normal plasma renin, normal aldosterone, and hypotension"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 2-year-old boy is brought to the emergency department after a head injury that resulted in increased intracranial pressure. Which analysis of his subsequent \"Cushing reaction\" correctly pairs the physiological stimulus with the cardiovascular outcome?",
+      "options": [
+        "Decreased P_(CO2) in the medulla triggers reflex vasodilation and bradycardia",
+        "Increased P_(CO2) in the medulla triggers reflex vasoconstriction and tachycardia",
+        "Increased P_(CO2) in the medulla triggers intense sympathetic outflow, hypertension, and reflex bradycardia",
+        "Decreased P_(O2) in the carotid bodies triggers parasympathetic outflow, hypotension, and tachycardia",
+        "Increased pH in the cerebrospinal fluid triggers sympathetic inhibition and hypotension"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "During a laboratory demonstration of the Valsalva maneuver, a student maintains forced expiration against a closed glottis. Which mechanical and reflex sequence explains the \"rebound\" bradycardia observed immediately after the student stops the maneuver?",
+      "options": [
+        "Sudden decrease in intrathoracic pressure \u2192 decreased venous return \u2192 baroreceptor-mediated tachycardia",
+        "Sudden increase in cardiac output \u2192 decreased arterial pressure \u2192 decreased carotid sinus firing",
+        "Sudden increase in venous return \u2192 increased cardiac output \u2192 increased baroreceptor firing \u2192 reflex bradycardia",
+        "Persistent pulmonary hypertension \u2192 right ventricular failure \u2192 decreased heart rate",
+        "Rebound increase in total peripheral resistance \u2192 decreased mean systemic filling pressure \u2192 parasympathetic inhibition"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 28-year-old woman experiences a 15% loss of total blood volume following an injury. Based on the baroreceptor reflex, which change in the firing rate of the carotid sinus nerve and subsequent autonomic outflow would be expected?",
+      "options": [
+        "Increased firing rate \u2192 increased parasympathetic outflow \u2192 decreased heart rate",
+        "Decreased firing rate \u2192 increased sympathetic outflow \u2192 increased total peripheral resistance",
+        "Increased firing rate \u2192 decreased sympathetic outflow \u2192 increased venous compliance",
+        "Decreased firing rate \u2192 decreased parasympathetic outflow \u2192 decreased contractility",
+        "No change in firing rate \u2192 increased renin secretion \u2192 metabolic alkalosis"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A physiology researcher is comparing the effects of different hormones on a subject with expanded extracellular fluid (ECF) volume. Which of the following correctly describes the integrated response of Atrial Natriuretic Peptide (ANP) and Antidiuretic Hormone (ADH) to this state?",
+      "options": [
+        "Decreased ANP secretion and increased ADH secretion to conserve water",
+        "Increased ANP secretion and increased ADH secretion to increase total peripheral resistance",
+        "Decreased ANP secretion and decreased ADH secretion to promote sodium reabsorption",
+        "Increased ANP secretion and decreased ADH secretion to promote natriuresis and water excretion",
+        "Increased ANP secretion and increased aldosterone secretion to stabilize blood volume"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 65-year-old man with essential hypertension is prescribed an ACE inhibitor. Which of the following analytical shifts at the efferent arteriole is responsible for the reduction in his glomerular filtration rate (GFR)?",
+      "options": [
+        "Constriction of the efferent arteriole leading to increased P_(GC)",
+        "Dilation of the efferent arteriole leading to decreased P_(GC)",
+        "Constriction of the afferent arteriole leading to increased RPF",
+        "Dilation of the afferent arteriole leading to decreased filtration fraction",
+        "Increased plasma protein concentration leading to increased \u03c0_(GC)"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Following a moderate hemorrhage, a patient's body utilizes \"autotransfusion\" to help restore blood volume. Which mechanism best describes how this shift of fluid from the interstitium into the capillaries is achieved?",
+      "options": [
+        "Arteriolar vasodilation increases capillary hydrostatic pressure (P_c)",
+        "Increased plasma protein concentration increases interstitial oncotic pressure (\u03c0_i)",
+        "Arteriolar vasoconstriction decreases capillary hydrostatic pressure (P_c), favoring absorption",
+        "Increased venous pressure increases the net filtration pressure (J_v)",
+        "Decreased lymphatic flow increases the interstitial hydrostatic pressure (P_i)"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with a tumor in the zona glomerulosa (Conn's syndrome) that causes primary hyperaldosteronism. Analyze the effect of this condition on the renin-angiotensin system and extracellular fluid volume.",
+      "options": [
+        "High aldosterone \u2192 low Na^+ reabsorption \u2192 ECF volume contraction \u2192 high renin",
+        "High aldosterone \u2192 high Na^+ reabsorption \u2192 ECF volume expansion \u2192 low renin",
+        "High aldosterone \u2192 high Na^+ reabsorption \u2192 ECF volume expansion \u2192 high renin",
+        "High aldosterone \u2192 high K^+ reabsorption \u2192 ECF volume contraction \u2192 low renin",
+        "High aldosterone \u2192 low Na^+ reabsorption \u2192 ECF volume expansion \u2192 low renin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "During an acute drop in mean arterial pressure to 55 mmHg, which reflex mechanism becomes the primary driver for maintaining cerebral perfusion?",
+      "options": [
+        "Peripheral chemoreceptors sensing decreased Pa_(O2) and increasing sympathetic outflow",
+        "Cardiopulmonary baroreceptors sensing decreased blood volume and increasing ADH",
+        "The Bainbridge reflex increasing heart rate to compensate for low stroke volume",
+        "The myogenic response of the aorta increasing total peripheral resistance",
+        "Atrial stretch receptors stimulating the release of ANP to lower afterload"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 78-year-old patient has decreased arterial compliance due to aging. How will this change affect her systolic pressure and pulse pressure for a given stroke volume?",
+      "options": [
+        "Decreased systolic pressure and decreased pulse pressure",
+        "Increased systolic pressure and decreased pulse pressure",
+        "Decreased systolic pressure and increased pulse pressure",
+        "Increased systolic pressure and increased pulse pressure",
+        "Normal systolic pressure and normal pulse pressure"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A patient with severe anemia (low hemoglobin) has a normal Pa_(O2) of 100 mmHg. Why are the peripheral chemoreceptors in the carotid bodies not stimulated in this patient?",
+      "options": [
+        "Chemoreceptors are only sensitive to the total O_2 content of the blood",
+        "Chemoreceptors are only sensitive to the percentage of hemoglobin saturation",
+        "Chemoreceptors are primarily sensitive to dissolved PO_2, which is normal in anemia",
+        "The increased cardiac output in anemia washes out the stimulus",
+        "The Bohr effect prevents the chemoreceptors from reaching threshold"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A patient presenting with severe bradycardia (HR 35 bpm) is administered a therapeutic dose of atropine. Which application of the drug's mechanism explains the increase in heart rate?",
+      "options": [
+        "Blockade of M_2 muscarinic receptors in the SA node, preventing G_i-mediated inhibition of adenylyl cyclase",
+        "Activation of \u03b2_1-adrenergic receptors, increasing intracellular cAMP levels",
+        "Inhibition of the Na^+/K^+ ATPase, increasing intracellular Ca^(2+)",
+        "Blockade of nicotinic receptors in the autonomic ganglia",
+        "Opening of K^+-ACh channels, leading to hyperpolarization"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A 48-year-old man moves from a supine to a standing position, resulting in a transient decrease in arterial pressure. Which of the following is the most immediate compensatory cardiovascular change?",
+      "options": [
+        "Decreased total peripheral resistance",
+        "Increased venous compliance",
+        "Decreased firing rate of the carotid sinus nerve",
+        "Increased parasympathetic activity to the SA node",
+        "Decreased myocardial contractility"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "Stimulation of the sympathetic nerves during exercise leads to an increase in blood glucose and fatty acids. Which analytical sequence describes the autonomic effect on the pancreatic islets?",
+      "options": [
+        "Stimulation of insulin secretion and stimulation of glucagon secretion",
+        "Inhibition of insulin secretion and inhibition of glucagon secretion",
+        "Stimulation of insulin secretion and inhibition of glucagon secretion",
+        "Inhibition of insulin secretion and stimulation of glucagon secretion",
+        "Normalization of the insulin/glucagon ratio via the parasympathetic system"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "In a healthy subject, an intravenous infusion of 2 liters of isotonic saline is administered. Which reflex is activated to increase heart rate?",
+      "options": [
+        "Baroreceptor reflex",
+        "Cushing reflex",
+        "Hering-Breuer reflex",
+        "Bainbridge reflex",
+        "Chemoreceptor reflex"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "During aerobic exercise, there is a redistribution of the cardiac output. Which analysis of regional blood flow explains the sparing of the cerebral circulation from sympathetic vasoconstriction?",
+      "options": [
+        "High density of \u03b1_1 receptors on cerebral vessels causes strong dilation",
+        "Activation of \u03b2_2 receptors by epinephrine causes profound cerebral constriction",
+        "Local metabolic factors (e.g., CO_2) and autoregulation override sparse sympathetic innervation",
+        "The blood-brain barrier blocks norepinephrine from binding to cerebral smooth muscle",
+        "Increased parasympathetic outflow to the brain causes active vasodilation"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "A patient with hypertension is treated with propranolol, a \u03b2-adrenergic antagonist. Which statement correctly analyzes the effect of this drug on his heart rate?",
+      "options": [
+        "It increases heart rate by stimulating the \"funny current\" (I_f)",
+        "It decreases heart rate by decreasing the rate of Phase 4 depolarization in the SA node",
+        "It increases heart rate by decreasing the threshold potential",
+        "It decreases heart rate by hyperpolarizing the maximum diastolic potential",
+        "It has no effect on heart rate but decreases total peripheral resistance"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "In response to a severe hemorrhage, antidiuretic hormone (ADH) levels increase significantly. Which set of receptors and outcomes represents the integrated role of ADH in this state?",
+      "options": [
+        "V_1 receptors (water reabsorption) and V_2 receptors (vasoconstriction)",
+        "V_1 receptors (vasodilation) and V_2 receptors (sodium excretion)",
+        "V_1 receptors (sodium reabsorption) and V_2 receptors (water reabsorption)",
+        "V_1 receptors (vasoconstriction) and V_2 receptors (water reabsorption)",
+        "M_3 receptors (sweating) and V_2 receptors (thirst)"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "A patient with Addison's disease experiences critical hypovolemia due to aldosterone deficiency. Why does their body exhibit a \"hypotonic contraction\" of the ECF?",
+      "options": [
+        "Water shifts from the ECF to the ICF due to increased ECF osmolarity",
+        "Excessive water reabsorption in the proximal tubule dilutes the ECF",
+        "Severe hypovolemia resets the ADH threshold, leading to water retention despite low osmolarity",
+        "Hyperkalemia stimulates the thirst center directly, causing water intoxication",
+        "The loss of Na^+ is less than the loss of water, increasing the ECF osmolarity"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "A clinician uses cocaine drops in a patient's eye during a test for Horner syndrome. If the sympathetic pathway to the eye is intact, what is the expected outcome and mechanism?",
+      "options": [
+        "Constriction of the pupil due to blockade of norepinephrine release",
+        "Dilation of the pupil due to blockade of norepinephrine reuptake",
+        "Dilation of the pupil due to direct stimulation of muscarinic receptors",
+        "Constriction of the pupil due to activation of \u03b1_1 receptors",
+        "No change in pupil size because cocaine only affects the CNS"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "mcq",
+      "prompt": "Which of the following correctly pairs the stimulus with the renal response for the regulation of renin secretion?",
+      "options": [
+        "Increased arterial pressure \u2192 increased renin release",
+        "Parasympathetic stimulation \u2192 increased renin release",
+        "Increased Cl^- concentration at the macula densa \u2192 increased renin release",
+        "Sympathetic stimulation of \u03b2_1 receptors on JG cells \u2192 increased renin release",
+        "Increased circulating angiotensin II \u2192 increased renin release"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "mcq",
+      "prompt": "A 54-year-old man presents with heatstroke after working in his yard on a hot day. Which analysis of his physiological state is correct regarding his sweating mechanism?",
+      "options": [
+        "Sweating has ceased because high temperatures damaged the anterior hypothalamic-preoptic area",
+        "Sweating is excessive, leading to hypervolemic hypertension",
+        "Increased parasympathetic tone to the skin has caused profound vasoconstriction",
+        "The hypothalamic set point has been lowered, leading to shivering",
+        "ADH secretion is inhibited, causing polyuria and cooling of the core"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "mcq",
+      "prompt": "During a state of progressive hemorrhagic shock, a clinician administers low-dose dopamine. What is the intended analytical outcome of this therapy?",
+      "options": [
+        "Global vasoconstriction to increase total peripheral resistance",
+        "Increased heart rate to compensate for low blood volume",
+        "Constriction of the renal artery to shunt blood to the brain",
+        "Dilation of the cutaneous vessels to dissipate heat",
+        "Dilation of renal and splanchnic arterioles to maintain blood flow to critical organs"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "mcq",
+      "prompt": "A patient with long-standing systemic hypertension is found to have decreased arterial compliance. According to the pressure-volume relationship, how will this affect the work of the heart?",
+      "options": [
+        "It increases because the left ventricle must develop higher systolic pressures to eject blood",
+        "It decreases because the reduced capacitance facilitates faster ejection",
+        "It remains constant because the baroreceptor reflex lowers the heart rate",
+        "It decreases because the stroke volume is significantly reduced",
+        "It increases because the heart must pump blood into a higher-compliance system"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "mcq",
+      "prompt": "Thyroid hormones are known to have a \"sympathomimetic\" effect on the heart. What is the molecular application of this effect?",
+      "options": [
+        "Inhibition of the Na^+/K^+ ATPase in myocardial cells",
+        "Down-regulation of muscarinic receptors in the SA node",
+        "Up-regulation of \u03b2_1-adrenergic receptors in the heart",
+        "Direct activation of the vagus nerve to increase cardiac reserve",
+        "Inhibition of PNMT in the adrenal medulla"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

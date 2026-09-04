@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-rs-review-4",
+  "title": "Comprehensive Respiratory Set 1: Oxygen Transport and Hemoglobin (Short Answer)",
+  "topic": "Comprehensive RS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Name the two primary forms in which oxygen is transported within the blood.",
+      "modelAnswer": "Dissolved in plasma (free in solution) and bound to haemoglobin.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "What is the numerical value for the solubility of oxygen in blood at 37\u00b0C?",
+      "modelAnswer": "0.003 mL O2/100 mL blood per mm Hg.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Describe the molecular structure of normal adult haemoglobin (HbA).",
+      "modelAnswer": "A globular protein consisting of four subunits (two \u03b1 and two \u03b2), each containing a heme moiety with an iron atom.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "What are the specific structural and functional differences between fetal haemoglobin (HbF) and adult haemoglobin?",
+      "modelAnswer": "HbF consists of two \u03b1 and two \u03b3 chains; it has a higher affinity for O2 than HbA because it binds 2,3-DPG less avidly.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "What is the definition of methaemoglobin, and what specific state of iron does it contain?",
+      "modelAnswer": "Methaemoglobin is haemoglobin in which iron is in the ferric (Fe3+) state; it cannot bind O2.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Explain the molecular defect in haemoglobin S (HbS) and how it affects red blood cell morphology.",
+      "modelAnswer": "Two \u03b1 subunits are normal but two \u03b2 subunits are abnormal (\u03b12\u03b22S); deoxygenated HbS forms sickle-shaped rods that deform red blood cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Define \"oxygen-binding capacity\" and \"total oxygen content\" of blood.",
+      "modelAnswer": "Binding capacity is the maximum amount of O2 bound to Hb at 100% saturation; total content is the sum of bound O2 and dissolved O2.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "What is the physiological meaning of the \"P_(50)\" value on an oxygen-haemoglobin dissociation curve?",
+      "modelAnswer": "The partial pressure of oxygen (P_(O2)) at which haemoglobin is 50% saturated.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Define \"positive cooperativity\" and explain how it results in the sigmoidal shape of the dissociation curve.",
+      "modelAnswer": "The phenomenon where the binding of the first O2 molecule to a heme site increases the affinity for the binding of subsequent O2 molecules.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "In which part of the dissociation curve (flat or steep) is oxygen affinity the highest, and why is this beneficial in the lungs?",
+      "modelAnswer": "The flat portion (60-100 mmHg); high affinity ensures as much O2 as possible is loaded into the blood despite variations in atmospheric P_(O2).",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "List the primary factors that cause a rightward shift in the oxygen-haemoglobin dissociation curve.",
+      "modelAnswer": "Increased P_(CO2), increased temperature, increased 2,3-DPG, and decreased pH (increased H^+ concentration).",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Explain the Bohr effect regarding the impact of P_(CO2) and pH on oxygen unloading.",
+      "modelAnswer": "Increased P_(CO2) and decreased pH decrease haemoglobin's affinity for O2, facilitating the release of oxygen to metabolically active tissues.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "How does 2,3-diphosphoglycerate (2,3-DPG) interaction with haemoglobin change during high-altitude adaptation?",
+      "modelAnswer": "Chronic hypoxaemia stimulates increased synthesis of 2,3-DPG in red blood cells, which binds to haemoglobin and facilitates O2 unloading in the tissues.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Why does a leftward shift in the oxygen-haemoglobin dissociation curve make oxygen delivery to the tissues more difficult?",
+      "modelAnswer": "Because the affinity for O2 is increased, haemoglobin binds oxygen more tightly and is less able to release it into the tissues.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Describe the dual mechanism by which carbon monoxide (CO) impairs oxygen delivery to tissues.",
+      "modelAnswer": "CO competes for O2 binding sites (occupying 200-250 times more tenaciously) and simultaneously causes a left shift of the curve, making it harder to unload any bound O2.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Which renal cells are responsible for synthesizing erythropoietin (EPO), and what is the specific stimulus for its production?",
+      "modelAnswer": "Fibroblasts in the renal cortex and medulla; the stimulus is renal hypoxia (decreased oxygen delivery).",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Why do the kidneys not stimulate erythropoietin production during hypoxia caused by decreased blood flow (ischaemia) as effectively as they do for arterial hypoxaemia?",
+      "modelAnswer": "In ischaemia, both O2 delivery and O2 consumption (linked to Na^+ reabsorption) decrease together, so the kidney does not sense a mismatch requiring more erythrocytes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "What are the typical partial pressure of oxygen and haemoglobin saturation values for systemic arterial blood versus mixed venous blood at rest?",
+      "modelAnswer": "Arterial: P_(O2) = 100 mmHg, Saturation = 98-100%; Mixed Venous: P_(O2) = 40 mmHg, Saturation = 75%.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "How does pulse oximetry estimate arterial oxygen saturation, and what parameter can it not directly measure?",
+      "modelAnswer": "It uses dual-wavelength spectrophotometry to measure absorbance of oxyhaemoglobin versus deoxyhaemoglobin; it cannot directly measure Pa_(O2).",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "In a patient with anaemia, how are the arterial P_(O2) and the arterial haemoglobin saturation percentage affected compared to normal?",
+      "modelAnswer": "Both arterial P_(O2) and haemoglobin saturation percentage remain normal in anemic patients.",
+      "explanation": "-"
+    }
+  ]
+}

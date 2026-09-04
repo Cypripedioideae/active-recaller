@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-6",
+  "title": "General Mycology 6",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 32-year-old female greenhouse worker presents with an ulcerative nodule on her right distal forearm that has persisted for over a month. She recalls receiving multiple scratches from thorn-covered plants in that area. If the biopsy material from this lesion were cultured in the laboratory at 37\u00b0C, which of the following morphologies would be expected?",
+      "options": [
+        "Arthroconidia and septate hyphae",
+        "Branching hyphae with \"flowerette\" conidia",
+        "Cigar-shaped budding yeasts",
+        "Spherules filled with endospores",
+        "Thick-walled yeasts with broad-based buds"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 32-year-old previously healthy female in Thailand presents with fever, pleuritic chest pain, and a productive cough. A chest CT scan reveals a large solitary pulmonary nodule. A fine-needle aspirate of the lesion demonstrates encapsulated budding yeasts. The patient reports that she lives near a large grove of eucalyptus trees. Which of the following organisms is the most likely causative agent of her infection?",
+      "options": [
+        "*Cryptococcus neoformans*",
+        "*Cryptococcus gattii*",
+        "*Aspergillus fumigatus*",
+        "*Talaromyces marneffei*",
+        "*Histoplasma capsulatum*"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 45-year-old patient with poorly controlled Type 1 Diabetes presents with paranasal swelling, bloody nasal exudate, and a black necrotic eschar on the palate. A tissue biopsy reveals broad, irregular, non-septate hyphae branching at wide angles. Which of the following triazole antifungal agents is identified in the sources as an appropriate alternative for treating this specific serious infection?",
+      "options": [
+        "Clotrimazole",
+        "Fluconazole",
+        "Isavuconazole",
+        "Ketoconazole",
+        "Voriconazole"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 40-year-old patient from Southeast Asia with AIDS presents with fever and weight loss. A thermally dimorphic fungus is isolated from the patient. When grown as a mold at room temperature (25\u00b0C), the colony is characterized by the production of a soluble red pigment. Which of the following is the most likely causative agent?",
+      "options": [
+        "*Aspergillus fumigatus*",
+        "*Blastomyces dermatitidis*",
+        "*Histoplasma capsulatum*",
+        "*Sporothrix schenckii*",
+        "*Talaromyces marneffei*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient is prescribed terbinafine for the treatment of onychomycosis. Which of the following describes the primary mechanism by which this medication exerts its antifungal activity?",
+      "options": [
+        "Binding to tubulin to disrupt the mitotic spindle",
+        "Formation of membrane pores by binding to ergosterol",
+        "Inhibition of 1,3-\u03b2-D-glucan synthase in the cell wall",
+        "Inhibition of the enzyme 14-\u03b1-demethylase",
+        "Inhibition of the fungal enzyme squalene epoxidase"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 24-year-old male with AIDS and a CD4+ count of 60/\u00b5L presents with a non-productive cough, fever, and night sweats. A chest X-ray shows diffuse ground-glass opacities. Which of the following is the first-line therapeutic and primary prophylactic agent for the most likely cause of this pneumonia?",
+      "options": [
+        "Amphotericin B",
+        "Fluconazole",
+        "Itraconazole",
+        "Nystatin",
+        "Trimethoprim-sulfamethoxazole"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient with a history of tuberculosis has a follow-up chest CT scan that demonstrates a \"fungus ball\" (aspergilloma) within a pre-existing pulmonary cavity. Which of the following serum biomarkers is used for its utility in detecting invasive infections with this septate mold?",
+      "options": [
+        "1,3-\u03b2-D-glucan",
+        "Cryptococcal capsular antigen",
+        "Galactomannan antigen",
+        "Modified acid-fast stain",
+        "Tuberculin test"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 35-year-old biologist presents with a 10-day history of high fever, headache, and a nonproductive cough. He recently spent several days collecting samples inside a hollow tree containing extensive bat nests and guano. A chest radiograph demonstrates bilateral pulmonary infiltrates. Histopathological examination of a lung biopsy reveals necrotizing granulomatous inflammation. Which of the following microscopic features is most characteristic of the causative pathogen when observed in human tissue?",
+      "options": [
+        "Intracellular fission yeasts",
+        "Intracellular budding yeasts",
+        "Broad-based budding yeasts",
+        "Round budding yeasts with a thick capsule",
+        "Spherules containing numerous endospores"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Echinocandin medications, such as caspofungin and micafungin, are often used for invasive candidiasis. Which of the following describes the specific mode of action of this class of antifungals?",
+      "options": [
+        "Binding to ergosterol to create pores in the cell membrane",
+        "Conversion to 5-fluorouracil to block DNA biosynthesis",
+        "Inhibition of 1,3-\u03b2-D-glucan synthesis in the cell wall",
+        "Inhibition of squalene epoxidase in the sterol pathway",
+        "Interference with microtubule function to inhibit mitosis"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A skin scraping is collected from a patient with hypopigmented macules on the chest and treated with 10% potassium hydroxide (KOH). Microscopic examination reveals short, curved hyphae and clusters of budding yeast, described as a \"spaghetti and meatballs\" appearance. What is the most likely causative organism?",
+      "options": [
+        "*Candida albicans*",
+        "*Epidermophyton floccosum*",
+        "*Malassezia furfur*",
+        "*Microsporum canis*",
+        "*Trichophyton rubrum*"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

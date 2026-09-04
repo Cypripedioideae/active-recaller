@@ -1,0 +1,113 @@
+{
+  "id": "comprehensive-repro-review-1",
+  "title": "Reproductive Comprehensive Set 1: Sexual Differentation (Short Answer)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the fundamental determinant of genetic sex in a developing human embryo, and at what point is it established?",
+      "modelAnswer": "Genetic sex is determined by the sex chromosomes, either XX or XY, and is established at the moment of fertilization.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Which specific gene located on the short arm of the Y chromosome is responsible for initiating the development of the gonads into testes?",
+      "modelAnswer": "The SRY gene (Sex-determining Region of the Y chromosome).",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "In the absence of the SRY gene, into which structure will the bipotential undifferentiated gonad naturally develop?",
+      "modelAnswer": "The undifferentiated gonads will develop into ovaries.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Identify the two specific cell types that differentiate within the fetal testes and name the primary hormone each one secretes during the first trimester.",
+      "modelAnswer": "Sertoli cells (secreting Antim\u00fcllerian Hormone) and Leydig cells (secreting Testosterone).",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "What is the specific physiologic role of Antim\u00fcllerian Hormone (AMH), also known as M\u00fcllerian Inhibiting Substance (MIS), in male phenotypic differentiation?",
+      "modelAnswer": "AMH causes the atrophy and regression of the M\u00fcllerian ducts.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Which embryonic duct system is the precursor to the female internal reproductive tract, and what are the specific structures it becomes?",
+      "modelAnswer": "The M\u00fcllerian ducts; they become the fallopian tubes, uterus, and upper one-third of the vagina.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Which embryonic duct system is the precursor to the male internal reproductive tract, and what three structures does it form under the influence of testosterone?",
+      "modelAnswer": "The Wolffian ducts; they become the epididymis, vas deferens, and seminal vesicles.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Explain why the internal female reproductive organs do not develop in a normal male fetus, even though the genetic \"default\" is female.",
+      "modelAnswer": "The secretion of AMH by the fetal Sertoli cells actively suppresses the development of the M\u00fcllerian ducts.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Which androgen is specifically required for the differentiation of the male external genitalia, such as the penis and the scrotum?",
+      "modelAnswer": "Dihydrotestosterone (DHT).",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Name the enzyme responsible for the conversion of testosterone to its more potent derivative in the target tissues of the external genitalia.",
+      "modelAnswer": "5\u03b1-reductase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "If a fetus is genetically male (XY) but the testes fail to produce any hormones, what will be the resulting internal and external phenotype?",
+      "modelAnswer": "The individual will have a female phenotype (female external genitalia and internal M\u00fcllerian structures) because neither testosterone nor AMH was present to promote male structures or suppress female ones.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "In the development of a genetic female (XX), why do the Wolffian ducts normally regress?",
+      "modelAnswer": "They regress because of the absence of testosterone, which is required for their growth and differentiation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Define \"gonadal sex\" and explain how it differs from \"phenotypic sex.\"",
+      "modelAnswer": "Gonadal sex refers to whether the person has testes or ovaries; phenotypic sex refers to the physical appearance of the internal and external genitalia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "What is the clinical result of a deficiency in the enzyme 5\u03b1-reductase regarding the external appearance of a genetic male at birth?",
+      "modelAnswer": "The individual will have normal male internal genitalia (Wolffian derivatives) but will have female-like or ambiguous external genitalia because DHT was not available during development.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Describe the condition of Androgen Insensitivity Syndrome (Testicular Feminization) in terms of genotype, the presence of gonads, and the resulting external physical appearance.",
+      "modelAnswer": "The genotype is 46, XY; testes are present (usually intra-abdominal); the external appearance is female due to the lack of androgen receptors in target tissues.",
+      "explanation": "-"
+    }
+  ]
+}

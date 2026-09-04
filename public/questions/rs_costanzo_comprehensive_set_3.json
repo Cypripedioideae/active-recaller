@@ -1,0 +1,113 @@
+{
+  "id": "comprehensive-rs-review-3",
+  "title": "Comprehensive Respiratory Set 1: Gas Exchange (Short Answer)",
+  "topic": "Comprehensive RS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "State Dalton's Law of partial pressures regarding a mixture of gases.",
+      "modelAnswer": "The total pressure of a gaseous mixture is the sum of the partial pressures of the constituent gases.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "What is the standard water vapor pressure value used to correct barometric pressure in humidified tracheal air at 37\u00b0C?",
+      "modelAnswer": "47 mmHg.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "According to the Alveolar Gas Equation, what are the primary determinants of alveolar P_(O2) ?",
+      "modelAnswer": "Inspired P_(O2), Alveolar P_(CO2), and the Respiratory Exchange Ratio (R).",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Define Henry's Law regarding the concentration of a gas in the liquid phase.",
+      "modelAnswer": "The concentration of a dissolved gas is proportional to its partial pressure and its solubility in the liquid.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Based on Fick's Law, how is the rate of gas transfer affected by an increase in membrane thickness?",
+      "modelAnswer": "The rate of transfer is inversely proportional to the thickness of the membrane; therefore, an increase in thickness decreases the rate of transfer.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Why is Carbon Monoxide (CO) used as the marker to measure lung diffusing capacity (D_L)?",
+      "modelAnswer": "CO transfer is limited exclusively by the diffusion process because it binds avidly to hemoglobin, keeping the partial pressure of CO in the capillary blood nearly zero.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "What characterizes a \"perfusion-limited\" gas exchange process in the pulmonary capillaries?",
+      "modelAnswer": "The gas equilibrates early along the length of the capillary, meaning the partial pressure in the blood becomes equal to that in the alveolar air.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "What characterizes a \"diffusion-limited\" gas exchange process in the pulmonary capillaries?",
+      "modelAnswer": "The gas does not equilibrate by the time the blood reaches the end of the capillary, and a partial pressure gradient is maintained.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Under normal resting conditions, why is the transfer of oxygen (O2 ) considered perfusion-limited?",
+      "modelAnswer": "Because equilibration of P_(O2)between alveolar gas and capillary blood occurs in about one-third of the capillary transit time.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Name two pathologic conditions that can convert oxygen transport from perfusion-limited to diffusion-limited.",
+      "modelAnswer": "Fibrosis (increased thickness) and Emphysema (decreased surface area).",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "What are the typical partial pressures of O2and CO2  in mixed venous blood entering the pulmonary artery?",
+      "modelAnswer": "P_(O2)=40 mmHg; P_(CO2)=46 mmHg.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "What are the typical partial pressures of O2and CO2  in alveolar gas?",
+      "modelAnswer": "P_(O2)=100 mmHg; P_(CO2)=40 mmHg.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "By what factor is the diffusion coefficient of CO2higher than that of O2  across the alveolar-capillary membrane?",
+      "modelAnswer": "Approximately 20 times.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "How does strenuous exercise affect the lung diffusing capacity (D_L)?",
+      "modelAnswer": "It increases because additional capillaries are recruited and perfused, which increases the surface area for exchange.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What is the \"physiologic shunt,\" and how does it affect the relationship between alveolar P_(O2)(PAO2) and systemic arterial P_(O2)(Pa_(O2) )?",
+      "modelAnswer": "It is the small fraction of blood that bypasses the alveoli (bronchial and coronary veins); it makes Pa_(O2)slightly lower than PAO2.",
+      "explanation": "-"
+    }
+  ]
+}

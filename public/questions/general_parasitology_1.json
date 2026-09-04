@@ -1,0 +1,148 @@
+{
+  "id": "general-parasitology-1",
+  "title": "General Parasitology 1",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "During a microscopic examination of a stained stool specimen from an asymptomatic patient, a laboratory technologist identifies a large spherical cyst (20 \u00b5m) containing eight distinct nuclei and an eccentric karyosome. Which of the following has been identified?",
+      "options": [
+        "*Giardia lamblia*",
+        "*Dientamoeba fragilis*",
+        "*Entamoeba histolytica*",
+        "*Entamoeba coli*",
+        "*Balantidium coli*"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 40-year-old fisherman from a coastal Southeast Asian village presents with chronic profuse watery diarrhea, severe weight loss, hypoalbuminemia, and muscle wasting, with gurgling stomach. He reports frequent consumption of raw freshwater fish. Examination shows muscle wasting and signs of malnutrition. Which of the following is the key characteristic of the egg of the causative agent?",
+      "options": [
+        "Pitted shell with bipolar flattened plugs",
+        "Smooth, barrel-shaped",
+        "Oval and thin-shelled",
+        "Presence of radial striations",
+        "Thick, mammillated shell"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 48-year-old man with a history of corticosteroid therapy for asthma develops refractory septic shock caused by *Escherichia coli* bacteremia. Bronchoscopy reveals numerous rhabditiform larvae in the endotracheal secretions. Which of the following events most likely occurred in this patient, that is most directly associaed with the bacteremia?",
+      "options": [
+        "Penetration of filariform larvae through the skin",
+        "Migration of larvae through the pulmonary alveoli",
+        "Residing of adult female worms in the intestinal mucosa",
+        "Internal transformation of rhabditiform into filariform larvae",
+        "Shedding of rhabditiform larvae in stool specimens"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient is treated for an intestinal fluke infection with praziquantel. Which of the following best describes the primary mechanism of action of this medication against the parasite?",
+      "options": [
+        "Promotion of calcium influx leading to spastic paralysis",
+        "Inhibition of parasite haemoglobin digestion in the vacuole",
+        "Prevention of DNA synthesis by inhibiting reverse transcriptase",
+        "Inhibition of microtubule polymerization by binding to \u03b2-tubulin",
+        "Activation of chloride channels causing flaccid paralysis"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "During a laboratory investigation of a stool specimen, a white, ribbon-like gravid proglottid is recovered. India ink injection reveals 22 primary lateral uterine branches on one side of the segment. Which parasite is identified?",
+      "options": [
+        "*Dipylidium caninum*",
+        "*Hymenolepis nana*",
+        "*Taenia saginata*",
+        "*Diphyllobothrium latum*",
+        "*Taenia solium*"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 35-year-old traveler returning from Thailand presents with a three-day history of bloody, mucoid diarrhea and tenesmus; stool microscopy shows motile trophozoites containing ingested red blood cells. Which finding is most likely to be observed during a colonoscopy with biopsy?",
+      "options": [
+        "Multiple inflammatory nodules in the lamina propria",
+        "Diffuse inflammatory foci throughout the mucosa",
+        "Flask-shaped ulcers in the submucosa",
+        "Squamous cell carcinoma of the intestinal wall",
+        "Presence of adult worms embedded in the mucosal layer"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 35-year-old male with a history of AIDS and a CD4+ T-lymphocyte count of 80 cells/mm^3 presents with a 3-day history of worsening headache and left upper limb weakness. Physical examination reveals oral thrush and significant weight loss. A brain MRI demonstrates multiple ring-enhancing lesions. The patient reports that he frequently consumes raw, unwashed vegetables harvested from a garden where several stray cats are known to roam. Through which parasitic stage did this patient most likely acquire the primary infection?",
+      "options": [
+        "Tachyzoite",
+        "Bradyzoite",
+        "Tissue cyst",
+        "Gametocytes",
+        "Mature oocyst"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 10-year-old boy is brought to the emergency department with a 2-day history of explosive headache, high fever, and neck stiffness. His parents report that he was diving into a local warm freshwater pond six days ago. On physical examination, he is lethargic and demonstrates signs of meningeal irritation. A lumbar puncture is performed, and the cerebrospinal fluid (CSF) appears grayish and hemorrhagic with a significantly increased opening pressure. Which of the following CSF profiles is most consistent with the expected findings for this patient's diagnosis?",
+      "options": [
+        "Normal glucose, normal protein, lymphocyte predominance",
+        "Normal glucose, high protein, neutrophil predominance",
+        "Low glucose, high protein, lymphocyte predominance",
+        "Normal glucose, high protein, lymphocyte predominance",
+        "Low glucose, high protein, neutrophil predominance"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 45-year-old male from Northeastern Thailand presents with intermittent upper abdominal pain and jaundice. He reports a lifelong dietary habit of consuming \"koi pla,\" a dish containing raw freshwater fish. A stool examination reveals yellow-brown, flask-shaped eggs with a distinct shoulder and a terminal knob. What is the infective stage of the parasite responsible for this patient's condition?",
+      "options": [
+        "Cysticercus",
+        "Rhabditiform larvae",
+        "Embryonated egg",
+        "Metacercariae",
+        "Cercariae"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A routine stool examination of an asymptomatic child reveals brownish, barrel-shaped eggs with characteristic clear mucoid plugs at both ends. Which parasite does this represent?",
+      "options": [
+        "*Ascaris lumbricoides*",
+        "*Trichuris trichiura*",
+        "*Enterobius vermicularis*",
+        "*Strongyloides stercoralis*",
+        "*Capillaria philippinensis*"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

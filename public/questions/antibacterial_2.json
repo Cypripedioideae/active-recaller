@@ -1,0 +1,148 @@
+{
+  "id": "antibacterial-agents-2",
+  "title": "Antibacterial Agents 2",
+  "topic": "Antibacterial Agents",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "An 8-month-old infant is diagnosed with a rickettsial infection. Which of the following best describes the clinical reasoning for avoiding tetracyclines, such as doxycycline, in this patient population?",
+      "options": [
+        "Structural displacement of bilirubin causing kernicterus",
+        "High risk of acute hemolytic anemia in patients with G6PD deficiency",
+        "Potential for permanent damage to developing cartilage and tendons",
+        "Risk of Gray Baby Syndrome due to lack of liver enzymes",
+        "Permanent discoloration of teeth and inhibition of bone growth"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Which of the following describes the primary mechanism of action for fluoroquinolones?",
+      "options": [
+        "Premature release of peptide chains from the 30S ribosome",
+        "Irreversible binding to the 23S rRNA of the 50S ribosomal subunit",
+        "Inhibition of bacterial topoisomerase II (DNA gyrase) and IV",
+        "Structural analogy to para-aminobenzoic acid in folate synthesis",
+        "Inhibition of the beta-subunit of DNA-dependent RNA polymerase"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A newborn develops a purulent ocular discharge and erythematous conjunctiva 13 days after birth. Which antibiotic is the drug of choice for this condition, caused by *Chlamydia trachomatis*?",
+      "options": [
+        "Ceftriaxone",
+        "Vancomycin",
+        "Penicillin G",
+        "Aztreonam",
+        "Erythromycin"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Which molecular modification of the cell wall precursor is responsible for the resistance mechanism in Vancomycin-Resistant Enterococci (VRE)?",
+      "options": [
+        "Production of a novel penicillin-binding protein (PBP2a)",
+        "Methylation of the 23S ribosomal RNA subunit",
+        "Alteration of the terminal D-Ala-D-Ala to D-Ala-D-Lac",
+        "Acetylation of the aminoglycoside-binding site",
+        "Replacement of the terminal D-Ala with D-Glutamate"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient with known Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency requires treatment for a simple urinary tract infection. Which of the following drugs must be avoided to prevent acute hemolytic anemia?",
+      "options": [
+        "Ciprofloxacin",
+        "Nitrofurantoin",
+        "Amoxicillin",
+        "Cephalexin",
+        "Fosfomycin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient being treated for pulmonary tuberculosis develops reduced visual acuity and an inability to distinguish red from green. Which of the following drugs is responsible for this effect?",
+      "options": [
+        "Ethambutol",
+        "Rifampin",
+        "Isoniazid",
+        "Pyrazinamide",
+        "Streptomycin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A hospitalized patient receiving high-dose gentamicin develops new-onset tinnitus and an elevated serum creatinine. Which bacterial structure is the primary target of this drug?",
+      "options": [
+        "30S ribosomal subunit",
+        "DNA topoisomerase IV",
+        "Penicillin-binding protein 3",
+        "Mycolic acid synthase",
+        "50S ribosomal subunit"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "For which of the following clinical reasons is nitrofurantoin contraindicated in patients with a creatinine clearance (Cr_(Cl)) less than 60 mL/min?",
+      "options": [
+        "Potential to cause irreversible bone growth inhibition",
+        "Failure to achieve therapeutic concentrations in the urine",
+        "Induction of severe pseudomembranous colitis",
+        "Risk of serotonin syndrome due to MAO inhibition",
+        "Increased risk of developing Achilles tendon rupture"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Which broad-spectrum antibiotic inhibits peptidyl transferase at the 50S subunit but is associated with the risk of \"Gray Baby Syndrome\" and aplastic anemia?",
+      "options": [
+        "Tigecycline",
+        "Chloramphenicol",
+        "Linezolid",
+        "Clindamycin",
+        "Doxycycline"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Which cell wall component synthesis is inhibited by isoniazid (INH) in the treatment of Mycobacterium tuberculosis?",
+      "options": [
+        "Arabinogalactan",
+        "D-Ala-D-Ala cross-links",
+        "Undecaprenol phosphate",
+        "Mycolic acid",
+        "Peptidoglycan pentapeptide"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

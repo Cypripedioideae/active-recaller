@@ -1,0 +1,148 @@
+{
+  "id": "general-virology-6",
+  "title": "General Virology 6",
+  "topic": "General Virology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 32-year-old female undergoes a cervical biopsy that confirms the presence of high-risk Human Papillomavirus (HPV) type 16. The pathogenesis of malignancy associated with this virus is driven by the viral oncoproteins E6 and E7. Which of the following best describes the mechanism of action of these oncoproteins?",
+      "options": [
+        "Induction of chronic inflammation and cellular regeneration",
+        "Integration of the viral genome into host cell DNA",
+        "Inhibition of the p53 and Rb host proteins",
+        "Inhibition of host RNA-dependent RNA polymerase",
+        "Cleavage of precursor glycoproteins into functional subunits"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 22-year-old patient presents with painful grouped vesicles on an erythematous base around the genital area, accompanied by fever and tender inguinal lymphadenopathy. The lesions later ulcerate before crusting. At which site does the causative viral agent establish latency?",
+      "options": [
+        "Macrophages",
+        "Myeloid progenitor cells",
+        "Neurons",
+        "Salivary glands",
+        "Inguinal lymph nodes"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 10-year-old male with a documented history of infection by Dengue virus serotype 1 (DEN-1) two years ago presents with high fever, vomiting, and a positive tourniquet test. He is subsequently diagnosed with Dengue Hemorrhagic Fever (DHF) caused by a secondary infection with serotype 2 (DEN-2). Which of the following processes best explains the pathogenesis of this severe clinical presentation?",
+      "options": [
+        "Direct cytopathic effect of viral replication on the colonic epithelium",
+        "Viral inhibition of the host complement system to evade immune detection",
+        "Massive destruction of memory T cells specific to the original serotype",
+        "Enhanced viral entry into monocytes facilitated by heterotypic antibodies",
+        "Antigenic shift leading to the emergence of a new reassortant viral subtype"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 19-year-old college student presents with a sore throat, fever, and cervical lymphadenopathy. Presuming a bacterial etiology, the clinician prescribes ampicillin. Two days later, the patient returns with a prominent, diffuse maculopapular rash. This clinical reaction to the antibiotic is a classic diagnostic clue for which underlying viral infection?",
+      "options": [
+        "Epstein-Barr Virus",
+        "Hepatitis B Virus",
+        "Cytomegalovirus",
+        "Herpes Simplex Virus-2",
+        "Adenovirus"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 32-year-old patient returns from travel to a tropical region with a recent history of fever, rash, and conjunctivitis. One week later, they develop progressive ascending weakness and areflexia. CSF shows elevated protein with normal cell count. This presentation suggests infection by a viral agent belonging to which family?",
+      "options": [
+        "Orthomyxoviridae",
+        "Sedoreoviridae",
+        "Paramyxoviridae",
+        "Togaviridae",
+        "Flaviviridae"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Maraviroc is an entry inhibitor used in the management of HIV-1 infection. This drug works by binding to a specific host cell surface component, thereby preventing the virus from completing the \"docking\" step. What is the target of Maraviroc?",
+      "options": [
+        "Host CCR5 coreceptor",
+        "Host CD4 receptor",
+        "Viral gp41 protein",
+        "Viral reverse transcriptase",
+        "Host CXCR4 coreceptor"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 19-year-old college student presents with fever, sore throat, and profound fatigue. Physical exam reveals posterior cervical lymphadenopathy and splenomegaly. A peripheral smear shows atypical lymphocytes. This microscopic finding is highly suggestive of an infection by a member of which viral family?",
+      "options": [
+        "Picornaviridae",
+        "Orthomyxoviridae",
+        "Flaviviridae",
+        "Herpesviridae",
+        "Retroviridae"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Influenza A viruses undergo two types of antigenic variation that affect their epidemiology. What is the fundamental difference between antigenic \"drift\" and antigenic \"shift\"?",
+      "options": [
+        "Shift occurs annually, while drift is responsible for major global pandemics",
+        "Drift involves segmented reassortment, while shift involves point mutations",
+        "Drift results from random point mutations, while shift results from reassortment of genomic segments",
+        "Drift only occurs in Influenza A, while shift occurs in Influenza A, B, and C",
+        "Shift involves the loss of the viral envelope, while drift involves changes to the capsid"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 6-year-old child is brought to the clinic with a mild fever and a distinctive bright red rash on both cheeks, described as a \"slapped cheek\" appearance, with a lacy rash on the arms. Which virus is the causative agent of this condition?",
+      "options": [
+        "Rubella Virus",
+        "Parvovirus B19",
+        "Coxsackievirus A",
+        "Human Herpesvirus 6",
+        "Measles Virus"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 34-year-old man presents with agitation, confusion, and difficulty swallowing several weeks. He reports intense throat spasms when attempting to drink water. Examination shows hypersalivation and episodes of hydrophobia. Which of the following is the possible history of this patient?",
+      "options": [
+        "Close contact in crowded settings",
+        "Consumption of contaminated food or water",
+        "Recent travel to tropical region",
+        "Animal bite or scratch",
+        "Blood transfusion or needle sharing"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-neuro-review-4",
+  "title": "Comprehensive Neuro Set 1: Somatosensation (Short Answer)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What are the five primary categories of sensory receptors based on the type of stimulus that activates them?",
+      "modelAnswer": "Mechanoreceptors, photoreceptors, chemoreceptors, thermoreceptors, and nociceptors.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Define the process of \"sensory transduction.\"",
+      "modelAnswer": "The process of converting an environmental stimulus (e.g., pressure, light) into electrical energy (a receptor potential).",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "How does a receptor potential differ from a standard action potential in terms of its electrical nature and potential for summation?",
+      "modelAnswer": "A receptor potential is a graded, local potential change that can be summated, whereas an action potential is an \"all-or-none\" propagating event.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Which principle explains why a dedicated sensory pathway always produces the same perceived sensation regardless of where the stimulus is applied along the nerve?",
+      "modelAnswer": "The \"labeled line\" principle (or Law of Specific Nerve Energies).",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Define a \"receptive field\" as it pertains to a sensory neuron.",
+      "modelAnswer": "An area of the body that, when stimulated, changes the firing rate of a sensory neuron.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "What is the primary physiological function of lateral inhibition in sensory relay nuclei?",
+      "modelAnswer": "To sharpen the boundaries and localization of a stimulus by providing contrast through the inhibition of surrounding neurons.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Contrast \"phasic\" and \"tonic\" receptors regarding the specific information they encode about a stimulus.",
+      "modelAnswer": "Phasic receptors adapt rapidly and encode stimulus velocity (changes); tonic receptors adapt slowly and encode stimulus intensity and duration.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Which mechanoreceptor is characterized as being very rapidly adapting and specialized for the detection of high-frequency vibration?",
+      "modelAnswer": "Pacinian corpuscle.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Which encapsulated mechanoreceptor has small receptive fields and is essential for two-point discrimination on glabrous skin?",
+      "modelAnswer": "Meissner corpuscle.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Describe the difference between Ruffini corpuscles and Merkel receptors in terms of their receptive field size and stimulus modality.",
+      "modelAnswer": "Ruffini corpuscles have large receptive fields and detect stretch; Merkel receptors have small receptive fields and detect vertical indentation/steady pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "List the lettered nerve fiber classifications (A, B, and C) in order of their relative conduction velocity from fastest to slowest.",
+      "modelAnswer": "A (fastest), B (medium), C (slowest).",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "In the Lloyd and Hunt numerical classification for sensory fibers, which group corresponds to unmyelinated fibers carrying slow pain and temperature?",
+      "modelAnswer": "Group IV (C fibers).",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Which specific somatosensory modalities are carried exclusively by the Dorsal Column-Medial Lemniscal system?",
+      "modelAnswer": "Fine touch, pressure, vibration, two-point discrimination, and proprioception.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Which specific somatosensory modalities are carried primarily by the Anterolateral (spinothalamic) system?",
+      "modelAnswer": "Pain, temperature, and light (crude) touch.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "At which specific anatomical location do the second-order neurons of the Dorsal Column system cross the midline?",
+      "modelAnswer": "In the medulla oblongata (as internal arcuate fibers from the nuclei gracilis and cuneatus).",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "At which specific anatomical location do the second-order neurons of the Anterolateral system cross the midline?",
+      "modelAnswer": "In the spinal cord (within a few segments of entry, via the ventral white commissure).",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Name the specific thalamic relay nucleus for somatosensory information originating from the body.",
+      "modelAnswer": "Ventral posterolateral (VPL) nucleus.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "What determines the relative size of the representation of a body part on the somatosensory homunculus in the cortex?",
+      "modelAnswer": "The density of sensory receptors (sensory unit innervation) in that specific body part.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Which specific transient receptor potential (TRP) channel is activated by both warm temperatures and capsaicin?",
+      "modelAnswer": "TRPV1 (vanilloid receptor).",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Where are the cell bodies of first-order somatosensory neurons typically found?",
+      "modelAnswer": "In the dorsal root ganglia or cranial nerve ganglia.",
+      "explanation": "-"
+    }
+  ]
+}

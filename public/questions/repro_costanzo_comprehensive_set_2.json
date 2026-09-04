@@ -1,0 +1,92 @@
+{
+  "id": "comprehensive-repro-review-2",
+  "title": "Reproductive Comprehensive Set 1: Puberty (Short Answer)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the primary neuroendocrine event that initiates the onset of puberty in both males and females?",
+      "modelAnswer": "The initiation of pulsatile secretion of Gonadotropin-Releasing Hormone (GnRH) from the hypothalamus.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Which hormone, secreted by the pineal gland, is thought to act as a natural inhibitor of GnRH release during childhood, and how do its levels change at the onset of puberty?",
+      "modelAnswer": "Melatonin; its levels are high in childhood and decline at the onset of puberty, potentially releasing the inhibition on GnRH.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Describe the specific secretory pattern of Luteinizing Hormone (LH) that is often the first measurable sign of hypothalamic-pituitary activation during early puberty.",
+      "modelAnswer": "The appearance of large nocturnal pulses of LH during REM sleep.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "At the onset of puberty, GnRH up-regulates its own receptors in the anterior pituitary. What is the physiological consequence of this change in receptor density?",
+      "modelAnswer": "It increases the sensitivity of the anterior pituitary, such that a given concentration of GnRH produces a greater secretion of FSH and LH.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Contrast the relative concentrations of Follicle-Stimulating Hormone (FSH) and Luteinizing Hormone (LH) during childhood versus during the adult reproductive years.",
+      "modelAnswer": "In childhood, FSH > LH; during the reproductive years, LH > FSH.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Define \"adrenarche\" and identify the specific class of hormones responsible for the appearance of pubic and axillary hair in girls prior to menarche.",
+      "modelAnswer": "Adrenarche is the appearance of pubic and axillary hair; it is driven by increased secretion of adrenal androgens (e.g., DHEA).",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "In the male, which hormone is responsible for the pubertal growth spurt, the deepening of the voice, and the eventual closure of the epiphyseal plates?",
+      "modelAnswer": "Testosterone.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "What is the typical chronological relationship between the appearance of breast budding (thelarche) and the onset of the first menstrual period (menarche) in girls?",
+      "modelAnswer": "Breast budding typically occurs first, followed approximately 2 years later by menarche.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "During senescence or after menopause, why do the plasma levels of FSH and LH increase to their highest points in the lifespan?",
+      "modelAnswer": "Because of the loss of negative feedback from gonadal steroids (estrogen/testosterone) as the ovaries or testes decline in function.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "How do extreme physical stress or severe caloric deprivation (as seen in anorexia nervosa) typically affect the hypothalamic-pituitary-gonadal axis and the timing of puberty?",
+      "modelAnswer": "These conditions typically delay the onset of puberty by suppressing the hypothalamic-pituitary axis.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "What is \"spermarche,\" and which hormone is primarily responsible for its initiation in boys?",
+      "modelAnswer": "Spermarche is the initiation of spermatogenesis; it is driven by increased levels of testosterone.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "In the female lifespan, why are the first several menstrual cycles after menarche often anovulatory?",
+      "modelAnswer": "Because the positive feedback mechanism of estrogen (required for the LH surge) is not yet fully mature or the follicles have not achieved a sufficient size to trigger it.",
+      "explanation": "-"
+    }
+  ]
+}

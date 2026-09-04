@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-gi-review-4",
+  "title": "Gastrointestinal Comprehensive Set 1: Secretory Mechanisms (Short Answer)",
+  "topic": "Comprehensive GI Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Starting with the salivary glands, describe the two-step process of saliva formation, specifically identifying the roles of acinar cells versus ductal cells.",
+      "modelAnswer": "Acinar cells produce an isotonic, plasma-like primary secretion. Ductal cells reabsorb Na^+ and Cl^- and secrete K^+ and HCO_3^-.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Under basal conditions, how does the ionic composition (Na^+, Cl^-, K^+, HCO_3^-) and tonicity of saliva compare to that of plasma?",
+      "modelAnswer": "Saliva is hypotonic; it has higher [K^+] and [HCO_3^-] and lower [Na^+] and [Cl^-] than plasma.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Explain why the bicarbonate concentration in saliva increases as the flow rate increases, despite the \"contact time\" theory.",
+      "modelAnswer": "HCO_3^- is the only ion whose secretion is specifically stimulated by agonists (like parasympathetic activity) as the flow rate increases.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Identify the unique characteristic of salivary gland regulation regarding the roles of the sympathetic and parasympathetic nervous systems.",
+      "modelAnswer": "Saliva production is increased by both the sympathetic and parasympathetic systems (parasympathetic is dominant).",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Which enzyme is responsible for starting carbohydrate digestion in the mouth, and at what pH does it become inactivated?",
+      "modelAnswer": "\u03b1-amylase (ptyalin); it is inactivated when the pH falls below 4.0.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "List the four major components of gastric juice and their respective cells of origin.",
+      "modelAnswer": "HCl and Intrinsic Factor (Parietal cells), Pepsinogen (Chief cells), and Mucus (Mucous neck cells).",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Describe the cellular mechanism of the \"alkaline tide\" observed in gastric venous blood following a meal.",
+      "modelAnswer": "For every H^+ secreted into the lumen, one HCO_3^- is absorbed into the blood via the Cl^-/HCO_3^- exchanger on the basolateral membrane.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Explain the function of the H^+/K^+ ATPase (proton pump) in the apical membrane of parietal cells.",
+      "modelAnswer": "It is a primary active transport process that pumps H^+ into the lumen and K^+ into the cell against their gradients.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Why is intrinsic factor considered the only \"essential\" component of gastric juice?",
+      "modelAnswer": "It is required for the absorption of vitamin B12 in the ileum; without it, pernicious anemia develops.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Name the three primary physiological agonists that stimulate H^+ secretion by parietal cells.",
+      "modelAnswer": "Histamine, Acetylcholine (ACh), and Gastrin.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Define \"potentiation\" in the context of gastric acid secretion and explain why H_2-receptor antagonists are so effective.",
+      "modelAnswer": "The response to multiple stimulants is greater than the sum of their individual effects. H_2 blockers are effective because they block the direct and potentiated effects of histamine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Contrast the \"direct\" and \"indirect\" pathways by which the vagus nerve stimulates gastric acid secretion.",
+      "modelAnswer": "Direct: Vagus releases ACh on parietal cells. Indirect: Vagus releases GRP on G cells to stimulate gastrin release.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Describe the negative feedback mechanism involving the antral pH and somatostatin.",
+      "modelAnswer": "Low pH stimulates D cells to release somatostatin, which directly inhibits parietal cells and indirectly inhibits them by suppressing gastrin release.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Identify the three phases of gastric acid secretion.",
+      "modelAnswer": "Cephalic (30%), Gastric (60%), and Intestinal (10%).",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What is the inactive precursor of pepsin, and how is it activated in the gastric lumen?",
+      "modelAnswer": "Pepsinogen; it is activated by low gastric pH (<5) and by existing pepsin.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Compare the primary functions of pancreatic acinar cells versus pancreatic ductal cells.",
+      "modelAnswer": "Acinar cells secrete enzymes (lipases, amylases, proteases). Ductal cells secrete the aqueous HCO_3^- component.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Explain how the ionic composition of pancreatic juice (specifically HCO^3_- and Cl^-) changes as the flow rate increases.",
+      "modelAnswer": "As flow rate increases, [HCO_3^-] increases and [Cl^-] decreases; Na^+ and K^+ remain constant.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "Name the major hormone that stimulates pancreatic bicarbonate secretion and the specific luminal stimulus for its release.",
+      "modelAnswer": "Secretin; it is released in response to H^+ (acid) in the duodenal lumen.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Which duodenal hormone is the primary stimulus for the secretion of pancreatic enzymes during the intestinal phase?",
+      "modelAnswer": "Cholecystokinin (CCK).",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Explain the role of enterokinase (enteropeptidase) in the activation of pancreatic proteases.",
+      "modelAnswer": "Enterokinase activates trypsinogen to trypsin, which then activates all other proenzymes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "What are the primary organic constituents of bile, and which is the most abundant?",
+      "modelAnswer": "Bile salts (50%), phospholipids (40%), cholesterol (4%), and bilirubin (2%).",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "Contrast primary bile acids with secondary bile acids, including the role of intestinal bacteria in their formation.",
+      "modelAnswer": "Primary acids (cholic, chenodeoxycholic) are made by the liver. Secondary acids (deoxycholic, lithocholic) are produced by bacterial dehydroxylation in the gut.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "Why are bile salts more effective for lipid digestion in the duodenal environment than bile acids.",
+      "modelAnswer": "Salts have lower pKs (1-4) and remain ionized/soluble at duodenal pH, whereas acids (pK ~7) would be non-ionized/insoluble.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "Describe the two coordinated actions of cholecystokinin (CCK) that result in the ejection of bile into the duodenum.",
+      "modelAnswer": "CCK causes contraction of the gallbladder and relaxation of the sphincter of Oddi.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Explain the \"enterohepatic circulation\" of bile salts and identify the primary site of their reabsorption.",
+      "modelAnswer": "It is the recycling of bile salts from the terminal ileum back to the liver via the portal circulation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "short_answer",
+      "prompt": "How does the liver handle the metabolic byproduct of hemoglobin (bilirubin) before secreting it into the bile?",
+      "modelAnswer": "Hemoglobin is degraded to biliverdin, then bilirubin; the liver conjugates it with glucuronic acid to make it water-soluble.",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "short_answer",
+      "prompt": "Identify the enzyme that serves as the rate-limiting step for bile acid synthesis and explain how it is regulated.",
+      "modelAnswer": "Cholesterol 7\u03b1-hydroxylase; it is inhibited by high levels of recirculated bile salts (negative feedback).",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "short_answer",
+      "prompt": "What is the function of \"monitor peptide\" and \"CCK-releasing peptide\" in the regulation of pancreatic secretion.",
+      "modelAnswer": "They are small peptides that stimulate CCK release and ensure enzyme secretion matches protein intake; they are eventually digested by proteases.",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "short_answer",
+      "prompt": "Describe the role of colipase in fat digestion.",
+      "modelAnswer": "Colipase displaces bile salts from fat droplets so that pancreatic lipase can bind and digest the triglycerides.",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "short_answer",
+      "prompt": "List the major factors that can weaken the gastric mucosal barrier, predisposing a patient to ulceration.",
+      "modelAnswer": "H. pylori, aspirin/NSAIDs, ethanol, bile salts, and stress.",
+      "explanation": "-"
+    }
+  ]
+}

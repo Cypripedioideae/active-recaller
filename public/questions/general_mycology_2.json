@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-2",
+  "title": "General Mycology 2",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 22-year-old woman presents with several fine, scaly, hypopigmented macules on her upper back, and a KOH preparation of skin scrapings reveals a characteristic \"spaghetti and meatballs\" appearance. Which of the following biochemical characteristics is unique to the genus responsible for this condition?",
+      "options": [
+        "Ability to form endospores",
+        "Production of aflatoxins",
+        "Presence of a thick carbohydrate capsule",
+        "Lipophilic growth requirement",
+        "Lack of a cell wall"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 45-year-old male undergoing chemotherapy for acute myeloid leukemia develops a high fever, pleuritic chest pain, and hemoptysis despite being on broad-spectrum antibiotics. A CT scan of the chest reveals cavitary lesions with a 'halo sign.' A serum assay for a specific polysaccharide component of the fungal cell wall is positive. Which of the following is the target of this diagnostic test?",
+      "options": [
+        "\u03b2(1-3) glucan",
+        "Galactomannan",
+        "Mannoprotein",
+        "Ergosterol",
+        "Glycosylphosphatidylinositol (GPI) protein"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "During a microbiology lecture, a professor describes the asexual reproductive cycle of certain filamentous fungi. Which of the following structures is seen as barrel-shaped cells resulting from the fragmentation of septate hyphae?",
+      "options": [
+        "Arthroconidia",
+        "Blastoconidia",
+        "Macroconidia",
+        "Pseudohyphae",
+        "Basidiospores"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A bone marrow transplant recipient who was receiving voriconazole prophylaxis develops a sudden fever and wedge-shaped pulmonary infiltrates. A lung biopsy demonstrates irregular, broad, non-septate hyphae branching at wide angles. Why was the initial prophylactic agent likely ineffective?",
+      "options": [
+        "The agent cannot penetrate the fungal cell wall",
+        "The agent inhibits mitosis rather than membrane synthesis",
+        "The agent lacks activity against the causative agents",
+        "The organism is a fungus-like bacterium resistant to azoles",
+        "The patient has a specific B-cell defect preventing drug activation"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient is prescribed terbinafine for the treatment of a fungal infection. Which of the following describes the primary mechanism of action for this medication?",
+      "options": [
+        "Binding to ergosterol to form membrane pores",
+        "Inhibition of 1,3-\u03b2-D-glucan synthase",
+        "Inhibition of the enzyme 14-\u03b1-demethylase",
+        "Inhibition of the fungal enzyme squalene epoxidase",
+        "Interference with microtubule function during mitosis"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "An HIV-positive patient with a CD4+ T-cell count of 150 cells/mm^3 presents with a nonproductive cough, severe hypoxia, and diffuse ground-glass opacities on a chest X-ray. Which of the following stains is best used to visualize the cup-shaped cysts of the most likely causative agent in bronchoalveolar lavage fluid?",
+      "options": [
+        "Acid-fast stain",
+        "Gomori methenamine silver (GMS) stain",
+        "India ink preparation",
+        "Potassium hydroxide (KOH) mount",
+        "Wright stain"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 50-year-old male agricultural worker presents with a five-year history of a slow-growing, painless mass on his left foot. Physical examination reveals a firm, swollen lesion with multiple sinus tracts that discharge fluid containing small, hard black grains. Microscopic analysis of these grains confirms the diagnosis of eumycetoma caused by *Madurella mycetomatis*. Which of the following microscopic morphologies is most characteristic of this pathogen in clinical specimens? ",
+      "options": [
+        "Hyaline septate hyphae",
+        "Broad-based budding yeasts",
+        "Intracellular fission yeasts",
+        "Dematiaceous septate hyphae",
+        "Dematiaceous non-septate hyphae"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A medical student is reviewing the morphological classification of fungi and encounters a species described as an encapsulated yeast capable of causing human infection. Which fungus is being described?",
+      "options": [
+        "*Candida albicans*",
+        "Cryptococcus neoformans",
+        "*Malassezia furfur*",
+        "*Histoplasma capsulatum*",
+        "*Pneumocystis jirovecii*"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient with invasive candidiasis is treated with an echinocandin such as caspofungin. How does this class of medication specifically cause fungal cell death?",
+      "options": [
+        "Binding to tubulin to disrupt the mitotic spindle",
+        "Blocking DNA and RNA biosynthesis",
+        "Forming pores in the cell membrane by binding sterols",
+        "Inhibiting 1,3-\u03b2-D-glucan synthase to weaken the cell wall",
+        "Inhibiting the conversion of squalene to squalene epoxide"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 7-year-old child presents with a scaly, itchy patch of hair loss on the scalp. The parents note that the child recently began playing with a stray kitten found in the neighborhood. Which of the following fungal genera is most likely responsible for this infection?",
+      "options": [
+        "*Aspergillus* spp.",
+        "*Epidermophyton* spp.",
+        "*Microsporum* spp.",
+        "*Rhizopus* spp.",
+        "*Trichophyton* spp."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

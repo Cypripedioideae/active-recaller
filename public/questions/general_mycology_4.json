@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-4",
+  "title": "General Mycology 4",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A laboratory is classifying various pathogenic fungi based on their morphology in clinical specimens. An organism is identified as a monomorphic mold with hyaline septate hyphae that lacks specific structures such as arthroconidia. Which of the following fits this description?",
+      "options": [
+        "*Trichophyton*",
+        "*Microsporum*",
+        "*Talaromyces*",
+        "*Histoplasma*",
+        "*Scedosporium*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A thermally dimorphic fungus is isolated from an HIV-positive patient in Southeast Asia. The organism is observed in tissue as small intracellular yeast-like cells that replicate by fission. Which of the following is the most likely causative agent?",
+      "options": [
+        "*Blastomyces dermatitidis*",
+        "*Candida albicans*",
+        "*Histoplasma capsulatum*",
+        "*Sporothrix schenckii*",
+        "*Talaromyces marneffei*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 58-year-old female with a blood glucose level of 475 mg/dL presents with eye swelling, a frontal headache, and a black necrotic eschar on her face. A biopsy of the tissue is likely to reveal which of the following morphologies",
+      "options": [
+        "Hyaline, septate hyphae branching at 45-degree angles",
+        "Encapsulated budding yeasts",
+        "Intracellular budding yeasts within macrophages",
+        "Irregular, broad, non-septate hyphae branching at wide angles",
+        "Pseudo-hyphae with germ tube formation at 37\u00b0C"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient with a history of neutrophil dysfunction, such as chronic granulomatous disease (NADPH oxidase deficiency), is at significantly increased risk for developing a specific invasive fungal infection. Which of the following organisms is most commonly associated with this specific immune defect?",
+      "options": [
+        "*Aspergillus fumigatus*",
+        "*Blastomyces dermatitidis*",
+        "*Coccidioides immitis*",
+        "*Cryptococcus neoformans*",
+        "*Pneumocystis jirovecii*"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient being treated for invasive aspergillosis with a triazole antifungal agent reports experiencing transient visual disturbances, including seeing wavy lines and flashes of light. Which of the following medications is uniquely associated with these side effects?",
+      "options": [
+        "Fluconazole",
+        "Isavuconazole",
+        "Itraconazole",
+        "Posaconazole",
+        "Voriconazole"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 28-year-old male presents with a pruritic, circular, erythematous rash on his forearm that has a raised border and central clearing. A KOH preparation of skin scrapings reveals hyaline septate hyphae and barrel-shaped spores. Which of the following structures is most characteristic of dermatophytes when observed in clinical specimens?",
+      "options": [
+        "Blastoconidia",
+        "Arthroconidia",
+        "Pseudohyphae",
+        "Muriform cells",
+        "Fission yeasts"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 30-year-old veterinary worker from Bangkok develops a nodular lesion on her arm after handling an infected cat. She had received rabies post-exposure prophylaxis after a bite. Physical examination shows a solitary ulcerated nodule without lymphatic spread. A fungal infection is suspected. Which of the following laboratory characteristics best describes the causative organism?",
+      "options": [
+        "Exists only as yeast at all temperatures",
+        "Exhibits thermal dimorphism, growing as mold at 25\u00b0C and yeast at 37\u00b0C",
+        "Produces pseudohyphae exclusively in tissue",
+        "Forms nonseptate hyphae with broad branching",
+        "Produces germ tubes in serum"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 24-year-old female presents with a thick, white, \"cottage cheese-like\" vaginal discharge and severe pruritus. Microscopic examination of the discharge shows budding yeasts and pseudohyphae. Which of the following is a recognized predisposing factor for this fungal infection?",
+      "options": [
+        "Chronic use of non-steroidal anti-inflammatory drugs",
+        "Consumption of a high-fat diet",
+        "Poor personal hygiene in tropical climates",
+        "Recent use of broad-spectrum antibiotics",
+        "Untreated hypertension and renal failure"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 45-year-old male undergoing chemotherapy for acute myeloid leukaemia develops fever and pleuritic chest pain during a period of profound neutropenia. A CT scan of the chest reveals several pulmonary nodules with surrounding ground-glass opacities. A biopsy of one of the nodules demonstrates branching, hyaline, septate hyphae that branch at 45-degree angles. Which of the following is the primary route of transmission for the pathogen responsible for this patient's condition?",
+      "options": [
+        "Traumatic skin inoculation",
+        "Endogenous overgrowth of normal flora",
+        "Inhalation of conidia",
+        "Ingestion of infectious cysts",
+        "Direct contact with infected animals"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient is prescribed an oral azole antifungal, such as ketoconazole or itraconazole. The physician explains that these drugs should not be administered along with certain classes of medications. Co-administration with which of the following classes of medications would most likely decrease the absorption and efficacy of these azoles?",
+      "options": [
+        "Aminoglycosides",
+        "Beta-blockers",
+        "HMG-CoA reductase inhibitors",
+        "Proton pump inhibitors (PPIs)",
+        "Sulfonamides"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

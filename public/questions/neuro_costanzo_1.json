@@ -1,0 +1,358 @@
+{
+  "id": "neuro-true-false-1",
+  "title": "Neurophysiology 1",
+  "topic": "True-False Neuro",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "The equilibrium potential for potassium in a typical neuron is approximately -90 mV.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "Myelinated nerve fibres of type B have a faster conduction velocity than unmyelinated type C fibres.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "The neurotransmitter released by all preganglionic autonomic neurons is norepinephrine.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "Inward current across a cell membrane refers to the movement of positive charge into the cell, which results in hyperpolarisation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "The absolute refractory period of a nerve action potential is primarily due to the inactivation of voltage-gated sodium channels.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "Spatial summation occurs when a single presynaptic neuron fires multiple action potentials in rapid succession to reach threshold.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "In a patient with hyperkalemia, the resting membrane potential of neurons becomes less negative, which can lead to the inactivation of sodium channels and muscle weakness.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "The blood-brain barrier is anatomically formed by the tight junctions between the epithelial cells of the choroid plexus, which serve to protect the brain from toxins by excluding large or water-soluble molecules.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "The primary auditory cortex is located in the frontal lobe of the cerebral hemispheres.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "Photoreceptors in the retina hyperpolarise in response to light due to a decrease in intracellular cyclic GMP.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "The Golgi tendon organ is a mechanoreceptor arranged in parallel with extrafusal muscle fibres to detect muscle length.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "A lesion in the left optic tract will result in a loss of the right temporal and left nasal visual fields.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "Hexamethonium is an effective agent for producing skeletal muscle relaxation and paralysis because it acts as a selective antagonist at the N1 nicotinic receptors of the motor end plate.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "During the upstroke of a ventricular action potential, the membrane potential moves toward the sodium equilibrium potential.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "A patient with Parkinson's disease exhibits a resting tremor and rigidity due to the degeneration of dopaminergic neurons in the substantia nigra.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "The utricle and saccule are vestibular organs specifically designed to detect angular acceleration of the head.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "Conduction velocity is inversely proportional to the diameter of the nerve fibre.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "Saltatory conduction occurs only in unmyelinated nerve fibres.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "In myasthenia gravis, muscle weakness occurs because antibodies block or destroy nicotinic acetylcholine receptors at the motor end plate.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "An inhibitory postsynaptic potential (IPSP) typically results from an increase in membrane conductance to chloride or potassium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "The Edinger-Westphal nucleus in the midbrain contains the cell bodies of preganglionic parasympathetic neurons for the pupillary light reflex.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "If a person rotates their head to the left, the hair cells in the left horizontal semicircular canal will hyperpolarise while those in the right will depolarise.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "Rhodopsin is a light-sensitive pigment found only in the cones of the retina.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "Accommodation for near vision involves the relaxation of the ciliary muscle, which increases the refractive power of the lens.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "The dorsal column-medial lemniscal system transmits information regarding pain and temperature to the brain.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "A lesion in Wernicke's area results in motor aphasia, where speech is slow and difficult but understanding is intact.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "Glycine is the most prevalent excitatory neurotransmitter in the human brain.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "The length constant (\u03bb) is the distance from a current injection site where the membrane potential has fallen to 37% of its maximum value.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "The blood-brain barrier is formed primarily by the endothelial cells of cerebral capillaries and their tight junctions.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "In a state of cerebellar dysfunction, a patient may exhibit dysmetria and an intention tremor.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "Adrenergic \u03b12 receptors are primarily located on the walls of the bladder and bronchioles to produce relaxation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "The \"dark current\" in photoreceptors is an inward sodium current that maintains the cell in a depolarised state.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "The primary motor cortex is somatotopically organised as the motor homunculus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "Botulinus toxin causes skeletal muscle paralysis by competing with acetylcholine for nicotinic receptors at the motor end plate.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "The endolymph of the inner ear has a high potassium concentration similar to intracellular fluid.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "A patient with a complete spinal cord transection at T1 will lose all voluntary control of movement in the arms but maintain control in the legs.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "Monoamine oxidase (MAO) is an enzyme responsible for the degradation of acetylcholine in the synaptic cleft.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "The stretch reflex is a polysynaptic reflex that involves at least three neurons in series.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "The hypothalamus is the primary site for the regulation of body temperature.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "During the absolute refractory period, a second action potential can be triggered if the stimulus is twice as strong as the first.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "The olfactory receptor cells are specialised epithelial cells that do not generate action potentials themselves.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "Hysterical hyperventilation can cause numbness and tingling due to a decrease in the concentration of free, ionized calcium in the blood.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "The Gs protein is a stimulatory G protein that activates adenylyl cyclase to increase cyclic AMP levels.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "Phasic receptors fire action potentials continuously for as long as a stimulus is present and are used to encode stimulus duration.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "The principal neurotransmitter released from all postganglionic parasympathetic neurons is acetylcholine.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "In a cold environment, the posterior hypothalamus directs an increase in sympathetic tone to cutaneous vessels to cause vasodilation and heat dissipation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "The lateral geniculate body is the primary relay station for auditory information on its way to the cortex.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "Damage to the cerebellum typically causes resting tremors similar to those seen in Parkinson's disease.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "The neurotransmitter for the majority of sympathetic postganglionic neurons is norepinephrine.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "At the peak of a nerve action potential, the membrane potential is closest to the sodium equilibrium potential.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

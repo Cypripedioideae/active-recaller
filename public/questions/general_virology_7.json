@@ -1,0 +1,148 @@
+{
+  "id": "general-virology-7",
+  "title": "General Virology 7",
+  "topic": "General Virology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "The serologic tests of patients with acute and chronic infection is different. Which of the followings can be found in the serologic results of acute infection but not that of chronic infection",
+      "options": [
+        "HBsAg is positive in acute infection but not in chronic infection",
+        "Anti-HBe is negative in acute infection but positive in chronic infection",
+        "Anti-HBs is negative in acute infection but positive in chronic infection",
+        "Anti-HBc IgM is positive in acute infeciton but negative in chronic infection",
+        "HBsAg is negative in acute infection but positive in chronic infection"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 35-year-old male presents with a 3-day history of high fever, severe polyarthralgia, and a maculopapular rash after returning from a tropical region. He is suspected of having a Chikungunya virus infection. Which of the following cell types serves as the primary site of initial viral replication following the mosquito bite?",
+      "options": [
+        "B lymphocytes",
+        "Neural progenitor cells",
+        "Endothelial cells",
+        "Alveolar macrophage",
+        "Dermal fibroblasts"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A laboratory is using electron microscopy to identify a virus isolated from a patient who died of a progressive neurological infection following a bat bite. The virions are observed to have a highly characteristic morphology, How are these virions described?",
+      "options": [
+        "Pleomorphic and spherical with large surface spikes",
+        "Icosahedral with wheel-like spokes on the capsid",
+        "Bullet-shaped with a helical nucleocapsid",
+        "Long, filamentous threads with a hooked end",
+        "Brick-shaped with complex internal filaments"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Influenza A viruses utilize specific surface glycoproteins to facilitate their replication cycle. Which specific role is performed by the Hemagglutinin (HA) protein during the initial stages of infection?",
+      "options": [
+        "Formation of a transmembrane proton channel for genomic uncoating",
+        "Cleavage of sialic acid residues to allow the release of progeny virions",
+        "Proteolytic cleavage of the viral polyprotein precursor",
+        "Synthesis of a positive-strand mRNA template from the negative-strand genome",
+        "Binding to cell-surface sialic acid receptors to facilitate viral attachment"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 24-year-old patient presents with high fever, severe myalgias, and retro-orbital pain after returning from a tropical region. On day 4 of illness, they develop worsening abdominal pain and tenderness. Examination reveals hepatomegaly with the liver palpable 3 cm below the costal margin. Laboratory studies show an increased hematocrit with a rapidly declining platelet count. According to the documented course of this illness, which of the following clinical concerns is most critical for the patient during this current phase?",
+      "options": [
+        "Fluid overload during reabsorption",
+        "Plasma leakage from vessels",
+        "Development of a maculopapular rash",
+        "Dehydration due to high fever",
+        "Chronic polyarthralgia and arthritis"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Rotavirus is a major cause of severe infantile gastroenteritis worldwide. How is the Rotavirus genome structured?",
+      "options": [
+        "A double-stranded, segmented RNA genome",
+        "A single-stranded, nonsegmented positive-sense RNA genome",
+        "A diploid positive-sense RNA genome",
+        "A partially double-stranded circular RNA genome",
+        "A single-stranded, linear RNA genome"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 35-year-old patient presents with fatigue, anorexia, nausea, and right upper quadrant abdominal discomfort. Over the next few days, they develop dark urine and jaundice. Physical examination reveals mild hepatomegaly and scleral icterus. Laboratory testing shows elevated liver enzymes. Serology confirms that the infection arises from a DNA virus. Which of the following statements correctly describes a characteristic of HBV structure or replication.",
+      "options": [
+        "The virus possesses a segmented double-stranded DNA genome",
+        "The virus is enveloped and resistant to gastrointestinal acids",
+        "The viral envelope is acquired from the host cell nuclear membrane",
+        "The viral DNA polymerase exhibits reverse transcriptase activity",
+        "Entry into hepatocytes is mediated by the CCR5 coreceptor"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Cytomegalovirus (CMV) is a significant cause of congenital infection when primary infection occurs during pregnancy. Which of the following clinical findings is part of the classic presentation of a neonate with symptomatic congenital CMV infection?",
+      "options": [
+        "Acute hemorrhagic cystitis and epidemic keratoconjunctivitis",
+        "Barking cough and inspiratory stridor due to subglottic swelling",
+        "High fever followed by the sudden appearance of a maculopapular truncal rash",
+        "Microcephaly, sensorineural deafness, and a \"blueberry muffin\" rash",
+        "Aplastic crisis in the setting of chronic hemolytic anemia"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A neonate is delivered with bilateral cataracts, sensorineural deafness, and a patent ductus arteriosus. The mother reports having had a maculopapular rash and postauricular lymphadenopathy during the second month of her pregnancy. Which of the following laboratory findings in the mother's serum would be most useful in confirming a diagnosis of this condition?",
+      "options": [
+        "Presence of specific anti-rubella IgG antibodies",
+        "Reactive non-treponemal (VDRL) screening test",
+        "Positive heterophile antibody agglutination reaction",
+        "Detection of multinucleated giant cells on Tzanck smear",
+        "Presence of intranuclear \"owl's eye\" inclusion bodies "
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 5-year-old child is brought to the clinic with a 3-day history of high fever, cough, coryza, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers, on the buccal mucosa. Which of the following clinical findings is most likely to develop next in this patient?",
+      "options": [
+        "Bilateral swelling of the parotid glands and development of pancreatitis",
+        "A \"seal-like\" barking cough associated with narrowing of the upper trachea",
+        "A sandpaper-like erythematous rash moving from the neck to the trunk",
+        "Vesicular lesions in different stages of development with an erythematous base",
+        "A maculopapular rash that begins at the head and neck and spreads downward"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

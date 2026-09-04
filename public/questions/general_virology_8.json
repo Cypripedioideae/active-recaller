@@ -1,0 +1,148 @@
+{
+  "id": "general-virology-8",
+  "title": "General Virology 8",
+  "topic": "General Virology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 5-year-old child is brought to the clinic with a 3-day history of high fever, cough, coryza, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers, on the buccal mucosa. This infection is preventable by a vaccine, what is the vaccine platform used in the said vaccine?",
+      "options": [
+        "mRNA vaccine",
+        "Toxoid vaccine",
+        "Live attenuated vaccine",
+        "Subunit vaccine",
+        "Inactivated vaccine"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 38-year-old HIV-positive patient recently started a new antiretroviral therapy regimen and presents to the emergency department with a high fever and a painful, blistering rash involving the skin and oral mucosa. A diagnosis of Stevens-Johnson Syndrome is made. Which of the following antiretroviral drugs is most likely responsible for this severe cutaneous adverse reaction?",
+      "options": [
+        "Efavirenz",
+        "Raltegravir",
+        "Tenofovir",
+        "Ritonavir",
+        "Zidovudine"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "In the management of a patient with HIV, the clinician considers the pharmacological properties of various reverse transcriptase inhibitors. Which of the following correctly differentiates the classification of tenofovir from lamivudine?",
+      "options": [
+        "Lamivudine causes DNA chain termination while tenofovir inhibits viral maturation",
+        "Tenofovir is a non-nucleoside inhibitor (NNRTI) while lamivudine is a nucleoside inhibitor (NRTI)",
+        "Lamivudine targets the viral integrase enzyme while tenofovir targets reverse transcriptase",
+        "Tenofovir is a nucleotide analog while lamivudine is a nucleoside analog",
+        "Tenofovir requires initial activation by a viral kinase while lamivudine does not"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 3-year-old child presents to the emergency department with a 2-day history of low-grade fever, rhinorrhea, and a distinctive \"seal-like\" barking cough. On physical examination, the child exhibits inspiratory stridor and a hoarse voice. An anteroposterior neck radiograph demonstrates subglottic swelling and narrowing of the upper trachea. The causative agent belongs to which viral family?",
+      "options": [
+        "Pneumoviridae",
+        "Coronaviridae",
+        "Flaviviridae",
+        "Orthomyxoviridae",
+        "Paramyxoviridae"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 5-year-old child presents with a 3-day history of high fever, cough, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers on the buccal mucosa and a confluent maculopapular rash starting behind the ears and moving down the body. Which of the following is a recognized serious complication of this infection",
+      "options": [
+        "Microcephaly",
+        "Acute orchitis",
+        "Subacute sclerosing pancencephalitis",
+        "Kaposi sarcoma",
+        "Guillain-Barr\u00e9 syndrome"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 3-month-old infant, born prematurely at 28 weeks' gestation, is evaluated during the winter season for the prevention of severe lower respiratory tract disease. The physician decides to provide passive immunization against the most common cause of infant bronchiolitis and pneumonia in this high-risk patient. Which of the following agents is most appropriate to administer?",
+      "options": [
+        "Ganciclovir",
+        "Ribavarin",
+        "Oseltamivir",
+        "Palivizumab",
+        "Favipiravir"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient undergoing induction therapy for Cytomegalovirus retinitis is found to have a significantly decreased absolute neutrophil count and platelet count on routine laboratory monitoring. Which of the following drugs is most likely responsible for this adverse effect?",
+      "options": [
+        "Acyclovir",
+        "Ganciclovir",
+        "Tenofovir",
+        "Cidofovir",
+        "Foscarnet"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Entry inhibitors represent a class of antiretroviral drugs that act at the cell surface. Which of the following describes the mechanism of action for enfuvirtide?",
+      "options": [
+        "It inhibits the integrase enzyme to prevent the formation of the provirus",
+        "It binds to the viral gp41 protein to inhibit viral envelope fusion",
+        "It acts as a guanosine analog to cause premature DNA chain termination",
+        "It binds to the host CCR5 coreceptor to block viral docking",
+        "It prevents the attachment of the viral gp120 glycoprotein to the host CD4 receptor"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 45-year-old renal transplant recipient presents with worsening renal function and signs of nephropathy. The physician suspects BK virus infection and orders a urine specimen for viral isolation. According to the laboratory protocols for viral diagnostics, which of the following is the most appropriate method for handling and transporting this specimen?",
+      "options": [
+        "Viral transport medium at 4\u00b0C",
+        "Wet sterile container at 4\u00b0C",
+        "Dry sterile container at room temperature",
+        "Viral transport medium at room temperature",
+        "Dry sterile container at 4\u00b0C"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 6-year-old male presents to the clinic with a 2-day history of painful urination and bright red blood in his urine. He recently recovered from a mild bout of sore throat and fever. A urine culture is performed and shows no bacterial growth. Which of the following viruses is the most likely cause of this patient's acute hemorrhagic cystitis?",
+      "options": [
+        "Rhinovirus",
+        "Parvovirus B19",
+        "BK virus",
+        "JC virus",
+        "Adenovirus"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

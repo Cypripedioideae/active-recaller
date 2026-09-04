@@ -1,0 +1,358 @@
+{
+  "id": "cvs-mechanisms-review-4",
+  "title": "Cardiac Cycle",
+  "topic": "CVS Mechanisms Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What specific electrical event on the ECG immediately precedes the mechanical contraction of the atria?",
+      "modelAnswer": "P wave",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Closure of which valves marks the onset of ventricular systole and the production of the first heart sound (S1)?",
+      "modelAnswer": "Mitral and Tricuspid (Atrioventricular) valves",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "During which specific phase of the cardiac cycle is the ventricular volume constant while the pressure falls precipitously?",
+      "modelAnswer": "Isovolumetric relaxation",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "What mechanical event must occur for the semilunar valves to transition from a closed to an open state?",
+      "modelAnswer": "Ventricular pressure must exceed arterial (aortic/pulmonary) pressure",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Place these three electrical events in the correct chronological order: (A) T wave, (B) P wave, (C) QRS complex.",
+      "modelAnswer": "B, C, A",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Which heart sound is associated with the vibration of ventricular walls during the period of rapid filling?",
+      "modelAnswer": "S3 (Third heart sound)",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "What is the clinical name for the period of \"reduced ventricular filling\" that occurs in the middle of diastole?",
+      "modelAnswer": "Diastasis",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "During which portion of the cardiac cycle is ventricular volume at its absolute maximum (End-Diastolic Volume)?",
+      "modelAnswer": "End of atrial systole (Start of isovolumetric contraction)",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Closure of the aortic and pulmonary valves produces which physiological heart sound?",
+      "modelAnswer": "S2 (Second heart sound)",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Place these three mechanical phases in chronological order starting from the opening of the atrioventricular valves: (A) Atrial systole, (B) Diastasis, (C) Rapid filling.",
+      "modelAnswer": "C, B, A",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "The QRS complex represents ventricular depolarization. Immediately following this electrical event, what occurs to the atrioventricular valves?",
+      "modelAnswer": "They close",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "The \"a\" wave of the jugular venous pulse is a mechanical reflection of which electrical waveform on the ECG?",
+      "modelAnswer": "P wave",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Order the following events chronologically: (A) QRS complex, (B) \"a\" wave, (C) S1 heart sound, (D) P wave.",
+      "modelAnswer": "D, B, A, C",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "During the isovolumetric contraction phase, what is the status (open or closed) of the aortic valve?",
+      "modelAnswer": "Closed",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What specific movement of the atrioventricular valves is responsible for the \"c\" wave of the jugular venous pulse?",
+      "modelAnswer": "Bulging of the AV valve into the atrium",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Place these events in order: (A) Aortic valve opening, (B) S1 heart sound, (C) Mitral valve closure.",
+      "modelAnswer": "C, B, A",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "In a healthy individual, does the peak of the T wave occur during the rapid ejection or reduced ejection phase?",
+      "modelAnswer": "Reduced ejection phase",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "The \"v\" wave of the jugular venous pulse occurs because the atrium is filling while what specific valve remains closed?",
+      "modelAnswer": "Tricuspid (or Mitral) valve",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Place these phases in order: (A) Isovolumetric relaxation, (B) Reduced ejection, (C) Rapid filling.",
+      "modelAnswer": "B, A, C",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "At the exact moment the mitral valve opens to begin the filling phase, how does the pressure in the left ventricle compare to the pressure in the left atrium?",
+      "modelAnswer": "Left ventricular pressure is lower than left atrial pressure",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "Order the following acoustic and mechanical events: (A) Mitral valve closure, (B) Aortic valve opening, (C) S4 heart sound, (D) S1 heart sound.",
+      "modelAnswer": "C, A, D, B",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "During the phase of diastasis, is the pressure in the left atrium significantly higher than, significantly lower than, or nearly equal to the pressure in the left ventricle?",
+      "modelAnswer": "Nearly equal",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "Order the following jugular venous pulse transients chronologically: (A) \"v\" wave, (B) \"a\" wave, (C) \"x\" descent, (D) \"c\" wave.",
+      "modelAnswer": "B, D, C, A",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "Does the majority of left coronary blood flow occur during ventricular systole or ventricular diastole?",
+      "modelAnswer": "Ventricular diastole",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Place these events in order for a single cycle: (A) QRS complex, (B) S1 heart sound, (C) P wave, (D) S4 heart sound, (E) Atrial systole.",
+      "modelAnswer": "C, E, D, A, B",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "short_answer",
+      "prompt": "During the \"reduced ejection\" phase, is the pressure in the left ventricle slightly higher or slightly lower than the pressure in the aorta?",
+      "modelAnswer": "Slightly lower",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "short_answer",
+      "prompt": "Order these events starting from the end of the T wave: (A) Mitral valve opening, (B) S3 heart sound, (C) S2 heart sound, (D) Isovolumetric relaxation.",
+      "modelAnswer": "C, D, A, B",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "short_answer",
+      "prompt": "What happens to the duration of the diastasis phase as the heart rate increases during exercise?",
+      "modelAnswer": "It decreases (shortens)",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "short_answer",
+      "prompt": "Sequence these events involving the semilunar valves: (A) Dicrotic notch, (B) Aortic valve closure, (C) Aortic valve opening, (D) Peak aortic pressure.",
+      "modelAnswer": "C, D, B, A",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "short_answer",
+      "prompt": "The \"y\" descent in the jugular venous pulse corresponds to which specific mechanical phase of the ventricles?",
+      "modelAnswer": "Rapid ventricular filling",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "short_answer",
+      "prompt": "Place the following in the exact order they occur: (A) PR segment, (B) S4 sound, (C) P wave, (D) QRS complex, (E) S1 sound, (F) \"a\" wave.",
+      "modelAnswer": "C, A, F, B, D, E",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "short_answer",
+      "prompt": "Why does the aortic valve remain open during \"reduced ejection\" even though the pressure gradient has technically reversed (aortic pressure > ventricular pressure)?",
+      "modelAnswer": "Momentum (inertia) of the blood",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "short_answer",
+      "prompt": "Sequence the following electrical and mechanical transitions: (A) T wave onset, (B) QRS complex, (C) \"x\" descent, (D) \"c\" wave.",
+      "modelAnswer": "B, D, C, A",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "short_answer",
+      "prompt": "On a standard pressure-volume loop, which \"corner\" (A, B, C, or D) represents the moment the mitral valve closes and S1 is generated?",
+      "modelAnswer": "Corner C (or bottom-right)",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "short_answer",
+      "prompt": "Order these events according to the right heart cycle: (A) Pulmonary valve opening, (B) Tricuspid valve opening, (C) Tricuspid valve closure, (D) Pulmonary valve closure.",
+      "modelAnswer": "C, A, D, B",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "short_answer",
+      "prompt": "The peak of the \"v\" wave in the jugular venous pulse occurs just before which valvular event?",
+      "modelAnswer": "Opening of the atrioventricular (Tricuspid/Mitral) valve",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "short_answer",
+      "prompt": "Sequence these events: (A) S2 heart sound, (B) \"y\" descent, (C) S1 heart sound, (D) Rapid ejection phase, (E) \"v\" wave peak.",
+      "modelAnswer": "C, D, A, E, B",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "short_answer",
+      "prompt": "When the ventricles shorten during ejection, they pull the atrioventricular ring downward; which jugular venous dip does this contribute to?",
+      "modelAnswer": "x descent",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "short_answer",
+      "prompt": "Order the following by their intrinsic firing rates (highest to lowest): (A) Purkinje fibers, (B) SA node, (C) AV node.",
+      "modelAnswer": "B, C, A",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "short_answer",
+      "prompt": "In the sequence of ventricular activation, which part of the ventricle is typically the last to depolarize?",
+      "modelAnswer": "Posterobasal region of the left ventricle",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "short_answer",
+      "prompt": "Place the following diverse events in precise chronological order: (A) Mitral valve closure, (B) Opening of the aortic valve, (C) P wave, (D) \"c\" wave, (E) PR segment, (F) S4 heart sound.",
+      "modelAnswer": "C, E, F, A, D, B",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "short_answer",
+      "prompt": "If a patient's heart rate increases to 180 beats/min, which mechanical sub-phase of the cardiac cycle is most likely to be completely eliminated, and what is the consequence for preload?",
+      "modelAnswer": "Diastasis; Preload (EDV) decreases",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "short_answer",
+      "prompt": "Sequence these steps of excitation-contraction coupling: (A) Calcium entry via L-type channels, (B) Cross-bridge cycling, (C) Action potential upstroke, (D) Calcium binding to Troponin C, (E) Calcium-Induced Calcium Release (CICR).",
+      "modelAnswer": "C, A, E, D, B",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "short_answer",
+      "prompt": "Order these events surrounding the end of systole: (A) S2 heart sound, (B) End of T wave, (C) Isovolumetric relaxation, (D) Ventricular pressure falls below aortic pressure, (E) Dicrotic notch.",
+      "modelAnswer": "B, D, A, E, C",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "short_answer",
+      "prompt": "Order the following events related to the \"v\" wave: (A) Filling of the atria against closed AV valves, (B) Opening of the tricuspid valve, (C) Reduced ejection phase, (D) \"y\" descent, (E) Peak of the \"v\" wave.",
+      "modelAnswer": "C, A, E, B, D",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "short_answer",
+      "prompt": "Explain the ordering of heart sound splitting during inspiration: Does the A2 or P2 component happen first, and why does P2 move later in the cycle?",
+      "modelAnswer": "A2 first; P2 is delayed because increased venous return during inspiration prolongs RV ejection time",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "short_answer",
+      "prompt": "Sequence the following pressure-volume coordinates: (A) Mitral valve opening, (B) End-diastolic volume, (C) End-systolic volume, (D) Mitral valve closure, (E) Rapid filling.",
+      "modelAnswer": "C, A, E, B, D",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "short_answer",
+      "prompt": "During a PVC (Premature Ventricular Contraction), sequence the following compared to a normal beat: (A) Decreased stroke volume, (B) Early QRS, (C) Weak or absent radial pulse, (D) Reduced filling time.",
+      "modelAnswer": "B, D, A, C",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "short_answer",
+      "prompt": "Order these electrical-to-mechanical correlations: (A) Ventricular contraction, (B) PR interval (AV delay), (C) P wave, (D) QRS complex, (E) Atrial contraction.",
+      "modelAnswer": "C, B, E, D, A",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "short_answer",
+      "prompt": "Order the following events for the left ventricle: (A) Depolarization of the apex, (B) Depolarization of the posterobasal region, (C) Depolarization of the septum.",
+      "modelAnswer": "C, A, B",
+      "explanation": "-"
+    }
+  ]
+}

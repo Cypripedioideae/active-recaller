@@ -1,0 +1,148 @@
+{
+  "id": "antibacterial-agents-9",
+  "title": "Antibacterial Agents 9",
+  "topic": "Antibacterial Agents",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which antibacterial agent inhibits bacterial cell wall synthesis by binding to the D-Ala-D-Ala terminus of nascent peptidoglycan pentapeptides, thereby preventing their cross-linking and elongation?",
+      "options": [
+        "Fosfomycin",
+        "PGS",
+        "Amoxicillin",
+        "Bacitracin",
+        "Vancomycin"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 22-year-old college student presents with an insidious onset of a nonproductive cough and headache. A chest X-ray reveals patchy interstitial infiltrates. Which of the following macrolides is the drug of choice for this condition and works by binding to the 50S ribosomal subunit?",
+      "options": [
+        "PGS",
+        "Gentamicin",
+        "Azithromycin",
+        "Ciprofloxacin",
+        "Doxycycline"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Which antibiotic class is contraindicated in children and pregnant women due to its potential to cause damage to developing cartilage?",
+      "options": [
+        "Macrolides",
+        "Fluoroquinolones",
+        "Aminoglycosides",
+        "Sulfonamides",
+        "Tetracyclines"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Which drug class acts as a structural analog of p-aminobenzoic acid (PABA) to competitively inhibit the enzyme dihydropteroate synthase in the bacterial folic acid synthesis pathway?",
+      "options": [
+        "Fluoroquinolones",
+        "Tetracyclines",
+        "Sulfonamides",
+        "Macrolides",
+        "Aminoglycosides"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient requires antimicrobial prophylaxis before surgery to prevent *Staphylococcus aureus* wound infections. Which of the following first-generation cephalosporins is the standard choice for this indication?",
+      "options": [
+        "Cefepime",
+        "Ceftazidime",
+        "Cefazolin",
+        "Cefuroxime",
+        "Ceftriaxone"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Which molecular modification of the terminal cell wall precursor is responsible for the resistance mechanism in Vancomycin-Resistant Enterococcus (VRE)?",
+      "options": [
+        "Alteration of D-Ala-D-Ala to D-Ala-D-Lac",
+        "Production of a low-affinity PBP2a protein",
+        "Synthesis of an altered arabinogalactan layer",
+        "Acetylation of the aminoglycoside binding site",
+        "Mutation of the alpha-subunit of DNA gyrase"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Which antibiotic class should be used with extreme caution because it can exacerbate neuromuscular blockade?",
+      "options": [
+        "Carbapenems",
+        "Fluoroquinolones",
+        "Macrolides",
+        "Tetracyclines",
+        "Aminoglycosides"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "How do suicide inhibitors, such as clavulanic acid and sulbactam, expand the antibacterial spectrum of certain penicillins?",
+      "options": [
+        "By binding to and inactivating bacterial \u03b2-lactamases",
+        "By increasing the permeability of the bacterial outer membrane",
+        "By altering the target site on the 30S ribosomal subunit",
+        "By inhibiting renal tubule dehydropeptidase I",
+        "By providing a D-Ala-D-Ala structural analogue for PBPs"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient being treated for a resistant Gram-positive infection develops reversible myelosuppression and signs of serotonin syndrome. Which of the following agents is most likely responsible?",
+      "options": [
+        "Clindamycin",
+        "Linezolid",
+        "Daptomycin",
+        "Vancomycin",
+        "Tigecycline"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 27-year-old male presents with a painless genital chancre and is diagnosed with syphilis. Which of the following prototype \u03b2-lactam antibiotics is the intramuscular treatment of choice for this infection?",
+      "options": [
+        "Amoxicillin",
+        "Dicloxacillin",
+        "Cloxacillin",
+        "Benzathine penicillin G",
+        "Penicillin V"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

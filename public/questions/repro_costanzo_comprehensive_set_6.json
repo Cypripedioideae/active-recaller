@@ -1,0 +1,134 @@
+{
+  "id": "comprehensive-repro-review-6",
+  "title": "Reproductive Comprehensive Set 1: Female Physiology - Ovarian Steroidogenesis (Short Answer)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the fundamental chemical precursor for the synthesis of all ovarian steroid hormones including progesterone and estradiol?",
+      "modelAnswer": "Cholesterol.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Identify the specific ovarian cell type that expresses LH receptors and is responsible for the synthesis of androstenedione.",
+      "modelAnswer": "Theca interna cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Which pituitary hormone stimulates the enzyme cholesterol desmolase in the theca interna cells during the first step of steroidogenesis?",
+      "modelAnswer": "Luteinizing Hormone (LH).",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "According to the \"two-cell theory\" of steroidogenesis, which specific androgen diffuses from the theca cells into the granulosa cells?",
+      "modelAnswer": "Androstenedione.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Which anterior pituitary hormone is responsible for stimulating aromatase activity within the granulosa cells?",
+      "modelAnswer": "Follicle-Stimulating Hormone (FSH).",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Name the enzyme found in granulosa cells that catalyzes the conversion of androstenedione to testosterone prior to the formation of estradiol.",
+      "modelAnswer": "17\u03b2-hydroxysteroid dehydrogenase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Describe the unique distribution of FSH receptors within the adult ovary.",
+      "modelAnswer": "FSH receptors are located exclusively on the granulosa cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "How do rising levels of estradiol affect the density of FSH receptors in the granulosa cells of a growing follicle?",
+      "modelAnswer": "Estradiol up-regulates FSH receptors, increasing the sensitivity of the granulosa cells to FSH.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "During the follicular phase of the menstrual cycle, what is the primary feedback effect of estradiol on the secretion of FSH and LH?",
+      "modelAnswer": "Estradiol exerts negative feedback on the hypothalamus (GnRH) and the anterior pituitary (FSH/LH).",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Identify the specific threshold condition regarding estradiol concentration that must be met to trigger the preovulatory LH surge.",
+      "modelAnswer": "Estradiol levels must rise to at least 200 picograms per milliliter of plasma and be sustained for a sufficient duration.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "What is the mechanism of positive feedback by which estradiol initiates the ovulatory surge of gonadotropins at mid-cycle?",
+      "modelAnswer": "High levels of estradiol increase the sensitivity of the anterior pituitary to GnRH by up-regulating GnRH receptors.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Which ovarian hormone dominates the feedback regulation of the hypothalamic-pituitary axis during the luteal phase?",
+      "modelAnswer": "Progesterone.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Describe the effect of progesterone on the uterine threshold to contractile stimuli during pregnancy.",
+      "modelAnswer": "Progesterone increases the uterine threshold to contractile stimuli, thereby maintaining uterine quiescence.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Identify the non-steroidal hormone produced by granulosa cells that provides negative feedback specifically to inhibit FSH secretion.",
+      "modelAnswer": "Inhibin.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What is the physiological role of activin in the regulation of the hypothalamic-pituitary-ovarian axis?",
+      "modelAnswer": "Activin stimulates the secretion of FSH from the anterior pituitary.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "In the systemic circulation, how are the majority of ovarian steroid hormones transported?",
+      "modelAnswer": "They are transported bound to plasma proteins (such as sex hormone-binding globulin and albumin).",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Explain why theca cells are unable to synthesize estradiol independently and must interact with granulosa cells.",
+      "modelAnswer": "Theca cells lack the enzyme aromatase, which is required to convert androgens into estrogens.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "What metabolic change occurs in the hypothalamic temperature-regulating center in response to progesterone secretion during the luteal phase?",
+      "modelAnswer": "Progesterone increases the hypothalamic set-point temperature, resulting in a rise in basal body temperature.",
+      "explanation": "-"
+    }
+  ]
+}

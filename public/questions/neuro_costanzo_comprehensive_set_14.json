@@ -1,0 +1,358 @@
+{
+  "id": "comprehensive-neuro-review-14",
+  "title": "Comprehensive Neuro Set 2: Autonomic Nervous System (MCQ)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 24-year-old woman presents with miosis, ptosis, and anhidrosis on the right side of her face. Cocaine drops are administered to both eyes; the left pupil dilates, but the right pupil remains constricted. Subsequent administration of apraclonidine (a weak \u03b11agonist) causes the right pupil to dilate significantly more than the left. Based on these findings, where is the most likely location of the neurological lesion?",
+      "options": [
+        "The right superior cervical ganglion or its postganglionic fibers.",
+        "The Edinger-Westphal nucleus in the midbrain.",
+        "The intermediolateral cell column at the T1 spinal level.",
+        "The hypothalamus or the descending first-order sympathetic neurons.",
+        "The ciliary ganglion or the short ciliary nerves."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 32-year-old man with a normal, intact nervous system is currently in the \"filling phase\" of the micturition cycle. Which of the following sets of autonomic states correctly describes the condition of his urinary bladder structures during this phase?",
+      "options": [
+        "Sympathetic contraction of the internal sphincter and parasympathetic relaxation of the detrusor.",
+        "Parasympathetic contraction of the detrusor and sympathetic relaxation of the internal sphincter.",
+        "Sympathetic contraction of the detrusor and parasympathetic contraction of the internal sphincter.",
+        "Parasympathetic relaxation of the detrusor and somatic relaxation of the external sphincter.",
+        "Sympathetic relaxation of the detrusor and sympathetic contraction of the internal sphincter."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A researcher infuses 500 mL of isotonic saline into a healthy volunteer over 5 minutes. An immediate increase in heart rate is observed. Which of the following mechanisms best explains this initial tachycardic response?",
+      "options": [
+        "Activation of high-pressure baroreceptors in the carotid sinus due to increased arterial stretch.",
+        "Activation of low-pressure stretch receptors in the atria, initiating the Bainbridge reflex.",
+        "Decreased firing of the vagus nerve due to the inhibition of the medullary cardiac decelerator center.",
+        "Increased secretion of epinephrine from the adrenal medulla via the sympathetic-adrenal axis.",
+        "A compensatory increase in sympathetic tone to the SA node following a drop in total peripheral resistance."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "During a clinical study, a subject is given a high-dose muscarinic antagonist (atropine). While salivary volume significantly decreases, a small amount of enzymatic secretion and associated vasodilation in the salivary glands persists upon stimulation. Which of the following explains this \"atropine-resistant\" phenomenon?",
+      "options": [
+        "Sympathetic adrenergic stimulation of \u03b2-receptors on ductal cells.",
+        "Direct mechanical stimulation of the myoepithelial cells by the food bolus.",
+        "Co-release of Vasoactive Intestinal Peptide (VIP) from parasympathetic terminals.",
+        "Local release of prostaglandins from the oral mucosa.",
+        "Activation of nicotinic receptors on the acinar cells."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 45-year-old man is diagnosed with a pheochromocytoma. His physician plans to use a pharmacological blockade before surgery to prevent a hypertensive crisis. Why is it clinically essential to administer an \u03b1-adrenergic antagonist before a \u03b2-adrenergic antagonist in this patient?",
+      "options": [
+        "\u03b2-blockers increase the hepatic clearance of \u03b1-antagonists, making them ineffective.",
+        "Early \u03b1-blockade is required to induce the synthesis of new \u03b2-receptors.",
+        "\u03b1-receptors are more sensitive to circulating epinephrine than \u03b2-receptors.",
+        "Blocking \u03b22-mediated vasodilation first leaves \u03b11-mediated vasoconstriction unopposed, causing a massive pressure rise.",
+        "\u03b2-blockers directly stimulate the chromaffin cells to release more norepinephrine."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient undergoes a complete bilateral vagotomy as a treatment for a refractory peptic ulcer. In the immediate postoperative period, which of the following gastrointestinal processes will be most significantly impaired?",
+      "options": [
+        "Secondary peristalsis of the mid-esophagus.",
+        "Segmentation contractions in the ileum.",
+        "Mass movements in the descending colon.",
+        "Receptive relaxation of the orad stomach.",
+        "Contraction of the external anal sphincter."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A neurotransmitter binds to an autonomic receptor on a target cell, leading to the dissociation of the \u03b1isubunit of a Gi protein. This subunit then migrates and inhibits the effector enzyme. What is the immediate biochemical result of this process?",
+      "options": [
+        "Increased production of inositol 1,4,5-triphosphate (IP3).",
+        "Decreased intracellular levels of cyclic adenosine monophosphate (cAMP).",
+        "Activation of protein kinase C and subsequent phosphorylation.",
+        "Opening of ligand-gated Na^+ channels and depolarization.",
+        "Increased conversion of GTP to cGMP by guanylyl cyclase."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 10-year-old child with a history of bronchial asthma is accidentally administered a non-selective \u03b2-adrenergic antagonist. The child soon develops severe respiratory distress. Which of the following explains the physiological basis of this complication?",
+      "options": [
+        "Blockade of \u03b21receptors on the heart causes pulmonary edema.",
+        "Stimulation of muscarinic receptors in the airways by the drug.",
+        "Blockade of \u03b22receptors prevents sympathetic bronchodilation.",
+        "The drug acts as an \u03b11agonist, causing airway smooth muscle contraction.",
+        "Inhibition of surfactant production by alveolar type II cells."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A healthy individual begins a period of strenuous aerobic exercise. Which of the following correctly describes the integrated autonomic response regarding blood flow to the skin?",
+      "options": [
+        "Initial sympathetic vasoconstriction followed by vasodilation as core temperature rises.",
+        "Continuous parasympathetic vasodilation to allow for maximal heat radiation.",
+        "Persistent sympathetic vasoconstriction to prioritize blood flow to the skeletal muscles.",
+        "Local metabolic vasodilation due to the accumulation of lactic acid in the dermis.",
+        "Initial vasodilation via \u03b22receptors followed by \u03b11 -mediated constriction to prevent heat loss."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient with primary adrenal insufficiency (Addison's disease) is found to have significantly lower levels of circulating epinephrine compared to norepinephrine. What is the underlying biochemical explanation for this specific deficiency in the adrenal medulla?",
+      "options": [
+        "High levels of ACTH competitively inhibit the enzyme tyrosine hydroxylase.",
+        "Lack of aldosterone prevents the uptake of tyrosine into chromaffin cells.",
+        "Destruction of the sympathetic preganglionic nerves in the splanchnic nerve.",
+        "Hyperkalemia inhibits the exocytosis of secretory granules.",
+        "Reduced cortisol levels result in decreased induction of phenylethanolamine-N-methyltransferase (PNMT)."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A 22-year-old male with a complete spinal cord transection at the level of T12 is being evaluated for sexual dysfunction. Which of the following aspects of his sexual reflex is most likely to remain intact?",
+      "options": [
+        "Psychogenic erection triggered by visual stimuli.",
+        "Reflexogenic erection mediated by the sacral parasympathetic pelvic nerves.",
+        "Ejaculation mediated by the sympathetic lumbar hypogastric nerves.",
+        "Voluntary control of the bulbocavernosus muscle.",
+        "Perception of erogenous tactile stimuli from the genitalia."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A 60-year-old woman is found collapsed on a hot day. Her skin is warm and dry (anhidrosis), and she is hyperventilating. She is diagnosed with heatstroke. Which of the following best describes the pathophysiology of her anhidrosis?",
+      "options": [
+        "Activation of the posterior hypothalamus to conserve heat.",
+        "Excessive parasympathetic stimulation of the sweat glands.",
+        "Inhibition of sympathetic adrenergic fibers to the skin.",
+        "High body temperature causing damage to the anterior hypothalamic-preoptic area.",
+        "A sudden decrease in the hypothalamic temperature set-point."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "During a physiology experiment, different vascular beds are exposed to sympathetic stimulation. Which of the following receptor-effector pairings is correct regarding the regulation of regional blood flow?",
+      "options": [
+        "Arterioles of the skin and splanchnic regions: \u03b11receptors for vasoconstriction.",
+        "Arterioles of the cerebral circulation: \u03b11receptors for protective vasoconstriction.",
+        "Arterioles of skeletal muscle: \u03b21receptors for vasodilation during exercise.",
+        "Arterioles of the coronary circulation: Muscarinic receptors for metabolic vasodilation.",
+        "Arterioles of the renal circulation: \u03b22  receptors for constriction to maintain GFR."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "A pharmacology student is comparing the effects of hexamethonium and curare. Which of the following statements correctly distinguishes their actions on the nervous system?",
+      "options": [
+        "Hexamethonium blocks the N1receptor at the neuromuscular junction; curare blocks N2in ganglia.",
+        "Both drugs block muscarinic receptors in the heart but hexamethonium is more potent.",
+        "Hexamethonium blocks N2receptors in all autonomic ganglia; curare blocks N1receptors on skeletal muscle.",
+        "Curare blocks the reuptake of choline; hexamethonium blocks the release of acetylcholine.",
+        "Hexamethonium is a selective agonist for \u03b12receptors; curare is a selective \u03b11  antagonist."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "An infant is born with an anatomical defect that has essentially the same effect as a complete spinal cord transection at the thoracic level. Which of the following best describes the resulting behavior of the urinary bladder?",
+      "options": [
+        "Constant dribbling of urine due to a lack of sphincter tone.",
+        "Complete inability to fill the bladder due to detrusor hypertonia.",
+        "Total loss of the micturition reflex arc.",
+        "Retention of urine due to a failure of the parasympathetic nerves to fire.",
+        "Automatic emptying of the bladder whenever a threshold intra-vesical pressure is reached."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "In the study of the cephalic phase of gastric secretion, it is noted that while atropine reduces acid output, it does not completely abolish the rise in plasma gastrin. What is the physiological reason for this observation?",
+      "options": [
+        "Gastrin is released by sympathetic adrenergic fibers that are not affected by atropine.",
+        "Vagal stimulation of G cells is mediated by Gastrin-Releasing Peptide (GRP), which is not blocked by atropine.",
+        "Atropine up-regulates gastrin receptors on the parietal cells, creating a compensatory surge.",
+        "Gastrin release in the cephalic phase is entirely independent of the vagus nerve.",
+        "The G cells have nicotinic, rather than muscarinic, receptors for acetylcholine."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "Stimulation of the vagus nerve leads to a significant decrease in heart rate. Which of the following describes the correct cellular mechanism for this effect in the SA node?",
+      "options": [
+        "Activation of Gsprotein which increases the funny current (If).",
+        "Inhibition of Gqprotein which leads to decreased intracellular calcium.",
+        "Direct opening of voltage-gated Na^+channels.",
+        "Activation of Giprotein which opens K^+-ACh channels and hyperpolarizes the cell.",
+        "Inhibition of the Na^+-K^+  ATPase pump."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "A 25-year-old man donates a unit of blood. His arterial blood pressure drops slightly, and his renal sympathetic nerve activity increases. Which of the following is a direct result of this increased neural activity?",
+      "options": [
+        "Stimulation of renin secretion from the juxtaglomerular cells via \u03b21receptors.",
+        "Increased glomerular filtration rate (GFR) to speed up waste removal.",
+        "Inhibition of sodium reabsorption in the proximal tubule.",
+        "Vasodilation of the afferent arteriole to maintain renal blood flow.",
+        "Secretion of Atrial Natriuretic Peptide (ANP) to restore volume."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "Which of the following sets of autonomic receptors is correctly paired with its primary effect on the gastrointestinal tract?",
+      "options": [
+        "\u03b12receptors: Contraction of the smooth muscle in the wall.",
+        "Muscarinic receptors: Contraction of the sphincters.",
+        "\u03b11receptors: Contraction of the smooth muscle in the sphincters.",
+        "\u03b22receptors: Increased glandular secretion and motility.",
+        "Nicotinic receptors: Relaxation of the smooth muscle in the wall."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "A 60-year-old man is diagnosed with Shy-Drager syndrome. He experiences severe dizziness upon standing from a supine position. This symptom is primarily explained by the failure of which autonomic process?",
+      "options": [
+        "Excessive parasympathetic burst causing reflex bradycardia.",
+        "Lack of cortisol-mediated permissive action on cardiac \u03b22receptors.",
+        "Over-activation of the Bainbridge reflex.",
+        "Sudden release of Nitric Oxide (NO) from the vascular endothelium.",
+        "Failure of the baroreceptor reflex to increase sympathetic outflow and produce vasoconstriction."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "mcq",
+      "prompt": "A patient is administered a very low dose of epinephrine. Surprisingly, the total peripheral resistance (TPR) decreases. Which of the following properties of adrenoreceptors explains this observation?",
+      "options": [
+        "\u03b22receptors have a higher affinity for epinephrine than \u03b11receptors.",
+        "\u03b11receptors are preferentially activated by low concentrations of catecholamines.",
+        "Epinephrine acts as a competitive antagonist at \u03b11receptors at low doses.",
+        "\u03b21receptors in the heart produce reflex vasodilation of the systemic arterioles.",
+        "Low-dose epinephrine inhibits the release of norepinephrine from sympathetic terminals."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "mcq",
+      "prompt": "A student is walking to a high-stakes exam and begins to experience \"cold, clammy hands\" due to stress. Which of the following autonomic profiles is responsible for this state?",
+      "options": [
+        "Increased parasympathetic activity to the cutaneous blood vessels and sweat glands.",
+        "Increased sympathetic adrenergic activity to blood vessels and sympathetic cholinergic activity to sweat glands.",
+        "Decreased sympathetic tone to the skin causing passive cooling and moisture accumulation.",
+        "Increased sympathetic adrenergic activity to both blood vessels and sweat glands.",
+        "Activation of the hypothalamic punishment center causing a general withdrawal of all autonomic tone."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "mcq",
+      "prompt": "The activation of the M3muscarinic receptor in the gastrointestinal tract leads to an increase in motility and secretion. Which signaling pathway mediates this response?",
+      "options": [
+        "Activation of Giprotein, inhibition of adenylyl cyclase, and decreased cAMP.",
+        "Activation of Gsprotein, stimulation of adenylyl cyclase, and increased cAMP.",
+        "Activation of Gqprotein, stimulation of phospholipase C, and increased IP3/Ca^(2+).",
+        "Binding to a tyrosine kinase receptor and subsequent protein phosphorylation.",
+        "Direct opening of a Na^+/K^+  ion channel."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "mcq",
+      "prompt": "A person experiences a \"vasovagal syncope\" after a sudden emotional shock. Which of the following neural patterns characterizes this event?",
+      "options": [
+        "A massive sympathetic discharge to the heart and the skeletal muscle arterioles.",
+        "Simultaneous withdrawal of both sympathetic and parasympathetic tones to all organs.",
+        "A burst of sympathetic activity to the veins causing a sudden increase in stressed volume.",
+        "A burst of vagal parasympathetic activity to the SA node and a withdrawal of sympathetic vasoconstrictor tone.",
+        "Activation of the medullary vasoconstrictor center leading to hypertension and secondary fainting."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "mcq",
+      "prompt": "In the study of autonomic ganglia, it is noted that a neuron is more easily excited after a brief period of high-frequency stimulation. This phenomenon of \"post-tetanic potentiation\" is believed to be due to which of the following?",
+      "options": [
+        "Depletion of acetylcholinesterase in the synaptic cleft.",
+        "Up-regulation of nicotinic receptors on the post-ganglionic cell body.",
+        "Shift of the chloride equilibrium potential to a more positive value.",
+        "Permanent closure of all potassium leak channels.",
+        "Accumulation of calcium in the presynaptic terminal during the period of activity."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

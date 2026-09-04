@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-neuro-review-17",
+  "title": "Comprehensive Neuro Set 2: Vision (MCQ)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 55-year-old patient presents with a visual field deficit characterized by a loss of vision in the left temporal field of the left eye and the left nasal field of the right eye. If this deficit resulted from a single vascular lesion, which of the following structures is the most likely site of damage?",
+      "options": [
+        "Right optic tract.",
+        "Left optic tract.",
+        "Right optic nerve.",
+        "Optic chiasm.",
+        "Left geniculocalcarine tract."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "During an experiment on phototransduction, a researcher illuminates a rod cell with a flash of light. Which of the following molecular changes is the immediate cause of the resulting hyperpolarization of the cell membrane?",
+      "options": [
+        "Increased activity of guanylyl cyclase.",
+        "A decrease in the intracellular concentration of cyclic GMP (cGMP).",
+        "Opening of cyclic nucleotide-gated sodium channels.",
+        "Isomerization of all-trans retinal to 11-cis retinal.",
+        "Increased release of glutamate from the synaptic terminal."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "An \"on-center\" bipolar cell in the retina is observed to depolarize (become excited) when light strikes the center of its receptive field. Which of the following best explains the cellular logic for this excitatory response?",
+      "options": [
+        "Light causes the photoreceptor to release more glutamate, which binds to ionotropic receptors.",
+        "Light causes the photoreceptor to release more glutamate, which binds to metabotropic receptors.",
+        "Light causes the photoreceptor to hyperpolarize and release less glutamate, which binds to metabotropic receptors.",
+        "Light causes the photoreceptor to depolarize and release less glutamate, which binds to ionotropic receptors.",
+        "Light causes the horizontal cells to provide excitatory feedback to the bipolar cell."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A neurophysiologist is recording from single neurons in the primary visual cortex of an anesthetized animal. One specific neuron fires action potentials only when a bar of light is moved across its receptive field at a 45-degree angle, regardless of the bar's exact position within the field. This neuron is classified as a:",
+      "options": [
+        "Simple cell.",
+        "Bipolar cell.",
+        "Ganglion cell.",
+        "Complex cell.",
+        "Hypercomplex cell."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 68-year-old patient reports difficulty reading small print. An eye examination reveals that the patient's near point has receded to 50 cm, while distant vision remains excellent. Which of the following changes to the eye's refractive power and required corrective lens is most accurate?",
+      "options": [
+        "Increased lens elasticity; concave lens.",
+        "Irregular corneal curvature; cylindrical lens.",
+        "Shortened eyeball; convex lens.",
+        "Elongated eyeball; concave lens.",
+        "Loss of accommodation power (presbyopia); convex lens."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient with a severe malabsorption syndrome due to chronic pancreatitis develops profound \"night blindness.\" Which of the following specific steps in the visual cycle is primarily impaired in this patient?",
+      "options": [
+        "Regeneration of 11-cis retinal from vitamin A.",
+        "Photoisomerization of 11-cis retinal to all-trans retinal.",
+        "Conversion of metarhodopsin II to rhodopsin.",
+        "Synthesis of opsin in the inner segment of the rod.",
+        "Phagocytosis of rod outer segment discs by the pigment epithelium."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient suffers a stroke that results in a right-sided homonymous hemianopia. However, detailed testing shows that the central 5 to 10 degrees of the visual field remain intact in both eyes. This \"macular sparing\" most likely indicates that the lesion is located in the:",
+      "options": [
+        "Left optic tract.",
+        "Left visual cortex.",
+        "Optic chiasm.",
+        "Right lateral geniculate nucleus.",
+        "Right optic radiation."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Visual acuity is significantly higher in the fovea centralis than in the peripheral retina. Which of the following physiological factors is the primary reason for this high acuity?",
+      "options": [
+        "Higher concentration of rhodopsin in foveal cones.",
+        "Presence of a thick layer of ganglion cells overlying the fovea.",
+        "A 1:1:1 ratio of cones to bipolar cells to ganglion cells.",
+        "Maximal convergence of many cones onto a single ganglion cell.",
+        "The presence of only rods in the fovea to maximize sensitivity."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A laboratory toxin is discovered that irreversibly inhibits the G protein transducin (Gt ). What would be the expected effect on a rod cell exposed to this toxin when moved from a dark room into a brightly lit environment?",
+      "options": [
+        "The rod would hyperpolarize excessively.",
+        "cGMP levels would plummet rapidly.",
+        "The sodium channels would close immediately.",
+        "The rod would remain depolarized and continue releasing glutamate.",
+        "Glutamate release would cease entirely."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 65-year-old man with open-angle glaucoma is prescribed a carbonic anhydrase inhibitor. Which of the following best describes the physiological goal of this treatment?",
+      "options": [
+        "To increase the drainage of aqueous humor through the canal of Schlemm.",
+        "To contract the ciliary muscle and improve the lens refractive power.",
+        "To produce miosis and pull the iris away from the filtration angle.",
+        "To increase the osmolarity of the vitreous humor to draw out fluid.",
+        "To decrease the rate of aqueous humor production by the ciliary processes."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "An \"on-center, off-surround\" retinal ganglion cell will exhibit the most profound hyperpolarization (inhibition) under which of the following stimulus conditions?",
+      "options": [
+        "Illuminating the surround portion of its receptive field only.",
+        "Illuminating the center portion of its receptive field only.",
+        "Illuminating both the center and the surround portions equally.",
+        "Moving the cell from a bright light into total darkness.",
+        "Applying a stationary bar of light across the entire receptive field."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A 45-year-old woman is found to have an enlarged pituitary gland on an MRI. If the tumor is large enough to compress the fibers crossing in the middle of the optic chiasm, which of the following visual deficits will she experience?",
+      "options": [
+        "Loss of the left visual field in both eyes.",
+        "Loss of the temporal visual fields in both eyes.",
+        "Loss of the nasal visual fields in both eyes.",
+        "Complete blindness in the eye on the side of the larger tumor.",
+        "Loss of vision in the upper right quadrant of both eyes."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A 10-year-old boy is diagnosed with myopia. He can see his toys clearly at close range, but the writing on the school chalkboard appears blurred. In this condition, where is the image focused relative to the retina, and what type of lens is needed?",
+      "options": [
+        "Behind the retina; convex lens.",
+        "Behind the retina; concave lens.",
+        "In front of the retina; concave lens.",
+        "In front of the retina; convex lens.",
+        "Directly on the retina but with irregular focus; cylindrical lens."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "Humans can perceive the color yellow despite lacking a \"yellow-sensitive\" cone. According to the trichromatic theory, how is the sensation of yellow achieved?",
+      "options": [
+        "By stimulating blue cones to their maximal frequency.",
+        "By the selective inhibition of red and green cones by yellow light.",
+        "By the integration of signals from rods and blue cones.",
+        "By the equal stimulation of red and green cones.",
+        "By the photoisomerization of rhodopsin at a specific wavelength."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "In total darkness, a \"dark current\" exists in the outer segments of photoreceptors. Which of the following sets of conditions characterizes the photoreceptor in this dark state?",
+      "options": [
+        "Low cGMP; closed Na^+ channels; hyperpolarized.",
+        "High cGMP; closed Na^+ channels; depolarized.",
+        "Low cGMP; open Na^+ channels; hyperpolarized.",
+        "High cGMP; closed Na^+ channels; hyperpolarized.",
+        "High cGMP; open Na^+ channels; depolarized."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

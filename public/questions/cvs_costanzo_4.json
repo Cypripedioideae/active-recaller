@@ -1,0 +1,358 @@
+{
+  "id": "cvs-true-false-4",
+  "title": "Cardiovascular physiology 4",
+  "topic": "True-False CVS",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "In the cardiac ventricle, the Phase 1 initial repolarization is caused by a transient outward potassium current and the inactivation of sodium channels.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "The plateau phase (Phase 2) of the ventricular action potential results from an electrical balance where the inward calcium current is equal to the outward potassium current.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "According to hemodynamics, the linear velocity of blood flow is directly proportional to the total cross-sectional area of the vascular segment.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "Activation of the sympathetic nervous system increases the conduction velocity in the atrioventricular (AV) node primarily by increasing the inward calcium current during the action potential upstroke.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "The absolute refractory period (ARP) of a cardiac cell ends when the cell has repolarized to a membrane potential of approximately -50 mV.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "Parasympathetic stimulation of the sinoatrial (SA) node decreases heart rate by increasing the probability that \"funny\" (If) channels are in the open state.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "In vascular smooth muscle, the phosphorylation of myosin light-chain kinase (MLCK) by cAMP-dependent protein kinase results in muscle contraction.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "The Law of Laplace for a sphere indicates that wall stress is inversely proportional to the thickness of the ventricular wall.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "During isovolumetric ventricular contraction, both the atrioventricular valves and the semilunar valves are closed while ventricular pressure rises.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "A positive inotropic effect, such as that produced by digitalis, causes an increase in the ejection fraction and a decrease in the end-systolic volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "The dicrotic notch (incisura) on the aortic pressure curve is caused by the brief retrograde flow of blood toward the heart immediately following aortic valve closure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "In the baroreceptor reflex, a decrease in mean arterial pressure leads to a decrease in the firing rate of the carotid sinus nerve.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "Angiotensin II increases blood pressure by acting as a vasodilator on peripheral arterioles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "An increase in the resistance of the arterioles (TPR) results in a clockwise rotation of the vascular function curve on a cardiac output graph.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "Myocardial oxygen consumption is more significantly increased by \"pressure work\" (internal work against high afterload) than by \"volume work\" (cardiac output).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "In the coronary circulation, the primary mechanism of vasodilation in response to increased myocardial activity is the release of local metabolites such as adenosine.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "The \"central command\" in the response to exercise originates in the motor cortex and initiates sympathetic outflow before any metabolic changes occur in the muscles.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "During acute hemorrhage, the resulting increase in sympathetic activity leads to the constriction of arterioles in the brain and heart to preserve total peripheral resistance.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "The mean systemic filling pressure is an experimental value that represents the pressure in the circulation when the heart is stopped and the blood has redistributed.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "In the kidneys, sympathetic stimulation increases the glomerular filtration rate by dilating the afferent arterioles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "A decrease in arterial compliance, common in elderly patients, results in a decreased pulse pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "In the SA node, Phase 0 is caused by an inward sodium current through fast voltage-gated sodium channels.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "Autoregulation in the cerebral circulation is primarily regulated by the local partial pressure of carbon dioxide (P_(CO2)).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "During exercise, the increase in heart rate and contractility is accompanied by a decrease in venous return due to skeletal muscle relaxation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "The fourth heart sound (S4) is typically heard during the rapid ventricular filling phase of diastole.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "In the heart, the effective refractory period (ERP) is slightly longer than the absolute refractory period (ARP) because it includes the time required to generate a conducted action potential.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "Stimulation of beta-2 adrenergic receptors on skeletal muscle arterioles produces vasoconstriction.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "Edema is more likely to form when there is a decrease in the capillary filtration coefficient (Kf).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "The PR interval on an ECG correlates with the conduction time through the atrioventricular (AV) node.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "Arginine vasopressin (ADH) increases total peripheral resistance by binding to V2 receptors in vascular smooth muscle.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "The Cushing reaction involves systemic hypertension and tachycardia in response to increased intracranial pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "Mean arterial pressure is calculated as the simple arithmetic average of the systolic and diastolic pressures.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "An increase in contractility shifts the cardiac function curve upward and to the left.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "During the \"reduced ventricular ejection\" phase, aortic pressure begins to fall because the rate of blood \"running off\" to the periphery exceeds the rate of ejection.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "The filtration of fluid out of the capillaries is generally higher at the arteriolar end because the capillary hydrostatic pressure is maximal at that point.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "Sympathetic stimulation of the heart increases the rate of Phase 4 depolarization in the SA node by increasing the \"funny\" current (If).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "Phospholamban, when phosphorylated by protein kinase A, increases the activity of the Ca^(2+)-ATPase (SERCA) in the sarcoplasmic reticulum.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "A decrease in blood viscosity, such as in anemia, leads to a decrease in the Reynolds number and a lower probability of turbulent flow.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "In a series arrangement of blood vessels, the total resistance is calculated as the sum of the individual resistances of each segment.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "Left ventricular stroke work is defined as the product of stroke volume and the mean aortic pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "The ejection fraction is calculated as the stroke volume divided by the end-systolic volume.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "Activation of the Bainbridge reflex causes a decrease in heart rate when atrial pressure increases.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "In the fetal circulation, pulmonary blood flow is significantly higher than aortic blood flow.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "Atrial natriuretic peptide (ANP) causes vasodilation and increases sodium excretion by the kidneys, which serves to reduce blood volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "In the Starling equation, a positive value for fluid movement (Jv) indicates that net absorption of fluid into the capillary is occurring.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "The presence of an arteriovenous (AV) shunt or fistula leads to an increase in total peripheral resistance.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "During isovolumetric ventricular relaxation, the ventricular volume remains constant while the ventricular pressure drops below the aortic pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "Most of the total blood volume in the cardiovascular system is found within the systemic arteries at any given time.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "High levels of extracellular potassium (hyperkalemia) can lead to cardiac arrest in diastole by depolarizing the resting membrane potential and inactivating sodium channels.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "The \"v\" wave on a jugular venous pulse tracing corresponds to the period of atrial contraction.",
+      "answer": "false",
+      "explanation": "-"
+    }
+  ]
+}

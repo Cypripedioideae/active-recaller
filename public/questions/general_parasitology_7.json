@@ -1,0 +1,148 @@
+{
+  "id": "general-parasitology-7",
+  "title": "General Parasitology 7",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A symptomatic patient provides a stool sample that reveals large, ovoid trophozoites. The laboratory technician identifies a prominent, kidney-shaped macronucleus within the organism. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Amebiasis",
+        "Balantidiasis",
+        "Cryptosporidiosis",
+        "Cyclosporiasis",
+        "Giardiasis"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 45-year-old hunter presents with high fever, severe myalgias, and periorbital edema two weeks after consuming undercooked bear meat; physical examination also reveals small splinter hemorrhages under his fingernails. Which parasite is the most likely cause?",
+      "options": [
+        "*Ancylostoma duodenale*",
+        "*Fasciola hepatica*",
+        "*Taenia saginata*",
+        "*Toxocara canis*",
+        "*Trichinella spiralis*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A laboratory technician is reviewing a Giemsa-stained peripheral blood smear from a patient who experiences fevers every 72 hours. Which of the following is the characteristic feature of the causative agent?",
+      "options": [
+        "Amoeboid shape with extensive pseudopods",
+        "Appearance of \"band and bar\" forms within erythrocytes",
+        "Presence of multiple ring forms with double chromatin dots",
+        "Reddish-granule stippling throughout the cytoplasm",
+        "Tapered crescent or banana-shaped gametocytes"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A public health official is investigating an outbreak of trichinosis linked to a local farm. Which of the following represents the specific infective stage that humans acquire?",
+      "options": [
+        "Eggs in the striated muscles",
+        "Larva in the gastrointestinal mucosa",
+        "Larva in the feces",
+        "Adults in the feces",
+        "Larva in a nurse cell"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "During the complex life cycle of the *Plasmodium* species, different morphological stages are observed in the human host. Which of the following stages is specifically responsible for the transmission of the parasite from the human host back to the *Anopheles* mosquito vector?",
+      "options": [
+        "Gametocytes",
+        "Hypnozoites",
+        "Merozoites",
+        "Sporozoites",
+        "Trophozoites"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A thin blood film reveals enlarged erythrocytes containing malarial parasites. The laboratory technician notes the presence of numerous small, pink granules throughout the host cell cytoplasm. Which of the following terms correctly identifies these granules?",
+      "options": [
+        "James' dots",
+        "Knobs",
+        "Malarial pigment",
+        "Maurer's dots",
+        "Sch\u00fcffner's dots"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient diagnosed with *Plasmodium vivax* malaria is being evaluated for radical curative therapy to prevent future relapses. Before initiating treatment, a quantitative test for the Glucose-6-Phosphate Dehydrogenase enzyme is required. Which medication is strictly contraindicated if the patient is found to have a severe deficiency of this enzyme?",
+      "options": [
+        "Artesunate",
+        "Chloroquine",
+        "Mefloquine",
+        "Primaquine",
+        "Quinine"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient presents with migratory subcutaneous swellings and a marked peripheral eosinophilia. The clinical history reveals the frequent consumption of a local dish made of raw fermented freshwater fish. Which organism is most likely responsible for this presentation?",
+      "options": [
+        "*Opisthorcis viverrini*",
+        "*Capillaria philippinensis*",
+        "*Fasciolopsis buski*",
+        "*Gnathostoma spinigerum*",
+        "*Strongyloides stercolaris*"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient in a crowded residential facility presents with a high fever and a rash. Epidemiological tracking confirms an outbreak of epidemic typhus caused by *Rickettsia prowazekii*. Which of the following ectoparasites serves as the primary vector for this disease?",
+      "options": [
+        "*Pediculus humanus corporis*",
+        "*Pediculus humanus capitis*",
+        "*Phthirus pubis*",
+        "*Sarcoptes scabiei*",
+        "*Dermacentor* spp."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 35-year-old traveler returns from Southeast Asia with daily spikes of fever and chills. A peripheral blood smear is diagnostic for malaria. Which of the following Plasmodium species is unique for having an asexual erythrocytic cycle that occurs every 24 hours?",
+      "options": [
+        "*Plasmodium falciparum*",
+        "*Plasmodium knowlesi*",
+        "*Plasmodium malariae*",
+        "*Plasmodium ovale*",
+        "*Plasmodium vivax*"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-19",
+  "title": "Renal Comprehensive Set 2: Acid-Base Regulation (MCQ)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which of the following buffer pairs is quantitatively the most important in the extracellular fluid (ECF) and has a pK of 6.1?",
+      "options": [
+        "HPO_4^(2-)/H_2PO^(4-)",
+        "NH_3/NH_4^+",
+        "HCO_3^-/CO_2",
+        "Organic phosphates",
+        "Plasma proteins"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "In which segment of the renal tubule does approximately 85% of filtered bicarbonate reabsorption occur under normal physiological conditions?",
+      "options": [
+        "Thin descending limb",
+        "Proximal tubule",
+        "Thick ascending limb",
+        "Distal convoluted tubule",
+        "Cortical collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Which enzyme is responsible for the reversible hydration of carbon dioxide to carbonic acid within both red blood cells and renal tubular cells?",
+      "options": [
+        "Carbonic anhydrase",
+        "Glutaminase",
+        "Na^+/K^+ ATPase",
+        "Phospholipase C",
+        "Adenylate cyclase"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Which of the following describes the primary mechanism of H^+ secretion by the \u03b1-intercalated cells of the late distal tubule and collecting ducts?",
+      "options": [
+        "Passive diffusion along an established electrochemical gradient",
+        "Na^+-H^+ exchange in the apical membrane",
+        "Facilitated diffusion via specific ligand-gated proton channels",
+        "Primary active transport via H^+ ATPase and H^+/K^+ ATPase",
+        "Secondary active transport coupled to the reabsorption of chloride"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "How does a chronic increase in arterial P_(CO2) affect the renal handling of filtered bicarbonate?",
+      "options": [
+        "Decreases reabsorption by inhibiting the luminal Na^+-H^+ exchanger",
+        "Decreases reabsorption by reducing the availability of intracellular hydrogen ions",
+        "No effect, as bicarbonate reabsorption is independent of carbon dioxide tension",
+        "Increases reabsorption by inhibiting the basolateral Na^+/K^+ ATPase",
+        "Increases reabsorption by increasing the availability of intracellular H^+ for secretion"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Which statement best describes the \"diffusion trapping\" of ammonia in the renal collecting duct during states of acidosis?",
+      "options": [
+        "NH_4^+ diffuses from the renal cell into the lumen and is subsequently converted to NH3",
+        "NH_3 diffuses into the acidic lumen and becomes NH_4^+, which is not lipid-soluble and cannot cross back into the cell",
+        "NH_3 is actively pumped into the lumen by a specific primary active ATPase",
+        "NH_4^+ is filtered at the glomerulus and completely reabsorbed in the proximal tubule",
+        "Both NH_3 and NH_4^+ are freely permeable across all segments of the collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient presents to the emergency department with severe, watery diarrhea and the following arterial blood gas results: pH 7.25, Pa_(CO2) 24 mm Hg, and [HCO3 -] 10 mEq/L. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Metabolic acidosis with respiratory compensation",
+        "Acute respiratory acidosis",
+        "Chronic respiratory alkalosis",
+        "Metabolic alkalosis with respiratory compensation",
+        "Mixed respiratory and metabolic alkalosis"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient experiencing persistent vomiting of gastric contents is evaluated for acid-base status. Which of the following describes the initial renal correction mechanism for this state of metabolic alkalosis?",
+      "options": [
+        "Increased secretion of ammonium (NH4+) to buffer additional acid",
+        "Increased reabsorption of filtered bicarbonate via the proximal tubule",
+        "Decreased urine pH to conserve hydrogen ions in the extracellular fluid",
+        "Increased excretion of bicarbonate due to the filtered load exceeding the renal reabsorptive capacity",
+        "Inhibition of the H^+/K^+ ATPase in the \u03b1-intercalated cells to prevent potassium loss"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 19-year-old man is admitted after ingesting antifreeze. His blood tests reveal: Na^+ 135 mEq/L, Cl^- 100 mEq/L, and [HCO3 -] 5 mEq/L. Which of the following is his calculated anion gap, and what is the associated diagnosis?",
+      "options": [
+        "10 mEq/L; normal anion gap metabolic acidosis",
+        "25 mEq/L; increased anion gap metabolic acidosis",
+        "30 mEq/L; increased anion gap metabolic acidosis",
+        "35 mEq/L; normal anion gap metabolic acidosis",
+        "40 mEq/L; metabolic alkalosis with an osmolar gap"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient is found comatose and presents with an arterial blood sample yielding a pH of 7.12, a Pa_(CO2) of 60 mm Hg, and a plasma [HCO3 -] concentration of 19 mEq/L. Which of the following describes this patient's acid-base status?",
+      "options": [
+        "Simple acute respiratory acidosis",
+        "Simple metabolic acidosis",
+        "Simple chronic respiratory alkalosis",
+        "Mixed metabolic alkalosis and respiratory acidosis",
+        "Mixed respiratory and metabolic acidosis"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

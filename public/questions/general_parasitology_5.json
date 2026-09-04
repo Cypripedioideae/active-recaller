@@ -1,0 +1,148 @@
+{
+  "id": "general-parasitology-5",
+  "title": "General Parasitology 5",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A researcher is studying the life cycle of *Toxoplasma gondii* and notes that while many mammals can serve as hosts, domestic cats are uniquely classified as the definitive host. Which of the following processes occurring in the cat explains this classification?",
+      "options": [
+        "Replication of the parasite within peripheral macrophages",
+        "Ingestion of undercooked meat from infected rodents",
+        "Occurrence of the sexual cycle and production of oocysts",
+        "Maturation of tachyzoites within skeletal muscle cells",
+        "Formation of tissue cysts containing bradyzoites"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "While studying the pathogenesis of various intestinal nematodes, a medical student notes that some species require a heart-lung migration phase to complete their life cycle, often leading to eosinophilia. Which of the following organisms has complete lack of a tissue-invasive or pulmonary migration phase?",
+      "options": [
+        "*Ascaris lumbricoides*",
+        "*Necator americanus*",
+        "*Trichinella spiralis*",
+        "*Enterobius vermicularis*",
+        "*Strongyloides stercoralis*"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 35-year-old male with a history of HIV infection (CD4+ count 120 cells/mm\u00b3) presents with a 3-week history of worsening headache, low-grade fever, and focal neurological deficits. Physical examination reveals confusion and behavioral abnormalities. A lumbar puncture is performed, and the cerebrospinal fluid (CSF) analysis demonstrates mild pleocytosis with a predominance of lymphocytes, a high protein concentration, and a low glucose level. Which of the following findings is most likely to be observed on brain imaging for this patient?",
+      "options": [
+        "Multiple hemorrhagic tracts",
+        "Multiple inflammatory foci",
+        "Cystic structures with central opacities",
+        "Multiple ring-enhancing lesions",
+        "Diffuse cerebral edema with no definite focal lesions"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "During a microscopic stool examination of a patient with bloody diarrhea, a technologist identifies a trophozoite with a single nucleus showing a small central karyosome and fine, evenly distributed peripheral chromatin. The cytoplasm also contains several ingested red blood cells. Which organism has been identified?",
+      "options": [
+        "*Giardia lamblia*",
+        "*Balantidium coli*",
+        "*Trichomonas hominis*",
+        "*Dientamoeba fragilis*",
+        "*Entamoeba histolytica*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient with a protozoal infection is prescribed metronidazole. Which biochemical event must occur within the pathogen for this medication to produce its toxic, DNA-disrupting intermediates?",
+      "options": [
+        "Reductive bioactivation by ferredoxin",
+        "Phosphorylation by parasitic thymidine kinase",
+        "Inhibition of the dihydrofolate reductase enzyme",
+        "Binding to the beta-tubulin subunits",
+        "Acetylation by cytoplasmic transferases"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 24-year-old contact lens wearer presents with severe, progressive eye pain and blurred vision; physical examination reveals a corneal ulcer. Microscopy of a specific specimen shows wrinkled, thick-walled cysts. Which specimen is most appropriate for diagnosing this condition?",
+      "options": [
+        "Aqueous humor aspirate",
+        "Corneal scrapings",
+        "Vitreous humor fluid",
+        "Conjunctival swab",
+        "Nasal mucosa biopsy"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 40-year-old patient is concerned after noticing motile, ribbon-like segments in their stool. Laboratory examination of a recovered segment reveals a gravid proglottid with 22 lateral uterine branches. The patient most likely acquired this infection from consuming which of the following?",
+      "options": [
+        "Raw freshwater fish",
+        "Raw buffalo meat",
+        "Contaminated aquatic plants",
+        "Undercooked pork",
+        "Raw land snails"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 42-year-old patient presents with a two-week history of watery diarrhea, fever, and significant weight loss. Stool microscopy reveals spherical, unsporulated oocysts measuring approximately 8-10 \u00b5m in diameter. These oocysts contain refractive greenish granules and exhibit bright blue autofluorescence when viewed under ultraviolet light microscopy. A modified acid-fast stain demonstrates variable staining against the blue background. Which of the following medications is the drug of choice for treating this infection?",
+      "options": [
+        "Nitazoxanide",
+        "Praziquantel",
+        "Metronidazole",
+        "Albendazole",
+        "Co-trimoxazole"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient with giardiasis presents with steatorrhea and evidence of vitamin B12 malabsorption. Which mechanism primarily explains how *Giardia lamblia* interferes with fat absorption in the small intestine?",
+      "options": [
+        "Secretion of a specialized protease that degrades pancreatic lipase in the duodenal lumen",
+        "Physical obstruction of the biliary tree by the aggregation of trophozoites, preventing bile flow",
+        "Induction of mucosal apoptosis that selectively removes the microvilli responsible for lipid uptake",
+        "Use of a ventral sucking disc for attachment to the mucosa and the direct absorption of bile salts",
+        "Invasion of colonic enterocytes causing extensive cell death and ulceration"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 46-year-old man receiving long-term corticosteroid therapy develops sudden onset of cough, dyspnea, and abdominal pain. Chest radiography shows new bilateral pulmonary infiltrates. An aspirate of endotracheal secretions is collected, and microscopic examination reveals numerous motile larvae with a notched tail. Blood cultures are positive for *Escherichia coli*. Which of the following describes the mechanism primarily responsible for the intensification of the parasite's life cycle and the secondary bacteremia in this patient?",
+      "options": [
+        "Maturation of rhabditiform larvae into filariform larvae in the external environment followed by skin penetration",
+        "Internal transformation of rhabditiform larvae into infectious filariform larvae that penetrate the intestinal wall",
+        "Direct production of filariform larvae by adult worms within the pulmonary alveoli",
+        "Retrograde migration of mature adult worms from the jejunal mucosa into the pulmonary circulation",
+        "Hematogenous dissemination of adult female worms from the small intestine to distal organ systems"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

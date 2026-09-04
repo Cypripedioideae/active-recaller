@@ -1,0 +1,218 @@
+{
+  "id": "general-bacteriology-3",
+  "title": "General Bacteriology 3",
+  "topic": "General Bacteriology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A patient develops a persistent low-grade fever following a prosthetic heart valve replacement. Laboratory cultures of the blood grow Gram-positive cocci in clusters. The organism is found to be catalase-positive and coagulase-negative. Which characteristic is the primary mechanism for bacterial persistence on prosthetic devices?",
+      "options": [
+        "Production of a thick hyaluronic acid capsule",
+        "Development of a mature biofilm community",
+        "Ability to form highly tolerant endospores",
+        "Presence of mycolic acid in the cell wall",
+        "Secretion of heat-stable enterotoxins"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 2-day-old neonate is diagnosed with sepsis. The isolated pathogen is a beta-hemolytic, catalase-negative, Gram-positive coccus that is bacitracin disk negative. The laboratory reports a positive CAMP test for this organism. What phenomenon is being observed in this diagnostic test?",
+      "options": [
+        "Synergistic hemolysis with *Staphylococcus aureus*",
+        "Positive pyrrolidonyl arylamidase (PYR) reaction",
+        "Partial oxidation of hemoglobin by hydrogen peroxide",
+        "Sensitivity to optochin and solubility in bile",
+        "Production of cAMP to promote partial hemolysis"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A neonate born prematurely presents with symptoms of a systemic congenital infection. The mother reported a febrile illness after consuming refrigerated soft cheese during pregnancy. The isolated pathogen is a Gram-positive small bacillus. Which mechanism allows this organism to survive intracellularly by escaping the host cell vacuole?",
+      "options": [
+        "Production of phospholipase C",
+        "Inhibition of phagosome-lysosome fusion",
+        "Sequestration of metal ions via siderophores",
+        "Production of phospholipase A_2",
+        "Cleavage of sIgA1 antibodies on mucosal surfaces"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient presents with a severe sore throat and a thick greyish patch over the tonsils and pharynx. The causative agent is identified as toxigenic *Corynebacterium diphtheriae*. What is mechanism of action of the toxin produced by this bacteria?",
+      "options": [
+        "Inactivation of 60S ribosomal subunit",
+        "Mimics adenylate cyclase to increase intracellular cAMP level",
+        "Inactivation of elongation factor (EF-2)",
+        "Acts as phospholipase to degrade tissue and cell membranes",
+        "Inactivation of oxidative phosphorylation to cause cell death"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient presents with a rapidly progressing skin infection characterized by gas production in the tissues following a traumatic wound. The laboratory isolates a Gram-positive large bacillus. According to the source material, which offensive virulence factor is primarily associated with this condition?",
+      "options": [
+        "Exfoliative toxin",
+        "TSST-1",
+        "Alpha toxin",
+        "Edema factor",
+        "Tetanus toxin"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient travels to a region with poor sanitation and develops a gastrointestinal infection after consuming contaminated poultry. The documents state that the transmission of the isolated pathogen, *Campylobacter* spp., is facilitated by which specific host condition?",
+      "options": [
+        "High levels of iron-sequestering transferrin",
+        "Reduced or neutralized secretion of gastric acid",
+        "Accelerated ciliary action in the respiratory tract",
+        "Overgrowth of normal colonic microbiota",
+        "Increased production of IgA on mucosal surfaces"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient is being treated for an infection caused by Vancomycin-Resistant Enterococci (VRE). What is the primary target that vancomycin binds to in susceptible cells to inhibit cell wall synthesis?",
+      "options": [
+        "D-Ala-D-Ala terminal of peptidoglycan precursors",
+        "Penicillin-binding proteins (PBPs)",
+        "DNA gyrase enzymes",
+        "Lipooligosaccharide (LOS) in the outer membrane",
+        "60S ribosomal subunits"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 26-year-old female presents to the emergency department with a 3-day history of fever, migratory joint pain, and a sparse pustular rash on an erythematous base located on her extremities. Physical examination reveals suppurative arthritis of the right wrist. Although the clinician suspects a disseminated infection, Gram stains and cultures of the blood, skin lesions, and synovial fluid remain negative. Based on documented clinical cases of this condition, which site is most likely to yield a positive culture for the causative pathogen?",
+      "options": [
+        "Exudate from the skin pustules",
+        "Synovial fluid",
+        "Blood specimens",
+        "Endocervical swab",
+        "Cerebrospinal fluid"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with typhoid fever caused by *Salmonella Typhi*. Which anatomical site is involved in the cycle of re-exposure and potential chronic carriage?",
+      "options": [
+        "Alveolar macrophages",
+        "Proximal convoluted tubule",
+        "Gallbladder",
+        "Appendix",
+        "Trigeminial ganglion"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A laboratory isolates *Staphylococcus aureus* from a skin abscess. Which defensive virulence factor produced by this organism is described as having a strong affinity for the Fc region of antibodies to interfere with opsonization and phagocytosis?",
+      "options": [
+        "Protein A",
+        "M protein",
+        "TSST-1",
+        "Teichoic acid",
+        "Alpha toxin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A 6-month-old infant is scheduled to receive a vaccine to prevent systemic infections caused by *Haemophilus influenzae* type b (Hib). Which bacterial component is used in the Hib vaccine?",
+      "options": [
+        "Lipooligosaccharide (LOS)",
+        "Polyribitol phosphate (PRP) capsule",
+        "Factor V (NAD)",
+        "P1 adhesin",
+        "Tracheal cytotoxin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A patient with cystic fibrosis develops a chronic lung infection with *Pseudomonas aeruginosa*. The laboratory notes that the isolated colonies have a mucoid phenotype. Which specific virulence factor is responsible for this appearance and facilitates the development of biofilms?",
+      "options": [
+        "Lipid A",
+        "Pyomelanin pigment",
+        "Pyocyanin pigment",
+        "Exotoxin A (ETA)",
+        "Alginate"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A child presents with bloody diarrhea. The causative agent is an invasive Gram-negative rod that enters the host through M cells and spreads to neighboring colonic enterocytes. Which mechanism is used by this causative agent to facilitate this entry and intracellular movement?",
+      "options": [
+        "Production of a thick hyaluronic acid capsule",
+        "Cleavage of sIgA1 antibodies",
+        "Neutralization of gastric acid via urease",
+        "Attachment via filamentous hemagglutinin",
+        "Type III secretion system (T3SS)"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "*Bacillus anthracis* produces a tripartite exotoxin consisting of protective antigen, lethal factor, and edema factor. The edema toxin (protective antigen combined with edema factor) is responsible for the significant fluid accumulation and edematous borders seen in cutaneous anthrax. What is the biochemical mechanism of the edema factor component?",
+      "options": [
+        "Protease activity that stimulates the release of proinflammatory cytokines",
+        "Inactivation of elongation factor EF-2 via ADP ribosylation",
+        "Functioning as an adenylate cyclase to increase intracellular cAMP",
+        "Cleavage of SNARE proteins to inhibit neurotransmitter release",
+        "Lecithinase activity that degrades host cell membranes"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "A laboratory testing was conducted on bacteria isolated from a patient with diarrhea. The current results are: oxidase-negative, glucose fermenter, non-lactose fermenter. What is the next diagnostic method that would be the most useful in identifying the organism?",
+      "options": [
+        "Indole production test",
+        "Growth at 42\u00b0C",
+        "Growth in 6.5% NaCl",
+        "Culture on Hektoen Enteric Agar",
+        "Culture on Eosin Methylene Blue Agar"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

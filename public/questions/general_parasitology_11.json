@@ -1,0 +1,134 @@
+{
+  "id": "general-parasitology-11",
+  "title": "General Parasitology 11",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A traveler presenting with a localized \"oriental sore\" at the site of an insect bite is diagnosed with cutaneous leishmaniasis. Which of the following is the mandatory biological vector responsible for the transmission of the infective promastigotes to this patient?",
+      "options": [
+        "Aedes mosquito",
+        "Anopheles mosquito",
+        "Chrysops deerfly",
+        "Phlebotomus sandfly",
+        "Simulium blackfly"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A patient with lymphatic filariasis is treated with doxycycline. Which of the following best explains the biological rationale for using this antibiotic to manage filarial nematode infections?",
+      "options": [
+        "Direct inhibition of the adult worm's glucose uptake",
+        "Disruption of the helminthic microtubule polymerization",
+        "Elimination of endosymbiotic Wolbachia bacteria",
+        "Induction of immediate paralysis in the microfilariae",
+        "Prevention of larval penetration into host lymphatics"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 28-year-old woman develops violent upper abdominal pain and vomiting approximately four hours after consuming a meal of raw saltwater fish (sashimi). An upper endoscopy is performed to visualize the gastric mucosa. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Anisakiasis",
+        "Ascariasis",
+        "Capillariasis",
+        "Clonorchiasis",
+        "Diphyllobothriasis"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient who previously recovered from a mild febrile illness caused by one serotype of Dengue virus is later infected with a different serotype. Which of the following clinical outcomes is this patient at significantly increased risk for developing due to the prior exposure?",
+      "options": [
+        "Chronic asymptomatic carriage in the gallbladder",
+        "Congenital microcephaly in future offspring",
+        "Development of a solitary pulmonary nodule",
+        "Progressive demyelinating meningoencephalitis",
+        "Severe plasma leakage and hemorrhagic fever"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 7-year-old child is diagnosed with Hymenolepis nana infection. Which characteristic of this parasite's life cycle makes it unique among medically important cestodes?",
+      "options": [
+        "It requires a large freshwater fish as a second intermediate host",
+        "It can complete its entire lifecycle within a single human host",
+        "It utilizes the pig as the mandatory definitive host for maturation",
+        "Its eggs must be ingested by a copepod to become infectious",
+        "It undergoes an obligate heart-lung migration phase in humans"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A laboratory technician is reviewing a blood smear from a patient who experiences cyclical fevers every 72 hours (quartan malaria). The technician identifies a schizont containing approximately eight merozoites arranged in a \"rosette-like\" configuration. Which species is most likely responsible?",
+      "options": [
+        "Plasmodium falciparum",
+        "Plasmodium knowlesi",
+        "Plasmodium malariae",
+        "Plasmodium ovale",
+        "Plasmodium vivax"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient presents with intense nocturnal pruritus and characteristic linear tracks (burrows) in the interdigital webs of the hands. Microscopic examination of skin scrapings confirms the presence of eight-legged mites. Which of the following is the most appropriate initial management?",
+      "options": [
+        "Application of topical sulfur ointment",
+        "Oral administration of diethylcarbamazine",
+        "Parenteral administration of Vitamin B12",
+        "Surgical excision of subcutaneous nodules",
+        "Treatment with a single dose of praziquantel"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A researcher is mapping the geographic distribution of the sandfly vector to identify regions at risk for a specific parasitic disease. Which of the following clinical manifestations is the primary hallmark of the cutaneous form of this infection?",
+      "options": [
+        "\"Calabar\" swellings on the extremities",
+        "\"Hanging groin\" with depigmentation",
+        "\"Oriental sore\" at the site of the bite",
+        "\"Strawberry cervix\" with punctate hemorrhage",
+        "Serpiginous, pruritic \"creeping eruption\""
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Trichomonas vaginalis is characterized as an obligate parasite that exists only in the trophozoite stage. Which of the following best explains how this lack of a resistant cyst stage dictates its mode of transmission?",
+      "options": [
+        "It must be transmitted via the bite of an arthropod vector",
+        "It requires a period of maturation in soil to become infectious",
+        "It can only be acquired through the ingestion of undercooked meat",
+        "It necessitates direct sexual contact for survival and spread",
+        "It relies on the ingestion of contaminated stagnant water"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

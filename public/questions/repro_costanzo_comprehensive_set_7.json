@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-repro-review-7",
+  "title": "Reproductive Comprehensive Set 1: Menstrual Cycle (Short Answer)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Identify the two main phases of the 28-day menstrual cycle and specify which one is constant in duration and which one is variable.",
+      "modelAnswer": "Follicular phase (variable) and Luteal phase (constant at 14 days).",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "What is the average duration of the follicular phase in a standard 28-day cycle, and what is its alternative name based on endometrial activity?",
+      "modelAnswer": "14 days; Proliferative phase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Which hormone is primarily responsible for the proliferation of the endometrial lining, and which ovarian cells are its primary source?",
+      "modelAnswer": "17\u03b2-estradiol (estrogen); Granulosa cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Describe the specific pattern of GnRH secretion required to drive the menstrual cycle and the consequence of switching to a continuous infusion.",
+      "modelAnswer": "Pulsatile secretion; continuous secretion down-regulates receptors and inhibits FSH/LH secretion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "By what day of the cycle is a single \"dominant\" follicle typically selected for ovulation?",
+      "modelAnswer": "Days 5-7.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Explain the \"positive feedback\" event that occurs at mid-cycle. Which hormone triggers it, and what specific threshold must be met?",
+      "modelAnswer": "High levels of estradiol (at least 200 pg/mL) trigger the LH surge via positive feedback on the anterior pituitary.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "What are the two primary actions of the LH surge on the follicle and the oocyte?",
+      "modelAnswer": "Rupture of the dominant follicle (ovulation) and completion of the first meiotic division of the oocyte.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Describe the characteristics of cervical mucus during the late follicular phase. What is \"ferning\" and what is its physiologic purpose?",
+      "modelAnswer": "Watery, copious, and elastic; \"ferning\" refers to the salt crystallization pattern that indicates channels for sperm penetration.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "What is the alternative name for the luteal phase, and which steroid hormone is its dominant secretory product?",
+      "modelAnswer": "Secretory phase; Progesterone.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Identify the endocrine structure formed from the ruptured follicle after ovulation and name the pituitary hormone that maintains it during the luteal phase.",
+      "modelAnswer": "Corpus luteum; Luteinizing Hormone (LH).",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "How does progesterone affect the hypothalamic thermoregulatory center, and how is this used to retrospectively identify ovulation?",
+      "modelAnswer": "It increases the hypothalamic set-point temperature, leading to a rise in basal body temperature.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Describe the effect of progesterone on the consistency of cervical mucus and its penetrability by sperm.",
+      "modelAnswer": "It becomes thick, non-elastic, and less abundant, making it impenetrable to sperm.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "What specific vascular and glandular changes occur in the endometrium during the secretory phase to prepare for a fertilized egg?",
+      "modelAnswer": "Uterine glands become tortuous and accumulate glycogen; spiral arteries elongate and become coiled; stroma becomes edematous.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Explain the mechanism of \"menses.\" What hormonal event triggers the sloughing of the functional layer of the endometrium?",
+      "modelAnswer": "Regression of the corpus luteum leads to an abrupt decrease in estradiol and progesterone levels.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "During the luteal phase, which two hormones exert negative feedback on the anterior pituitary to suppress the development of a new cohort of follicles?",
+      "modelAnswer": "Progesterone and Estrogen.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "What happens to the corpus luteum if fertilization does not occur, and what is the name of the resulting scar tissue?",
+      "modelAnswer": "It regresses (involutes) and becomes the corpus albicans.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "According to the \"two-cell theory,\" which hormone stimulates theca cells to produce androgens, and which hormone stimulates granulosa cells to convert those androgens to estradiol?",
+      "modelAnswer": "LH stimulates theca cells; FSH stimulates granulosa cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "Which non-steroidal hormone is produced by granulosa cells and provides negative feedback specifically to inhibit FSH secretion?",
+      "modelAnswer": "Inhibin.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "If a woman has a 35-day cycle, on approximately which day would ovulation occur?",
+      "modelAnswer": "Day 21 (14 days before the next menses).",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Describe the state of the spiral arteries just before the onset of menstrual bleeding.",
+      "modelAnswer": "They undergo intense vasoconstriction, leading to ischemic necrosis of the endometrium.",
+      "explanation": "-"
+    }
+  ]
+}

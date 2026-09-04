@@ -1,0 +1,358 @@
+{
+  "id": "neuro-true-false-8",
+  "title": "Neurophysiology 6",
+  "topic": "True-False Neuro",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "If a neuronal axon's diameter is doubled, the internal resistance (R_i) decreases by a factor of four, causing the length constant (\u03bb) to double and significantly increasing the conduction velocity.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "In the state of hyperkalemia, muscle weakness is primarily due to the fact that sustained depolarization keeps the h-gates (inactivation gates) of voltage-gated sodium channels closed, preventing the initiation of new action potentials.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "During the process of temporal summation, multiple different presynaptic neurons fire simultaneously to bring the postsynaptic membrane potential to threshold.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "A complete lesion of the left optic radiation (geniculocalcarine tract) results in a right homonymous hemianopia, but the visual field corresponding to the macula is typically preserved.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "The middle ear bones increase the pressure of sound waves by approximately 20-fold primarily through the area ratio between the tympanic membrane and the oval window.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "Upon exposure to light, rod photoreceptors hyperpolarize because activated transducin stimulates phosphodiesterase to increase the intracellular concentration of cGMP, which then closes sodium channels.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "When the head is rotated to the right at a constant velocity for 30 seconds, the endolymph in the horizontal semicircular canals eventually moves at the same speed as the head, causing the hair cells to return to their resting potential.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "If alpha-motoneurons are activated without concurrent gamma-motoneuron stimulation, the muscle spindle will become slack during contraction, leading to a cessation of Ia afferent firing and a loss of length-sensing capability.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "The Golgi tendon reflex is a disynaptic arc where Ib afferent fibers activate inhibitory interneurons, which then produce an inhibitory postsynaptic potential (IPSP) on the homonymous alpha-motoneuron.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "In the basal ganglia, dopamine released from the substantia nigra pars compacta acts on D2 receptors in the striatum to stimulate the indirect pathway, which ultimately increases the excitatory output of the thalamus to the motor cortex.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "The EEG of an adult in deep sleep (Stage 4) is characterized by delta waves, which are high-amplitude, low-frequency electrical oscillations.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "The blood-brain barrier is significantly more permeable to lipid-soluble substances like oxygen and carbon dioxide than to small, highly charged ions such as hydrogen (H+ ).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "Synaptic fatigue during high-frequency stimulation is primarily an electrical phenomenon where the postsynaptic membrane potential is held so long in a depolarized state that it becomes refractory.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "According to the \"labeled line\" principle, the modality of a sensation is determined by the specific pathway activated, and the intensity is encoded linearly by the amplitude of the action potentials.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "Stimulation of \u03b22 -adrenergic receptors on the arterioles of skeletal muscle causes vasodilation, which increases blood flow during the \"fight or flight\" response.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "Purkinje cells of the cerebellum are the only output cells of the cerebellar cortex and utilize the neurotransmitter glutamate to provide excitatory input to the deep cerebellar nuclei.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "During Rapid Eye Movement (REM) sleep, brain oxygen consumption and metabolism are actually higher than during alert wakefulness, despite the presence of skeletal muscle atonia.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "A patient with Broca's aphasia can understand spoken and written language perfectly but is unable to produce fluent, articulated speech.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "If the membrane resistance (Rm) of a fiber increases while the internal resistance (Ri ) stays the same, the length constant (\u03bb) will increase, allowing local currents to spread further along the membrane.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "GABA and glycine increase the excitability of the postsynaptic neuron by opening ligand-gated channels that allow for an influx of potassium ions.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "Autonomic \"tone\" in the systemic arterioles is maintained by the parasympathetic nervous system, such that decreasing parasympathetic activity leads to vasodilation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "High-frequency sound waves cause the maximum displacement of the basilar membrane near the base of the cochlea, where the membrane is narrowest and stiffest.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "Post-tetanic potentiation occurs because a brief period of high-frequency stimulation leads to a persistent accumulation of calcium in the presynaptic terminal, increasing subsequent neurotransmitter release.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "In the anterolateral system, the second-order neurons originate in the dorsal horn and cross the midline within the spinal cord before ascending to the thalamus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "Mitral cells in the olfactory bulb serve as second-order neurons and receive converging input from approximately 1,000 primary olfactory receptor axons within structures called glomeruli.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "In smooth muscle, the \"latch-bridge\" state allows for the maintenance of high force with low energy consumption because dephosphorylated myosin detaches from actin very slowly.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "The absolute refractory period of a cardiac action potential is longer than that of a skeletal muscle action potential because of the prolonged inward calcium current during the plateau phase.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "Arterial baroreceptors are tonically active at normal mean arterial pressures, but they can \"reset\" to a higher firing threshold in patients with chronic hypertension.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "Hypocalcemia increases neuronal excitability by shifting the threshold potential closer to the resting membrane potential, making it easier for sodium channels to open.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "The NMDA subtype of glutamate receptors is unique because it is both ligand-gated and voltage-dependent, requiring depolarization to expel a magnesium ion that blocks the channel.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "Neostigmine Alleviates symptoms of myasthenia gravis by irreversibly binding to nicotinic receptors to mimic the action of acetylcholine.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "The Pacinian corpuscle is a rapidly adapting (phasic) receptor that primarily encodes the onset and offset of a mechanical stimulus, such as vibration.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "A positive Babinski sign in an adult is a physiological confirmation that the lower motor neurons are functioning correctly despite an upper motor neuron lesion.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "Mossy fibers and climbing fibers provide the primary excitatory inputs to the cerebellar cortex, both of which also send collateral branches to the deep cerebellar nuclei.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "The synthesis of melatonin in the pineal gland is highest during daylight hours and is regulated by the retino-hypothalamic pathway.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "Damage to the arcuate fasciculus results in \"conduction aphasia,\" where the patient has difficulty repeating heard words despite intact comprehension and production.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "Somatosensory information from the face is relayed to the primary sensory cortex via the ventral posterolateral (VPL) nucleus of the thalamus.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "Horner's syndrome, characterized by miosis, ptosis, and anhidrosis, is the result of damage to the sympathetic pathway serving the head and neck.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "Renshaw cells are inhibitory interneurons in the spinal cord that are activated by motor neuron collaterals and provide recurrent inhibition to the same motor neurons.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "The Cushing reaction is an emergency response to increased intracranial pressure that involves systemic hypotension and reflex tachycardia.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "Hair cells in the macula of the saccule are oriented such that they are maximally sensitive to linear acceleration in the vertical plane.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "According to the trichromatic theory, the perception of yellow light results from the equal and simultaneous stimulation of red and green cones with no activation of blue cones.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "Tonic receptors are slowly adapting and provide information about the duration and intensity of a stimulus, whereas phasic receptors encode the rate of change.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "Following an extrasystole, the next ventricular contraction is stronger because \"extra\" calcium entered the cell during the anomalous beat and was stored in the sarcoplasmic reticulum.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "The high metabolic rate of the brain is primarily due to the metabolic activity of neurons, even when the body is at rest.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "The concentration of glucose in the cerebrospinal fluid is normally about 30% lower than its concentration in the blood plasma.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "A complete hemisection of the spinal cord (Brown-S\u00e9quard syndrome) results in ipsilateral loss of proprioception and contralateral loss of pain sensation below the level of the lesion.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "In the autonomic nervous system, the pre-ganglionic fibers are typically unmyelinated Type C fibers, while the post-ganglionic fibers are myelinated Type B fibers.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "Visual information from the nasal half of the retina (which sees the temporal visual field) decussates at the optic chiasm to project to the contralateral lateral geniculate nucleus.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "Small motoneurons are recruited before large motoneurons because they have smaller surface areas, resulting in higher input resistance and larger changes in membrane potential for a given excitatory current.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

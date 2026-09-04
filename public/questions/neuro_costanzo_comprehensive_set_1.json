@@ -1,0 +1,190 @@
+{
+  "id": "comprehensive-neuro-review-1",
+  "title": "Comprehensive Neuro Set 1: Membrane Physiology (Short Answer)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Within the cell membrane's lipid bilayer, which specific portion of the phospholipid molecule is hydrophobic?",
+      "modelAnswer": "The fatty acid tails.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "What term is used to describe molecules, such as phospholipids, that possess both hydrophilic and hydrophobic properties?",
+      "modelAnswer": "Amphipathic.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "How are integral membrane proteins distinguished from peripheral membrane proteins in terms of their attachment to the lipid bilayer?",
+      "modelAnswer": "Integral proteins are embedded in and anchored to the membrane by hydrophobic interactions, while peripheral proteins are loosely attached via electrostatic interactions.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Which specific form of membrane transport is characterized as being the only form that is not carrier-mediated?",
+      "modelAnswer": "Simple diffusion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "According to Fick's law, what is the relationship between the thickness of a membrane and the rate of net diffusion?",
+      "modelAnswer": "The rate of diffusion is inversely proportional to membrane thickness.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "What is the direct energy source required for all primary active transport processes?",
+      "modelAnswer": "Adenosine triphosphate (ATP).",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "What is the standard stoichiometry of the Na^+/K^+ ATPase pump regarding the number of ions moved into and out of the cell?",
+      "modelAnswer": "Three Na^+ ions are pumped out of the cell for every two K^+ ions pumped in.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Why is the Na^+/K^+ ATPase transport process categorized as electrogenic?",
+      "modelAnswer": "It creates a charge separation because more positive charge is pumped out of the cell than is pumped into the cell.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "How does the administration of cardiac glycosides like ouabain affect the intracellular concentration of sodium?",
+      "modelAnswer": "It causes the intracellular Na^+ concentration to increase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "What specific electrical value does the Nernst equation calculate for a given permeable ion?",
+      "modelAnswer": "The equilibrium potential.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "At rest, which ion has the highest membrane conductance, thereby acting as the primary determinant of the resting membrane potential?",
+      "modelAnswer": "Potassium (K^+).",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Define \"depolarization\" in the context of a cell's membrane potential?",
+      "modelAnswer": "It is the process of making the membrane potential less negative.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "What is the definition of \"threshold potential\" in an excitable cell?",
+      "modelAnswer": "It is the membrane potential at which the occurrence of an action potential is inevitable.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "The rapid upstroke of the nerve action potential is caused by a transient increase in the conductance of which ion?",
+      "modelAnswer": "Sodium (Na^+).",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "In the \"closed, but available\" state of a nerve Na^+ channel, what are the respective positions of the activation and inactivation gates?",
+      "modelAnswer": "The activation gate is closed and the inactivation gate is open.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Which specific gate of the voltage-gated Na^+ channel closes in response to depolarization, but with a slower time delay than the opening of the activation gate?",
+      "modelAnswer": "The inactivation gate.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Which ion's increased conductance is responsible for the repolarization phase of the action potential?",
+      "modelAnswer": "Potassium (K^+).",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "What is the physiological basis for the hyperpolarizing afterpotential (undershoot)?",
+      "modelAnswer": "K^+ conductance remains higher than at rest for a brief period, driving the membrane potential closer to the K^+ equilibrium potential.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Why is it impossible to elicit a second action potential during the absolute refractory period?",
+      "modelAnswer": "The inactivation gates of the Na^+ channels are closed and remain closed until the cell repolarizes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "What membrane property is responsible for the relative refractory period?",
+      "modelAnswer": "A higher K^+ conductance than is present at rest.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "What term describes the process where a cell is depolarized so slowly that the inactivation gates of the Na^+ channels close before an action potential can fire?",
+      "modelAnswer": "Accommodation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "How does an increase in nerve fiber diameter influence internal resistance and the resulting conduction velocity?",
+      "modelAnswer": "Increasing diameter decreases internal resistance, which increases the length constant and conduction velocity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "How does myelination affect membrane resistance and membrane capacitance to increase conduction velocity?",
+      "modelAnswer": "Myelination increases membrane resistance and decreases membrane capacitance.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "What is the term for the mechanism of action potential propagation in myelinated nerves where the impulse \"jumps\" between nodes of Ranvier?",
+      "modelAnswer": "Saltatory conduction.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Define the \"length constant\" (\u03bb) in terms of the distance a current spreads along an axon?",
+      "modelAnswer": "It is the distance from the site of current injection where the potential has fallen to 37% of its original value.",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "short_answer",
+      "prompt": "Define the \"time constant\" (\u03c4) of a cell membrane and name the two factors that determine it?",
+      "modelAnswer": "It is the amount of time it takes for a potential change to reach 63% of its final value; it is determined by membrane resistance and membrane capacitance.",
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "id": "rs-true-false-3",
+  "title": "Respiratory Physiology 3",
+  "topic": "True-False RS",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "Under standard atmospheric conditions at 37\u00b0C, the water vapour pressure in the alveoli remains constant at 47 mmHg, regardless of variations in barometric pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "The total work of breathing is mathematically minimized when a subject maintains a normal respiratory frequency rather than adopting extremely rapid or extremely slow breathing patterns.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "In a patient with a localized pulmonary embolism, the alveolar P_(O2) in the non-perfused lung units will approach approximately 150 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "The carotid bodies are the only peripheral chemoreceptors capable of producing a significant ventilatory response to changes in arterial pH that are independent of P_(CO2).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "A significant decrease in blood temperature causes the oxyhemoglobin dissociation curve to shift to the right, thereby increasing the P_(50) and facilitating oxygen unloading.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "The \"elastic work\" component of breathing refers specifically to the energy expended to overcome the frictional resistance of the moving air within the tracheobronchial tree.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "Anatomic dead space in a healthy adult can be estimated as approximately 2 mL per kilogram of ideal body weight.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "The ventral respiratory group (expiratory center) in the medulla provides the primary rhythmic drive for inspiration during normal, quiet breathing.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "According to Laplace's Law, in the absence of pulmonary surfactant, the collapsing pressure of an alveolus decreases as its radius becomes smaller.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "If an individual at sea level inspires a dry gas mixture containing 10% oxygen, the resulting partial pressure of inspired oxygen (PI_(O2)) in the trachea is approximately 76 mmHg.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "In patients with interstitial pulmonary fibrosis, the alveolar-arterial (A-a) P_(O2) gradient is widened due to an increase in the thickness of the diffusion barrier.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "The \"closing volume\" is defined as the lung volume at which the small airways in the dependent (basal) regions of the lung begin to collapse during a forced expiration.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "Methacholine is a pharmacological agent used in challenge tests to confirm an asthma diagnosis by inducing significant bronchodilation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "Oxygen transfer is considered \"perfusion-limited\" if the partial pressure of oxygen in the pulmonary capillary reaches equilibrium with the alveolar gas before the blood completes its transit.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "During a forced expiration, if the intrapleural pressure rises to +20 cm H_2O while the pressure inside a large airway is +15 cm H_2O, the resulting transmural pressure acts as an expanding force to keep the airway open.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "The respiratory exchange ratio (R) typically decreases from 1.0 toward 0.7 when an individual shifts their primary metabolic substrate from carbohydrates to fatty acids.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "Peripheral chemoreceptors are stimulated by a reduction in total blood oxygen content, such as in carbon monoxide poisoning, even if the arterial P_(O2) remains at 100 mmHg.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "The total compliance of the respiratory system (lung and chest wall combined) is calculated by adding the individual compliance values of the lung and the chest wall.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "A patient suffering from chronic renal failure and metabolic acidosis will typically exhibit a decrease in arterial P_(CO2) as a compensatory respiratory mechanism.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "In a state of severe metabolic alkalosis, the homeostatic respiratory compensation involves an increase in alveolar ventilation to lower the Pa_(CO2).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "Irritant receptors in the lung are classified as rapidly adapting receptors (RARs) that relay signals to the medullary centers via the vagus nerve.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "Fetal hemoglobin (HbF) is characterized by a lower P_(50) value compared to adult hemoglobin (HbA), reflecting its higher affinity for oxygen.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "Perfusion-limited gas exchange implies that net gas transfer can only be increased by increasing the rate of pulmonary blood flow.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "For a person breathing 100% oxygen at sea level with a Pa_(CO2) of 40 mmHg and R=0.8, the calculated alveolar P_(O2) is approximately 673 mmHg.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "According to the Fick principle, if an individual's cardiac output doubles while their total oxygen consumption remains constant, the systemic arteriovenous (a-v) oxygen content difference must be reduced by half.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "The Hering-Breuer deflation reflex is mediated by J-receptors and functions to inhibit the expiratory center to immediately initiate a new inspiratory cycle.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "Carbon monoxide poisoning results in a \"cherry-red\" skin discoloration because the binding of CO to hemoglobin increases the affinity of the remaining sites for oxygen, preventing desaturation.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "The total carbon dioxide content in the blood of a healthy individual (~50 mL/dL) is quantitatively less than the total oxygen content in arterial blood (~20 mL/dL).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "In a patient with severe kyphoscoliosis, the decrease in chest wall compliance results in a restrictive pattern characterized by a reduced vital capacity and total lung capacity.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "A rightward shift of the oxyhemoglobin dissociation curve increases the P_(50), which facilitates oxygen unloading in the tissues but may slightly impair oxygen loading in the lungs.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "The term \"anatomic dead space\" refers specifically to the volume of gas in the respiratory zone alveoli that does not participate in gas exchange.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "At the end of a normal tidal expiration (at FRC), the intra-alveolar pressure is exactly equal to the atmospheric pressure (0 cm H_2O).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "Lung compliance is highest at very high lung volumes near Total Lung Capacity (TLC) because the lung tissues are fully expanded and distensible.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "If a person has a Pa_(O2) of 60 mmHg, the concentration of oxygen physically dissolved in their arterial plasma is approximately 0.18 mL O2 per 100 mL of blood.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "In chronic obstructive pulmonary disease (COPD), the combination of hypercapnia and hypoxemia can lead to hypoxic pulmonary vasoconstriction and the development of cor pulmonale.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "Acetazolamide is used in the management of high-altitude sickness because it inhibits carbonic anhydrase, leading to the renal excretion of bicarbonate and a metabolic acidosis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "Peripheral chemoreceptors are the primary sensory mechanism responsible for the immediate and massive increase in ventilation observed at the onset of moderate exercise.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "Carbon dioxide transport results in a decrease in blood pH because the hydration of CO2 produces carbonic acid, which dissociates into hydrogen ions and bicarbonate.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "Performing the Valsalva maneuver (forced expiration against a closed glottis) leads to a significant increase in intrathoracic pressure, which acutely reduces venous return to the heart.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "In patients with a diffusion-limited impairment (e.g., pulmonary fibrosis), hypoxemia is typically more pronounced than hypercapnia because CO2 has a significantly higher diffusion coefficient than O2.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "In a healthy young adult at sea level, the normal alveolar-arterial (A-a) P_(O2) gradient is expected to be less than 10 mmHg.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "During strenuous aerobic exercise, arterial P_(O2) and P_(CO2) levels in a healthy individual generally remain near their resting values despite a multi-fold increase in gas exchange.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "Dynamic compression of the airways is a physiological phenomenon that occurs primarily during inspiration when negative intrapleural pressure exceeds the internal pressure of the airways.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "In metabolic acidosis, the central chemoreceptors are the primary sensors that detect the increase in arterial H^+ concentration to stimulate a compensatory increase in ventilation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "An intrapulmonary shunt (V/Q = 0) is clinically distinguished from other causes of hypoxemia by its failure to respond significantly to the administration of 100% supplemental oxygen.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "Intrapleural pressure reaches its most positive (least negative) value at the peak of a normal tidal inspiration.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "The \"chloride shift\" involves the movement of chloride ions into the erythrocyte to maintain electrical balance as bicarbonate ions diffuse out into the plasma.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "Total Lung Capacity (TLC) is defined as the volume of air remaining in the lungs following a maximal expiratory effort.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "A patient with polycythemia (elevated hemoglobin) will manifest clinical cyanosis at a higher arterial P_(O2) compared to a patient with a normal hemoglobin concentration.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "During passive expiration, the primary driving force for air movement is the pressure gradient between the positive intra-alveolar pressure and the atmospheric pressure.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

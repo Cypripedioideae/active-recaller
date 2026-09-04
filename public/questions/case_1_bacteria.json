@@ -1,0 +1,78 @@
+{
+  "id": "case-based-microbiology-1",
+  "title": "Case-Based Problems 1 [Bacteria]",
+  "topic": "Case-Based Microbiology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is most likely the causative agent?",
+      "modelAnswer": "*Haemophilus influenzae* type b (Hib)",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "What culture medium is used, and what specific growth factors are required?",
+      "modelAnswer": "Chocolate agar; factor X (hemin) and factor V (NAD)",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "What bacterial component is used in the vaccine, and at what age is the first dose given?",
+      "modelAnswer": "Polyribitol phosphate (PRP) capsule, first dose is usually given at 2 months old, then the next two doses at 4 months and 6 months.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "This bacteria may be present in the upper respiratory tract of many individuals. What virulence factor facilitates colonization of the respiratory mucosa",
+      "modelAnswer": "Mainly IgA protease, which cleaves and inactive IgA, thus impairing local mucosal immunity and permit colonization",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "What is the other important, life-threatening, manifestation of this serotype of bacteria, with the patient usually having pharyngitis, fever, and difficulty breathing?",
+      "modelAnswer": "Epiglottitis",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Nonencapsulated strains of this bacteria are mostly opportunistic. Give two examples on the disease these strains can cause.",
+      "modelAnswer": "Otitis media, sinusitis",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "What is the treatment of choice for meningitis caused by this organism and what is the route of administration?",
+      "modelAnswer": "Ceftriaxone or cefotaxime (third generation cephalosporins) throuhg I.V.; one reason is that they can permeate blood-brain barrier well, allowing antibiotics to enter the brain and resolve meningitis.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "[Extra] In this patient, the finding of neutrophilic pleocytosis, high protein, low glucose can help us identify that bacteria is most likely the causative agent. The finding of lymphocytic pleocytosis with normal glucose and mildly elevated protein suggest what type of infection?",
+      "modelAnswer": "The finding of lymphocytic pleocytosis with normal glucose and mildly elevated protein can suggest viral meningitis. Additionally, the same finding but with decreased glucose usually suggests fungal meningitis.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "[Extra] In asplenic patients, several bacteria have increased risk of causing sepsis, the causative agent of this case is one of them. Which bacterial structure is responsible for this phenomenon, explain, then give two examples of bacteria that fall into these category.",
+      "modelAnswer": "Splenic macrophages play an important role in eliminating blood-borne pathogens, with an important role being elimination of encapsulated bacteria (normally, capsules impair phagocytic responses). Splenic macrophages are essential for clearing encapsulated bacteria from the bloodstream. They rely on IgM-mediated activation of the classical complement pathway, which coats the capsule in C3b opsonins, allowing macrophages to overcome the bacteria's antiphagocytic properties. In absence of spleen, this function is lost, so the blood-borne pathogens are not kept in check. Therefore, the patient is at risk of bacteremia and sepsis. Other bacteria that are highly relevant to asplenic patients are, for example, *Streptococcus pneumoniae*, *Neisseria meningitidis*.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "[Extra] Pure polysaccharide vaccines are often ineffective in children under 2 years of age. Why does conjugating the capsule to a protein carrier allow the immune system to mount a long-term memory response?",
+      "modelAnswer": "Polysaccharides are T-cell independent antigens, which on its own, can only trigger production of IgM without any memory. Conjugating them to a protein carrier allows the vaccine to be processed and presented to helper T cells, enabling isotype switching, affinity maturation, and memory B cell formation.",
+      "explanation": "-"
+    }
+  ]
+}

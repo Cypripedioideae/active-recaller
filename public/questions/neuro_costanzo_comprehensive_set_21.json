@@ -1,0 +1,316 @@
+{
+  "id": "comprehensive-neuro-review-21",
+  "title": "Comprehensive Neuro Set 2: Brain Stem, Cerebellum, Basal Ganglia (MCQ)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which neurotransmitter is released by the only output cells of the cerebellar cortex to provide inhibitory modulation of the deep cerebellar nuclei?",
+      "options": [
+        "Glutamate.",
+        "Acetylcholine.",
+        "Dopamine.",
+        "GABA.",
+        "Glycine."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Which brainstem structure is the primary source of the \"climbing fibers\" that provide powerful excitatory input to the dendrites of Purkinje cells?",
+      "options": [
+        "Red nucleus.",
+        "Vestibular nucleus.",
+        "Pontine nucleus.",
+        "Superior colliculus.",
+        "Inferior olive."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A localized lesion to which of the following structures is the most likely cause of hemiballismus, characterized by wild, flinging movements of the contralateral limbs?",
+      "options": [
+        "Subthalamic nucleus.",
+        "Striatum.",
+        "Substantia nigra.",
+        "Globus pallidus.",
+        "Red nucleus."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "During histological examination of the cerebellar cortex, a researcher identifies axons of granule cells that bifurcate and synapse on the dendrites of many Purkinje cells. In which layer are these \"parallel fibers\" located?",
+      "options": [
+        "Granular layer.",
+        "Molecular layer.",
+        "Purkinje cell layer.",
+        "Deep nuclear layer.",
+        "White matter layer."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A descending motor tract originating in the brainstem is found to produce powerful stimulation of extensor muscles and inhibition of flexor muscles. This tract is the:",
+      "options": [
+        "Rubrospinal tract.",
+        "Tectospinal tract.",
+        "Medullary reticulospinal tract.",
+        "Corticobulbar tract.",
+        "Lateral vestibulospinal tract."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "In the basal ganglia circuitry, the activation of the \"direct pathway\" leads to which net physiological result?",
+      "options": [
+        "Overall excitation of the motor cortex via disinhibition of the thalamus.",
+        "Overall inhibition of the motor cortex via increased drive to the subthalamic nucleus.",
+        "Decreased firing of the primary motor cortex due to increased GABA release from the striatum.",
+        "Direct activation of lower motoneurons in the anterior horn.",
+        "Inhibition of the lateral vestibulospinal tract to reduce extensor tone."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient is administered a drug that acts as a potent D2 dopamine receptor antagonist in the striatum. What is the most likely effect on the activity of the motor cortex?",
+      "options": [
+        "Increased excitation of the motor cortex due to disinhibition of the direct pathway.",
+        "Decreased activity of the subthalamic nucleus.",
+        "Net inhibition of the motor cortex due to increased activity of the indirect pathway.",
+        "Increased release of GABA from the external segment of the globus pallidus.",
+        "Direct stimulation of the rubrospinal tract flexor neurons."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Which of the following best describes the physiological mechanism by which the cerebellum coordinates movement and minimizes \"error\"?",
+      "options": [
+        "It generates the original motor blueprint and sends it to the primary motor cortex for execution.",
+        "It utilizes dopamine to balance the excitatory and inhibitory inputs within the striatum.",
+        "It provides direct monosynaptic excitation to alpha-motoneurons in the spinal cord.",
+        "It compares intended movements from the cortex with actual sensory feedback from the periphery.",
+        "It inhibits the medullary reticulospinal tract to maintain upright posture."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "An electrical recording from a single Purkinje cell shows high-frequency bursts of spikes, known as \"complex spikes.\" These are characteristically produced by the activation of:",
+      "options": [
+        "Mossy fibers.",
+        "Climbing fibers.",
+        "Parallel fibers.",
+        "Basket cells.",
+        "Golgi II cells."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 70-year-old patient presents with a persistent \"pill-rolling\" tremor at rest and lead-pipe rigidity. These cardinal signs are most consistent with the degeneration of neurons in which structure?",
+      "options": [
+        "Striatum.",
+        "Subthalamic nucleus.",
+        "Globus pallidus.",
+        "Red nucleus.",
+        "Substantia nigra."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A 55-year-old patient exhibits a staggering gait and repeatedly overshoots the target during a finger-to-nose test. This lack of coordination (ataxia and dysmetria) indicates damage to which division?",
+      "options": [
+        "Spinocerebellum.",
+        "Vestibulocerebellum.",
+        "Pontocerebellum.",
+        "Direct pathway of the basal ganglia.",
+        "Lateral vestibular nucleus."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "Following a midbrain stroke, a patient is observed to have \"decerebrate rigidity\" (rigid extension of all four limbs). This clinical presentation is best explained by the loss of inhibitory influences on which of the following?",
+      "options": [
+        "Red nucleus.",
+        "Medullary reticular formation.",
+        "Pontine reticular formation and lateral vestibular nucleus.",
+        "Subthalamic nucleus.",
+        "Flocculonodular lobe."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A patient with Huntington's disease experiences choreic writhing movements due to the destruction of striatal GABAergic neurons. Theoretically, which change in basal ganglia outflow would be expected?",
+      "options": [
+        "Increased inhibition of the thalamus by the internal globus pallidus.",
+        "Decreased drive to the motor cortex via the direct pathway.",
+        "Reduced firing rate of the subthalamic nucleus.",
+        "Increased excitatory drive to the motor cortex due to reduced inhibition.",
+        "Complete loss of dopaminergic input to the pars compacta."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "The pontine and medullary reticulospinal tracts have opposing effects on extensor muscle tone. A lesion that selectively eliminates the medullary tract while sparing the pontine tract would result in:",
+      "options": [
+        "Global flaccid paralysis.",
+        "Increased extensor tone (rigidity).",
+        "Increased flexor tone and intention tremor.",
+        "Loss of fine motor control in the fingers.",
+        "Inability to perform rapid alternating movements."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "In Parkinson's disease, the loss of dopaminergic input from the substantia nigra results in a shift in the balance of basal ganglia pathways. Which set of changes in the striatal pathways leads to increased inhibitory outflow from the internal globus pallidus?",
+      "options": [
+        "Increased excitation of the direct pathway and increased inhibition of the indirect pathway.",
+        "Increased inhibition of the direct pathway and increased excitation of the indirect pathway.",
+        "Decreased inhibition of the direct pathway and increased inhibition of the indirect pathway.",
+        "Increased excitation of the direct pathway and decreased excitation of the indirect pathway.",
+        "Decreased excitation of the direct pathway and decreased inhibition of the indirect pathway."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "A patient presents with \"intention tremor\" and \"dysdiadochokinesia.\" These symptoms are most likely caused by a disruption in the circuitry of which output system?",
+      "options": [
+        "Dopaminergic drive to the putamen.",
+        "Subthalamic excitation of the globus pallidus.",
+        "Vestibular input to the flocculonodular lobe.",
+        "Inhibitory Purkinje cell modulation of deep cerebellar nuclei.",
+        "Alpha-gamma coactivation by the primary motor cortex."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "Which brainstem structure represents the anatomic crossing point for the descending pathways responsible for discrete voluntary movements of the contralateral hands and fingers?",
+      "options": [
+        "Medullary pyramids.",
+        "Red nucleus.",
+        "Lateral vestibular nucleus.",
+        "Pontine nuclei.",
+        "Superior colliculus."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "According to the \"size principle\" of motoneuron pools, why are smaller motoneurons recruited before larger ones during a voluntary movement?",
+      "options": [
+        "Smaller motoneurons have larger cell membrane areas.",
+        "Smaller motoneurons have higher internal resistance.",
+        "Smaller motoneurons have lower thresholds for firing action potentials.",
+        "Smaller motoneurons are more sensitive to Renshaw cell inhibition.",
+        "Smaller motoneurons innervate fast-glycolytic (Type IIb) fibers."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "A patient presents with sudden, violent, uncontrollable movements of the left proximal limbs. A stroke is most likely located in which of the following?",
+      "options": [
+        "Left striatum.",
+        "Right subthalamic nucleus.",
+        "Left substantia nigra.",
+        "Right red nucleus.",
+        "Right lateral cerebellar hemisphere."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "A neurophysiologist compares decorticate and decerebrate posturing. The arms are flexed in decorticate posturing but extended in decerebrate rigidity because:",
+      "options": [
+        "The lateral vestibulospinal tract is lost in decorticate posturing.",
+        "The medullary reticulospinal tract is the primary flexor stimulus.",
+        "The red nucleus (rubrospinal tract) is spared in decorticate posturing.",
+        "The cerebellum provides intrinsic flexor drive to the spinal cord.",
+        "The primary motor cortex is inhibitory to all brainstem extensor centers."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "mcq",
+      "prompt": "In the histological organization of the cerebellum, which layer contains the collections of synapses where mossy fibers meet the dendrites of granule cells?",
+      "options": [
+        "Molecular layer.",
+        "Purkinje cell layer.",
+        "Granular layer.",
+        "Myelinated layer.",
+        "White matter layer."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "mcq",
+      "prompt": "The primary function of the basal ganglia in motor control is to:",
+      "options": [
+        "Directly stimulate lower motoneurons for the execution of reflex actions.",
+        "Coordinate the rate and force of ongoing movements via the flocculonodular lobe.",
+        "Modulate thalamic outflow to the motor cortex to aid in planning smooth movements.",
+        "Transmit conscious proprioception directly to the primary somatosensory cortex.",
+        "Acts as the primary relay for the corticospinal tract in the medullary pyramids."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

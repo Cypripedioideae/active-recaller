@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-repro-review-17",
+  "title": "Reproductive Comprehensive Set 2: Pregnancy and Fetal Development (MCQ)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 28-year-old woman in her third trimester of pregnancy is found to have significantly lower-than-normal levels of urinary estriol, while her plasma progesterone levels remain within the expected range. A defect in which of the following fetal or placental components would best explain this specific hormonal profile?",
+      "options": [
+        "Placental cholesterol desmolase.",
+        "Fetal adrenal 17\u03b1-hydroxylase.",
+        "Maternal LDL-cholesterol delivery.",
+        "Placental progesterone synthesis.",
+        "Fetal renal 1\u03b1-hydroxylase."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A patient at 10 weeks gestation undergoes a procedure that inadvertently leads to the removal of the corpus luteum. Which of the following describes the most likely outcome for the pregnancy and the underlying physiological reason?",
+      "options": [
+        "Continuation of the pregnancy because the placenta is the primary source of progesterone by week 8.",
+        "Spontaneous abortion because the corpus luteum is required for the entire first trimester to maintain the endometrium.",
+        "Continuation of pregnancy because HCG directly maintains the uterine lining independently of the ovaries.",
+        "Spontaneous abortion because the placenta cannot synthesize cholesterol from acetate and requires luteal precursors.",
+        "Continuation of pregnancy because the fetal adrenal gland begins synthesizing progesterone at week 6."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "During a routine prenatal visit, a woman at 24 weeks gestation is noted to have a mean arterial pressure that is lower than her pre-pregnancy baseline, despite a significant increase in her total blood volume. What is the primary hemodynamic mechanism responsible for this observation?",
+      "options": [
+        "Increased venous compliance due to high circulating levels of progesterone.",
+        "Decreased cardiac output due to compression of the inferior vena cava by the uterus.",
+        "Massive decrease in systemic vascular resistance due to the addition of the low-resistance placental parallel circuit.",
+        "Reflex bradycardia initiated by atrial stretch receptors (Bainbridge reflex).",
+        "Decreased plasma protein concentration leading to reduced oncotic pressure."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Arterial blood gas analysis of a healthy pregnant woman at 34 weeks gestation reveals a P_(CO2)  of 30 mmHg (normal non-pregnant: 40 mmHg) and a pH of 7.44. Which of the following is the most likely mediator and mechanism for this finding?",
+      "options": [
+        "Estrogen-induced stimulation of the medullary inspiratory center.",
+        "Progesterone-induced increase in the sensitivity of the peripheral chemoreceptors.",
+        "Metabolic acidosis causing a compensatory hyperventilation.",
+        "Direct stimulatory effect of HCG on the carotid bodies.",
+        "Increased oxygen consumption by the fetoplacental unit driving higher minute ventilation."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "In the fetal circulation, blood in which of the following vessels or structures has the highest partial pressure of oxygen (P_(O2) )?",
+      "options": [
+        "Ductus arteriosus.",
+        "Ascending aorta.",
+        "Umbilical arteries.",
+        "Ductus venosus.",
+        "Right ventricle."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Human placental lactogen (hPL), also known as human chorionic somatomammotropin (hCS), is produced in high quantities during the third trimester. Which of the following metabolic states does this hormone primarily induce in the mother to support fetal growth?",
+      "options": [
+        "Increased insulin sensitivity and increased glucose uptake in maternal skeletal muscle.",
+        "Inhibition of lipolysis in maternal adipose tissue to conserve energy stores.",
+        "Decreased maternal glucose utilization and increased lipolysis.",
+        "Stimulation of maternal glycogenesis to prevent postprandial hyperglycemia.",
+        "Inhibition of hepatic gluconeogenesis."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A woman at 30 weeks gestation has a plasma creatinine level of 0.5 mg/dL (her pre-pregnancy level was 0.9 mg/dL). Which of the following is the most likely physiological explanation for this change?",
+      "options": [
+        "Decreased production of creatinine due to reduced maternal muscle mass.",
+        "Increased effective renal plasma flow and glomerular filtration rate (GFR).",
+        "Enhanced tubular secretion of creatinine in the proximal convoluted tubule.",
+        "Shift of creatinine from the maternal circulation to the fetal circulation.",
+        "Progesterone-induced inhibition of the Na^+-creatinine symporter."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Following a normal delivery, a neonate's first breath triggers a sequence of circulatory changes. Which of the following provides the primary signal for the functional closure of the ductus arteriosus?",
+      "options": [
+        "A sudden decrease in left atrial pressure.",
+        "An increase in right-to-left shunting through the foramen ovale.",
+        "The loss of the low-resistance placental circuit causing a rise in pulmonary resistance.",
+        "A rise in arterial P_(O2)  and a decrease in placental prostaglandins (PGE2).",
+        "A decrease in systemic arterial pressure relative to pulmonary pressure."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "If a fetus has a congenital defect resulting in a total absence of 17,20-lyase activity in the adrenal cortex and gonads, what would be the expected result for the development of the internal reproductive tract in an XY genotype?",
+      "options": [
+        "Absence of both Wolffian and M\u00fcllerian structures.",
+        "Development of the uterus, fallopian tubes, and upper vagina.",
+        "Development of the epididymis, vas deferens, and seminal vesicles only.",
+        "Presence of both male and female internal genital tracts.",
+        "Normal development of the prostate and external male genitalia."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A woman at 38 weeks gestation is evaluated for the onset of labor. It is noted that her uterine smooth muscle has become highly sensitive to contractile stimuli. Which of the following hormonal shifts is most responsible for this increased excitability?",
+      "options": [
+        "An increase in the progesterone-to-estrogen ratio.",
+        "A decrease in the estrogen-to-progesterone ratio.",
+        "A sustained decrease in the plasma concentration of oxytocin.",
+        "An increase in the estrogen-to-progesterone ratio.",
+        "Suppression of the fetal hypothalamic-pituitary-adrenal axis."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "An amniotic fluid sample is obtained from a woman at 32 weeks gestation, and the lecithin-to-sphingomyelin (L-S) ratio is found to be 1.2. Which of the following risks is most significant for this neonate if delivered immediately?",
+      "options": [
+        "Pulmonary hypertension due to excessive surfactant production.",
+        "High lung compliance leading to over-inflation and pneumothorax.",
+        "Alveolar collapse (atelectasis) due to high surface tension.",
+        "Right-to-left shunting across the interventricular septum.",
+        "Excessive fluid reabsorption in the proximal tubule of the kidney."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "In the \"fetoplacental unit,\" the placenta is unable to produce estriol independently and must rely on the fetus for which of the following metabolic steps?",
+      "options": [
+        "Removal of the sulfate group from DHEA-S.",
+        "Aromatization of androstenedione to estrone.",
+        "Synthesis of cholesterol from acetate.",
+        "16\u03b1-hydroxylation of DHEA-S.",
+        "Conversion of pregnenolone to progesterone."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A 25-year-old woman experiences a normal pregnancy but is found to have a lower-than-normal hematocrit during her third trimester. What is the physiological basis for this \"pseudoanemia\"?",
+      "options": [
+        "Excessive destruction of maternal red blood cells by the placenta.",
+        "Failure of the maternal kidneys to produce erythropoietin.",
+        "Fetal extraction of maternal iron stores.",
+        "Plasma volume increasing to a greater extent than red blood cell mass.",
+        "Suppression of maternal bone marrow by high levels of progesterone."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "During the implantation process of the blastocyst, which of the following is responsible for the invasion of the endometrial stroma and the erosion of maternal capillaries?",
+      "options": [
+        "The inner cell mass.",
+        "The zona pellucida.",
+        "The cytotrophoblast.",
+        "The syncytiotrophoblast.",
+        "The primordial follicle."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "Why does fetal hemoglobin (HbF) have a higher affinity for oxygen and a left-shifted dissociation curve compared to adult hemoglobin (HbA)?",
+      "options": [
+        "HbF has a higher affinity for 2,3-bisphosphoglycerate (2,3-BPG).",
+        "The \u03b3 chains of HbF bind 2,3-BPG less avidly than the \u03b2 chains of HbA.",
+        "HbF contains four \u03b1 subunits, which are more stable at low P_(O2).",
+        "The higher temperature of the fetal environment stabilizes the \"relaxed\" state of HbF.",
+        "Fetal blood has a significantly higher P_(CO2) , which induces the Bohr effect."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

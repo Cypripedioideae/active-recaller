@@ -1,0 +1,148 @@
+{
+  "id": "general-virology-10",
+  "title": "General Virology 10",
+  "topic": "General Virology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 45-year-old HIV-positive patient is failing his initial antiretroviral therapy regimen, which includes a non-nucleoside reverse transcriptase inhibitor (NNRTI). Genotypic testing reveals a Y181C mutation in the viral reverse transcriptase gene. Which mechanism of resistance does this specific mutation represent?",
+      "options": [
+        "Increase in phosphorolytic removal of the drug from the DNA chain",
+        "Enhanced discrimination of natural substrates over the drug",
+        "Decreased binding affinity of the drug to the reverse transcriptase enzyme",
+        "Alteration of the viral envelope pore size to prevent drug entry",
+        "Upregulation of host cell efflux pumps"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A clinician is managing a patient with chronic Hepatitis C (HCV). Before initiating a specific treatment regimen, the clinician orders molecular genotyping of the virus. According to clinical models, what is the primary reason for identifying the specific HCV genotype?",
+      "options": [
+        "To determine if the viral genome has integrated into the host cell chromosome",
+        "To predict the patient's likelihood of responding to treatment",
+        "To identify the specific host cell receptor utilized by the virus",
+        "To confirm whether the patient has a mandatory co-infection with Hepatitis D",
+        "To differentiate between a primary infection and a reactivation event"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "During the replication cycle of SARS-CoV-2, the viral spike (S) protein must be cleaved by a protease to facilitate viral attachment and entry into the target cell. Which host cell enzyme is primarily responsible for this specific cleavage step at the cell membrane?",
+      "options": [
+        "Neuraminidase",
+        "TMPRSS2",
+        "DNA polymerase",
+        "Reverse transcriptase",
+        "NS3/NS4A protease"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "While most DNA viruses replicate their genomes and undergo transcription within the host cell nucleus, members of the Poxviridae family, such as the Variola virus, are unique. In which cellular location do Poxviruses carry out their replication cycle?",
+      "options": [
+        "Within the host cell nucleus",
+        "Entirely within the host cell cytoplasm",
+        "Within the mitochondrial matrix",
+        "On the surface of the rough endoplasmic reticulum",
+        "Inside the nucleolus"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "During the clinical course of an HIV infection, the virus may undergo a shift in coreceptor usage. While early infections typically utilize the CCR5 coreceptor, later stages of the disease are often associated with a switch to the CXCR4 coreceptor. What is the primary clinical significance of this \"tropism switching\"?",
+      "options": [
+        "The virus becomes more susceptible to protease inhibitors",
+        "The virus shifts its primary target from macrophages to T cells",
+        "The virus begins to replicate in the nucleus instead of the cytoplasm",
+        "The virus loses its lipid envelope and becomes more stable",
+        "The virus can no longer be detected by nucleic acid amplification tests"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient with a severe Herpes Simplex Virus infection that has failed to respond to acyclovir is started on foscarnet. What biochemical characteristic of foscarnet allows it to remain effective against acyclovir-resistant strains?",
+      "options": [
+        "It is a nucleoside analog that binds more tightly to the DNA polymerase",
+        "It is a pyrophosphate analog that does not require phosphorylation by a viral kinase",
+        "It prevents the fusion of the viral envelope with the host cell membrane",
+        "It inhibits the viral protease required for capsid maturation",
+        "It blocks the integration of the viral cDNA into the host genome"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "The Epstein-Barr Virus (EBV) is the causative agent of infectious mononucleosis and is associated with certain B-cell lymphomas. To establish an infection, the virus must bind to a specific receptor on the surface of human B lymphocytes. Which receptor is utilized by EBV?",
+      "options": [
+        "CD4",
+        "CD21",
+        "ACE2",
+        "Nicotinic acetylcholine receptor",
+        "P antigen"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient's Hepatitis B serology panel yields the following results: HBsAg negative, anti-HBc negative, and anti-HBs positive. How should these findings be interpreted?",
+      "options": [
+        "The patient has an early acute Hepatitis B infection",
+        "The patient has recovered from a past natural Hepatitis B infection",
+        "The patient has immunity resulting from a successful HBV vaccination",
+        "The patient is a chronic Hepatitis B carrier with low infectivity",
+        "The patient is in the \"window period\" of an acute infection"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "As part of a multidrug regimen for a patient with HIV, the entry inhibitor Maraviroc is prescribed. This medication acts by blocking the interaction between the viral gp120 protein and which specific cellular component?",
+      "options": [
+        "gp41 transmembrane fusion protein",
+        "Viral integrase enzyme",
+        "CCR5 coreceptor",
+        "CXCR4 coreceptor",
+        "CD4 surface receptor"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "The antiviral drug Amantadine is historically used for the treatment and prophylaxis of Influenza A. It acts by interfering with the uncoating of the virus after it enters the host cell. Which specific viral structure is targeted by Amantadine?",
+      "options": [
+        "Hemagglutinin surface glycoprotein",
+        "Neuraminidase enzyme",
+        "M2 protein ion channel",
+        "Viral RNA polymerase complex",
+        "Matrix protein M1"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

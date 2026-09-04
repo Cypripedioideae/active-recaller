@@ -1,0 +1,120 @@
+{
+  "id": "general-mycology-11",
+  "title": "General Mycology 11",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 42-year-old chronic asthmatic patient presents with a worsening cough and the production of brownish mucus plugs. Laboratory evaluation reveals peripheral blood eosinophilia and significantly elevated serum IgE levels. According to the provided documents, which of the following is an appropriate primary treatment for this hypersensitivity response to Aspergillus (ABPA)?",
+      "options": [
+        "Intravenous amphotericin B",
+        "Oral griseofulvin",
+        "Oral terbinafine",
+        "Oral voriconazole",
+        "Systemic corticosteroids"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "An endemic dimorphic fungus is noted for its geographic distribution in the southwestern United States and its ability to spread via highly infectious arthroconidia found in desert dust. Which of the following is the most likely causative agent?",
+      "options": [
+        "Blastomyces dermatitidis",
+        "Coccidioides immitis",
+        "Histoplasma capsulatum",
+        "Paracoccidioides brasiliensis",
+        "Sporothrix schenckii"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 7-year-old child presents with an itchy, scaly patch of hair loss on the scalp. The clinician performs an examination with a Wood light, which reveals a fluorescent yellow-green appearance on the hair shafts. Which of the following fungal genera is most likely responsible for this infection?",
+      "options": [
+        "Aspergillus",
+        "Epidermophyton",
+        "Microsporum",
+        "Rhizopus",
+        "Trichophyton"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 45-year-old AIDS patient with a CD4+ T-cell count of 50 cells/mm\u00b3 presents with a severe headache and fever. A lumbar puncture reveals an elevated opening pressure and the presence of encapsulated yeast. Which of the following fungal virulence factors is primarily responsible for interfering with host phagocytosis in this case?",
+      "options": [
+        "Aflatoxin production",
+        "Melanin pigment",
+        "Phospholipase secretion",
+        "Polysaccharide capsule",
+        "Urease activity"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient is prescribed oral griseofulvin for the treatment of a fungal infection of the hair and nails. Which of the following describes the specific mechanism of action for this medication?",
+      "options": [
+        "Binding to ergosterol to form membrane pores",
+        "Binding to tubulin to disrupt fungal cell mitosis",
+        "Inhibition of 1,3-\u03b2-D-glucan synthase in the cell wall",
+        "Inhibition of the enzyme 14-\u03b1-demethylase",
+        "Inhibition of the enzyme squalene epoxidase"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A skin biopsy is obtained from a chronic, \"cauliflower-like\" lesion on the leg of a forest worker. Microscopic examination demonstrates pigmented, thick-walled cells with internal horizontal and vertical septations. What is the diagnostic term used in the sources for these specific fungal structures?",
+      "options": [
+        "Arthroconidia",
+        "Blastoconidia",
+        "Chlamydoconidia",
+        "Muriform cells",
+        "Spherules"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Azole antifungal agents, such as fluconazole and ketoconazole, are widely used for the treatment of various mycoses. What is the primary mechanism of action for this class of medications?",
+      "options": [
+        "Binding to ergosterol to create pores in the cell membrane",
+        "Inhibition of 1,3-\u03b2-D-glucan synthase to weaken the cell wall",
+        "Inhibition of DNA and RNA biosynthesis via 5-fluorouracil",
+        "Inhibition of the cytochrome P-450 enzyme 14-\u03b1-demethylase",
+        "Interference with microtubule function to disrupt mitosis"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A laboratory isolates a Candida species from a patient with a breakthrough infection. The isolate grows as oval budding yeasts but is incapable of forming pseudohyphae or germ tubes. The laboratory report indicates the organism has intrinsic resistance to fluconazole. Which of the following species is most likely being described?",
+      "options": [
+        "Candida albicans",
+        "Candida glabrata",
+        "Candida lusitaniae",
+        "Candida parapsilosis",
+        "Candida tropicalis"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "id": "cvs-true-false-5",
+  "title": "Cardiovascular Physiology 5",
+  "topic": "True-False CVS",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "According to the relationship between flow, pressure, and resistance, doubling the pressure gradient across a vessel while keeping its resistance constant will lead to a 50% reduction in blood flow.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "In a series arrangement of blood vessels, the total vascular resistance is calculated as the sum of the reciprocals of the individual resistances of each segment.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "According to the Fick principle, cardiac output is equal to the rate of oxygen consumption divided by the difference between arterial and mixed venous oxygen content .",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "In a patient with polycythemia, the resulting increase in blood viscosity leads to a decrease in the Reynolds number, which tends to suppress the formation of bruits.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "The \"c\" wave observed in a standard jugular venous pulse recording corresponds to the rapid emptying of the right atrium into the ventricle.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "In the sinoatrial node, the Phase 0 upstroke is primarily the result of an inward calcium current rather than an inward sodium current.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "The administration of propranolol increases the heart rate by increasing the slope of the Phase 4 spontaneous depolarization in pacemaker cells.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "A decrease in blood viscosity, such as that seen in severe anemia, increases the Reynolds number and the likelihood of turbulent flow.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "Atrial natriuretic peptide (ANP) promotes vasodilation and natriuresis by increasing the intracellular concentration of cyclic guanosine monophosphate (cGMP).",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "In the indicator-dilution method for measuring cardiac output, the secondary rise in the concentration curve is caused by the recirculation of the indicator.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "In a patient with significant aortic valve stenosis, the pressure within the left ventricle is lower than the pressure within the aorta during the rapid ejection phase.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "Stimulation of the sympathetic nervous system shifts the cardiac function curve to the left and results in a lower steady-state right atrial pressure for a given cardiac output.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "The absolute refractory period of a ventricular myocyte is significantly longer than the absolute refractory period of a typical skeletal muscle fiber.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "In cardiac physiology, the effective refractory period (ERP) is strictly shorter than the absolute refractory period (ARP) because it allows for non-propagated local responses.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "The infusion of a potent vasodilator into a limb vascular bed results in a significant decrease in the tissue interstitial partial pressure of oxygen (P_(O2)).",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "If total peripheral resistance (TPR) increases while the mean systemic filling pressure (MSFP) remains constant, the vascular function curve rotates counterclockwise around the MSFP point.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "The fourth heart sound (S4) is a low-frequency sound produced by the vibration of the ventricular wall during atrial contraction into a stiffened, non-compliant ventricle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "An increase in the compliance of the systemic veins results in a parallel shift of the vascular function curve to the right, increasing the mean systemic filling pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "First-degree heart block is a clinical condition characterized on an electrocardiogram by a QRS complex that lasts significantly longer than 0.2 seconds.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "During the phase of rapid ventricular ejection, the volume of the left ventricle decreases dramatically while the pressure in the aorta simultaneously reaches its peak.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "The dicrotic notch, or incisura, on an aortic pressure tracing is caused by the sudden opening of the mitral valve at the conclusion of ventricular systole.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "Based on the principles of hemodynamics, the linear velocity of blood flow is inversely proportional to the total cross-sectional area of the vascular segment.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "Digoxin becomes less effective in conditions of hypokalemia because potassium ions are required for the active transport of the drug into the myocardial cell.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "A positive inotropic effect results in a lower steady-state right atrial pressure because more blood is ejected from the heart on each beat.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "Visceral or single-unit smooth muscle cells act as separate functional units because they lack low-resistance gap junctions for electrical coupling.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "In the assessment of cardiac performance, preload is defined as the resting length from which the muscle contracts and is best approximated by the end-diastolic volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "In the fetal circulation, the ductus venosus serves as a low-resistance pathway that allows highly oxygenated blood from the placenta to bypass the lungs.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "An increase in the filtration fraction leads to an increase in the oncotic pressure of the peritubular capillary blood, which subsequently promotes tubular reabsorption.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "The first heart sound (S1) occurs physiologically when the pressure in the aorta exceeds the pressure in the left ventricle, causing the semilunar valves to close.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "The long absolute refractory period of the cardiac action potential is a protective mechanism that prevents the heart from undergoing tetanic contraction.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "Sympathetic venoconstriction increases venous return by shifting blood volume from the stressed volume to the unstressed volume of the circulation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "During strenuous physical exercise, the increase in mean arterial pressure is proportionately smaller than the increase in cardiac output due to a massive reduction in total peripheral resistance.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "The \"v\" wave of a standard jugular venous pulse corresponds to the period of the cardiac cycle when the right atrium is contracting against a closed tricuspid valve.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "Autoregulation of blood flow in the cerebral circulation is primarily regulated by the local tissue partial pressure of carbon dioxide (P_(CO2)) rather than by systemic neural reflexes.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "Atropine increases the heart rate by blocking the inhibitory muscarinic (M2) receptors in the sinoatrial node, thereby allowing the sympathetic tone to predominate.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "In a patient with cardiac tamponade, pulsus paradoxus occurs because the increased filling of the right ventricle during inspiration further compresses the left ventricle within the fluid-filled pericardium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "Under normal physiological conditions, the mean pressure in the pulmonary artery is approximately 120 mmHg during systole and 80 mmHg during diastole.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "The myogenic response to an increase in transmural pressure involves the relaxation of arteriolar smooth muscle to increase local blood flow.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "In a patient with iron-deficiency anemia, the combination of high blood velocity and low viscosity often produces audible systolic murmurs over the large arteries.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "In a patient with heart failure, the ejection fraction typically increases to a value above 0.70 to compensate for the reduction in heart rate.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "Sympathetic activation during the fight-or-flight response leads to vasoconstriction in skeletal muscle arterioles via the activation of beta-2 adrenergic receptors.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "The Fick principle is an analytical method used exclusively to measure whole-body cardiac output and cannot be applied to measure the blood flow of individual organs.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "In a patient with a patent ductus arteriosus, blood flows from the high-pressure aorta to the lower-pressure pulmonary artery throughout both systole and diastole.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "A decrease in arterial compliance, as seen in the elderly, results in an increase in systolic pressure and a widening of the pulse pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "Under resting conditions, the primary physiological function of the sympathetic noradrenergic nerves is to serve as the most important controller of coronary blood flow.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "The second heart sound (S2) is physiologically split during inspiration because the decrease in intrathoracic pressure prolongs the ejection time of the right ventricle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "Following an acute hemorrhage, the firing rate of the carotid sinus nerves increases to stimulate the medullary centers and increase sympathetic outflow.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "An increase in the filtration coefficient (Kf), such as that caused by a chemical toxin or a burn, increases the rate of capillary filtration and promotes edema.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "The pacemaker with the slowest rate of Phase 4 spontaneous depolarization determines the intrinsic sinus rhythm of the healthy heart..",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "The \"funny\" current (If), which drives Phase 4 depolarization in the sinoatrial node, is an inward sodium current that is activated by membrane hyperpolarization.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

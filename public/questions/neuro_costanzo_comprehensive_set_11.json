@@ -1,0 +1,113 @@
+{
+  "id": "comprehensive-neuro-review-11",
+  "title": "Comprehensive Neuro Set 1: Higher Function and CSF (Short Answer)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Which specific type of brain waves predominate in the EEG of a normal, awake adult with their eyes open and focused on a task?",
+      "modelAnswer": "Beta waves (13-30 Hz).",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Which EEG rhythm characterizes a relaxed, awake adult with their eyes closed?",
+      "modelAnswer": "Alpha waves (8-13 Hz).",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Name the very low-frequency, high-amplitude brain waves that are characteristic of Stage 4 slow-wave sleep.",
+      "modelAnswer": "Delta waves.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Why is REM (Rapid Eye Movement) sleep often referred to as \"paradoxical sleep\"?",
+      "modelAnswer": "Because the EEG pattern resembles the awake state (high frequency, low voltage), yet the person is in a deep stage of sleep and is most difficult to awaken.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "List three physiological changes that occur during REM sleep besides rapid eye movements and a desynchronized EEG.",
+      "modelAnswer": "Loss of muscle tone (atonia), pupillary constriction, and penile erection (also fluctuations in heart rate and blood pressure).",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Damage to which specific region of the cerebral cortex results in sensory aphasia, where a patient can speak but has profound difficulty understanding written or spoken language?",
+      "modelAnswer": "Wernicke's area (posterior end of the superior temporal gyrus).",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "How is the deficit in Broca's aphasia (motor aphasia) distinguished from that of Wernicke's aphasia?",
+      "modelAnswer": "In Broca's aphasia, speech production and writing are impaired but understanding is intact; in Wernicke's aphasia, speech is fluent but \"rubbish\" because comprehension is lost.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Name the bundle of nerve fibers that provides the functional connection between Wernicke's area and Broca's area.",
+      "modelAnswer": "Arcuate fasciculus.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Distinguish between short-term and long-term memory in terms of the underlying cellular or structural changes in the brain.",
+      "modelAnswer": "Short-term memory involves transient synaptic changes; long-term memory involves stable structural changes and new protein synthesis.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Which subcortical structure within the temporal lobe is essential for the consolidation of new long-term memories?",
+      "modelAnswer": "Hippocampus.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "What anatomical feature of cerebral capillaries serves as the primary structural basis for the blood-brain barrier?",
+      "modelAnswer": "Tight junctions between endothelial cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Explain why lipid-soluble substances like O2and CO2  cross the blood-brain barrier more readily than water-soluble substances like ions or glucose.",
+      "modelAnswer": "They can dissolve in and diffuse directly across the lipid bilayer of the endothelial cell membranes, whereas water-soluble substances are excluded by tight junctions.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "In which specific structures of the brain is cerebrospinal fluid (CSF) primarily produced, and what is its approximate daily production rate?",
+      "modelAnswer": "Choroid plexus (lateral, third, and fourth ventricles); approximately 500 mL/day.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Describe the pathway of CSF circulation from the ventricles to its ultimate absorption into the systemic circulation.",
+      "modelAnswer": "Ventricles \u2192 subarachnoid space \u2192 arachnoid villi \u2192 venous blood/sinuses.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "How do the concentrations of protein and potassium (K^+ ) in the CSF compare to their normal concentrations in the plasma?",
+      "modelAnswer": "Protein is much lower (negligible); K^+is slightly lower.",
+      "explanation": "-"
+    }
+  ]
+}

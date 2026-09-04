@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-rs-review-15",
+  "title": "Comprehensive Respiratory Set 2: Control of Breathing (MCQ)",
+  "topic": "Comprehensive RS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A patient presents with severe chronic renal failure and a resulting primary metabolic acidosis. Despite a significant drop in arterial blood pH, the initial increase in ventilation is less than what would be observed during a respiratory acidosis of similar pH magnitude. What is the most likely physiological explanation for this difference?",
+      "options": [
+        "The blood-brain barrier is relatively impermeable to hydrogen ions, preventing immediate maximal stimulation of central chemoreceptors.",
+        "Peripheral chemoreceptors are only sensitive to oxygen partial pressure and do not respond to metabolic acid loads.",
+        "Metabolic acidosis inhibits the pre-B\u00f6tzinger complex, counteracting the peripheral drive to breathe.",
+        "Renal compensation for metabolic acidosis involves the retention of carbon dioxide, which suppresses central drive.",
+        "The central chemoreceptors are only activated when the arterial P_(CO2)  exceeds 60 mmHg."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A laboratory researcher investigates the cellular mechanisms of the carotid body. He observes that upon exposing a glomus cell to severe hypoxia, the cell depolarizes, leading to the release of neurotransmitters. Which sequence of events describes this transduction process?",
+      "options": [
+        "Activation of Na^+-K^+ATPase \u2192 hyperpolarization \u2192 opening of Cl^-channels.",
+        "Inhibition of O2-sensitive K^+channels \u2192 depolarization \u2192 opening of voltage-gated Ca^(2+)channels.",
+        "Opening of Ca^(2+)-activated K^+channels \u2192 rapid repolarization \u2192 exocytosis of GABA.",
+        "Decrease in intracellular [H^+] \u2192 activation of K^+channels \u2192 release of dopamine.",
+        "Stimulation of M3  muscarinic receptors \u2192 production of nitric oxide \u2192 inhibition of the phrenic nerve."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 45-year-old man suffers a localized brainstem stroke. Clinical evaluation reveals that he breathes normally while awake but stops breathing entirely when he falls asleep, requiring mechanical ventilation during the night. Which statement best analyzes this condition, known as Ondine's curse?",
+      "options": [
+        "The stroke destroyed the primary motor cortex, preventing voluntary control of the diaphragm.",
+        "The stroke damaged the peripheral chemoreceptors, leaving only the central drive intact.",
+        "The stroke damaged automatic respiratory projections in the reticulospinal tract, sparing voluntary pathways from the cortex.",
+        "The stroke isolated the pneumotaxic center from the medulla, resulting in constant apneusis.",
+        "The stroke caused an overactive Hering-Breuer reflex, leading to apnea during the relaxation of sleep."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "During a steady-state moderate exercise test, a subject's alveolar ventilation increases significantly. However, his arterial P_(CO2)remains at 40 mmHg and his arterial P_(O2)remains at 100 mmHg. What is the primary mechanism responsible for this precise matching of ventilation to metabolic demand?",
+      "options": [
+        "A significant increase in arterial [H^+] acting as the sole trigger for hyperpnea.",
+        "Peripheral chemoreceptor detection of a large drop in mean arterial P_(O2).",
+        "Suppression of the central command by joint mechanoreceptors.",
+        "Feed-forward stimulation from the motor cortex and sensory input from muscle and joint receptors.",
+        "An obligatory increase in P_(CO2)  that must occur before the respiratory center is stimulated."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "In an experimental animal, the vagus nerves are bilaterally transected while the animal is breathing normally. What change in the breathing pattern is expected, and which reflex has been abolished?",
+      "options": [
+        "Rapid, shallow breathing; abolition of the J-receptor reflex.",
+        "Prolonged inspiratory gasps; abolition of the pneumotaxic center inhibition.",
+        "Cessation of all respiratory movements; abolition of the medullary rhythm generator.",
+        "Slower, deeper breaths; abolition of the Hering-Breuer inflation reflex.",
+        "Uncontrollable coughing; abolition of the irritant receptor reflex."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "An analysis of the integrated respiratory response shows that the ventilatory drive produced by a specific level of hypercapnia is significantly higher when the patient is simultaneously hypoxic. This phenomenon is best described as:",
+      "options": [
+        "A synergistic effect where hypoxia increases the sensitivity of the respiratory system to P_(CO2).",
+        "The Haldane effect, where oxygenated hemoglobin carries less carbon dioxide.",
+        "Respiratory compensation for a primary metabolic alkalosis.",
+        "A protective inhibition of the central chemoreceptors by the peripheral carotid bodies.",
+        "An increase in the P_(50)of hemoglobin, facilitating O2  loading in the lungs."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A mountaineer is acclimatizing at a high-altitude camp. After three days, his ventilation has increased beyond the initial acute response. Which of the following renal and central changes facilitates this further increase in the hypoxic drive?",
+      "options": [
+        "The kidneys excrete more H^+, causing a metabolic alkalosis that stimulates the brain.",
+        "The kidneys excrete HCO3-, and HCO3-levels in the CSF fall, returning the brain pH toward normal and removing the \"alkaline brake\" on ventilation.",
+        "The brain produces more lactic acid, which directly inhibits the peripheral chemoreceptors.",
+        "The red blood cells decrease 2,3-DPG production to shift the curve to the left.",
+        "Peripheral chemoreceptor sensitivity to P_(O2)decreases after prolonged exposure to low O2 ."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient with acute left-sided heart failure develops pulmonary edema. He exhibits rapid, shallow breathing (tachypnea). Which receptors are most likely responsible for this specific breathing pattern in response to pulmonary capillary engorgement?",
+      "options": [
+        "Slowly adapting pulmonary stretch receptors (SARs).",
+        "Peripheral baroreceptors in the aortic arch.",
+        "Juxtacapillary (J) receptors located in the alveolar walls.",
+        "Central chemoreceptors sensing a drop in CSF pH.",
+        "Irritant receptors in the large bronchi responding to dust."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient is observed during sleep. During the REM phase, his breathing pattern becomes irregular, and his ventilatory response to inhaled CO2  is found to be significantly blunted compared to his awake state. This change is primarily due to:",
+      "options": [
+        "Activation of the Hering-Breuer reflex by a reduced functional residual capacity.",
+        "Increased sensitivity of the peripheral chemoreceptors to oxygen.",
+        "Suppression of the motor cortex by the cerebellum.",
+        "Brainstem mechanisms during REM sleep that decrease the sensitivity of the respiratory controller to chemical stimuli.",
+        "A massive increase in sympathetic tone that overrides the automatic rhythm."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "The basic respiratory rhythm is generated in the medulla, but the duration of the inspiratory \"ramp\" signal is adjusted to regulate the rate of breathing. Which pontine center is primarily responsible for sending the \"switch-off\" signal to the medullary inspiratory center?",
+      "options": [
+        "The apneustic center in the lower pons.",
+        "The dorsal respiratory group in the NTS.",
+        "The retrotrapezoid nucleus.",
+        "The ventral respiratory group in the nucleus ambiguus.",
+        "The pneumotaxic center in the upper pons."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

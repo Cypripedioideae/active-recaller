@@ -1,0 +1,218 @@
+{
+  "id": "neuro-true-false-2",
+  "title": "Muscle Physiology 2",
+  "topic": "True-False Neuro",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "If a researcher blocks \u03b3-motor neuron activity while maintaining \u03b1-motor neuron activity during a voluntary contraction, the primary sensory endings of group Ia axons will increase their firing rate as the extrafusal muscle fibers shorten.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "In the cross-bridge cycle, the transition from a weak-binding to a strong-binding state is the rate-limiting step and is directly triggered by the release of inorganic phosphate from the myosin head.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "According to the Law of Laplace, an increase in ventricular preload that doubles the radius of the ventricle will require a doubling of the active wall tension to maintain the same intraventricular pressure during isovolumetric contraction.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "A patient with Lambert-Eaton Myasthenic Syndrome will show a decremental response in the compound motor action potential (CMAP) during high-frequency repetitive nerve stimulation, similar to a patient with Myasthenia Gravis.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "In acute hyperkalemia, the initial increase in excitability of skeletal muscle is followed by weakness because the sustained partial depolarization of the sarcolemma causes the inactivation gates of voltage-gated Na^+ channels to close and remain closed.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "In intestinal smooth muscle, the frequency of phasic contractions is determined by the frequency of slow waves, but the strength of those contractions is determined by the number of action potentials that occur on the peak of each slow wave.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "The \"latch state\" in vascular smooth muscle allows for the maintenance of high tension with low ATP consumption because the dephosphorylation of the myosin light chain occurs while the myosin head is still attached to actin, significantly slowing the detachment rate.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "In a skeletal muscle fiber, if the preload is increased such that the sarcomere is stretched to 150% of its optimal resting length, the active tension generated during an isometric contraction will be zero.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "Epinephrine promotes skeletal muscle relaxation during exercise by stimulating \u03b2_2-adrenergic receptors, which increases cAMP levels and leads to the inhibition of Myosin Light Chain Kinase via phosphorylation.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "During forced expiration, the recruitment of abdominal recti and internal intercostal muscles increases intrapleural pressure, which can lead to dynamic compression of the airways if the pressure outside the airway exceeds the pressure inside.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "The Golgi tendon reflex is a monosynaptic inhibitory reflex that protects the muscle from excessive tension by directly inhibiting the \u03b1-motor neuron of the homonymous muscle.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "Phosphorylation of phospholamban by protein kinase A increases the rate of cardiac muscle relaxation by enhancing the activity of the SERCA pump to sequester calcium back into the sarcoplasmic reticulum.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "If a patient is given a drug that inhibits the Na^+/K^+ ATPase pump, the resulting increase in intracellular Na^+ will indirectly inhibit the Na^+/Ca^(2+) exchanger, leading to a decrease in intracellular Ca^(2+) and subsequent muscle weakness.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "Pharmacomechanical coupling in smooth muscle describes a contraction that occurs in response to an agonist binding to a G protein-coupled receptor, leading to Ca^(2+) release from the SR via IP_3-gated channels without requiring a prior change in membrane potential.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "During the \"clasp-knife\" phenomenon in a spastic limb, the initial resistance to passive stretch is caused by the inverse stretch reflex, while the sudden collapse of resistance is mediated by the stretch reflex.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "During intense exercise, the sympathetic-mediated inhibition of insulin secretion serves to prevent excessive glucose uptake by active skeletal muscle, which could otherwise exceed the liver's glucose production and lead to systemic hypoglycemia.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "If the concentration of extracellular calcium is reduced, the threshold for firing an action potential in a nerve or muscle fiber becomes more positive, making the cell less excitable.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "In the cardiac cycle, the maximum velocity of ventricular shortening (V_max) is reached when the afterload (aortic pressure) is at its highest point, which occurs at the end of the rapid ejection phase.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "\u03b1-\u03b3 coactivation is essential during voluntary movements to ensure that the muscle spindle continues to provide information about changes in muscle length even when the extrafusal fibers are shortening.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "A patient with severe hypokalemia will exhibit muscle weakness primarily because the hyperpolarization of the resting membrane potential moves it farther from the threshold for firing an action potential.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "In the presence of atropine, the slow-wave activity of the stomach will cease, resulting in a complete loss of basal myogenic tone and gastric motility.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "The phenotype of smooth muscle in the uterus undergoes transformation during gestation, where increased gap junction formation between myometrial cells facilitates their function as a coordinated syncytium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "During exercise, the \"muscle pump\" increases cardiac output by decreasing the mean systemic filling pressure, thereby increasing the pressure gradient for venous return.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "Hydrolysis of ATP into ADP and P_i on the myosin head occurs while the myosin head is still firmly attached to the actin filament in the high-affinity rigor state.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "In a whole muscle preparation, the total tension measured at a given length during contraction is equal to the sum of the active tension generated by cross-bridges and the passive tension generated by non-contractile elements.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "A mutation that increases the open time of the nicotinic ACh receptor channel leads to muscle weakness because the resulting excessive depolarization causes persistent inactivation of voltage-gated Na^+ channels at the muscle end plate.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "In a patient with neonatal respiratory distress syndrome, the high surface tension in the alveoli increases the work of breathing by requiring a more negative intrapleural pressure to achieve a normal tidal volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "Cardiac muscle cannot be tetanized like skeletal muscle because the duration of the absolute refractory period in cardiac myocytes lasts nearly as long as the duration of the mechanical response.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "The exercise pressor reflex is a neural drive originating in the exercising muscle that reinforces sympathetic outflow via large, myelinated A-alpha sensory fibers.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "In a patient with Conn's syndrome, the primary cause of muscle weakness is the inactivation of sodium channels resulting from chronic hyperkalemia.",
+      "answer": "false",
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "antibacterial-agents-11",
+  "title": "Empty",
+  "topic": "Antibacterial Agents",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Azithromycin is frequently used to treat atypical pneumonia caused by Mycoplasma pneumoniae. Which of the following best describes its primary mechanism of action?",
+      "options": [
+        "Inhibition of cell wall peptidoglycan synthesis",
+        "Binding to the 30S ribosomal subunit to block mRNA translation",
+        "Inhibition of DNA gyrase and topoisomerase IV",
+        "Prevention of polypeptide elongation at the 50S ribosome",
+        "Disruption of the bacterial cell membrane integrity"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 6-year-old child requires treatment for an infection. The physician avoids prescribing doxycycline because of which specific potential adverse effect in this age group?",
+      "options": [
+        "Cartilage erosion",
+        "Gray baby syndrome",
+        "Ototoxicity and nephrotoxicity",
+        "Permanent teeth discoloration",
+        "Acute hemolytic anemia"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A patient presents with a single, painless, indurated ulcer on the genitalia. Which of the following is the standard drug of choice for this infection caused by Treponema pallidum?",
+      "options": [
+        "Azithromycin",
+        "Benzathine Penicillin G",
+        "Ceftriaxone",
+        "Doxycycline",
+        "Metronidazole"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A laboratory report identifies a Staphylococcus aureus isolate as methicillin-susceptible (MSSA). Which of the following is considered the drug of choice for a systemic infection with this organism?",
+      "options": [
+        "Vancomycin",
+        "Linezolid",
+        "Nafcillin",
+        "Gentamicin",
+        "Tigecycline"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A premature newborn is treated with an antibiotic and subsequently develops vomiting, a flaccid gray appearance, and hypothermia. Which of the following antibacterial agents is most likely responsible for this \"gray baby syndrome\"?",
+      "options": [
+        "Chloramphenicol",
+        "Sulfamethoxazole",
+        "Doxycycline",
+        "Ciprofloxacin",
+        "Clindamycin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with gonococcal urethritis. What is the current treatment of choice for an infection caused by Neisseria gonorrhoeae?",
+      "options": [
+        "Penicillin V",
+        "Ceftriaxone",
+        "Metronidazole",
+        "Gentamicin",
+        "Vancomycin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "In the treatment of hospital-acquired pneumonia, which of the following beta-lactam antibiotics provides specific coverage against Pseudomonas aeruginosa?",
+      "options": [
+        "Amoxicillin",
+        "Cefazolin",
+        "Ceftriaxone",
+        "Piperacillin-tazobactam",
+        "Ampicillin-sulbactam"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Ciprofloxacin, a fluoroquinolone, exerts its bactericidal effect by inhibiting which of the following bacterial targets?",
+      "options": [
+        "Dihydropteroate synthase",
+        "DNA-dependent RNA polymerase",
+        "DNA gyrase (topoisomerase II)",
+        "30S ribosomal subunit",
+        "Peptidoglycan transpeptidase"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Fluoroquinolones are generally avoided during pregnancy primarily due to the risk of which fetal or neonatal complication?",
+      "options": [
+        "Damage to developing cartilage",
+        "Fetal kernicterus",
+        "Permanent tooth staining and bone growth inhibition",
+        "Gray baby syndrome",
+        "Fetal ototoxicity"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A newborn is diagnosed with meningitis caused by Listeria monocytogenes. Which of the following is the most appropriate antibiotic for this patient?",
+      "options": [
+        "Ceftriaxone",
+        "Ampicillin",
+        "Vancomycin",
+        "Doxycycline",
+        "Ciprofloxacin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Sulfamethoxazole is often administered in combination with trimethoprim. Which of the following enzymes is specifically inhibited by the sulfonamide component?",
+      "options": [
+        "Dihydrofolate reductase",
+        "Dihydropteroate synthase",
+        "DNA topoisomerase IV",
+        "Peptidyl transferase",
+        "Arabinosyltransferase"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A patient receiving a rapid intravenous infusion of vancomycin develops diffuse erythematous flushing of the face and upper torso. This reaction is known as:",
+      "options": [
+        "DRESS syndrome",
+        "Stevens-Johnson syndrome",
+        "Red man syndrome",
+        "Type I hypersensitivity",
+        "Gray baby syndrome"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A patient develops an intra-abdominal abscess following a ruptured appendix. Which of the following is the drug of choice for treating the anaerobic pathogen Bacteroides fragilis?",
+      "options": [
+        "Metronidazole",
+        "Ciprofloxacin",
+        "Gentamicin",
+        "Azithromycin",
+        "Cefazolin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "A pregnant woman is found to be colonized with Streptococcus agalactiae (Group B Streptococcus) shortly before delivery. Which antibiotic is recommended for intrapartum prophylaxis to prevent neonatal disease?",
+      "options": [
+        "Vancomycin",
+        "Erythromycin",
+        "Penicillin G",
+        "Doxycycline",
+        "Gentamicin"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

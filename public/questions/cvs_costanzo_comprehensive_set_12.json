@@ -1,0 +1,344 @@
+{
+  "id": "comprehensive-cvs-review-12",
+  "title": "Cardiovascular Comprehensive Set 2: Cardiac Cycle (MCQ)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 30-year-old man participates in a research study where his cardiac parameters are measured via echocardiography. If he is found to have an ejection fraction of 0.25 and an end-systolic volume (ESV) of 150 mL, what is his calculated end-diastolic volume (EDV)?",
+      "options": [
+        "175 mL",
+        "185 mL",
+        "190 mL",
+        "200 mL",
+        "225 mL"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "On a standard left ventricular pressure-volume loop, which specific point or segment represents the mechanical event associated with the generation of the first heart sound (S1)?",
+      "options": [
+        "Point 1: Mitral valve closure at the end of diastole",
+        "Point 2: Aortic valve opening at the start of ejection",
+        "Point 3: Aortic valve closure at the end of systole",
+        "Point 4: Mitral valve opening at the start of filling",
+        "The segment between Point 2 and Point 3"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 75-year-old patient with long-standing hypertension presents with left ventricular hypertrophy. During auscultation, a low-frequency fourth heart sound (S4) is detected; which mechanical event in the pressure-volume relationship is responsible for this vibration?",
+      "options": [
+        "Rapid passive filling of the ventricle during early diastole",
+        "Atrial contraction forcing blood into a stiff, non-compliant ventricle",
+        "Sudden closure of the semilunar valves at the start of relaxation",
+        "Turbulent flow across a stenosed aortic valve during peak systole",
+        "Rebound of the ventricular walls following isovolumetric relaxation"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient has a resting oxygen consumption (V_(O2)) of 250 mL/min, a peripheral arterial O_2 content of 0.20 mL O_2/mL blood, and a mixed venous O_2 content of 0.15 mL O_2/mL blood. If his heart rate is 72 beats/min, what is his calculated stroke volume?",
+      "options": [
+        "55.5 mL/beat",
+        "60.2 mL/beat",
+        "64.8 mL/beat",
+        "67.5 mL/beat",
+        "69.4 mL/beat"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Analysis of a Wiggers diagram reveals the point where the left ventricular pressure falls just below the left atrial pressure. Which mechanical event is initiated at this specific crossover point?",
+      "options": [
+        "The closure of the aortic valve and the start of diastole",
+        "The onset of isovolumetric contraction following the QRS complex",
+        "The beginning of the reduced ejection phase as ventricular power wanes",
+        "The opening of the mitral valve to begin rapid ventricular filling",
+        "The closure of the mitral valve resulting in the first heart sound"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "During a physical examination, a healthy volunteer is asked to take a deep inspiration. The clinician notes a distinct splitting of the second heart sound (S2); which analysis of right ventricular dynamics explains this phenomenon?",
+      "options": [
+        "Increased intrathoracic pressure decreases venous return to the right heart",
+        "The pulmonic valve closes earlier due to decreased right ventricular volume",
+        "Decreased intrathoracic pressure prolongs the ejection time of the left ventricle",
+        "Rapid filling of the right atrium causes a premature tricuspid closure",
+        "Increased venous return to the right heart prolongs its ejection time, delaying pulmonic closure"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "If a patient experiences a sudden and significant increase in mean arterial pressure (afterload), how will the left ventricular pressure-volume loop be altered in the next cycle?",
+      "options": [
+        "The loop will shift to the left with a decreased end-systolic volume",
+        "The stroke volume will increase due to the higher pressure gradient",
+        "The end-systolic volume will increase while the stroke volume decreases",
+        "The end-diastolic volume will immediately decrease to compensate",
+        "The area of the loop will decrease while the ejection fraction increases"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with a dilated, failing heart following a viral myocarditis. According to Laplace's Law, why does this patient's myocardium require significantly more oxygen to eject the same stroke volume as a healthy heart?",
+      "options": [
+        "Increased wall thickness reduces the efficiency of oxygen diffusion",
+        "Decreased end-diastolic volume reduces the number of cross-bridges formed",
+        "Increased ventricular radius requires greater wall tension to generate the same pressure",
+        "Higher heart rates are required to maintain a constant cardiac output",
+        "The lack of troponin C sensitivity requires a higher threshold for contraction"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "An analysis of cardiac and vascular function curves shows the intersection point representing the steady-state operating point of the heart. If a patient develops acute heart failure, how will the intersection of these curves shift?",
+      "options": [
+        "Shift upward and to the left (increased CO, decreased RAP)",
+        "Shift upward and to the right (increased CO, increased RAP)",
+        "Shift to a new point with increased CO and unchanged RAP",
+        "Shift downward and to the right (decreased CO, increased RAP)",
+        "Shift downward and to the left (decreased CO, decreased RAP)"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 68-year-old patient presents with easy fatigability and crepitant rales in the lung bases. Upon auscultation, an S3 heart sound is heard; which underlying physiological state does this sound indicate in this adult?",
+      "options": [
+        "Ventricular volume overload or congestive heart failure",
+        "Normal physiological variant associated with high cardiac reserve",
+        "Presence of an atrial septal defect causing a left-to-right shunt",
+        "Premature closure of the mitral valve due to high atrial pressure",
+        "Decreased velocity of blood flow through the aortic valve"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "On a standard ECG and pressure tracing, which phase of the ventricular cardiac cycle follows immediately after the completion of the QRS complex?",
+      "options": [
+        "Rapid ventricular filling",
+        "Reduced ventricular ejection",
+        "Isovolumetric relaxation",
+        "Atrial systole",
+        "Isovolumetric contraction"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A clinician administers a therapeutic dose of Digoxin to a patient with systolic dysfunction. Which change on the ventricular pressure-volume loop would most accurately demonstrate the positive inotropic effect of this drug?",
+      "options": [
+        "A shift of the end-systolic point to the right (higher volume)",
+        "A shift of the end-systolic point to the left (lower volume)",
+        "An increase in end-diastolic volume with a constant stroke volume",
+        "A decrease in the vertical height of the isovolumetric contraction segment",
+        "A widening of the loop caused primarily by a shift in the filling segment"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "On a jugular venous pulse (JVP) tracing, the \"c\" wave is observed as a small positive deflection. Which mechanical event of the right heart is responsible for the appearance of this wave?",
+      "options": [
+        "The contraction of the right atrium following the P wave",
+        "The rapid filling of the right ventricle during early diastole",
+        "The bulging of the tricuspid valve into the right atrium during isovolumetric contraction",
+        "The peak ejection of blood from the right ventricle into the pulmonary artery",
+        "The passive filling of the right atrium against a closed tricuspid valve"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with third-degree (complete) heart block. During the assessment of the jugular venous pulse, the clinician observes \"cannon a-waves\"; what is the physiological explanation for these exaggerated waves?",
+      "options": [
+        "The right ventricle is contracting during the rapid filling phase",
+        "The tricuspid valve is stenosed, requiring a more forceful atrial contraction",
+        "The right atrium is fibrillating, causing erratic pressure spikes",
+        "The pulmonic valve is closing prematurely due to low stroke volume",
+        "The right atrium contracts while the tricuspid valve is closed during ventricular systole"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "Using the Fick principle, a student calculates the cardiac output for a patient with an O2consumption of 500 mL/min, an arterial O2content of 24 mL/dL, and a mixed venous O2  content of 16 mL/dL. What is the cardiac output in L/min?",
+      "options": [
+        "4.15 L/min",
+        "6.25 L/min",
+        "8.00 L/min",
+        "10.4 L/min",
+        "12.5 L/min"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "A patient is found to have a moderate aortic valve regurgitation. Which set of hemodynamic shifts in the arterial pressure profile would be most characteristic of this valvular condition?",
+      "options": [
+        "Decreased diastolic pressure, increased systolic pressure, and wide pulse pressure",
+        "Increased diastolic pressure, decreased systolic pressure, and narrow pulse pressure",
+        "Normal diastolic pressure, increased systolic pressure, and narrow pulse pressure",
+        "Decreased diastolic pressure, decreased systolic pressure, and narrow pulse pressure",
+        "Increased diastolic pressure, increased systolic pressure, and wide pulse pressure"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "In a patient with moderate aortic valve stenosis, the clinician notes that the peak pressure in the left ventricle is 215 mm Hg, while the peak pressure in the aorta is only 100 mm Hg. What is the primary hemodynamic consequence of this large pressure gradient across the valve?",
+      "options": [
+        "Preload of the left ventricle is significantly reduced",
+        "Afterload on the left ventricular myocardium is severely increased",
+        "The ejection fraction of the left ventricle increases to compensate",
+        "Total peripheral resistance decreases to facilitate aortic flow",
+        "The diastolic filling time is prolonged to allow for the high output"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "During the auscultation of a 45-year-old male, a \"blowing\" holosystolic murmur is heard at the apex, radiating to the axilla. Which mechanical dysfunction is most likely, and how does it affect the left ventricular pressure-volume loop?",
+      "options": [
+        "Mitral stenosis; the loop shifts to the left with decreased filling",
+        "Aortic stenosis; the height of the loop increases during ejection",
+        "Mitral regurgitation; the isovolumetric segments are lost due to backflow into the atrium",
+        " Mitral regurgitation; the end-diastolic volume is increased, but the total stroke volume decreases significantly.",
+        "Aortic regurgitation; the loop widens as the ventricle fills from two directions"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "In the steady state of a healthy cardiovascular system, the cardiac output of the left ventricle must equal that of the right ventricle. Which intrinsic mechanism is primarily responsible for equalizing these outputs over time?",
+      "options": [
+        "The baroreceptor reflex adjusting the heart rate beat-by-beat",
+        "Arteriolar resistance shifts in the pulmonary circulation",
+        "Selective sympathetic outflow to the less efficient ventricle",
+        "Variation in total peripheral resistance to match right heart afterload",
+        "The Frank-Starling law matching stroke volume to changes in venous return"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "A patient exhibits a profound sinus tachycardia with a heart rate of 190 beats/min. Why does his cardiac output eventually fail to increase linearly with the heart rate at this extreme value?",
+      "options": [
+        "The diastolic filling time is compromised, resulting in a significantly reduced EDV",
+        "The systolic ejection time is prolonged, causing blood to backup in the atria",
+        "The absolute refractory period of the ventricle increases, preventing contraction",
+        "The velocity of blood flow becomes turbulent at high frequencies",
+        "Myocardial contractility is inhibited by the excessive rate of action potentials"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "mcq",
+      "prompt": "A 21-year-old male patient has a maximum cardiac output of 16 L/min and a cardiac reserve of 300%. What is his calculated resting cardiac output?",
+      "options": [
+        "3 L/min",
+        "4 L/min",
+        "5.33 L/min",
+        "6 L/min",
+        "8 L/min"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "mcq",
+      "prompt": "Analysis of the jugular venous pulse reveals a \"v\" wave that peaks just before the opening of the tricuspid valve. What physiological event is responsible for the rising phase of this wave?",
+      "options": [
+        "The contraction of the right atrium against a closed tricuspid valve",
+        "The bulging of the tricuspid valve during right ventricular contraction",
+        "The filling of the right atrium from the vena cava while the tricuspid valve is closed",
+        "The rapid emptying of the right atrium once the tricuspid valve opens",
+        "The transmission of the aortic pressure wave into the superior vena cava"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "mcq",
+      "prompt": "A patient with patent ductus arteriosus (PDA) is found to have a significantly widened pulse pressure. What is the primary hemodynamic reason for the decrease in his diastolic blood pressure?",
+      "options": [
+        "Reduced cardiac output during the diastolic phase",
+        "Continuous runoff of blood from the aorta into the pulmonary artery",
+        "Increased compliance of the systemic arterial tree",
+        "Inhibition of the baroreceptor reflex by high aortic pressure",
+        "Backward flow of blood from the aorta into the left ventricle"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "mcq",
+      "prompt": "A student examines cardiac function and venous return curves plotted on the same graph. If a drug is administered that significantly increases myocardial contractility without changing blood volume, to which point will the operating point shift from the control?",
+      "options": [
+        "Up and to the right",
+        "Down and to the left",
+        "Up and to the left",
+        "Down and to the right",
+        "No shift will occur, as CO and VR must remain equal"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

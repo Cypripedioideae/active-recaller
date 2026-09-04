@@ -1,0 +1,358 @@
+{
+  "id": "renal-true-false-3",
+  "title": "Renal Physiology 3",
+  "topic": "True-False Renal",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "Inulin clearance provides an accurate estimate of the glomerular filtration rate (GFR) because the molecule is freely filtered across the glomerular capillaries but is neither reabsorbed nor secreted by the renal tubules.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "A selective constriction of the efferent arteriole leads to an increase in renal blood flow (RBF) because it reduces the total renal vascular resistance.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "The filtration fraction is the ratio of the GFR to the renal plasma flow (RPF) and is normally approximately 0.20.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "At low circulating levels, angiotensin II preferentially constricts afferent arterioles, thereby producing a protective decrease in GFR during hypotensive states.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "According to the myogenic hypothesis of autoregulation, an increase in renal arterial pressure causes afferent arteriolar constriction due to the opening of stretch-activated calcium channels in the smooth muscle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "The [TF/P] sodium ratio remains at a value of approximately 1.0 along the entire length of the proximal convoluted tubule because the segment is completely impermeable to sodium ions.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "Loop diuretics such as furosemide exert their primary effect by inhibiting the Na^+-K^+-2Cl^- cotransporter in the thick ascending limb of the loop of Henle.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "In the presence of high levels of antidiuretic hormone (ADH), the urea permeability of the inner medullary collecting ducts is increased via the up-regulation of the urea transporter UT1.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "If the double ratio [TF/P]x/[TF/P]inulin is found to be 0.3 at the end of the proximal tubule, then 70% of the filtered load of substance x has been reabsorbed into the peritubular blood.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "Extracellular fluid (ECF) volume contraction can cause a \"contraction alkalosis\" because the resulting increase in angiotensin II stimulates Na^+-H^+ exchange and bicarbonate reabsorption in the proximal tubule.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "Significant hyperkalemia inhibits the synthesis of ammonia (NH3) from glutamine in the proximal tubule, which can lead to a metabolic acidosis classified as Type 4 renal tubular acidosis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "The thin descending limb of the loop of Henle is known as the \"diluting segment\" because it actively reabsorbs NaCl while remaining impermeable to water.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "Parathyroid hormone (PTH) stimulates the reabsorption of filtered phosphate in the proximal tubule by up-regulating the activity of Na^+-phosphate cotransporters.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "Filtration equilibrium normally occurs at the end of the glomerular capillary when the capillary oncotic pressure rises enough to make the net ultrafiltration pressure zero.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "Glomerulotubular balance is an intrinsic mechanism that ensures the proximal tubule reabsorbs a constant absolute volume of filtrate (mL/min) regardless of changes in GFR.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "Thiazide diuretics increase calcium reabsorption in the early distal tubule and are therefore clinically useful in the treatment of idiopathic hypercalciuria.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "In a state of hyposmotic volume expansion, such as SIADH, water moves from the ECF into the intracellular fluid (ICF) until the osmolarities of both compartments are equalized.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "The renal clearance of glucose is mathematically zero at all plasma glucose concentrations that exceed the transport maximum (Tm) of the proximal tubule.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "The corticopapillary osmotic gradient is created and maintained by the vasa recta acting as countercurrent multipliers.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "Antidiuretic hormone (ADH) regulates water reabsorption by directing the insertion of aquaporin-2 (AQP2) water channels into the luminal membrane of the principal cells.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "A patient presenting with an obstructing ureteral stone will likely have a decreased GFR because of an increase in the hydrostatic pressure within Bowman's space.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "In the steady state of chronic renal failure, the plasma concentration of creatinine remains normal because surviving nephrons increase their fractional rate of creatinine secretion.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "A positive free-water clearance (CH_2O) occurs when circulating levels of ADH are high, resulting in the production of hyperosmotic urine.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "Approximately 67% of the filtered load of potassium is reabsorbed in the proximal convoluted tubule as part of isosmotic fluid reabsorption.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "Acute metabolic alkalosis is a common metabolic cause of hyperkalemia because hydrogen ions exit the cells in exchange for potassium entering the cells.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "Under normal resting conditions, the primary site for the reabsorption of the filtered load of magnesium is the proximal convoluted tubule.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "For every hydrogen ion excreted as titratable acid in the distal tubule, one molecule of \"new\" bicarbonate is synthesized in the renal cell and reabsorbed into the blood.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "A clearance ratio of substance x to inulin (Cx/Cinulin) equal to 0.7 indicates that there has been net reabsorption of substance x along the nephron.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "Hypokalemia stimulates ammonia (NH3) synthesis from glutamine in the proximal tubule cells, which enhances the kidney's ability to excrete H^+ ions during acidosis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "Carbonic anhydrase inhibitors such as acetazolamide exert their primary diuretic effect in the early distal convoluted tubule.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "The net reabsorption rate of a filtered substance is determined by the difference between its filtered load and its urinary excretion rate.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "Arteriolar vasoconstriction in the kidney is primarily produced by the activation of beta-2 adrenergic receptors on the afferent arterioles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "In the late proximal convoluted tubule, a lumen-positive potential difference is established by the passive diffusion of Cl^- ions from the lumen into the peritubular blood.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "Loop diuretics like furosemide decrease the ability of the kidney to concentrate urine by abolishing the corticopapillary osmotic gradient through inhibition of Na^+-K^+-2Cl^- transport.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "The renal clearance of para-aminohippuric acid (PAH) at concentrations below the transport maximum is used to provide an accurate estimate of the glomerular filtration rate.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "Atrial natriuretic peptide (ANP) causes a decrease in GFR by simultaneously constricting afferent arterioles and dilating efferent arterioles.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "The filtration fraction is defined as the fraction of the renal plasma flow that is filtered across the glomerular capillaries into Bowman's space.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "In the proximal tubule, the cellular mechanism for reabsorbing filtered bicarbonate results in a net secretion of H^+ ions into the urine.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "The alpha-intercalated cells of the collecting duct are the primary cell type responsible for H^+ secretion and K^+ reabsorption.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "An expansion of the extracellular fluid volume results in a significant increase in the oncotic pressure of the peritubular capillary blood.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "Mannitol acts as an osmotic diuretic because it is freely filtered across the glomerular capillaries but is not reabsorbed by the renal tubular cells.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "The renal cortex is the site for the final activation of vitamin D to 1,25-dihydroxycholecalciferol, a process directly stimulated by parathyroid hormone.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "In the absence of antidiuretic hormone (ADH), the tubular fluid/plasma (TF/P) osmolarity ratio reaches its lowest value at the end of the proximal convoluted tubule.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "The distal tubule and collecting ducts are together responsible for reabsorbing approximately 25% of the total filtered load of sodium.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "Potassium-sparing diuretics such as spironolactone exert their primary effects by inhibiting the Na^+-K^+-2Cl^- cotransporter in the loop of Henle.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "The oncotic pressure of the glomerular capillary blood is a Starling force that opposes the filtration of fluid into Bowman's space.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "A patient with severe metabolic acidosis caused by chronic diarrhea will typically demonstrate an increased anion gap on a standard metabolic panel.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "The macula densa is a specialized group of cells in the juxtaglomerular apparatus that senses the delivery of NaCl to the early distal tubule.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "Under normal physiologic resting conditions, the kidneys receive approximately 25% of the total cardiac output.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "The transport of glucose from the tubular lumen into the proximal tubule cell is an example of secondary active transport powered by the Na^+ gradient maintained by the Na^+-K^+ pump.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

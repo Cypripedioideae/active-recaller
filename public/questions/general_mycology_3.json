@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-3",
+  "title": "General Mycology 3",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 40-year-old immunocompromised patient is diagnosed with meningitis caused by *Cryptococcus neoformans*. Which of the following is a recognized virulence factor for this causative agent?",
+      "options": [
+        "Amidase",
+        "Cord factor",
+        "Melanin",
+        "Phospholipase C",
+        "Pyocyanin"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 45-year-old patient with onychomycosis is being considered for systemic therapy with an azole antifungal. The physician considered itraconazole but after further examination, it is discarded and replaced with other medication. Which of the following pre-existing conditions is a recognized relative contraindication for this treatment?",
+      "options": [
+        "Chronic obstructive pulmonary disease",
+        "Congestive heart failure",
+        "Hyperthyroidism",
+        "Nephrolithiasis",
+        "Peptic ulcer disease"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "An HIV-positive patient with a CD4+ count of 150 cells/mm^3 presents with a nonproductive cough and bilateral ground-glass opacities on chest imaging. A Gomori methenamine silver (GMS) stain of bronchoalveolar lavage fluid is performed to visualize the suspected causative agent, *Pneumocystis jirovecii*. Which of the following morphological features is characteristic of the mature cyst form in this stain?",
+      "options": [
+        "Budding yeast with a narrow base",
+        "Cigar-shaped yeast",
+        "Fission yeast",
+        "Disc-shaped yeast",
+        "Spherules filled with endospores"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient from Southeast Asia with AIDS presents with fever, weight loss, and several central umbilicated skin papules. A biopsy of a skin lesion reveals numerous intracellular organisms that replicate by fission. Which of the following is the most likely causative agent?",
+      "options": [
+        "*Blastomyces dermatitidis*",
+        "*Candida albicans*",
+        "*Cryptococcus neoformans*",
+        "*Histoplasma capsulatum*",
+        "*Talaromyces marneffei*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 42-year-old farm worker presents with eye pain, redness, and blurred vision in his right eye after being struck by a plant branch. Physical examination reveals a corneal ulcer. A scraping of the lesion is performed, and microscopic examination shows branching, hyaline, septate hyphae. Which of the following species is most likely the causative agent?",
+      "options": [
+        "*Candida* spp.",
+        "*Mucor* spp.",
+        "*Aspergillus* spp. ",
+        "*Fusarium* spp.",
+        "*Scedosporium* spp."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient is prescribed intravenous pentamidine for the treatment of *Pneumocystis jirovecii* pneumonia. Which of the following best describes the mechanism of action for this medication?",
+      "options": [
+        "Inhibition of the folic acid pathway",
+        "Disruption of fungal cell mitosis by binding to tubulin",
+        "Inhibition of DNA, RNA, and protein synthesis",
+        "Binding to ergosterol to increase membrane permeability",
+        "Inhibition of \u03b2-glucan synthesis in the cell wall"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A laboratory technician observes a mold isolated from a diabetic patient with rhinocerebral disease. The microscopic examination reveals hyphae that are broad, irregular, and non-septate, branching at wide angles. These features are most characteristic of which group of fungi?",
+      "options": [
+        "Ascomycetes",
+        "Basidiomycetes",
+        "Dermatophytes",
+        "Hyaline septate molds",
+        "Mucormycetes"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Dermatophytes such as *Trichophyton rubrum* are specialized to infect keratinized tissues including skin, hair, and nails. Which of the following enzymes is used by these fungi to invade the stratum corneum by breaking down its primary protein component?",
+      "options": [
+        "Amidase",
+        "Catalase",
+        "Keratinase",
+        "Lipase",
+        "Superoxide dismutase"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient with cryptococcal meningitis is started on an induction regimen consisting of amphotericin B and 5-fluorocytosine (flucytosine). Which of the following adverse effects is associated with flucytosine therapy and requires close monitoring?",
+      "options": [
+        "Reversible bone marrow suppression",
+        "Infusion-related \"shake and bake\" reactions",
+        "Nephrotoxicity with hypokalemia",
+        "Optic neuritis",
+        "Red-orange discoloration of secretions"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "An agricultural worker in a tropical region presents with small, white, soft nodules that are easily removed from the hair shafts of his scalp. Which of the following organisms is the most likely cause of this condition?",
+      "options": [
+        "*Exophiala dermatitidis*",
+        "*Malassezia furfur*",
+        "*Microsporum canis*",
+        "*Trichophyton rubrum*",
+        "*Trichosporon* spp."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

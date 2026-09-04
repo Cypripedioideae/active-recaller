@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-rs-review-16",
+  "title": "Comprehensive Respiratory Set 2: Integrative Physiology (MCQ)",
+  "topic": "Comprehensive RS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 60-year-old woman is admitted with extreme fatigue, a 3-kg weight gain in one month, and orthopnoea. Clinical examination reveals cyanosis, distended neck veins, and a ventricular ejection fraction of 0.30. Which of the following best describes the multi-system compensation occurring in this patient?",
+      "options": [
+        "Increased ANP secretion leading to a massive increase in glomerular filtration rate to reduce ECF volume.",
+        "Increased sympathetic discharge and activation of the renin-angiotensin-aldosterone system to maintain arterial pressure despite reduced cardiac output.",
+        "A leftward shift of the Frank-Starling curve to increase stroke volume at any given end-diastolic volume.",
+        "Decreased pulmonary capillary hydrostatic pressure to prevent further transudation of fluid into the alveoli.",
+        "A decrease in wall stress according to Laplace's Law due to the compensatory dilation of the left ventricle."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A mountaineer who has been at a high-altitude base camp for four days exhibits a calculated arterial pH of 7.42, a Pa_(CO2)of 28 mmHg, and a decreased plasma [HCO3-]. Which of the following mechanisms is primarily responsible for the stabilisation of her arterial pH?",
+      "options": [
+        "Peripheral chemoreceptor adaptation to low arterial P_(O2)levels.",
+        "Decreased synthesis of 2,3-bisphosphoglycerate in red blood cells to improve oxygen loading in the lungs.",
+        "Massive renal secretion of H^+to buffer the alkaline load in the cerebrospinal fluid.",
+        "Renal excretion of HCO3-  to compensate for the respiratory alkalosis induced by hypoxia-driven hyperventilation.",
+        "Shunting of blood away from the brain to prevent hypocapnia-induced cerebral vasodilation."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 65-year-old patient with uncontrolled Type I diabetes mellitus presents in a coma with a blood glucose of 500 mg/dL and a plasma pH of 7.12. Laboratory analysis reveals a high anion gap. How would you analyze the integration of the respiratory and renal systems in this state?",
+      "options": [
+        "The kidneys respond to the ketoacidosis by increasing HCO3-excretion to lower the plasma pH further.",
+        "The peripheral chemoreceptors sense the decrease in arterial [H^+] and inhibit the medullary inspiratory center.",
+        "The brain has switched to using glucose exclusively to protect against the toxic effects of ketone bodies.",
+        "Alveolar hyperventilation occurs as a compensatory mechanism to lower Pa_(CO2)  and mitigate the decrease in arterial pH.",
+        "A mixed acid-base disorder is present where respiratory acidosis prevents the renal generation of new bicarbonate."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient is brought to the emergency department following a motor vehicle accident with a ruptured spleen and a blood pressure of 80/50 mmHg. Which of the following integrated cardiovascular and endocrine responses would be observed in the first 30 minutes?",
+      "options": [
+        "Decreased firing rate of the carotid sinus nerve and a resulting increase in sympathetic outflow to the heart and systemic arterioles.",
+        "Increased firing rate of the arterial baroreceptors leading to widespread vasodilation to improve tissue perfusion.",
+        "Inhibition of the renin-angiotensin-aldosterone system to prevent hypertensive damage to the kidneys.",
+        "A decrease in heart rate mediated by the Bainbridge reflex in response to reduced atrial filling.",
+        "Activation of the parasympathetic nervous system to decrease myocardial O2  consumption."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "During a strenuous aerobic exercise test, an athlete's cardiac output increases five-fold, while her mean arterial pressure increases only slightly. Which statement best analyzes the integration of the vascular and metabolic responses that allow for this outcome?",
+      "options": [
+        "The baroreceptor reflex is suppressed by the motor cortex to allow for a simultaneous drop in heart rate and blood pressure.",
+        "Total peripheral resistance increases dramatically to ensure that blood flow is directed exclusively to the brain and heart.",
+        "Total peripheral resistance decreases because local metabolic vasodilation in active skeletal muscle overrides the sympathetic vasoconstriction in non-essential organs.",
+        "The respiratory pump decreases venous return, thereby preventing the heart from exceeding its maximum stroke volume.",
+        "Renal blood flow increases significantly to facilitate the excretion of lactic acid and heat."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 24-year-old woman presents with severe dehydration and hypotension following five days of persistent diarrhea. Which of the following sets of metabolic and cardiovascular abnormalities is most likely present?",
+      "options": [
+        "Hyperkalemia, metabolic alkalosis, and a high anion gap.",
+        "Hypokalemia, metabolic acidosis with a normal anion gap, and orthostatic hypotension.",
+        "Hypernatremia, respiratory acidosis, and bradycardia.",
+        "Hypochloremia, metabolic alkalosis, and an increased effective circulating volume.",
+        "Normal serum electrolytes, metabolic acidosis, and an increased firing rate of the carotid sinus nerves."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient suffers a significant head injury that results in a rapid increase in intracranial pressure (ICP). Which of the following describes the Cushing reaction and the integrated response of the vasomotor centers?",
+      "options": [
+        "Decreased mean arterial pressure and tachycardia to prevent cerebral edema.",
+        "Massive parasympathetic discharge leading to hypotension and airway constriction.",
+        "Inhibition of the peripheral chemoreceptors by high levels of cerebrospinal fluid O2 .",
+        "Systemic hypotension and reflex tachycardia to reduce the workload of the heart.",
+        "Systemic hypertension and reflex bradycardia in response to cerebral ischemia."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 72-year-old man with a lung tumor is found to have a plasma Na^+ concentration of 113 mEq/L and a plasma osmolarity of 230 mOsm/L. He suffers a grand mal seizure. What is the analyze of the underlying pathophysiology and the most appropriate integrative intervention?",
+      "options": [
+        "Ectopic ADH secretion has caused excessive water reabsorption and brain cell swelling; treat with water restriction.",
+        "Primary polydipsia has caused hypernatremia and neuronal dehydration; treat with a large bolus of pure water.",
+        "Adrenal insufficiency has led to excessive sodium loss in the urine; treat with high doses of aldosterone.",
+        "Diabetes insipidus has caused a massive loss of free water; treat with a V2 receptor agonist.",
+        "The tumor has destroyed the thirst center in the hypothalamus; treat with forced oral fluid intake."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A woman in her third trimester of pregnancy is diagnosed with preeclampsia, characterized by a rapid rise in blood pressure and proteinuria. Which of the following is an integrated explanation for this clinical pathophysiology?",
+      "options": [
+        "Excessive consumption of dietary salt leading to a primary volume-loading hypertension.",
+        "A decrease in the production of angiotensin II due to the auto-immune destruction of the lungs.",
+        "Placental ischemia releasing anti-angiogenic factors into the maternal circulation that impair endothelial function and trigger hypertension.",
+        "A massive decrease in systemic vascular resistance that causes the heart to fail as a pump.",
+        "The suppression of the fetal hypothalamic-pituitary-adrenal axis, which prevents the maturation of maternal blood vessels."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A subject participating in a prolonged hunger strike reaches Day 10 of total fasting. Which of the following adaptions has occurred to maintain homeostasis and prevent the loss of consciousness?",
+      "options": [
+        "The brain has stopped using oxygen and switched entirely to anaerobic glycolysis using muscle glycogen.",
+        "The liver has converted all stored triglycerides into glucose to keep the plasma glucose above 180 mg/dL.",
+        "Insulin levels have increased ten-fold to facilitate the storage of any remaining amino acids into the skeletal muscle.",
+        "The brain has adapted to use ketone bodies synthesized by the liver from fatty acids as its primary fuel source.",
+        "Peripheral chemoreceptors have been inhibited to reduce the metabolic work of breathing by 90%."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

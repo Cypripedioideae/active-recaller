@@ -1,0 +1,78 @@
+{
+  "id": "nephron-function-set-7",
+  "title": "Renal Channels 7",
+  "topic": "Nephron Function Set",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "Analyze the impact of chronic non-steroidal anti-inflammatory drug (NSAID) use on the kidney's ability to maintain GFR and sodium balance during a state of acute volume contraction.",
+      "modelAnswer": "NSAIDs inhibit the synthesis of prostaglandins (PGE2, PGI2), which normally act as local vasodilators to counteract Angiotensin II and sympathetic vasoconstriction in the afferent arteriole. In volume contraction, this loss of vasodilatory \"braking\" leads to unopposed afferent constriction, a sharp decline in GFR, and potential acute kidney injury, while simultaneously impairing the prostaglandin-mediated inhibition of Na^+ reabsorption, leading to further sodium retention.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Compare the effects of a loss-of-function mutation in the NKCC2 symporter (Bartter syndrome) versus the NCC symporter (Gitelman syndrome) on urinary calcium excretion and the risk of nephrocalcinosis.",
+      "modelAnswer": "Bartter syndrome (NKCC2 defect) abolishes the lumen-positive potential in the TAL, removing the driving force for paracellular calcium reabsorption and causing hypercalciuria and nephrocalcinosis. In contrast, Gitelman syndrome (NCC defect) leads to mild volume contraction and increased distal Ca^(2+) reabsorption (partly via hyperpolarization of the DCT cell and secondary proximal reabsorption), resulting in hypocalciuria, which is protective against stones.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "Explain the mechanism by which a high-protein diet leads to an increase in Glomerular Filtration Rate (GFR), specifically detailing the role of the proximal tubule and the tubuloglomerular feedback (TGF) system.",
+      "modelAnswer": "A high-protein diet increases the filtered load of amino acids, which are reabsorbed in the proximal tubule via Na-coupled cotransport. This logic dictates that Na^+ and Cl^- delivery to the macula densa decreases; the macula densa senses this low [NaCl] and triggers afferent arteriolar vasodilation via the TGF mechanism, which increases RBF and GFR to match the increased metabolic waste load.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "Predict the alterations in renal acid-base handling in a patient with chronic hyperkalemia, specifically focusing on the synthesis and medullary recycling of ammonium (NH4+).",
+      "modelAnswer": "Hyperkalemia causes K^+ to enter renal cells in exchange for H+ leaving, which increases intracellular pH; this alkalinity inhibits glutaminase, reducing the synthesis of NH3 from glutamine. Additionally, high luminal [K^+] in the TAL competitvely inhibits NH4+ reabsorption via the NKCC2 symporter, impairing medullary NH4+ accumulation and resulting in a Type 4 RTA (metabolic acidosis).",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "Analyze how the administration of a carbonic anhydrase inhibitor (acetazolamide) produces a diuresis and predict the subsequent changes in distal potassium handling.",
+      "modelAnswer": "Acetazolamide inhibits carbonic anhydrase, preventing the dehydration of luminal H2CO3 and the rehydration of intracellular CO2, which stops HCO3- reabsorption and H+ secretion in the proximal tubule. The resulting increase in luminal HCO3- acts as an osmotic diuretic and an unreabsorbable anion, which increases distal flow and luminal negativity, both of which potently stimulate potassium secretion (kaliuresis).",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "Predict the effect of a specific defect in the basolateral Cl^-/HCO3- exchanger (AE1) in \u03b1-intercalated cells on systemic pH and the formation of the medullary NH3 gradient.",
+      "modelAnswer": "A defect in AE1 prevents HCO3- exit across the basolateral membrane of \u03b1-intercalated cells, causing a buildup of intracellular HCO3- and a secondary inhibition of the apical H-ATPase. This leads to a failure to secrete H+ and acidify the urine (Type 1 RTA), which prevents the diffusion trapping of NH3 as NH4+ in the collecting duct, ultimately causing systemic metabolic acidosis and low ammonium excretion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "Analyze the physiological basis for \"aldosterone escape\" in a patient with a primary aldosterone-secreting tumor, explaining why edema is typically absent despite high mineralocorticoid levels.",
+      "modelAnswer": "Aldosterone escape occurs because high aldosterone causes initial Na^+ and water retention, expanding the ECF volume. This expansion triggers the release of Atrial Natriuretic Peptide (ANP) and increases peritubular capillary hydrostatic pressure, which inhibits proximal tubule reabsorption (via increased backleak) and produces a compensatory natriuresis that offsets the distal reabsorptive effect, maintaining a new steady state without clinical edema.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "Explain the \"paradoxical aciduria\" observed in a patient with metabolic alkalosis secondary to severe protracted vomiting and extracellular fluid (ECF) volume contraction.",
+      "modelAnswer": "Severe vomiting causes metabolic alkalosis (loss of gastric H+) and volume contraction; the low effective circulating volume activates the RAAS. Angiotensin II and aldosterone stimulate proximal and distal H+ secretion (via NHE3 and H-ATPase) to maximize Na^+ and HCO3- reabsorption. Consequently, the kidney prioritizes volume defense over pH defense, secreting H+ into the urine even in an alkalotic state, resulting in a paradoxically acidic urine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "Analyze why patients with Type 1 (distal) RTA are prone to developing calcium phosphate kidney stones, whereas patients with Type 2 (proximal) RTA are not.",
+      "modelAnswer": "Type 1 RTA causes stones because the distal inability to secrete H+ results in a persistently alkaline urine pH, which decreases the solubility of calcium phosphate. Conversely, in Type 2 RTA, although bicarbonate is initially lost, the urine pH eventually becomes acidic (once plasma [HCO3-] falls below the new threshold), and the associated citraturia (which complexes with Ca^(2+)) is generally less pronounced or the pH effect is absent, preventing stone formation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "Predict the effect of an acute increase in peritubular capillary hydrostatic pressure on the net reabsorption of sodium in the proximal tubule, identifying the specific paracellular and transcellular changes involved.",
+      "modelAnswer": "An increase in peritubular hydrostatic pressure (PPC) decreases the net Starling force favoring reabsorption from the lateral intercellular space. This causes the hydrostatic pressure within the lateral space to rise, which increases the passive backleak of Na^+ and water through the \"leaky\" tight junctions into the tubule lumen, thereby decreasing net proximal reabsorption and contributing to pressure natriuresis.",
+      "explanation": "-"
+    }
+  ]
+}

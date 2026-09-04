@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-8",
+  "title": "General Mycology 8",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A skin biopsy is obtained from a chronic, \"cauliflower-like\" lesion on the leg of a forest worker. Microscopic examination demonstrates pigmented, thick-walled cells with internal horizontal and vertical septations. What is the diagnostic term used in the sources for these specific fungal structures?",
+      "options": [
+        "Arthroconidia",
+        "Blastoconidia",
+        "Chlamydoconidia",
+        "Muriform cells",
+        "Spherules"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Azole antifungal agents, such as fluconazole and ketoconazole, are widely used for the treatment of various mycoses. What is the primary mechanism of action for this class of medications?",
+      "options": [
+        "Binding to ergosterol to create pores in the cell membrane",
+        "Inhibition of 1,3-\u03b2-D-glucan synthase to weaken the cell wall",
+        "Inhibition of DNA and RNA biosynthesis via 5-fluorouracil",
+        "Inhibition of the cytochrome P-450 enzyme 14-\u03b1-demethylase",
+        "Interference with microtubule function to disrupt mitosis"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 38-year-old patient with AIDS and disseminated histoplasmosis has completed a two-week induction course of intravenous amphotericin B. His clinical condition has stabilized, and his fever has resolved. The physician now plans to transition the patient to an oral antifungal agent for the maintenance phase of therapy to prevent relapse. Which of the following is the drug of choice for maintenance treatment in this patient?",
+      "options": [
+        "Fluconazole",
+        "Terbinafine",
+        "Caspofungin",
+        "Griseofulvin",
+        "Itraconazole"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A clinician collects skin scrapings from a patient with a suspected dermatophyte infection and adds 10% potassium hydroxide (KOH) to the specimen before performing microscopic examination. Which of the following describes the specific purpose of adding this reagent?",
+      "options": [
+        "To act as a contrasting dye to visualize fungal capsules",
+        "To dissolve keratin and human cellular debris",
+        "To highlight the 1,3-\u03b2-D-glucan in the cell wall",
+        "To preserve the fungal structures for several weeks",
+        "To stain the chitin in the fungal cell wall blue"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 48-year-old female presents with a chronic, painless subcutaneous nodule on her right hand that developed several weeks after she sustained a puncture wound from a rose thorn. A biopsy of the lesion reveals a smooth-surfaced mass. Microscopic examination of the tissue demonstrates the presence of pigmented septate hyphae, but no muriform cells or grains are identified. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Eumycetoma",
+        "Chromoblastomycosis",
+        "Phaeohyphomycosis",
+        "Sporotrichosis",
+        "Actinomycetoma"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 10-day-old neonate presents with adherent white, curd-like plaques on the tongue and buccal mucosa. The physician prescribes a topical antifungal medication formulated as a suspension. Which of the following best describes the pharmacological profile of the agent being administered?",
+      "options": [
+        "It inhibits \u03b2-(1,3)-D-glucan synthase, resulting in fungal cell wall instability.",
+        "It binds to tubulin and interferes with microtubule function to disrupt mitosis",
+        "It is a prodrug converted to 5-fluorouracil to inhibit fungal nucleic acid synthesis.",
+        "It inhibits 14-\u03b1-demethylase to prevent the synthesis of ergosterol from lanosterol",
+        "It binds to ergosterol to form membrane pores"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 40-year-old agricultural worker presents with a chronic, firm, swollen ankle and sinus tracts that drain fluid containing visible granules or grains. Microscopic examination of the granules reveals a dense mass of fungal hyphae. What is the most likely diagnosis?",
+      "options": [
+        "Actinomycosis",
+        "Chromoblastomycosis",
+        "Eumycotic mycetoma",
+        "Phaeohyphomycosis",
+        "Sporotrichosis"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 52-year-old agricultural worker presents with a chronic infection of the skin and nails on his right hand. A laboratory culture of the lesion yields a hyaline septate mold identified as *Fusarium*. According to the provided sources, which of the following virulence factors is produced by this organism to inhibit host cell-mediated and humoral immunity?",
+      "options": [
+        "Adhesin",
+        "Keratinase",
+        "Trichothecene",
+        "Mycolic acid",
+        "Capsule"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient being treated for a systemic fungal infection develops gynecomastia and a decrease in libido. These side effects are attributed to the medication's inhibition of human testosterone and adrenal steroid synthesis. Which of the following antifungal agents is most likely responsible?",
+      "options": [
+        "Fluconazole",
+        "Itraconazole",
+        "Ketoconazole",
+        "Terbinafine",
+        "Voriconazole"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A woman who was pruning rose bushes develops a primary nodular lesion on her finger, followed by the appearance of several nodules along the lymphatic drainage of her arm. Which of the following is the most reliable method for laboratory confirmation of the suspected etiologic agent?",
+      "options": [
+        "Acid-fast stain of the nodular tissue",
+        "Culture of the lesion material at 25\u00b0C and 37\u00b0C",
+        "India ink preparation of the wound exudate",
+        "Microscopic examination of pus for muriform cells",
+        "Serological testing for *Histoplasma* antigens"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

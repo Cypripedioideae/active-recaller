@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-7",
+  "title": "General Mycology 7",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A premature infant in the neonatal intensive care unit receiving intravenous lipid supplements develops a bloodstream infection. Which of the following fungi is a common cause of fungemia specifically associated with the administration of lipid infusions?",
+      "options": [
+        "*Candida albicans*",
+        "*Cryptococcus neoformans*",
+        "*Malassezia furfur*",
+        "*Rhodotorula* spp.",
+        "*Trichosporon* spp."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 62-year-old patient is diagnosed with hepatocellular carcinoma. The clinical team reviews the patient's history, noting factors that may have contributed to the development of this malignancy. Beyond chronic viral infections, the medical report indicates that exposure to aflatoxins likely played a significant role in the oncogenic process. Which of the following fungal genera is the producer of these specific toxins?",
+      "options": [
+        "*Fusarium*",
+        "*Aspergillus*",
+        "*Scedosporium*",
+        "*Mucor*",
+        "*Rhizopus*"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A patient is prescribed oral griseofulvin for the treatment of a fungal infection of the hair and nails. Which of the following describes the specific mechanism of action for this medication?",
+      "options": [
+        "Binding to ergosterol to form membrane pores",
+        "Binding to tubulin to disrupt fungal cell mitosis",
+        "Inhibition of 1,3-\u03b2-D-glucan synthase in the cell wall",
+        "Inhibition of the enzyme 14-\u03b1-demethylase",
+        "Inhibition of the enzyme squalene epoxidase"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Echinocandin drugs, such as caspofungin and micafungin, are used to treat invasive fungal infections. Why are these medications considered to have a high safety profile with low toxicity to human cells?",
+      "options": [
+        "Human cells lack the enzyme 14-\u03b1-demethylase",
+        "Human cells possess cholesterol rather than ergosterol",
+        "Human cells do not possess 1,3-\u03b2-glucans or a cell wall",
+        "These agents are not absorbed systemically by the human host",
+        "Fungal 30S ribosomes are structurally different from human ribosomes"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with onychomycosis. Which of the following antifungal agents is considered a first-line oral treatment for this condition due to its ability to highly accumulate and persist in the nail bed?",
+      "options": [
+        "Amphotericin B",
+        "Clotrimazole",
+        "Ketoconazole",
+        "Nystatin",
+        "Terbinafine"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Which of the following statements correctly describes the thermal dimorphism exhibited by the pathogen *Sporothrix schenckii*?",
+      "options": [
+        "It exists as a mold in nature (25\u00b0C) and as yeast cells in the infected patient (37\u00b0C)",
+        "It exists as yeast cells in nature (25\u00b0C) and as a mold in the infected patient (37\u00b0C)",
+        "It exists as non-septate hyphae at 25\u00b0C and septate hyphae at 37\u00b0C",
+        "It exists as pseudohyphae in both environmental and tissue forms",
+        "It exists as spherules at 25\u00b0C and arthroconidia at 37\u00b0C"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient presents with a chronic, slowly progressive subcutaneous infection on the foot characterized by a \"cauliflower-like\" surface. A biopsy of the lesion demonstrates pigmented, \"copper penny\" muriform cells (Medlar bodies). Which of the following is the most likely diagnosis?",
+      "options": [
+        "Chromoblastomycosis",
+        "Eumycetoma",
+        "Lymphocutaneous sporotrichosis",
+        "Phaeohyphomycosis",
+        "Tinea pedis"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient being treated for a serious systemic mycosis with conventional amphotericin B develops a \"shake and bake\" infusion reaction and an increase in serum creatinine levels. Which of the following electrolyte pairs should be closely monitored and supplemented due to potential distal renal tubular damage?",
+      "options": [
+        "Calcium and phosphorus",
+        "Iron and folate",
+        "Potassium and magnesium",
+        "Sodium and chloride",
+        "Zinc and copper"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "An HIV-positive patient with a CD4+ T-cell count of 50 cells/mm^3 presents with chronic fever and malaise. A bone marrow biopsy reveals small intracellular budding yeasts. When the isolate is cultured at room temperature (25\u00b0C), it produces hyaline septate hyphae with tuberculate macroconidia. What is the most likely causative agent?",
+      "options": [
+        "*Pneumocystis jirovecii*",
+        "*Candida* spp.",
+        "*Cryptococcus neoformans*",
+        "*Histoplasma capsulatum*",
+        "*Talaromyces marneffei*"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 34-year-old male with AIDS presents with a persistent headache, fever, and neck stiffness. Analysis of his cerebrospinal fluid reveals encapsulated budding yeast cells, confirming a diagnosis of cryptococcal meningitis. The patient is initiated on induction therapy consisting of intravenous amphotericin B and oral flucytosine. Which of the following is the primary mechanism of action of flucytosine in this patient?",
+      "options": [
+        "Binding to ergosterol to form membrane pores",
+        "Inhibition of 14-\u03b1-demethylase",
+        "Inhibition of \u03b2-(1,3)-D-glucan synthase",
+        "Conversion to 5-fluorouracil to inhibit nucleic acid synthesis",
+        "Interference with microtubule function during mitosis"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

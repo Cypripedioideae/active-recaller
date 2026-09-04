@@ -1,0 +1,78 @@
+{
+  "id": "nephron-function-set-8",
+  "title": "Renal Channels 8",
+  "topic": "Nephron Function Set",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "Compare the severity of the medullary osmotic gradient \"washout\" in a patient with untreated central diabetes insipidus (DI) versus a patient with primary psychogenic polydipsia.",
+      "modelAnswer": "In central DI, the absolute lack of AVP prevents urea recycling in the IMCD and leads to high flow through the collecting ducts, causing a profound washout of the medullary gradient. In psychogenic polydipsia, AVP is physiologically suppressed by low plasma osmolality, which also leads to washout; however, because the AVP-producing machinery is intact, the washout is often slightly less severe as the kidney can rapidly respond to even trace amounts of AVP if water intake ceases, whereas the DI patient remains in a permanent \"washout\" state until exogenous AVP is provided.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Analyze how the clinical use of SGLT2 inhibitors (gliflozins) potentially alters the effectiveness of the tubuloglomerular feedback (TGF) mechanism in a patient with diabetic nephropathy.",
+      "modelAnswer": "SGLT2 inhibitors block proximal glucose and Na^+ reabsorption, which increases the delivery of NaCl to the macula densa. This logic dictates that the macula densa senses an \"excessively high\" GFR and triggers afferent arteriolar constriction via the TGF mechanism. In diabetic nephropathy, where the TGF is often inappropriately suppressed (hyperfiltration), this drug-induced signal helps restore TGF sensitivity, lowering intraglomerular pressure and providing a nephroprotective effect.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "Predict the change in the \"renal threshold\" for glucose in a patient who has lost 50% of their functional nephron mass (e.g., following a unilateral nephrectomy) but maintains a normal plasma glucose concentration.",
+      "modelAnswer": "The renal threshold (plasma concentration where glucosuria begins) is determined by the balance between the filtered load (GFR \u00d7 [P]glu) and the reabsorptive capacity (Tm). After nephrectomy, the GFR in the remaining kidney increases (hyperfiltration) to compensate, but the total Tm for the body is halved. Because the filtered load per nephron rises while the total scavenging capacity is reduced, the renal threshold decreases, meaning the patient will \"spill\" glucose into the urine at a significantly lower plasma glucose concentration than before.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "Evaluate the impact of an acute, massive increase in medullary blood flow velocity (e.g., via vasa recta vasodilation) on the efficiency of the countercurrent multiplier system and the final urine osmolality.",
+      "modelAnswer": "Increased blood flow in the vasa recta increases the rate of solute removal (washout) from the medullary interstitium. This impairs the countercurrent exchange efficiency, as solutes like NaCl and urea are carried away before they can diffuse from the ascending to the descending vasa recta. Consequently, the medullary interstitium becomes less hypertonic, reducing the osmotic driving force for water reabsorption in the collecting ducts and resulting in a decreased maximum urinary osmolality.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "Analyze why a patient with Type 4 RTA (hypoaldosteronism) presents with a more significant reduction in ammonium excretion than a patient with a simple dietary potassium overload, even if systemic pH is initially similar.",
+      "modelAnswer": "In Type 4 RTA, hyperkalemia causes a shift of K^+ into cells in exchange for H+ leaving, which increases intracellular pH and directly inhibits glutaminase, reducing NH3 production. In contrast, while dietary K^+ overload also increases plasma K^+, the aldosterone system is typically functional; the lack of a primary aldosterone defect means that the renal tubule is not fundamentally \"stuck\" in an acid-retention state, and the kidney can prioritize K^+ secretion over NH3 suppression more effectively than in a diseased RTA state.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "Predict the net effect on distal potassium secretion when a patient shifts from a low-sodium, high-potassium diet to a high-sodium, high-potassium diet, accounting for the competing influences of aldosterone and tubular flow.",
+      "modelAnswer": "On a low-sodium, high-K^+ diet, K^+ secretion is driven by high aldosterone, but limited by low tubular flow (proximal Na^+ conservation). When switching to a high-sodium, high-K^+ diet, aldosterone levels fall, which would normally decrease K^+ secretion. However, the high distal flow rate (decreased proximal Na^+ reabsorption) dilutes luminal [K^+] and activates BK channels, which typically compensates for or even exceeds the loss of aldosterone stimulation, resulting in a net maintenance or increase in potassium excretion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "In a patient with end-stage liver disease (cirrhosis), analyze how the decrease in hepatic urea synthesis impacts the renal \"single effect\" and the overall capacity for urinary concentration.",
+      "modelAnswer": "Cirrhosis reduces urea production, leading to a decreased medullary [urea] gradient. Since urea accounts for ~40-50% of the inner medullary osmolality, its loss weakens the total interstitial tonicity. This reduces the osmotic extraction of water from the thin descending limb, which prevents the luminal NaCl concentration from rising to its usual peak; consequently, passive NaCl reabsorption in the thin ascending limb (the \"single effect\" in the inner medulla) is impaired, severely limiting the kidney's maximum concentrating ability.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "Contrast the effects of a high-protein diet versus a low-protein diet on the \"set-point\" of the tubuloglomerular feedback (TGF) system and the resulting steady-state GFR.",
+      "modelAnswer": "A high-protein diet increases proximal Na-amino acid cotransport, which lowers [NaCl] at the macula densa and decreases TGF sensitivity, shifting the set-point to allow a higher GFR for any given flow. Conversely, a low-protein diet results in less proximal reabsorption and higher NaCl delivery to the macula densa, which increases TGF activation, leading to afferent constriction and a lower steady-state GFR to minimize the filtration of metabolic waste.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "Analyze the impact of systemic metabolic alkalosis on the renal handling of magnesium in the distal convoluted tubule (DCT) and predict the risk of hypomagnesemia.",
+      "modelAnswer": "Metabolic alkalosis (low extracellular [H+]) relieves the H+-mediated inhibition of apical TRPV5/6 calcium channels and TRPM6 magnesium channels in the DCT. This logic suggests that alkalosis increases magnesium reabsorption (hypomagnesiuria), which is the opposite of the effect seen in acidosis (magnesiuria). Therefore, metabolic alkalosis generally acts to defend against hypomagnesemia by enhancing distal tubular reclamation of the filtered load.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "A patient presents with a loss-of-function mutation in the megalin receptor. Analyze the downstream consequences on the renal handling of Vitamin D and the resulting impact on systemic calcium homeostasis.",
+      "modelAnswer": "The megalin receptor is required for the endocytosis of the DBP-Vitamin D complex in the proximal tubule. A loss-of-function mutation prevents the reclamation of filtered Vitamin D, leading to urinary loss of the vitamin and a failure of the proximal tubule to convert it to 1,25-(OH)2-D via 1\u03b1-hydroxylase. This results in secondary hyperparathyroidism and bone demineralization (renal rickets) because of the failure to absorb intestinal calcium and maintain plasma [Ca^(2+)].",
+      "explanation": "-"
+    }
+  ]
+}

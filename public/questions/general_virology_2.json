@@ -1,0 +1,148 @@
+{
+  "id": "general-virology-2",
+  "title": "General Virology 2",
+  "topic": "General Virology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A patient with a high HIV viral load is started on a multidrug antiretroviral regimen that includes the entry inhibitor enfuvirtide. This drug acts by binding to the viral gp41 transmembrane protein. Which specific step of the viral life cycle is blocked by this medication?",
+      "options": [
+        "Integration of the provirus into the host genome",
+        "Cleavage of the Gag-Pol polyprotein precursor",
+        "Fusion of the viral envelope with the host cell membrane",
+        "Premature termination of the nascent DNA chain",
+        "Binding of the gp120 glycoprotein to the CD4 receptor"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A lung biopsy from a bone marrow transplant recipient with progressive interstitial pneumonia reveals significantly enlarged cells. Within the nucleus of these cells, a large, dark, basophilic inclusion is observed, surrounded by a clear halo, creating a characteristic \"owl's eye\" appearance. Which virus is the most likely cause of this infection?",
+      "options": [
+        "Epstein-Barr Virus",
+        "Varicella-Zoster Virus",
+        "Herpes Simplex Virus",
+        "Cytomegalovirus",
+        "Adenovirus"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Atazanavir and ritonavir are potent components of highly active antiretroviral therapy (HAART). These drugs are effective at limiting the spread of HIV within the host because they interfere with which process?",
+      "options": [
+        "Reversible integration of the viral genome into host chromosomes",
+        "Proteolytic cleavage of polyproteins required for viral maturation",
+        "Synthesis of the initial DNA copy from genomic RNA",
+        "Fusion of the viral envelope with the host cell membrane",
+        "Attachment of viral glycoproteins to the CD4 receptor"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "While most DNA viruses replicate their genome directly from a DNA template in the nucleus, Hepatitis B virus (HBV) utilizes a unique replication strategy that classifies it as a \"dsDNA RT\" virus. Which step is a required part of the HBV replication cycle?",
+      "options": [
+        "Rolling circle replication that does not require a viral polymerase",
+        "Use of host-cell RNA-dependent RNA polymerase for genome synthesis",
+        "Reverse transcription of a viral RNA intermediate into progeny DNA",
+        "Semiconservative replication solely in the host cytoplasm",
+        "Integration into the host cell mitochondria for energy production"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 10-year-old child with sickle cell disease presents with sudden-onset severe anemia and a dangerously low reticulocyte count. The clinician suspects a \"transient aplastic crisis\" triggered by Parvovirus B19. What is the primary mechanism by which this virus causes this clinical presentation?",
+      "options": [
+        "Damage to the vascular endothelium leading to diffuse hemorrhage",
+        "Massive sequestration of red blood cells within the spleen",
+        "Inhibition of erythropoietin secretion by the renal cortex",
+        "Induction of autoimmune antibodies against mature erythrocytes",
+        "Direct infection and lysis of erythroid progenitor cells"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A healthcare worker undergoing routine screening for Hepatitis B has the following laboratory serology results: Hepatitis B surface antigen (HBsAg) negative, antibody to Hepatitis B core antigen (anti-HBc) negative, and antibody to Hepatitis B surface antigen (anti-HBs) positive. How should these findings be interpreted?",
+      "options": [
+        "Immunity resulting from a successful HBV vaccination series",
+        "Acute infection with high levels of viral replication",
+        "Chronic Hepatitis B carrier state with low infectivity",
+        "Recovery and immunity following a prior natural infection",
+        "Window period between the loss of HBsAg and appearance of anti-HBs"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Epstein-Barr virus (EBV) is the primary cause of infectious mononucleosis and is associated with various lymphoproliferative disorders. To establish infection, the virus must bind to a specific cellular receptor found on human B cells. Which receptor is utilized by EBV for entry?",
+      "options": [
+        "CXCR4",
+        "CD21",
+        "ICAM-1",
+        "CD4",
+        "P antigen"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "The Human Immunodeficiency Virus (HIV) genome contains the pol structural gene, which is essential for the production of infectious progeny. Which set of viral enzymes is encoded by this specific gene?",
+      "options": [
+        "gp120 and gp41",
+        "DNA-dependent RNA polymerase and neuraminidase",
+        "Tat, Rev, and Nef",
+        "p24 and p17",
+        "Reverse transcriptase, integrase, and protease"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "In the typical clinical course of an untreated HIV infection, the virus utilizes specific host cell coreceptors to gain entry. Which shift in coreceptor tropism is commonly observed as the disease progresses from the early asymptomatic phase to late-stage AIDS?",
+      "options": [
+        "From gp120 to gp41",
+        "From CXCR4 to CCR5",
+        "From CD4 to CD8",
+        "From CCR5 to CXCR4",
+        "From P antigen to ICAM-1"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Following the resolution of the acute phase of infectious mononucleosis, the Epstein-Barr virus (EBV) remains in the body indefinitely in a dormant state. In which specific cell type does EBV typically establish its primary site of latent infection?",
+      "options": [
+        "Memory B lymphocytes",
+        "Neurons within the trigeminal ganglia",
+        "Myeloid progenitor cells in the bone marrow",
+        "Vascular endothelial cells",
+        "Monocytes and macrophages"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    }
+  ]
+}

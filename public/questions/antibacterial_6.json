@@ -1,0 +1,148 @@
+{
+  "id": "antibacterial-agents-6",
+  "title": "Antibacterial Agents 6",
+  "topic": "Antibacterial Agents",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which antibiotic binds to the 30S ribosomal subunit and is specifically indicated for the treatment of multidrug-resistant organisms such as MRSA and VRE?",
+      "options": [
+        "Linezolid",
+        "Tigecycline",
+        "Gentamicin",
+        "Clindamycin",
+        "Daptomycin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "What is a significant clinical risk associated with the administration of sulfonamides to neonates?",
+      "options": [
+        "Inability to distinguish red from green colours",
+        "Permanent damage to developing cartilage and tendons",
+        "Reversible bone growth inhibition and tooth discoloration",
+        "Development of Gray Baby Syndrome",
+        "Kernicterus resulting from bilirubin displacement from albumin"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 55-year-old male with a known medical history of recurrent gouty arthritis involving his first metatarsophalangeal joint presents with a 3-week history of a persistent productive cough, evening fevers, and drenching night sweats. The patient is diagnosed with pulmonary tuberculosis. During his treatment of tuberculosis, which antituberculosis agent must be used with caution?",
+      "options": [
+        "Rifampin",
+        "Pyrazinamide",
+        "Dapsone",
+        "Isoniazid",
+        "Ethambutol"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 26-year-old female presents to the emergency department with a high fever and a painful rash that began yesterday. She was recently treated for an uncomplicated urinary tract infection. Physical examination reveals dusky, erythematous macules with central blistering on her trunk and face. Extensive, painful erosions are noted on her oral mucosa and conjunctivae. A biopsy shows separation of the dermo-epidermal junction. Which of the following is the most likely class of the drug responsible for this patient's presentation?",
+      "options": [
+        "Aminoglycosides",
+        "Tetracyclines",
+        "Macrolides",
+        "Sulfonamides",
+        "Fluoroquinolones"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Which of the following antibacterial agents is used specifically for the treatment of *Clostridioides difficile*?",
+      "options": [
+        "Gentamicin",
+        "Penicillin G",
+        "Fidaxomicin",
+        "Ciprofloxacin",
+        "Doxycycline"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Which class of antibacterial agents disrupts the integrity of Gram-negative bacterial cell membranes by binding to phospholipids?",
+      "options": [
+        "Polymyxins",
+        "Carbapenems",
+        "Monobactams",
+        "Glycopeptides",
+        "Penicillins"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 45-year-old male is diagnosed with subacute endocarditis caused by *Enterococcus faecalis*. To achieve a synergistic bactericidal effect, the physician prescribes a combination of ampicillin and gentamicin. Which of the following best explains the rationale for adding ampicillin to the treatment regimen?",
+      "options": [
+        "It inhibits the synthesis of aminoglycoside-modifying enzymes.",
+        "It increases the permeability of the cell wall to facilitate gentamicin entry.",
+        "It prevents the active efflux of gentamicin from the bacterial cytoplasm.",
+        "It provides competitive inhibition of the 50S ribosomal subunit.",
+        "It blocks the metabolism of gentamicin in the renal tubules."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Which of the following best differentiates Penicillin V from Penicillin G Sodium (PGS) based on their clinical administration?",
+      "options": [
+        "Penicillin V is penicillinase-resistant, while PGS is penicillinase-sensitive.",
+        "Penicillin V targets the 30S ribosome, while PGS targets the cell wall.",
+        "Penicillin V is given orally, while PGS is given intravenously.",
+        "Penicillin V is used for *T. pallidum*, while PGS is used for *S. pyogenes*.",
+        "Penicillin V is given intravenously, while PGS is given orally."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Which class of antibacterial agents acts as a major inhibitor of cytochrome P450 and is associated with the adverse effect of QT interval prolongation?",
+      "options": [
+        "Oxazolidinones",
+        "Macrolides",
+        "Sulfonamides",
+        "Fluoroquinolones",
+        "Aminoglycosides"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "While many cases of *Campylobacter jejuni* gastroenteritis are self-limiting, which of the following is the antibiotic drug of choice when treatment is required?",
+      "options": [
+        "Ciprofloxacin",
+        "Trimethoprim-sulfamethoxazole",
+        "Gentamicin",
+        "Azithromycin",
+        "Amoxicillin"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "id": "comprehensive-cvs-review-16",
+  "title": "Cardiovascular Comprehensive Set 2: Integrative Resopnse (MCQ)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 60-year-old man with a history of chronic hypertension and stiffening of the large arteries (arteriosclerosis) moves from a supine to a standing position. Compared to a healthy individual, which component of his baroreceptor reflex is most likely to show a diminished response?",
+      "options": [
+        "The firing rate of the glossopharyngeal nerve in response to decreased stretch.",
+        "The sensitivity of the afferent receptors to rapid changes in mean arterial pressure.",
+        "The ability of the vagus nerve to increase heart rate via muscarinic blockade.",
+        "The magnitude of venoconstriction required to reduce unstressed volume.",
+        "The total peripheral resistance increase mediated by beta-2 adrenergic receptors."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "During a laboratory test, a subject performs a Valsalva maneuver. At the moment the subject stops the maneuver and begins to breathe normally again, a transient but significant bradycardia is observed. What is the primary analytical explanation for this reflex?",
+      "options": [
+        "A sudden increase in intrathoracic pressure leading to the Bainbridge reflex.",
+        "A rebound increase in venous return and stroke volume, triggering the baroreceptors.",
+        "Activation of the Hering-Breuer reflex due to the sudden deflation of the lungs.",
+        "A decrease in mean systemic filling pressure causing a shift in the operating point.",
+        "Stimulation of peripheral chemoreceptors by a transient rise in arterial P_(CO2)."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 22-year-old athlete undergoes a treadmill stress test. At a moderate level of exercise, her cardiac output has tripled, yet her mean arterial pressure has only increased slightly. What is the most important factor maintaining this relative stability of mean arterial pressure?",
+      "options": [
+        "Selective sympathetic vasoconstriction of the cerebral and coronary circulations.",
+        "A decrease in total peripheral resistance caused by local metabolites in active muscle.",
+        "A decrease in the firing rate of the carotid sinus nerve due to the central command.",
+        "The inhibitory effect of the Bainbridge reflex on the medullary vasoconstrictor center.",
+        "An increase in venous compliance to accommodate the higher stroke volume."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient in the early stages of hemorrhagic shock is found to have cool, pale skin and a rapid, thready pulse. Which of the following describes the status of the \"stressed\" and \"unstressed\" blood volumes in this patient?",
+      "options": [
+        "Stressed volume is increased; unstressed volume is decreased.",
+        "Both stressed and unstressed volumes are increased due to the baroreflex.",
+        "Stressed volume is decreased; unstressed volume is decreased due to venoconstriction.",
+        "Unstressed volume is increased; stressed volume is decreased due to arteriolar dilation.",
+        "Both volumes are unchanged, but the mean systemic filling pressure is elevated."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 70-year-old patient with an inoperable brain tumor presents with a blood pressure of 210/115 mmHg and a heart rate of 42 beats/min. Which analytical sequence correctly explains this \"Cushing reaction\"?",
+      "options": [
+        "Increased ICP -> Arteriolar dilation -> Cerebral hyperperfusion -> Reflex bradycardia.",
+        "Increased ICP -> Cerebral ischemia -> Increased medullary P_(CO2) -> Massive sympathetic discharge.",
+        "Decreased ICP -> Venous pooling -> Decreased cardiac output -> Baroreceptor tachycardia.",
+        "High P_(CO2) -> Peripheral chemoreceptor stimulation -> Parasympathetic discharge -> Hypertension.",
+        "Low P_(O2) -> Central chemoreceptor inhibition -> Vasomotor center failure -> Bradycardia."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "During an experimental saline infusion, a subject's right atrial pressure increases from 2 mmHg to 8 mmHg. The subject's heart rate increases significantly. This specific response to increased volume is mediated by which of the following?",
+      "options": [
+        "High-pressure baroreceptors in the aortic arch.",
+        "Peripheral chemoreceptors in the carotid bodies.",
+        "Low-pressure stretch receptors in the atria (Bainbridge reflex).",
+        "Myogenic contraction of the ventricular myocardium.",
+        "Down-regulation of beta-1 receptors in the SA node."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient with severe chronic kidney disease has an arterial blood pressure of 160/95 mmHg and exhibits generalized edema. How does the renin-angiotensin-aldosterone system (RAAS) contribute to the cardiovascular integration in this state?",
+      "options": [
+        "Decreased renal perfusion pressure stimulates renin, increasing stressed volume via Na^+ retention.",
+        "Increased ANP inhibits aldosterone, causing a shift from stressed to unstressed volume.",
+        "Angiotensin II dilates efferent arterioles to decrease the total peripheral resistance.",
+        "High plasma K^+ inhibits aldosterone secretion to prevent further ECF expansion.",
+        "Aldosterone decreases the permeability of the collecting duct to water, increasing urine flow."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "In a patient who has undergone a successful heart transplant, which of the following mechanisms is primarily responsible for the increase in cardiac output during the first few minutes of exercise?",
+      "options": [
+        "Direct sympathetic neural stimulation of the SA node.",
+        "Reflex vagal withdrawal triggered by the central command.",
+        "An increase in end-diastolic volume (Preload) via the Frank-Starling mechanism.",
+        "Rapid down-regulation of M2 muscarinic receptors.",
+        "Immediate release of ANP from the transplanted atria."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient suffers a major GI bleed and loses approximately 20% of his blood volume. Which set of Starling forces at the capillary level best describes the compensatory \"autotransfusion\" effect?",
+      "options": [
+        "Increased Pcand increased \u03c0c.",
+        "Decreased Pcand increased absorption from the interstitium.",
+        "Decreased \u03c0cand increased filtration into the interstitium.",
+        "Increased Piand decreased lymphatic flow.",
+        "Constant Pcand decreased \u03c0i ."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "During strenuous isotonic exercise, which of the following changes in the arterial pressure profile is most likely?",
+      "options": [
+        "Both systolic and diastolic pressures decrease significantly.",
+        "Systolic pressure increases, while diastolic pressure remains constant or decreases slightly.",
+        "Diastolic pressure increases more than systolic pressure, narrowing the pulse pressure.",
+        "Mean arterial pressure decreases because of the massive drop in TPR.",
+        "Pulse pressure remains constant because heart rate and stroke volume increase in parallel."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A clinician compares two patients in shock. Patient X has hypovolemic shock (hemorrhage), and Patient Y has anaphylactic shock (histamine release). Which hemodynamic finding would best differentiate the two?",
+      "options": [
+        "Patient Y has a higher heart rate than Patient X.",
+        "Patient X has a higher total peripheral resistance (TPR) than Patient Y.",
+        "Patient Y has a higher mean systemic filling pressure than Patient X.",
+        "Patient X has a higher cardiac output than Patient Y.",
+        "Patient Y has more \"stressed\" volume than Patient X."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A 55-year-old woman is found to have an aldosterone-secreting adrenal adenoma. Which set of cardiovascular and renal findings is most consistent with this condition?",
+      "options": [
+        "Hypotension, hyperkalemia, and increased plasma renin activity.",
+        "Hypertension, hypokalemia, and decreased plasma renin activity.",
+        "Normal blood pressure, hypernatremia, and increased ANP levels.",
+        "Hypertension, hyperkalemia, and increased angiotensin II.",
+        "Hypotension, hyponatremia, and decreased ADH secretion."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A medical student stands at attention for 45 minutes during a ceremony. She feels light-headed and her heart is racing. Which of the following has occurred?",
+      "options": [
+        "Venous compliance has decreased, increasing the stressed volume.",
+        "Capillary hydrostatic pressure in the feet has increased, favoring filtration and edema.",
+        "The firing rate of the carotid sinus nerve has increased, stimulating the vasomotor center.",
+        "Stroke volume has increased due to the skeletal muscle pump in her legs.",
+        "Parasympathetic outflow to the SA node has increased to compensate for the high pressure."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "Following a moderate hemorrhage, the body's \"long-term\" compensation begins. Which of the following is an effect of Angiotensin II that supports this compensation?",
+      "options": [
+        "Stimulation of the Na^+/K^+ ATPase in the SA node.",
+        "Inhibition of the V2 receptors in the renal collecting ducts.",
+        "Stimulation of Na^+-H^+ exchange in the renal proximal tubule.",
+        "Decreased thirst sensation to prevent further volume expansion.",
+        "Vasodilation of the afferent arterioles to increase GFR."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "In a healthy individual, which reflex ensures that the cardiac outputs of the left and right ventricles remain equalized beat-by-beat?",
+      "options": [
+        "The baroreceptor reflex.",
+        "The chemoreceptor reflex.",
+        "The Frank-Starling mechanism.",
+        "The Cushing reflex.",
+        "The lung inflation reflex."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "A patient with severe heart failure is administered a positive inotropic agent. How will this shift the intersection of the cardiac and vascular function curves?",
+      "options": [
+        "Shift to a higher cardiac output and a lower right atrial pressure.",
+        "Shift to a lower cardiac output and a higher right atrial pressure.",
+        "Shift to a higher cardiac output and a higher right atrial pressure.",
+        "Shift to a lower cardiac output and a lower right atrial pressure.",
+        "The intersection point will remain the same, but the slope of the curves will change."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "During the compensatory phase following a hemorrhage, why is blood flow to the kidneys reduced?",
+      "options": [
+        "Renal autoregulation is overridden by intense sympathetic vasoconstriction.",
+        "The high levels of ANP produce a powerful renal afferent constriction.",
+        "The parasympathetic system stimulates the release of renal prostaglandins.",
+        "The kidneys lose their ability to secrete renin at low arterial pressures.",
+        "The macula densa senses a decrease in NaCl delivery and dilates the afferent arteriole."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "A subject immerses his face in cold water while holding his breath (the diving reflex). Which set of changes is characteristic of this integrated response?",
+      "options": [
+        "Tachycardia and peripheral vasodilation.",
+        "Bradycardia and peripheral vasoconstriction.",
+        "Increased cardiac output and decreased total peripheral resistance.",
+        "Hypertension and increased blood flow to the splanchnic organs.",
+        "Hypotension and decreased sympathetic outflow."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "Why does the arteriovenous (A-V) O2 difference increase during strenuous exercise?",
+      "options": [
+        "Arterial O2 content increases due to hyperventilation.",
+        "The cardiac output is too low to meet the demand of the tissues.",
+        "Tissues extract a higher percentage of O2 from the blood to meet metabolic needs.",
+        "Hemoglobin affinity for O2 increases due to the drop in muscle pH.",
+        "Pulmonary blood flow decreases, reducing the loading of O2 in the lungs."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "A patient with a chronic pulmonary condition has a Pa_(O2) of 55 mmHg and a Pa_(CO2) of 65 mmHg. If given 100% oxygen, his ventilation rate decreases. What is the analytical explanation for this response?",
+      "options": [
+        "The peripheral chemoreceptors were providing the primary drive for his breathing.",
+        "The central chemoreceptors are overstimulated by the high P_(O2).",
+        "The oxygen toxicity has damaged the medullary respiratory center.",
+        "The 100% oxygen has increased the pH of his cerebrospinal fluid.",
+        "The high P_(O2) has activated the Hering-Breuer inflation reflex."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "mcq",
+      "prompt": "In the context of the baroreceptor reflex, what is the effect of \"carotid sinus massage\" (external pressure on the carotid bifurcation)?",
+      "options": [
+        "It is interpreted as a decrease in pressure, leading to tachycardia.",
+        "It is interpreted as an increase in pressure, leading to reflex bradycardia.",
+        "It inhibits the glossopharyngeal nerve, increasing sympathetic outflow.",
+        "It activates the peripheral chemoreceptors, increasing the heart rate.",
+        "It increases the stressed volume by shifting blood from the veins."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "mcq",
+      "prompt": "A 30-year-old woman in her third trimester of pregnancy has significant ankle edema. Based on the integration of Starling forces, what is the most likely cause?",
+      "options": [
+        "Decreased plasma protein synthesis by the liver.",
+        "Obstruction of lymphatic vessels by the fetus.",
+        "Increased Pcin the lower extremities due to compression of the vena cava.",
+        "Increased \u03c0i  due to excessive salt intake.",
+        "Activation of the myogenic response in the cutaneous arterioles."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "mcq",
+      "prompt": "During a state of progressive, irreversible shock, what happens to the total peripheral resistance (TPR)?",
+      "options": [
+        "It continues to increase as the baroreflex becomes more sensitive.",
+        "It remains at a maximum level until death occurs.",
+        "It decreases as the vasomotor center fails and vasodilator metabolites accumulate.",
+        "It fluctuates rhythmically with the respiratory cycle.",
+        "It becomes equal to the pulmonary vascular resistance."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "mcq",
+      "prompt": "In the response to a high-salt diet, what is the integrated role of Atrial Natriuretic Peptide (ANP)?",
+      "options": [
+        "It increases Na^+ reabsorption in the proximal tubule to expand ECF.",
+        "It constricts renal afferent arterioles and dilates efferent arterioles.",
+        "It dilates renal afferent arterioles and increases GFR to promote natriuresis.",
+        "It stimulates the release of ADH to maintain the blood volume.",
+        "It increases the sensitivity of the baroreceptors to high pressure."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "mcq",
+      "prompt": "When a person is exercising, the \"muscle pump\" increases venous return. How does this specifically affect the vascular function (venous return) curve?",
+      "options": [
+        "It rotates the curve counterclockwise.",
+        "It shifts the curve to the right by increasing the mean systemic pressure.",
+        "It shifts the curve to the left by decreasing the right atrial pressure.",
+        "It changes the slope of the curve by increasing the TPR.",
+        "It causes the curve to become horizontal at the zero-flow point."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

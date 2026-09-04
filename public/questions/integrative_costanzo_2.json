@@ -1,0 +1,358 @@
+{
+  "id": "integrative-true-false-2",
+  "title": "Integrative Physiology 2",
+  "topic": "True-False Integrative",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "If intracellular ATP levels are completely depleted, the Na^+/K^+ATPase will fail, leading to an accumulation of intracellular Na^+, a decrease in intracellular K^+ , and subsequent cell swelling due to osmotic water entry.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "Increasing the permeability of a cell membrane to a specific ion will always drive the resting membrane potential further away from that ion's equilibrium potential.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "During the cross-bridge cycle in skeletal muscle, the hydrolysis of ATP to ADP and inorganic phosphate is the step that initially causes the myosin head to detach from the actin filament.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "In a skeletal muscle contraction, if the mechanical load exceeds the maximum force the muscle can generate, the muscle will shorten at a constant velocity to attempt to overcome the load.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "A patient with a complete lesion or surgical cut of the left optic nerve would be expected to experience a loss of vision specifically in the left nasal field and the right temporal field.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "In the process of photoreception, exposure of a rod cell to light causes a decrease in intracellular cGMP levels, which leads to the closure of Na^+  channels and membrane hyperpolarization.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "The absolute refractory period of a nerve fiber is physiologically determined by the specific amount of time required for voltage-gated K^+  channels to close following membrane repolarization.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "Saltatory conduction occurs in myelinated axons because the high electrical resistance of the myelin sheath forces current to flow through the low-resistance nodes of Ranvier, where action potentials are regenerated.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "Activation of the parasympathetic nervous system causes the pupil to dilate (mydriasis) by stimulating the contraction of the radial dilator muscles of the iris.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "In the vestibular system, bending of the hair cell stereocilia toward the kinocilium results in hyperpolarization of the cell and a decrease in the firing rate of the associated sensory nerve.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "An excitatory postsynaptic potential (EPSP) is primarily caused by a transient increase in the membrane permeability to K^+  ions, which hyperpolarizes the postsynaptic membrane.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "Tetanic contraction in skeletal muscle is possible because the duration of the mechanical twitch is significantly longer than the duration of the electrical action potential, allowing for the summation of force.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "In an individual standing upright, the ventilation/perfusion (V/Q) ratio at the apex of the lung is significantly higher than at the base, making the apex a favorable environment for organisms like Mycobacterium tuberculosis.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "According to the alveolar ventilation equation, if a person's alveolar ventilation is halved while their metabolic CO2production remains constant, the arterial PCO2  will double.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "Pulmonary surfactant increases the surface tension of the fluid lining the alveoli, which provides the necessary elastic recoil to prevent the lungs from overinflating at high volumes.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "During the initial response to high altitude, the resulting hyperventilation is driven by peripheral chemoreceptors in the carotid bodies sensing a decrease in arterial PO2 .",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "Breathing 100% oxygen is a highly effective physiological treatment for correcting hypoxemia caused by a significant anatomical right-to-left shunt.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "According to the Frank-Starling Law of the heart, an increase in end-diastolic volume leads to an increase in stroke volume primarily due to a more optimal overlap of actin and myosin filaments.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "During the isovolumetric contraction phase of the cardiac cycle, both the atrioventricular and semilunar valves are closed, and ventricular pressure increases rapidly while volume remains constant.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "Activation of the baroreceptor reflex in response to a sudden decrease in arterial blood pressure results in a coordinated increase in parasympathetic outflow to the heart to restore the heart rate.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "The second heart sound (S2 ) is physiologically associated with the closure of the mitral and tricuspid valves at the beginning of the ventricular isovolumetric contraction phase.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "Arterioles are the primary site of resistance in the systemic circulation, and their constriction by the sympathetic nervous system significantly increases total peripheral resistance.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "Glomerulotubular balance is an intrinsic renal mechanism ensuring that a constant percentage of the filtered load of sodium and water is reabsorbed by the proximal tubule, regardless of GFR fluctuations.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "In the presence of maximum levels of Antidiuretic Hormone (ADH), the tubular fluid at the end of the thick ascending limb of the loop of Henle becomes hyperosmotic relative to plasma.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "Aldosterone primarily increases sodium reabsorption and potassium secretion by upregulating transport proteins in the epithelial cells of the early proximal convoluted tubule.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "The renal clearance of para-aminohippuric acid (PAH) is used to calculate the Glomerular Filtration Rate (GFR) because it is freely filtered and neither reabsorbed nor secreted.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "Acute constriction of the efferent arteriole will typically result in an increase in the glomerular capillary hydrostatic pressure and the GFR, while decreasing the renal plasma flow.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "In a state of chronic metabolic acidosis, the kidneys compensate by increasing the excretion of H+as titratable acid and ammonium (NH4+ ) to generate new bicarbonate for the plasma.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "Renal prostaglandins (PGE2and PGI2 ) act as potent vasoconstrictors of the afferent arteriole to protect the kidney from excessive filtration during periods of high blood pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "The \"aldosterone escape\" phenomenon in primary hyperaldosteronism is characterized by a return of sodium excretion to normal levels due to pressure natriuresis, which prevents progressive edema.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "Cholecystokinin (CCK) stimulates the contraction of the gallbladder and the simultaneous relaxation of the sphincter of Oddi to facilitate the delivery of bile into the duodenum.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "Secretin is an endocrine hormone released from duodenal S cells primarily in response to the presence of fat and amino acids in the chyme.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "The cephalic phase of gastric secretion is initiated only once food enters the stomach and is sensed by mechanoreceptors, accounting for 60% of the total HCl response.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "Bile salts must reach the terminal ileum to be reabsorbed via an active sodium-coupled transport process as part of the enterohepatic circulation.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "Migrating motility complexes (MMCs) are periodic contractions that occur during the interdigestive period to clear the gut of remnants and are coordinated by the hormone motilin.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "Pancreatic ductal cells secrete a bicarbonate-rich fluid into the ductal lumen via an apical Cl^-/HCO3-exchanger that is functionally coupled to an apical Cl^-  channel.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "Gastric emptying is physiologically accelerated by the presence of hypertonic chyme or a high concentration of fatty acids in the duodenum.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "In the liver, bile acid synthesis is regulated by a positive feedback loop where high levels of bile salts in the portal blood stimulate the conversion of cholesterol to bile acids.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "Primary adrenal insufficiency (Addison's disease) typically presents with high plasma ACTH levels, hyperkalemia, and metabolic acidosis due to the loss of adrenal steroid hormones.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "In Graves' disease, hyperthyroidism is caused by thyroid-stimulating immunoglobulins that act as agonists on TSH receptors, leading to unregulated thyroid hormone secretion.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "Oxytocin is synthesized and stored in the posterior pituitary gland and is responsible for stimulating milk let-down and uterine contractions during labor.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "Insulin promotes the entry of glucose into skeletal muscle and adipose tissue by stimulating the insertion of GLUT4 transporters into the cell membrane.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "Primary hyperparathyroidism results in hypercalcemia and hypophosphatemia, which increases the filtered load of calcium and the risk of forming calcium-containing renal stones.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "During the follicular phase of the menstrual cycle, rising levels of estrogen exert negative feedback to inhibit the secretion of FSH and LH from the anterior pituitary.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "A patient with a TSH-secreting pituitary tumor would likely exhibit high plasma levels of T4and T3 , but TRH levels would be appropriately suppressed due to negative feedback.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "Progesterone is the primary hormone responsible for the development of female secondary sex characteristics, such as breast development and the widening of the pelvis.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "During strenuous exercise, the mean arterial PO2and PCO2  in a healthy athlete remain almost exactly at resting levels despite a massive increase in oxygen consumption.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "Acclimatization to high altitude involves an adaptive increase in 2,3-DPG production, which shifts the oxyhemoglobin dissociation curve to the left to enhance oxygen loading in the lungs.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "The Cushing reflex is a physiological response to increased intracranial pressure characterized by the triad of systemic hypotension, tachycardia, and respiratory depression.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "In response to severe hemorrhage, the baroreceptor reflex compensates by increasing total peripheral resistance and heart rate to maintain blood flow to vital organs.",
+      "answer": "true",
+      "explanation": "-"
+    }
+  ]
+}

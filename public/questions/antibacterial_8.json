@@ -1,0 +1,148 @@
+{
+  "id": "antibacterial-agents-8",
+  "title": "Antibacterial Agents 8",
+  "topic": "Antibacterial Agents",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which route of administration is specifically indicated for vancomycin when used to treat pseudomembranous colitis caused by *Clostridioides difficile* overgrowth?",
+      "options": [
+        "Oral",
+        "Intrathecal",
+        "Topical",
+        "Intravenous",
+        "Intramuscular"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A laboratory technician is testing various protein synthesis inhibitors to determine their mode of action. Which of the following agents is uniquely classified as bactericidal rather than bacteriostatic?",
+      "options": [
+        "Chloramphenicol",
+        "Clindamycin",
+        "Doxycycline",
+        "Azithromycin",
+        "Gentamicin"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Which class of antibacterial agents consists of cation polypeptides that disrupt the integrity of the Gram-negative bacterial cell membrane by binding to phospholipids, but is limited by systemic nephrotoxicity and neurotoxicity?",
+      "options": [
+        "Aminoglycosides",
+        "Polymyxins",
+        "Carbapenems",
+        "Glycopeptides",
+        "Nitroimidazoles"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient being treated for a urinary tract infection with a folic acid antagonist develops megaloblastic anemia. Which of the following drugs is most likely responsible for this adverse effect?",
+      "options": [
+        "Trimethoprim",
+        "Amoxicillin",
+        "Ciprofloxacin",
+        "Nitrofurantoin",
+        "Cephalexin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Which antibiotic class is contraindicated in children and pregnant women due to its potential to cause damage to developing cartilage?",
+      "options": [
+        "Macrolides",
+        "Aminoglycosides",
+        "Fluoroquinolones",
+        "Sulfonamides",
+        "Tetracyclines"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient with a Vancomycin-Resistant Enterococcus (VRE) infection is started on an oxazolidinone that prevents the formation of the ribosomal initiation complex. Which of the following adverse effects is associated with this drug due to its activity as a nonselective monoamine oxidase inhibitor (MAOI)?",
+      "options": [
+        "Red man syndrome",
+        "Gray baby syndrome",
+        "Tendon rupture",
+        "Serotonin syndrome",
+        "Acute hemolytic anemia"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 32-year-old pregnant woman at 36 weeks of gestation undergoes routine screening for vaginal and rectal carriage of potential neonatal pathogens. The culture identifies Gram-positive cocci in chains that are \u03b2-hemolytic, catalase-negative, and bacitracin-resistant. Which of the following is the most appropriate intrapartum antimicrobial prophylaxis to prevent neonatal sepsis and meningitis in this patient?",
+      "options": [
+        "Vancomycin",
+        "Ceftriaxone",
+        "Gentamicin",
+        "Azithromycin",
+        "Penicillin G"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 52-year-old rice farmer from presents with a three-week history of fever, weight loss, and a productive cough. A chest radiograph reveals a cavitary lesion in the left upper lobe. Microscopic examination of the sputum reveals Gram-negative bacilli that demonstrate prominent bipolar staining. The organism is oxidase-positive and grows as wrinkled colonies on agar. Which of the following is the most appropriate first-line antimicrobial agent for this patient?",
+      "options": [
+        "Penicillin G",
+        "Ceftriaxone",
+        "Vancomycin",
+        "Ceftazidime",
+        "Metronidazole"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 64-year-old male is treated in the intensive care unit for a ventilator-associated pneumonia caused by an extensively drug-resistant (XDR) strain of *Acinetobacter baumannii*. What is one notable adverse effect of the drug of choice of this specific strain of *A. baumannii*?",
+      "options": [
+        "Red man syndrome",
+        "Tendon rupture",
+        "Bone marrow suppression",
+        "Neuromuscular blockade",
+        "QTc prolongation"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient with a hospital-acquired infection is diagnosed with *Pseudomonas aeruginosa*. Which of the following \u03b2-lactam combinations is specifically indicated for this pathogen due to its antipseudomonal activity?",
+      "options": [
+        "Penicillin G-gentamicin",
+        "Piperacillin-tazobactam",
+        "Cloxacillin-clavulanate",
+        "Ampicillin-sulbactam",
+        "Amoxicillin-clavulanate"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

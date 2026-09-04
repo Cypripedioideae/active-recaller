@@ -1,0 +1,78 @@
+{
+  "id": "nephron-function-set-6",
+  "title": "Renal Channels 6",
+  "topic": "Nephron Function Set",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "Compare the impact of furosemide versus hydrochlorothiazide on the risk of calcium-containing nephrolithiasis.",
+      "modelAnswer": "Furosemide inhibits the NKCC2 symporter, which abolishes the lumen-positive potential and prevents the electrical repulsion required for paracellular calcium reabsorption, thus increasing the risk of stones via hypercalciuria . Conversely, thiazides inhibit the NCC, causing cell hyperpolarization that increases the driving force for apical calcium entry through TRPV5 channels, thereby reducing stone risk via hypocalciuria.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Analyze the effect of a profound chronic reduction in dietary protein on a patient's maximum urinary osmolality during water deprivation.",
+      "modelAnswer": "Chronic protein restriction reduces the production of urea, which is a major constituent of the inner medullary osmotic gradient . Logically, a lower medullary [urea] reduces the osmotic force for water reabsorption from the medullary collecting ducts, resulting in a decreased maximum urinary osmolality despite the presence of AVP.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "Predict the change in potassium handling in a patient with a juxtaglomerular cell tumor (renin-secreting) and identify the secondary compensatory mechanism at the afferent arteriole.",
+      "modelAnswer": "A renin-secreting tumor causes autonomous Angiotensin II and aldosterone elevation, which stimulates ENaC and ROMK to increase potassium secretion, leading to hypokalemia . The resulting hypertension and volume expansion activate Tubuloglomerular Feedback (TGF) and pressure natriuresis, causing afferent arteriolar constriction in non-affected nephrons to attempt to lower GFR and sodium retention.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "A patient with an AT1-receptor antagonist overdose presents. Analyze the likely change in proximal bicarbonate reabsorption and the resulting impact on distal sodium delivery.",
+      "modelAnswer": "AT1-receptor blockade inhibits the stimulatory effect of Angiotensin II on the apical NHE3 and basolateral NBCe1 transporters in the proximal tubule, leading to reduced bicarbonate and sodium reabsorption . This logic dictates that the distal delivery of sodium and water will increase, which may secondarily stimulate aldosterone-mediated potassium secretion if volume depletion supervenes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "Contrast the effect of acute respiratory acidosis versus chronic metabolic acidosis on the kidney's capacity to excrete acid as ammonium (NH4+).",
+      "modelAnswer": "While acute respiratory acidosis increases H+ secretion by increasing the mass action supply of intracellular CO 2  , chronic metabolic acidosis produces a far more profound increase in ammonium excretion . This is because metabolic acidosis triggers an adaptive induction of ammoniagenic enzymes like glutaminase and PEPCK, allowing the proximal tubule to significantly scale up NH 3  synthesis from glutamine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "Predict the effect of a mutation causing constitutive activation of the Calcium-Sensing Receptor (CaSR) on the renal handling of magnesium and systemic extracellular fluid volume.",
+      "modelAnswer": "Constitutive activation of the CaSR inhibits NKCC2 and ROMK channels in the thick ascending limb (TAL), which abolishes the lumen-positive potential and leads to magnesium and calcium wasting . The inhibition of NaCl reabsorption in the TAL also produces a \"loop-like\" diuresis, leading to ECF volume contraction and a secondary activation of the renin-angiotensin-aldosterone system.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "Analyze why a patient with Type 2 (proximal) RTA eventually reaches a steady state with an acidic urine pH despite the initial defect in bicarbonate reabsorption.",
+      "modelAnswer": "In Type 2 RTA, the proximal tubule fails to reabsorb HCO3-, causing a massive initial loss in urine . However, as plasma [HCO 3 -  ] falls to a level where the filtered load finally matches the tubule's limited reabsorptive capacity (the \"new\" threshold), HCO3- delivery to the distal nephron ceases, allowing distal H-ATPase secretion to finally lower the urine pH below 5.3.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "Explain why a patient with Addison's disease develops hyponatremia and a \"hypotonic contraction\" of the ECF, despite the initial trigger being a loss of solute.",
+      "modelAnswer": "The lack of aldosterone causes severe renal sodium wasting, leading to hypovolemia . This low effective circulating volume triggers a potent non-osmotic release of AVP, which stimulates water reabsorption in the collecting ducts; the retained water dilutes the remaining ECF sodium, resulting in hyponatremia and a \"hypotonic contraction\" state.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "Predict how the administration of a V2-receptor antagonist (vaptan) would alter the medullary osmotic gradient compared to a state of simple water diuresis.",
+      "modelAnswer": "A vaptan blocks the V2 receptor, which not only inhibits AVP-mediated water reabsorption but also prevents the AVP-induced stimulation of NKCC2 in the TAL and urea transporters (UT-A1) in the IMCD . Consequently, the medullary osmotic gradient is more severely washed out than in simple water diuresis, where the lack of AVP is often less absolute or occurs without pharmaceutical receptor antagonism.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "In a patient with chronic renal failure, analyze the mechanism of \"uremic acidosis\" regarding the relative roles of titratable acidity versus ammonia production.",
+      "modelAnswer": "In uremic acidosis, the progressive loss of nephrons leads to a reduced total production of NH3 from glutamine, which is the primary cause of metabolic acidosis . While the remaining nephrons may maximize titratable acidity using filtered phosphate, the absolute amount of phosphate is limited by the low total GFR, making it impossible for the kidney to excrete the daily metabolic acid load.",
+      "explanation": "-"
+    }
+  ]
+}

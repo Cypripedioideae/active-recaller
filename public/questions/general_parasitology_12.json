@@ -1,0 +1,92 @@
+{
+  "id": "general-parasitology-12",
+  "title": "General Parasitology 12",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A patient with Human African Trypanosomiasis (HAT) progresses from the initial hemolymphatic stage to the neurological stage. Which of the following clinical presentations is most characteristic of this stage of the infection?",
+      "options": [
+        "Acute hemolytic anemia and hemoglobinuria",
+        "Development of painful, indurated skin ulcers (chancre)",
+        "Massive splenomegaly and spiking fever cycles",
+        "Progressive somnolence, slurred speech, and coma",
+        "Unilateral painless periorbital swelling (Roma\u00f1a sign)"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A healthy teenager develops rapidly progressive and fatal encephalitis. Brain tissue examination reveals cysts and trophozoites of a free-living ameba. Which of the following characteristics distinguishes Balamuthia mandrillaris from other free-living amebae causing central nervous system disease?",
+      "options": [
+        "It enters the host primarily via the cribriform plate during diving",
+        "It exclusively infects immunocompromised individuals with HIV",
+        "It is acquired through contact with soil, air, or water reservoirs",
+        "It is only found in stagnant tropical freshwater ponds",
+        "It lacks a cyst stage in its life cycle within human tissue"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A laboratory technician is examining a thick blood film to differentiate between the microfilariae of Wuchereria bancrofti and Brugia malayi. Which of the following morphological features is the definitive hallmark of Brugia malayi?",
+      "options": [
+        "Absence of a protective sheath around the larva",
+        "Presence of exactly two terminal nuclei at the end of the tail",
+        "Short cephalic space with a 1:1 ratio to the body width",
+        "Smoothly curved body appearance without twisting",
+        "Uniformly arranged nuclei that do not overlap"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 68-year-old patient who regularly consumes raw freshwater fish presents with symptoms of megaloblastic anemia. Which of the following mechanisms best explains the development of Vitamin B12 deficiency in this parasitic infection?",
+      "options": [
+        "Chronic blood loss due to attachment to the large intestine",
+        "Destruction of gastric parietal cells and loss of intrinsic factor",
+        "Direct competition for and depletion of host B12 in the intestine",
+        "Malabsorption caused by the internal autoinfection of larvae",
+        "Systemic inflammatory response to migrating rhabditiform larvae"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Adult schistosomes are able to reside within the human intravascular system for long periods without being eradicated by the host's immune system. Which of the following molecular mechanisms best explains this immune evasion?",
+      "options": [
+        "Inhibition of NF-\u03baB to prevent host cell apoptosis",
+        "Masking by incorporating host MHC and blood group antigens",
+        "Rapid VSG-mediated antigenic variation of the surface coat",
+        "Secretion of hyaluronidase to penetrate the vascular endothelium",
+        "Sequestration within sequestered splenic macrophages"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A traveler returning from a tropical beach vacation presents with a painful, inflamed lesion on the sole of the foot. The physician identifies the dark posterior portion of a flea embedded in the skin. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Cutaneous larva migrans",
+        "Leishmaniasis",
+        "Pediculosis",
+        "Scabies",
+        "Tungiasis"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

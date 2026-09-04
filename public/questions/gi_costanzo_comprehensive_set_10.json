@@ -1,0 +1,428 @@
+{
+  "id": "comprehensive-gi-review-10",
+  "title": "Gastrointestinal Comprehensive Set 2: GI Motility (MCQ)",
+  "topic": "Comprehensive GI Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 45-year-old patient participates in a study where a manometric catheter is placed at various points along the small intestine. During the interdigestive state, the researcher observes a series of intense, rhythmic contractions that migrate from the stomach to the distal ileum every 90 minutes. Which of the following would most likely abolish this specific pattern of motility?",
+      "options": [
+        "Administration of a potent muscarinic antagonist.",
+        "Ingestion of a mixed macronutrient meal.",
+        "Surgical resection of the pyloric sphincter.",
+        "Blockade of the interstitial cells of Cajal.",
+        "Administration of an acetylcholinesterase inhibitor."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "During a laboratory experiment, a segment of isolated duodenal smooth muscle is bathed in a solution that contains a high concentration of a drug that blocks voltage-gated Ca^(2+) channels. Which of the following describes the most likely effect on the electrical activity of this tissue?",
+      "options": [
+        "The frequency of the basic electrical rhythm (slow waves) will increase.",
+        "The resting membrane potential will become more positive (depolarize).",
+        "The depolarizing phase of the slow waves will be significantly flattened.",
+        "The repolarizing phase of the slow waves will be abolished.",
+        "The threshold potential for spike potentials will be lowered."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A researcher uses a microelectrode to record the electrical activity of a smooth muscle cell in the gastric antrum. The recording shows a cyclic oscillation of the membrane potential at a frequency of 3 per minute. If the amplitude of these oscillations is increased by a pharmacological agent without reaching the threshold for action potentials, what is the most likely mechanical outcome?",
+      "options": [
+        "A weak, tonic-like contraction of the muscle cell.",
+        "A series of high-tension phasic contractions.",
+        "Complete relaxation and absence of any muscle tension.",
+        "Immediate opening of the pyloric sphincter.",
+        "Generation of a migrating myoelectric complex."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 30-year-old woman with chronic heartburn undergoes esophageal manometry. The results show that the resting pressure of her lower esophageal sphincter (LES) is significantly lower than normal. Which of the following neuro-hormonal changes would be most consistent with a further decrease in her LES pressure?",
+      "options": [
+        "Increased release of substance P from enteric neurons.",
+        "Blockade of the alpha-adrenergic receptors in the sphincter.",
+        "Increased release of gastrin-releasing peptide (GRP).",
+        "Systemic administration of a motilin receptor agonist.",
+        "Increased local release of vasoactive intestinal peptide (VIP)."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 60-year-old male with a long history of Type 1 diabetes presents with frequent nausea, vomiting of undigested food, and a sense of early satiety. A gastric emptying study confirms gastroparesis. The most likely physiological basis for this patient's slowed emptying of solids is:",
+      "options": [
+        "Hyper-responsiveness of the orad stomach to vagovagal reflexes.",
+        "Absence of the basic electrical rhythm in the caudad stomach.",
+        "Excessive secretion of motilin during the digestive phase.",
+        "Damage to the vagus nerve leading to impaired antral trituration.",
+        "Decreased resistance of the pyloric sphincter to chyme flow."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A bolus of food enters the mid-portion of the small intestine, causing local distension. Which of the following coordinated patterns of muscular activity is required to move this bolus in the caudad direction?",
+      "options": [
+        "Contraction of longitudinal muscle and relaxation of circular muscle behind the bolus.",
+        "Contraction of circular muscle behind the bolus and relaxation of circular muscle in front of the bolus.",
+        "Relaxation of both circular and longitudinal muscles both behind and in front of the bolus.",
+        "Contraction of circular muscle in front of the bolus and relaxation behind the bolus.",
+        "Simultaneous contraction of circular muscle throughout the entire intestinal segment."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "In an experimental model, the vago-vagal reflex responsible for \"receptive relaxation\" is selectively inhibited. After the subject ingests a large meal, which of the following is the most likely predicted outcome?",
+      "options": [
+        "Decreased rate of liquid emptying from the stomach.",
+        "Increased compliance of the gastric fundus.",
+        "An abnormally rapid rise in intragastric pressure upon eating.",
+        "Failure of the pyloric sphincter to close during antral systole.",
+        "Suppression of the gastrocolic reflex in the colon."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 55-year-old patient undergoes a total gastrectomy for the treatment of a malignancy. Following a meal, the patient experiences a \"dumping syndrome\" characterized by palpitations, sweating, and pallor. This is primarily caused by:",
+      "options": [
+        "Rapid entry of hypertonic chyme into the duodenum leading to ECF volume contraction.",
+        "Excessive secretion of insulin due to the loss of GIP-mediated feedback.",
+        "Failure to digest carbohydrates due to the loss of salivary amylase activation.",
+        "Potent stimulation of the baroreceptor reflex by gastric distension.",
+        "Increased intestinal surface area following the surgical procedure."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "In the large intestine, the presence of feces in the rectum initiates the rectosphincteric reflex. Which of the following occurs as a direct component of this reflex before voluntary intervention?",
+      "options": [
+        "Contraction of the external anal sphincter.",
+        "Relaxation of the smooth muscle in the sigmoid colon.",
+        "Narrowing of the anorectal angle by the pelvic floor muscles.",
+        "Relaxation of the internal anal sphincter via intrinsic enteric nerves.",
+        "Closure of the glottis to increase intra-abdominal pressure."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A researcher is comparing the slow wave frequency across different segments of the GI tract. Which of the following correctly identifies the segment with the highest frequency and the segment with the lowest frequency, respectively?",
+      "options": [
+        "Stomach; Ileum.",
+        "Duodenum; Jejunum.",
+        "Ileum; Stomach.",
+        "Jejunum; Duodenum.",
+        "Duodenum; Stomach."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A patient with a duodenal ulcer is found to have an abnormally low duodenal pH during a meal. This low pH is expected to inhibit gastric emptying. Which of the following is the mediator for this inhibitory response?",
+      "options": [
+        "Increased release of gastrin from the antrum.",
+        "Enteric nervous system reflexes triggered by H^+ receptors.",
+        "Inhibition of cholecystokinin release from I cells.",
+        "Stimulation of the sympathetic nerves to the orad stomach.",
+        "Activation of the migrating myoelectric complex."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "Erythromycin is often used off-label to treat patients with impaired gastric motility. This clinical application is based on the ability of the drug to:",
+      "options": [
+        "Block the inhibitory effects of somatostatin on G cells.",
+        "Increase the frequency of slow waves in the gastric body.",
+        "Bind to and activate receptors for motilin on enteric nerves and smooth muscle.",
+        "Potentiate the effect of secretin on the pyloric sphincter.",
+        "Increase the compliance of the caudad stomach."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "In a patient with achalasia, the esophagus is often massively dilated. This condition is most specifically associated with:",
+      "options": [
+        "Absence of the myenteric plexus in the lower two-thirds of the esophagus.",
+        "Overactivity of the sympathetic adrenergic fibers in the esophageal body.",
+        "Hypertrophy of the striated muscle in the upper third of the esophagus.",
+        "Excessive release of acetylcholine at the gastroesophageal junction.",
+        "Blockade of the swallowing center in the medulla oblongata."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "The \"Law of the Intestine\" describes the directionality of peristalsis. Which substance is released by mucosal enterochromaffin cells to sense the bolus and initiate the reflex via intrinsic primary afferent neurons?",
+      "options": [
+        "Acetylcholine.",
+        "Substance P.",
+        "Vasoactive Intestinal Peptide (VIP).",
+        "Serotonin (5-HT).",
+        "Nitric Oxide."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "A manometric probe in the caudad stomach of a healthy volunteer records 3 slow waves per minute. If the volunteer then receives an injection of a hormone that increases the number of action potentials per slow wave, what is the predicted effect on the manometric tracing?",
+      "options": [
+        "The frequency of contractions will increase to 12 per minute.",
+        "The frequency of the slow waves will increase to 6 per minute.",
+        "The baseline resting potential of the smooth muscle will hyperpolarize.",
+        "The duration of the gastric phase of digestion will be shortened.",
+        "The force of each phasic contraction will be increased."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "Hirschsprung's disease (congenital megacolon) leads to severe constipation and proximal colonic dilation. The physiological cause of this obstruction is:",
+      "options": [
+        "Excessive sympathetic tone to the internal anal sphincter.",
+        "Absence of the enteric nervous system in a distal segment of the colon.",
+        "Failure of the external anal sphincter to contract during mass movements.",
+        "Increased frequency of segmentation contractions in the proximal colon.",
+        "Overproduction of VIP and nitric oxide in the rectum."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "During the esophageal phase of swallowing, a food bolus becomes stuck in the mid-esophagus. Which mechanism is responsible for the subsequent wave of contraction that begins at the site of the bolus?",
+      "options": [
+        "A primary peristaltic wave initiated by the medullary swallowing center.",
+        "Reflex contraction of the upper esophageal sphincter.",
+        "A secondary peristaltic wave mediated by the enteric nervous system.",
+        "Relaxation of the orad stomach via the gastroileal reflex.",
+        "Tonic contraction of the longitudinal muscle layer."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "A 22-year-old medical student eats a high-fat breakfast of eggs and bacon. Which of the following describes the most likely impact on her gastric motility?",
+      "options": [
+        "Cholecystokinin (CCK) will slow the rate of gastric emptying.",
+        "Secretin will increase the force of antral contractions.",
+        "The rate of emptying of solids will exceed the rate of emptying of liquids.",
+        "Gastric compliance will decrease due to sympathetic inhibition.",
+        "The frequency of slow waves will increase from 3/min to 12/min."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "Segmentation contractions are the primary motor pattern of the small intestine during the digestive period. The main physiological consequence of this pattern is:",
+      "options": [
+        "Rapid propulsion of chyme into the large intestine.",
+        "Prevention of the reflux of colonic bacteria into the ileum.",
+        "Induction of the gastrocolic reflex.",
+        "Mixing of chyme with enzymes and exposure to the absorptive mucosa.",
+        "Initiation of the primary esophageal peristaltic wave."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "In an otherwise healthy individual, the urge to defecate is often felt shortly after a large meal. This is an example of the:",
+      "options": [
+        "Intestino-intestinal reflex.",
+        "Rectosphincteric reflex.",
+        "Gastroileal reflex.",
+        "Enterogastric reflex.",
+        "Gastrocolic reflex."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "mcq",
+      "prompt": "A patient presents with a loss of the migrating myoelectric complex (MMC). Which of the following clinical findings would be most consistent with this deficit?",
+      "options": [
+        "Abnormally rapid gastric emptying of solids.",
+        "Bacterial overgrowth in the small intestine.",
+        "Loss of the receptive relaxation reflex in the fundus.",
+        "Reduced frequency of haustrations in the colon.",
+        "Failure of the upper esophageal sphincter to relax."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "mcq",
+      "prompt": "In the small intestine, a researcher observes that a pharmacological agent increases the duration of the plateau phase of the slow wave. This change is most likely to:",
+      "options": [
+        "Decrease the frequency of the basic electrical rhythm.",
+        "Prevent the generation of action potentials.",
+        "Increase the force of smooth muscle contraction.",
+        "Shift the pacemaker from the duodenum to the ileum.",
+        "Inhibit the release of serotonin from ECL cells."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "mcq",
+      "prompt": "Which of the following is the primary mediator of the relaxation of the orad stomach during a vagovagal reflex?",
+      "options": [
+        "Vasoactive Intestinal Peptide (VIP).",
+        "Acetylcholine.",
+        "Norepinephrine.",
+        "Gastrin-releasing peptide (GRP).",
+        "Cholecystokinin (CCK)."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "mcq",
+      "prompt": "A patient has a condition where the circular muscle of the ileum is unable to relax in front of a food bolus during peristalsis. This defect is most likely due to a deficiency in which neurotransmitter?",
+      "options": [
+        "Acetylcholine.",
+        "Substance P.",
+        "Neuropeptide Y.",
+        "Nitric Oxide (NO).",
+        "Norepinephrine."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "mcq",
+      "prompt": "The frequency of slow waves in the small intestine is 12/min in the duodenum and 9/min in the ileum. What happens if the duodenum is surgically transected from the ileum?",
+      "options": [
+        "Both segments will default to a frequency of 3/min.",
+        "The ileal frequency will increase to match the duodenal frequency.",
+        "The ileum will stop producing slow waves completely.",
+        "The duodenal frequency will decrease to 9/min.",
+        "Each segment will maintain its own intrinsic frequency."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "mcq",
+      "prompt": "A 70-year-old male with chronic constipation is found to have very infrequent mass movements. These powerful contractions are normally responsible for:",
+      "options": [
+        "Grinding solid food in the antrum of the stomach.",
+        "Moving colonic contents over long distances toward the rectum.",
+        "Mixing chyme with pancreatic juice in the jejunum.",
+        "Preventing the reflux of acid into the esophagus.",
+        "Initiating the secondary peristaltic wave in the small intestine."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "mcq",
+      "prompt": "During a surgical procedure, the pyloric sphincter is accidentally damaged and remains open. Which of the following is the most likely consequence for the digestion of a solid meal?",
+      "options": [
+        "Increased efficiency of antral retropulsion.",
+        "Slower delivery of nutrients to the duodenum.",
+        "Delivery of solid particles larger than 2 mm to the duodenum.",
+        "Increased compliance of the orad stomach.",
+        "Total loss of the basic electrical rhythm in the stomach."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "mcq",
+      "prompt": "An experimental animal is treated with a drug that blocks the activity of the interstitial cells of Cajal. What is the predicted effect on the GI tract?",
+      "options": [
+        "Loss of all spontaneous oscillating membrane potentials (slow waves).",
+        "Massive increase in the frequency of peristaltic contractions.",
+        "Permanent relaxation of all gastrointestinal sphincters.",
+        "Inhibition of the release of all gastrointestinal hormones.",
+        "Conversion of unitary smooth muscle to multi-unit smooth muscle."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "mcq",
+      "prompt": "In a patient with a spinal cord injury at the T10 level, the defecation reflex is still functional but can no longer be controlled voluntarily. This is because:",
+      "options": [
+        "The reflex center for defecation is located in the medulla oblongata.",
+        "The internal anal sphincter is composed of striated muscle.",
+        "The enteric nervous system requires input from the thoracic cord to function.",
+        "The external anal sphincter is under conscious control via the pudendal nerve.",
+        "Mass movements are exclusively mediated by sympathetic lumbar nerves."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "mcq",
+      "prompt": "A 25-year-old female presents with symptoms of \"heartburn.\" Esophageal manometry confirms that her intraesophageal pressure is lower than her intra-abdominal pressure. This pressure gradient:",
+      "options": [
+        "Is a normal finding due to the thoracic location of the esophagus.",
+        "Only occurs during the pharyngeal phase of swallowing.",
+        "Is caused by the tonic contraction of the upper esophageal sphincter.",
+        "Suggests a deficiency in the release of VIP and nitric oxide.",
+        "Is the primary stimulus for the migrating myoelectric complex."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    }
+  ]
+}

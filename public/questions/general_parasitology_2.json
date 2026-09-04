@@ -1,0 +1,148 @@
+{
+  "id": "general-parasitology-2",
+  "title": "General Parasitology 2",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 32-year-old man with no significant medical history is diagnosed with intestinal taeniasis after passing proglottids in his stool; one month later, his brother presents with new-onset seizures, and imaging reveals multiple viable cysts in the brain parenchyma. Which of the following regimens is the most appropriate management for the brother's neurological condition?",
+      "options": [
+        "Niclosamide plus paromomycin",
+        "Mebendazole plus pyrimidine",
+        "Praziquantel as a single dose",
+        "Diethylcarbamazine plus ivermectin",
+        "Albendazole plus dexamethasone"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 6-year-old child living in a tropical region presents with a non-productive cough, wheezing, and a low-grade fever. A peripheral blood smear reveals significant eosinophilia, and a chest X-ray shows transient pulmonary infiltrates consistent with Loeffler's syndrome. What is most likely the causative agent?",
+      "options": [
+        "*Fascioplopsis buski*",
+        "*Taenia solium*",
+        "*Trichuris trichiura*",
+        "*Capillaria philippinensis*",
+        "*Ascaris lumbricoides*"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 5-year-old girl is brought to the clinic by her parents due to intense perianal itching that significantly worsens at night, causing her to have difficulty sleeping. Which diagnostic procedure is most appropriate to confirm the suspected parasitic infection?",
+      "options": [
+        "Serological testing for specific immunoglobulin G antibodies",
+        "Concentration technique for eggs in a stool specimen",
+        "Microscopic examination of a Scotch tape prep from the perianal skin",
+        "Identification of larvae using an agar plate culture",
+        "Detection of trophozoites in a fresh liquid stool"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 38-year-old HIV-positive patient with a CD4+ count of 85/mm^3 presents with a headache and confusion; a CT scan of the head shows multiple ring-enhancing lesions. Laboratory results are positive for serum IgG antibodies against the most likely causative agent. Which parasite is responsible for this presentation?",
+      "options": [
+        "*Naegleria fowleri*",
+        "*Cryptococcus neoformans*",
+        "*Gnasthostoma spinigerum*",
+        "*Toxoplasma gondii*",
+        "*Acanthamoeba* spp."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 7-year-old male presents with symptoms of intestinal obstruction. During surgical intervention, a mass of creamy-white, cylindrical worms is removed from the small intestine. The adult worms measure approximately 25 cm in length, and the males exhibit a ventrally curved posterior end with two chitinous spicules. Which morphological feature is characteristic of the female of this species?",
+      "options": [
+        "Presence of an oral stylet and stichosomes",
+        "A long, slender body with a filariform esophagus",
+        "A barrel shape with bipolar mucoid plugs",
+        "An anterior end with a long buccal cavity",
+        "A straight posterior tail"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 28-year-old plantation worker who habitually walks barefoot in soil contaminated with human feces presents with chronic fatigue and pallor; laboratory tests show a hemoglobin level of 8.0 g/dL and a mean corpuscular volume (MCV) of 72 fL. Which organism is the most likely cause of these findings?",
+      "options": [
+        "*Ascaris lumbricoides*",
+        "*Strongyloides stercoralis*",
+        "*Necator americanus*",
+        "*Trichuris trichiura*",
+        "*Enterobius vermicularis*"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 38-year-old patient is diagnosed with uncomplicated strongyloidiasis after larvae were identified in a simple stool smear. Which of the following is the drug of choice for treating this infection?",
+      "options": [
+        "Albendazole",
+        "Mebendazole",
+        "Ivermectin",
+        "Co-trimoxazole",
+        "Praziquantel"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient presents with an excruciating headache and neck stiffness; laboratory analysis of the cerebrospinal fluid (CSF) reveals a significant number of eosinophils, leading to a diagnosis of eosinophilic meningitis. The patient reports a recent history of consuming raw Pila snails. Which of the following organisms is the most likely causative agent?",
+      "options": [
+        "*Angiostrongylus cantonensis*",
+        "*Schistosoma japonicum*",
+        "*Taenia solium*",
+        "*Paragonimus westermani*",
+        "*Gnathostoma spinigerum*"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A Giemsa-stained peripheral blood smear is performed on a traveler returning from a region with endemic malaria; microscopy reveals characteristic banana-shaped gametocytes. Which organism has been identified?",
+      "options": [
+        "*Plasmodium ovale*",
+        "*Plasmodium vivax*",
+        "*Plasmodium knowlesi*",
+        "*Plasmodium falciparum*",
+        "*Plasmodium malariae*"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 45-year-old agricultural worker presents with a serpiginous, intensely pruritic cutaneous lesion on his foot that migrated several centimetres within hours. He reports frequently walking barefoot in moist soil. Which parasitic stage is directly responsible for initiating this infection by penetrating the patient's skin?",
+      "options": [
+        "Metacercaria",
+        "Filariform larva",
+        "Embryonated egg",
+        "Trophozoite",
+        "Rhabditiform larva"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

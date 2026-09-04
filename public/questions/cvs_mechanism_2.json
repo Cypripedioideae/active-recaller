@@ -1,0 +1,113 @@
+{
+  "id": "cvs-mechanisms-review-2",
+  "title": "Cardiovascular Physiology Mechanism-Based (Medium)",
+  "topic": "CVS Mechanisms Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "How does the body's immediate compensatory response to a sudden, severe reduction in blood volume (hemorrhage) manage to restore mean arterial pressure (MAP) toward normal, given the massive initial deficit in cardiac output?",
+      "modelAnswer": "Explain the specific roles of the baroreceptor reflex pathways on the effectors (heart and vessels), detailing how the resulting increase in sympathetic outflow causes an integrated effect of increased contractility and venous constriction. The answer should articulate how venoconstriction mobilizes blood from the unstressed volume, thereby supporting venous return and cardiac output via the Frank-Starling mechanism.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Why is myocardial oxygen (O2) consumption drastically increased in a patient suffering from severe aortic stenosis, even if the patient's cardiac output (CO) remains near normal at rest?",
+      "modelAnswer": "The explanation must link the pathology (aortic stenosis) to the heart's work cost using Laplace's Law (*T*=*P*\u00d7*r*). It should describe how the extreme pressure workload (increased afterload) requires the ventricle to develop excessive tension during isovolumetric contraction. The answer must clarify that the energy expended during pressure work (isovolumetric contraction) is a disproportionately large component of total myocardial O2 consumption, which is more costly than volume work.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "Explain the physiological control hierarchy that allows active skeletal muscle during strenuous exercise to undergo massive vasodilation, resulting in a net decrease in Total Peripheral Resistance (TPR), despite the simultaneous, centrally dictated increase in sympathetic nervous system (SNS) activity across the systemic circulation.",
+      "modelAnswer": "The answer must detail the conflict between central control (SNS outflow initiated by central command, causing widespread vasoconstriction via *\u03b1*1 receptors in splanchnic/renal/inactive beds) and local metabolic control (active hyperemia). The core mechanism is that local accumulation of vasodilator metabolites (K^+, lactate, adenosine) resulting from increased tissue metabolism overrides the vasoconstrictive effects of norepinephrine specifically in the active muscle arterioles.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "Describe the multi-step hemodynamic interaction\u2014including the role of the Frank-Starling relationship\u2014that ensures the stroke volume (SV) of the right ventricle is precisely matched to the SV of the left ventricle in a steady state, despite the two sides operating against vastly different pressure loads.",
+      "modelAnswer": "The explanation must outline the mechanism that corrects a transient imbalance. A transient increase in right ventricular output (due to increased venous return, for example) must cause a temporary accumulation of blood in the pulmonary circulation. This accumulation leads to an increase in pulmonary venous and left atrial pressure, which serves as the increased preload for the left ventricle. The LVEDV then increases, and the left heart responds by automatically matching its stroke volume to that of the right heart via the Frank-Starling mechanism.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "How does the initial drop in intrathoracic pressure during a normal respiratory inspiration cause transient, cyclical changes in mean arterial pressure (MAP) and heart rate (normal sinus arrhythmia)?",
+      "modelAnswer": "Trace the pathway: \u2193 Intrathoracic pressure promotes venous return and \u2191 right heart filling (respiratory pump). \u2191 RV filling leads to a transient \u2191 RV SV (Starling law) and eventually \u2191 left heart CO and \u2191 MAP. This transient \u2191 MAP increases the firing rate of arterial baroreceptors. The reflex baroreceptor response then causes \u2191 parasympathetic activity and \u2193 heart rate (bradycardia). The answer should also note that lung stretch receptors provide input that transiently inhibits vagal tone, contributing to the arrhythmia complex.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "Why is increasing cardiac output (CO) by increasing afterload (pressure work) significantly more costly in terms of myocardial oxygen (O2) consumption than achieving the same increase in CO by increasing stroke volume (volume work)?",
+      "modelAnswer": "The explanation must define stroke work in terms of volume and pressure components. It must articulate that tension heat (energy used during isovolumetric contraction) accounts for the largest portion (\u223c50%) of total myocardial O2 consumption, and how this tension is disproportionately increased when overcoming high afterload (high pressure work) as opposed to generating high stroke volume (volume work).",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "Explain the precise balance of Starling forces that permits net fluid filtration at the arteriolar end of a systemic capillary but dictates net fluid reabsorption at the venular end under normal physiological conditions.",
+      "modelAnswer": "Detail the four Starling forces, emphasizing that the capillary hydrostatic pressure (P_c) is higher at the arteriolar end and declines along the length of the capillary. The answer must show how this P_c gradient causes the Net Filtration Pressure to be positive at the arteriolar end (favoring filtration) and typically negative at the venular end (favoring absorption), while colloid osmotic pressure (*\u03c0*c) remains relatively constant.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "How does the myogenic hypothesis explain the ability of organs like the brain or kidney to maintain nearly constant blood flow (autoregulation) despite an abrupt, sustained increase in systemic arterial pressure?",
+      "modelAnswer": "Describe the intrinsic property of vascular smooth muscle cells (VSMCs) to contract when stretched. The answer must link the sudden rise in arterial pressure to the resulting stretch of the arteriolar wall, demonstrating that the immediate vasoconstriction caused by the VSMC contraction subsequently increases local vascular resistance, which automatically counteracts the increased driving pressure to maintain flow near constant (autoregulation).",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "How does the chronic activation of the Renin-Angiotensin-Aldosterone System (RAAS) sustain hypertension, specifically detailing the actions of Angiotensin II on the kidney that prioritize blood volume retention over direct vasoconstriction for long-term control?",
+      "modelAnswer": "Explain that the RAAS is a slow, hormonal mechanism primarily controlling long-term blood pressure via volume regulation. Describe how Angiotensin II raises pressure acutely via vasoconstriction but maintains chronic pressure by: 1) directly stimulating Na^+ reabsorption in the proximal tubule, and 2) stimulating aldosterone secretion, which greatly increases Na^+ and water retention. This resulting increase in Extracellular Fluid (ECF) volume sustains cardiac output and arterial pressure over the long term via the renal-body fluid pressure control syste",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "In systolic heart failure (characterized by depressed contractility), why does administering an afterload-reducing agent result in a substantially greater proportional increase in stroke volume than the same agent would produce in a normal, healthy heart?",
+      "modelAnswer": "The explanation must use the pressure-volume loop concept. Heart failure depresses contractility, causing the End-Systolic Pressure-Volume Relationship (ESPVR) line to shift downward and become less steep. Reducing afterload (arterial pressure) lowers the pressure ceiling the heart must eject against. Because the diseased heart operates on this flatter ESPVR slope, a small reduction in afterload allows the heart to eject significantly more volume before intersecting the depressed ESPVR, resulting in a large compensatory increase in stroke volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "long_answer",
+      "prompt": "During strenuous dynamic exercise, sympathetic activity causes massive vasoconstriction in the splanchnic circulation. Explain how this localized constriction is critical for optimizing venous return and cardiac output during exercise.",
+      "modelAnswer": "The answer must link the autonomic response to the venous system's function. The sympathetic activation causes venoconstriction in the splanchnic circulation (a major venous reservoir). This venoconstriction decreases the unstressed volume and shifts blood from the veins toward the heart. This increased central blood volume raises the venous return to the right atrium, which then increases stroke volume and cardiac output via the Frank-Starling mechanism, ensuring the heart can meet the high demand of active muscles.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "long_answer",
+      "prompt": "Describe the integrated cellular and mechanical mechanism by which positive inotropic agents like cardiac glycosides (e.g., Digitalis) increase myocardial contractility and stroke volume, referencing the resulting shift in the Frank-Starling curve.",
+      "modelAnswer": "The primary action is to increase intracellular Ca^(2+) concentration, leading to increased force of contraction. Mechanically, this increase in contractility allows the ventricle to develop greater tension during systole, resulting in an increase in stroke volume for any given end-diastolic volume. On the Frank-Starling diagram, this effect is demonstrated as an upward shift of the cardiac function curve, leading to a new steady state with increased cardiac output and decreased right atrial pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "long_answer",
+      "prompt": "When a person stands for a prolonged period, orthostatic pooling occurs in the lower limbs. Explain the physical forces and local fluid exchange processes that lead to ankle edema, and describe the primary compensatory mechanism of the lymphatic system against this accumulation.",
+      "modelAnswer": "Explain that gravity causes venous pressure and subsequent capillary hydrostatic pressure (Pc) in the legs to increase. This increase in Pc shifts the balance of Starling forces, overwhelming the inward colloid osmotic pressure and causing net fluid filtration into the interstitial space. Edema results when this filtration rate exceeds the ability of the lymphatic system to return the fluid and excess protein to the circulation. The skeletal muscle pump normally assists in driving fluid back to the heart, but lack of muscle activity (standing still) impairs this process.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "long_answer",
+      "prompt": "Immediately upon standing (orthostasis), the body compensates for a massive drop in Central Venous Pressure (CVP) and resultant decrease in cardiac output. Detail the step-by-step neural pathway initiated by the high-pressure baroreceptors that quickly restores systemic arterial pressure (PA) without directly resolving the CVP deficit.",
+      "modelAnswer": "The sequence must begin with venous pooling \u2192 \u2193 venous return \u2192 \u2193 CO \u2192 \u2193 arterial pressure. This \u2193 arterial pressure reduces baroreceptor firing. The medullary cardiovascular centers respond by increasing sympathetic outflow and decreasing parasympathetic outflow. This results in a rapid increase in heart rate and contractility (to raise CO) and generalized arteriolar constriction (to increase Total Peripheral Resistance, TPR), thereby restoring PA back toward normal.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "long_answer",
+      "prompt": "Based on the principles of fluid dynamics, explain why arteriolar vasoconstriction is fundamentally the most critical and effective short-term mechanism for moment-to-moment control of organ blood flow, and quantify the magnitude of its potential influence.",
+      "modelAnswer": "The explanation must cite Poiseuille's law (F \u221d \u03b7Lr^4). Highlight that flow (Q) is inversely proportional to the fourth power of the vessel radius (r^4). The arteriolar smooth muscle can achieve small changes in diameter (e.g., fourfold change). This small change in diameter results in a colossal change in resistance and flow (up to 256-fold), making arterioles the primary determinant of local vascular resistance and flow control.",
+      "explanation": "-"
+    }
+  ]
+}

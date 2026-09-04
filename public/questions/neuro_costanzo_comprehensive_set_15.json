@@ -1,0 +1,149 @@
+{
+  "id": "comprehensive-neuro-review-15",
+  "title": "Comprehensive Neuro Set 2: Somatosensation (MCQ)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 28-year-old man is brought to the emergency department after a diving accident results in a spinal cord injury. Neurological examination reveals a complete loss of vibration sense and proprioception in his right leg, while pain and temperature sensation remain intact. Conversely, in his left leg, he can perceive vibration and position normally but has a total loss of pain and temperature sensation. At which approximate spinal level is the lesion, and on which side of the cord is it located?",
+      "options": [
+        "T10, left side.",
+        "L2, right side.",
+        "T10, right side.",
+        "C7, left side.",
+        "L2, left side."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A patient undergoes a local procedure where an anesthetic is injected near a peripheral nerve. Simultaneously, a mechanical pressure is accidentally applied to the same nerve. If the local anesthetic blocks unmyelinated fibers first, and the pressure primarily impacts large-diameter myelinated fibers, which of the following sensory profiles would the patient experience?",
+      "options": [
+        "Retention of sharp pain (A-delta) but loss of dull, aching pain (C).",
+        "Retention of fine touch (A-beta) but loss of proprioception (A-alpha).",
+        "Retention of temperature sensation but loss of all mechanoreception.",
+        "Retention of dull, aching pain",
+        "but loss of fine touch and pressure (A-beta).",
+        "Retention of vibration sense but loss of sharp, pricking pain (A-delta)."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "During an experiment, a researcher records from a single sensory unit while applying a steady force to the skin. She observes that as the force increases, the frequency of action potentials in the primary afferent increases linearly. However, she also notices that additional, neighboring sensory units begin to fire as the force becomes more intense. This recruitment of multiple units to encode stimulus strength is known as:",
+      "options": [
+        "Temporal summation.",
+        "Population coding (Spatial summation).",
+        "Labeled line coding.",
+        "Frequency coding.",
+        "Lateral inhibition."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 22-year-old medical student is testing his two-point discrimination threshold on various parts of his body. He notes that he can distinguish two distinct points only 2 mm apart on his index finger, but on his upper back, the points must be at least 40 mm apart to be felt as separate. Which physiological parameter is most likely lower on the upper back compared to the fingertip?",
+      "options": [
+        "The threshold for firing of individual nociceptors.",
+        "The degree of overlap between adjacent receptive fields.",
+        "The conduction velocity of the primary A-beta afferents.",
+        "The amount of convergence of first-order neurons onto second-order neurons.",
+        "The density of sensory receptors per square centimeter of skin."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A researcher is studying a specific somatosensory pathway. She applies a stimulus to the right hand and records a signal in the left primary somatosensory cortex. If she were to lesion the ventral posterolateral (VPL) nucleus of the thalamus, which of the following would be the most specific result?",
+      "options": [
+        "Global loss of somatosensation from the right side of the body, sparing the face.",
+        "Loss of pain and temperature from the right side of the face only.",
+        "Loss of fine touch and vibration from the left side of the body only.",
+        "Global loss of somatosensation from the right side of the face only.",
+        "Loss of all conscious sensation from the right side of the body and face."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "In a laboratory setting, a Pacinian corpuscle is stripped of its connective tissue capsule, leaving only the naked nerve ending. When a constant mechanical pressure is applied to this \"de-sheathed\" receptor, how will its adaptation properties and receptor potential change compared to an intact corpuscle?",
+      "options": [
+        "It will become even more rapidly adapting, firing only at the \"off\" stimulus.",
+        "It will fail to produce any receptor potential regardless of the stimulus.",
+        "It will transform from a phasic receptor into a tonic receptor, firing throughout the stimulus.",
+        "It will exhibit an increased threshold, requiring a much larger stimulus to fire.",
+        "Its conduction velocity will decrease because it can no longer utilize saltatory conduction."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 35-year-old chef accidentally touches a drop of a highly concentrated capsaicin extract to his skin. He immediately perceives a sensation of intense heat and pain. Which of the following best describes the molecular mechanism of this sensation?",
+      "options": [
+        "Capsaicin blocks K^+ leak channels, leading to a slow, steady depolarization.",
+        "Capsaicin activates TRPV1 (vanilloid) channels, allowing an inward cation current.",
+        "Capsaicin binds to G-protein coupled receptors that inhibit adenylyl cyclase.",
+        "Capsaicin triggers the release of GABA from local inhibitory interneurons.",
+        "Capsaicin activates TRPM8 channels, which are typically sensitive to menthol."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient presents with a localized stroke in the brain. Anatomical imaging shows the damage is restricted to Layer IV of the primary somatosensory cortex. What is the primary functional consequence of a lesion in this specific layer?",
+      "options": [
+        "Inability to send motor commands via the corticospinal tract.",
+        "Loss of the ability to modulate pain through the descending suppression system.",
+        "Inability of the cortex to send feedback to the thalamus.",
+        "Interruption of the bulk of incoming sensory signals from the thalamic relay nuclei.",
+        "Loss of communication between the two cerebral hemispheres via the corpus callosum."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A researcher is studying the feedback mechanisms involved in a patient's steady-state posture. He observes a group of afferent fibers that fire at a constant, steady rate while the muscle is held at a fixed length, but do not respond to changes in muscle tension. These fibers are most likely:",
+      "options": [
+        "Group Ib afferents from Golgi tendon organs.",
+        "Group Ia afferents from nuclear bag fibers.",
+        "A-delta fibers from thermal nociceptors.",
+        "C fibers from polymodal nociceptors.",
+        "Group II afferents from nuclear chain fibers."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 55-year-old woman suffers a stroke affecting the medial portion of the left postcentral gyrus (Brodmann's areas 3, 1, and 2). Based on the somatosensory homunculus, which of the following deficits is she most likely to exhibit?",
+      "options": [
+        "Loss of sensation in the right foot and leg.",
+        "Loss of sensation in the left hand and fingers.",
+        "Loss of sensation in the right side of the face and tongue.",
+        "Loss of sensation in the left foot and leg.",
+        "Loss of sensation in the right hand and fingers."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    }
+  ]
+}

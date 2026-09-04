@@ -1,0 +1,358 @@
+{
+  "id": "integrative-true-false-4",
+  "title": "Integrative Physiology 4",
+  "topic": "True-False Integrative",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true_false",
+      "prompt": "In a patient with a significant right-to-left intrapulmonary shunt, the resulting hypoxemia can be corrected to a normal arterial PO2  level by administration of 100% supplemental oxygen.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "prompt": "The \"Incretin Effect\" dictates that oral glucose causes a more robust insulin response than intravenous glucose because GIP and GLP-1 are released from the duodenum before blood glucose levels significantly rise.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "prompt": "According to the Law of Laplace, as a failing ventricle dilates and its radius increases, the wall tension required to generate a specific intraventricular pressure must decrease.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "prompt": "During severe hemorrhage, the baroreflex-induced constriction of the afferent arteriole decreases capillary hydrostatic pressure downstream, shifting the Starling balance toward net fluid absorption to restore blood volume.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "true_false",
+      "prompt": "At extreme high altitudes (>18,000 feet), the rightward shift of the oxyhemoglobin dissociation curve caused by increased 2,3-DPG is the primary adaptive mechanism for survival, outweighing the effects of respiratory alkalosis.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "prompt": "The Cushing reflex, triggered by cerebral ischemia, results in a triad of systemic hypertension, tachycardia, and a rapid increase in the respiratory rate.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "true_false",
+      "prompt": "Hyperkalemia paradoxically inhibits the renal synthesis of ammonia (NH3) from glutamine in proximal tubule cells, thereby reducing the kidney's ability to excrete H+  as ammonium.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "true_false",
+      "prompt": "Digitalis increases myocardial contractility by indirectly inhibiting the Na^+-Ca^(2+)exchanger, a process fueled by the sodium gradient maintained by the Na^+/K^+  ATPase.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "prompt": "During the cephalic phase of gastric secretion, the administration of atropine will completely abolish the acid response triggered by the sight or smell of food.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "true_false",
+      "prompt": "Acclimatization to high altitude involves an adaptive decrease in renal bicarbonate reabsorption, which helps lower the pH of the cerebrospinal fluid to resensitize central chemoreceptors to CO2 .",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "true_false",
+      "prompt": "In the \"Reno-Respi CO Sandwich\" concept, the peripheral chemoreceptors and the intrarenal baroreceptors collaborate to detect stagnant hypoxia even when arterial oxygen content is initially normal.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "true_false",
+      "prompt": "Stimulation of the atrial B-type stretch receptors (low-pressure baroreceptors) in response to increased blood volume results in a reflex decrease in heart rate.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "true_false",
+      "prompt": "In systolic heart failure, the integrative \"Vicious Circle\" involves a decrease in cardiac output that triggers the RAAS, leading to fluid retention that increases ventricular radius and, via Laplace's Law, increases myocardial oxygen demand.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "true_false",
+      "prompt": "The \"equal pressure point\" during forced expiration moves progressively toward the larger, cartilaginous airways as lung volume decreases, preventing airway collapse in patients with emphysema.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "true_false",
+      "prompt": "Angiotensin II acts as a dipsogen, directly stimulating the hypothalamic thirst center to facilitate the restoration of ECF volume during hypotensive states.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "true_false",
+      "prompt": "In the dark, retinal photoreceptors are in a relatively hyperpolarized state because the closure of sodium channels reduces the \"dark current\".",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "true_false",
+      "prompt": "The secondary polycythemia associated with chronic high-altitude exposure is self-limiting for oxygen delivery because the resulting increase in blood viscosity increases vascular resistance.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "true_false",
+      "prompt": "Cholecystokinin (CCK) stimulates the contraction of the gallbladder while simultaneously causing the contraction of the sphincter of Oddi to regulate bile flow.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "true_false",
+      "prompt": "In hypovolemic shock, the development of \"cold, clammy skin\" is an integrative response where the baroreflex prioritizes cerebral and coronary perfusion by selectively activating \u03b11  receptors in cutaneous and splanchnic beds.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "true_false",
+      "prompt": "Cortisol exerts a \"permissive\" effect on vascular smooth muscle, meaning that in its absence, catecholamines cannot effectively produce the vasoconstriction needed to maintain blood pressure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "true_false",
+      "prompt": "Secretin is the primary hormone responsible for stimulating the secretion of enzyme-rich pancreatic juice from the acinar cells in response to dietary fats.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "true_false",
+      "prompt": "During strenuous exercise, the alveolar-arterial (A-a) oxygen gradient typically increases because the decreased transit time of red blood cells in the pulmonary capillaries prevents complete equilibration.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "true_false",
+      "prompt": "The \"Monitor Peptide\" is released by duodenal S cells to coordinate the release of secretin once acidic chyme enters the small intestine.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "true_false",
+      "prompt": "\"Contraction alkalosis\" is treated with isotonic NaCl infusion because restoring ECF volume removes the stimulus for Angiotensin II and Aldosterone, allowing the kidneys to excrete excess bicarbonate.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "true_false",
+      "prompt": "Primary adrenal insufficiency (Addison's disease) results in metabolic alkalosis because the lack of aldosterone forces the kidneys to retain H+  ions to maintain electrical neutrality.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "true_false",
+      "prompt": "Peripheral chemoreceptors are the only oxygen-sensitive receptors that increase ventilation in response to low arterial PO2 , as central chemoreceptors are actually depressed by severe hypoxia.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "true_false",
+      "prompt": "In the \"Staircase Effect\" (Treppe), an increase in heart rate increases the force of contraction because more Ca^(2+)  is sequestered in the sarcoplasmic reticulum during each abbreviated diastole.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "true_false",
+      "prompt": "The Cushing reflex bradycardia is a result of a direct mechanical compression of the vagus nerve by high intracranial pressure.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "true_false",
+      "prompt": "In patients with chronic hypercapnia (e.g., severe COPD), central chemoreceptors adapt to high CO2 , causing the body to rely on a \"hypoxic drive\" mediated by peripheral chemoreceptors.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "true_false",
+      "prompt": "During a fever, the hypothalamic set-point is shifted upward, initiating shivering and cutaneous vasoconstriction to increase body temperature to the new set-point.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q31",
+      "type": "true_false",
+      "prompt": "Ghrelin, secreted from the empty stomach, is an anorexigenic hormone that suppresses appetite during the interdigestive state.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q32",
+      "type": "true_false",
+      "prompt": "Moving from a supine to a standing position results in a transient decrease in the firing rate of the carotid sinus baroreceptor nerves.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q33",
+      "type": "true_false",
+      "prompt": "Somatostatin acts as a \"gastric brake\" by indirectly inhibiting parietal cells through the suppression of gastrin release and histamine release.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q34",
+      "type": "true_false",
+      "prompt": "In the upright lung, the V/Q ratio is highest at the base because both ventilation and perfusion are maximal in the dependent regions of the lung.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q35",
+      "type": "true_false",
+      "prompt": "The filtration fraction (GFR/RPF) typically increases during states of low renal perfusion because Angiotensin II preferentially constricts the efferent arteriole to maintain GFR.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q36",
+      "type": "true_false",
+      "prompt": "Loop diuretics can cause metabolic alkalosis not only by increasing H+  secretion but also by causing volume contraction and secondary hyperaldosteronism.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q37",
+      "type": "true_false",
+      "prompt": "In renal artery stenosis, the \"perceived hypovolemia\" by the affected kidney leads to a whole-body isotonic ECF expansion that fails to normalize the primary renal deficit.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q38",
+      "type": "true_false",
+      "prompt": "The Bainbridge reflex involves a decrease in heart rate triggered by the stretch of low-pressure atrial volume receptors when venous return is suddenly increased.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q39",
+      "type": "true_false",
+      "prompt": "Hypotonic contraction of the ECF, where both volume and osmolarity are low, is a hallmark of Addison's disease because critical hypovolemia resets the ADH threshold to favor water retention.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q40",
+      "type": "true_false",
+      "prompt": "\"Aldosterone escape\" allows the body to restore sodium balance through pressure natriuresis, but it does not correct the hypokalemia and metabolic alkalosis caused by the primary excess.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q41",
+      "type": "true_false",
+      "prompt": "In the liver, high levels of bile salts in the portal blood stimulate the rate-limiting enzyme cholesterol 7\u03b1-hydroxylase to increase bile acid synthesis.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q42",
+      "type": "true_false",
+      "prompt": "Insulin promotes the entry of K^+into cells by stimulating the activity of the Na^+/K^+  ATPase, which helps prevent postprandial hyperkalemia.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q43",
+      "type": "true_false",
+      "prompt": "A first-degree AV block on an ECG is characterized by a shortened PR interval, representing accelerated conduction through the AV node.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q44",
+      "type": "true_false",
+      "prompt": "Primary hyperparathyroidism leads to hypophosphatemia because PTH inhibits the Na^+ -phosphate cotransporter in the proximal tubule.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q45",
+      "type": "true_false",
+      "prompt": "In Graves' disease, the plasma TSH levels are typically significantly elevated due to the presence of a TSH-secreting pituitary tumor.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q46",
+      "type": "true_false",
+      "prompt": "The S3 heart sound, when heard in an adult with dyspnea and tachycardia, is an integrative sign of ventricular volume overload and potential congestive heart failure.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q47",
+      "type": "true_false",
+      "prompt": "During moderate exercise (hyperpnea), the increase in ventilation is primarily driven by massive increases in mean arterial PCO2and decreases in arterial PO2 .",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q48",
+      "type": "true_false",
+      "prompt": "Venoconstriction during the baroreflex response increases venous return by shifting blood from the \"unstressed volume\" to the \"stressed volume\" of the circulation.",
+      "answer": "true",
+      "explanation": "-"
+    },
+    {
+      "id": "q49",
+      "type": "true_false",
+      "prompt": "Acetazolamide prophylaxis for mountain sickness works by inducing a respiratory acidosis that directly stimulates the central chemoreceptors.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q50",
+      "type": "true_false",
+      "prompt": "Gastric emptying is physiologically accelerated by the presence of hypertonic chyme or a high concentration of fatty acids in the duodenum.",
+      "answer": "false",
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "nephron-function-set-3",
+  "title": "Renal Channels 3",
+  "topic": "Nephron Function Set",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "Describe the mechanism of urea reabsorption in the inner medullary collecting duct (IMCD) and how it is influenced by vasopressin.",
+      "modelAnswer": "Urea reabsorption in the IMCD occurs via facilitated diffusion using urea transporters (UT-A1 on the apical membrane and UT-A3 on the basolateral membrane); Arginine Vasopressin (AVP) stimulates these transporters via cAMP-dependent phosphorylation, increasing urea permeability to allow urea to accumulate in the medullary interstitium and strengthen the osmotic gradient.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Explain the mechanism by which filtered low-molecular-weight proteins and albumin are reclaimed in the proximal tubule.",
+      "modelAnswer": "Proteins are reabsorbed via receptor-mediated endocytosis involving the megalin and cubilin receptor complex on the apical membrane; once internalized, endocytic vesicles fuse with lysosomes where acid proteases degrade the proteins into amino acids, which are then released across the basolateral membrane into the peritubular circulation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "Describe the \"tertiary active transport\" mechanism responsible for the secretion of para-aminohippurate (PAH) across the basolateral membrane of the late proximal tubule.",
+      "modelAnswer": "PAH uptake at the basolateral membrane occurs via OAT1/OAT3 exchangers, which move PAH into the cell by exchanging it for intracellular alpha-ketoglutarate (\u03b1-KG) moving down its concentration gradient; this is \"tertiary\" because the outward \u03b1-KG gradient is maintained by the secondary active NaDC3 symporter, which in turn depends on the primary active Na-K-ATPase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "Identify the transporters and driving forces involved in the secretion of organic cations (e.g., creatinine, morphine) from the blood into the proximal tubule lumen.",
+      "modelAnswer": "Organic cations enter the cell across the basolateral membrane via OCT2 uniporters driven by the inside-negative membrane potential (~ -70 mV); they are then secreted into the lumen via MATE1/2-K exchangers, which use the H+ electrochemical gradient (established by apical NHE3) to drive the extrusion of the cation in exchange for H+ entry.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "Following apical entry via SGLT transporters, how does glucose exit the proximal tubule cell to enter the peritubular interstitium, and what is the driving force?",
+      "modelAnswer": "Glucose exits the basolateral membrane via facilitated diffusion through GLUT2 (in the S1/S2 segments) or GLUT1 (in the S3 segment) transporters; this process is passive and driven by the chemical concentration gradient of glucose, which is maintained at high levels within the cytosol by the upstream secondary active SGLT transporters.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "Explain the concept of \"diffusion trapping\" regarding the renal handling of ammonia (NH3) in the medullary collecting duct.",
+      "modelAnswer": "Lipid-soluble NH 3  diffuses from the medullary interstitium into the collecting duct lumen, where it reacts with secreted H + (from the H-ATPase) to form NH 4 +  ; because the apical membrane is virtually impermeable to the charged ammonium ion, it is \"trapped\" in the tubular fluid and excreted, which facilitates the elimination of metabolic acid without lowering luminal pH below the limiting gradient.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "Describe how changes in the filtration fraction (FF) influence the reabsorptive Starling forces in the peritubular capillaries to maintain glomerulotubular (GT) balance.",
+      "modelAnswer": "An increase in FF means more fluid is filtered, which significantly raises the protein concentration and oncotic pressure (\u03c0 PC  ) while decreasing the hydrostatic pressure (P PC  ) in the downstream peritubular capillaries; these altered Starling forces increase the net driving force for fluid uptake from the lateral intercellular space, thereby increasing proximal reabsorption to match the increased filtered load.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "Identify the specific transporter responsible for moving reabsorbed bicarbonate across the basolateral membrane of the proximal tubule and its stoichiometry.",
+      "modelAnswer": "The primary transporter is NBCe1 (electrogenic sodium-bicarbonate cotransporter), which moves 1 Na^+ and 3 HCO 3 -  ions out of the cell across the basolateral membrane; this process is driven by the electrochemical gradient for bicarbonate and is electrogenic, moving net negative charge out of the cell, which helps maintain the negative membrane potential.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "Describe the role and regulation of \"Big K\" (BK) channels in the principal cells of the collecting duct compared to ROMK channels.",
+      "modelAnswer": "While ROMK provides the primary pathway for constitutive K^+ secretion, BK channels are high-conductance pathways that are activated by increased tubular flow rates (which bend the central cilium) or high dietary K^+; this allows the kidney to increase K^+ excretion in response to diuresis or high K^+ loads, preventing systemic hyperkalemia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "Contrast the mechanism of sodium chloride reabsorption in the thin ascending limb (tALH) versus the thick ascending limb (TAL).",
+      "modelAnswer": "While the TAL utilizes active transcellular transport via the NKCC2 symporter to create the \"single effect,\" the tALH reabsorbs NaCl passively; this occurs because water reabsorption in the descending limb has concentrated luminal [NaCl] above that of the medullary interstitium, allowing NaCl to diffuse out through specialized Cl^- channels (ClC-K1) and paracellular pathways.",
+      "explanation": "-"
+    }
+  ]
+}

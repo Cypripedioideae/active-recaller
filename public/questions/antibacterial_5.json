@@ -1,0 +1,148 @@
+{
+  "id": "antibacterial-agents-5",
+  "title": "Antibacterial Agents 5",
+  "topic": "Antibacterial Agents",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which polypeptide agent inhibits bacterial cell wall synthesis by interfering with the movement of peptidoglycan precursors across the cytoplasmic membrane?",
+      "options": [
+        "Amoxicillin",
+        "Gentamicin",
+        "Bacitracin",
+        "Ciprofloxacin",
+        "Fosfomycin"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 45-year-old male with a history of valvular heart disease requires antimicrobial prophylaxis before an invasive dental procedure. Which of the following oral agents, acting as a structural analog of D-Ala-D-Ala to bind penicillin-binding proteins, is the most appropriate choice?",
+      "options": [
+        "Azithromycin",
+        "Cephalexin",
+        "Amoxicillin",
+        "Clindamycin",
+        "Ampicillin"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Which of the following describes the primary clinical risk associated with the administration of aminoglycoside antibiotics, such as amikacin, during pregnancy?",
+      "options": [
+        "Kernicterus in the newborn",
+        "Limb malformations",
+        "Discoloration of deciduous teeth",
+        "Cartilage damage in the fetus",
+        "Fetal ototoxicity"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Which of the following antibacterial agents exerts its bactericidal effect by irreversibly inhibiting the enzyme enolpyruvate transferase (MurA)?",
+      "options": [
+        "Fosfomycin",
+        "Bacitracin",
+        "Aztreonam",
+        "Vancomycin",
+        "Cycloserine"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with an intraabdominal infection involving *Bacteroides fragilis*. Which of the following antibiotics treats this infection by inhibiting protein synthesis at the 50S ribosomal subunit but carries a high risk of inducing *Clostridioides difficile* overgrowth?",
+      "options": [
+        "Chloramphenicol",
+        "Clindamycin",
+        "Linezolid",
+        "Azithromycin",
+        "Metronidazole"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient with EBV-induced infectious mononucleosis is treated with an antibacterial agent for secondary pharyngitis and subsequently develops a diffuse maculopapular rash. Which of the following drugs is most likely responsible?",
+      "options": [
+        "Amoxicillin",
+        "Benzathine penicillin G",
+        "Penicillin V",
+        "Cloxacillin",
+        "Dicloxacillin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 72-year-old male with a history of hypertension is prescribed an oral antimicrobial agent for the treatment of community-acquired pneumonia. Four days later, he is brought to the emergency department after experiencing a sudden episode of palpitations followed by a brief loss of consciousness. An electrocardiogram performed upon arrival demonstrates a significantly prolonged QTc interval and an intermittent ventricular arrhythmia. Which of the following drugs is most likely responsible for this patient's presentation?",
+      "options": [
+        "Ofloxacin",
+        "Norfloxacin",
+        "Ciprofloxacin",
+        "Moxifloxacin",
+        "Levofloxacin"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Which of the following is the molecular target inhibited by dapsone in the treatment of *Mycobacterium leprae*?",
+      "options": [
+        "Mycolic acid synthase",
+        "Dihydropteroate synthase",
+        "DNA-dependent RNA polymerase",
+        "50S ribosomal subunit",
+        "30S ribosomal subunit"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 55-year-old male with a history of chronic obstructive pulmonary disease is hospitalized for a healthcare-associated pneumonia. Empirical antimicrobial therapy is initiated, and the clinical team specifically requires coverage for *Pseudomonas aeruginosa*. Which of the following carbapenems is inappropriate for this patient because it lacks activity against non-fermentative Gram-negative bacilli?",
+      "options": [
+        "Imipenem",
+        "Meropenem",
+        "Ertapenem",
+        "Doripenem",
+        "Ceftazidime"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 45-year-old male undergoes emergency surgery for a ruptured appendix. One week postoperatively, he develops a localized intra-abdominal abscess characterized by foul-smelling necrotic tissue. Laboratory analysis of the purulent material reveals pleomorphic, faintly staining Gram-negative rods. The causative agent is an obligate anaerobe that is uniquely capable of surviving limited oxygen exposure through the production of superoxide dismutase and catalase. Which of the following is the most appropriate drug of choice for this pathogen?",
+      "options": [
+        "Gentamicin",
+        "Metronidazole",
+        "Vancomycin",
+        "Ceftriaxone",
+        "Azithromycin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

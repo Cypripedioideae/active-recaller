@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-15",
+  "title": "Renal Comprehensive Set 2: Sodium and ECF Regulation (MCQ)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 60-year-old male patient is administered 2 L of isotonic (0.9%) NaCl over two hours to treat mild hypotension. After the infusion, his body reaches a new steady state. Which of the following best describes the resulting changes in the Starling forces within his peritubular capillaries and the subsequent effect on proximal tubular reabsorption?",
+      "options": [
+        "Increased peritubular oncotic pressure (\u03c0c) and increased reabsorption.",
+        "Decreased peritubular oncotic pressure (\u03c0c) and decreased reabsorption.",
+        "Decreased peritubular hydrostatic pressure (Pc) and increased reabsorption.",
+        "Increased peritubular hydrostatic pressure (Pc) and decreased reabsorption.",
+        "No change in Starling forces due to the isosmotic nature of the fluid."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A medical student consumes a 16-oz steak dinner, significantly increasing his protein intake for the day. Within an hour, his glomerular filtration rate (GFR) increases. This phenomenon is primarily mediated by which of the following mechanisms involving the macula densa?",
+      "options": [
+        "Decreased Na^+-K^+-2Cl^- cotransport in the thick ascending limb leading to efferent arteriolar constriction.",
+        "Increased delivery of NaCl to the macula densa causing the release of adenosine.",
+        "Inhibition of renal sympathetic nerve activity via high-pressure baroreceptors.",
+        "Increased circulating levels of Atrial Natriuretic Peptide (ANP) dilating the efferent arteriole.",
+        "Increased proximal Na^+-amino acid cotransport reducing NaCl delivery to the juxtaglomerular apparatus."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 50-year-old woman is diagnosed with an aldosterone-secreting adenoma of the zona glomerulosa (Conn's syndrome). Despite the high levels of mineralocorticoids, her urinary sodium excretion eventually returns to match her intake, a phenomenon known as \"aldosterone escape\". Which of the following contributes most significantly to this escape?",
+      "options": [
+        "ECF volume expansion leading to decreased proximal tubular reabsorption via Starling forces.",
+        "Direct inhibition of the Na^+/K^+-ATPase in the principal cells by high levels of potassium.",
+        "Increased levels of angiotensin II causing preferential constriction of the afferent arteriole.",
+        "Decreased levels of Atrial Natriuretic Peptide (ANP) reducing the filtered load of sodium.",
+        "Up-regulation of 11\u03b2-hydroxysteroid dehydrogenase in the renal distal tubule."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient is treated with a potent loop diuretic to manage pulmonary edema associated with congestive heart failure. The physician notes that the patient begins excreting urine that is isosthenuric (specific gravity of urine (concentration) is fixed, not more concentrated nor diluted than protein-free plasma) to plasma. What is the primary analytical explanation for this change in urinary concentration?",
+      "options": [
+        "Increased water permeability of the thick ascending limb.",
+        "Stimulation of V2 receptors in the collecting duct by the drug.",
+        "Abolition of the corticopapillary osmotic gradient.",
+        "Increased distal delivery of sodium stimulating the \"single effect\" of countercurrent multiplication.",
+        "Decreased synthesis of urea within the medullary interstitium."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 22-year-old man enters the emergency department after a motor vehicle accident with a 1-L blood loss. His blood pressure is 90/60 mmHg. Which of the following describes the integrated hormonal response aimed at conserving sodium?",
+      "options": [
+        "Decreased secretion of ADH to promote free water clearance.",
+        "Inhibition of the Na^+/H^+ exchanger in the proximal tubule to conserve bicarbonate.",
+        "Increased Atrial Natriuretic Peptide (ANP) release to dilate the afferent arterioles.",
+        "Angiotensin II-mediated stimulation of Na^+/H^+ exchange in the proximal convoluted tubule.",
+        "Direct inhibition of the renin-angiotensin-aldosterone system by the baroreceptor reflex."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "In a renal physiology laboratory, a volunteer drinks 3 L of distilled water in 30 minutes. Which of the following sets of initial changes correctly distinguishes the volunteer's plasma sodium status from his total body sodium content?",
+      "options": [
+        "Decreased plasma Na^+ concentration with unchanged total Na^+ content.",
+        "Decreased plasma Na^+ concentration with decreased total Na^+ content.",
+        "Increased plasma Na^+ concentration with increased total Na^+ content.",
+        "Unchanged plasma Na^+ concentration with increased total Na^+ content.",
+        "Increased plasma Na^+ concentration with unchanged total Na^+ content."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient with primary adrenal insufficiency (Addison's disease) presents with hyperkalemia and hypotension. Which of the following best describes the steady-state distribution of his body fluids compared to normal?",
+      "options": [
+        "Increased ECF volume, decreased ICF volume, and increased osmolarity.",
+        "Decreased ECF volume, increased ICF volume, and decreased osmolarity.",
+        "Decreased ECF volume, decreased ICF volume, and increased osmolarity.",
+        "Increased ECF volume, increased ICF volume, and decreased osmolarity.",
+        "Unchanged ECF volume, increased ICF volume, and decreased osmolarity."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "If a patient's GFR increases by 10% without a change in renal plasma flow, the proximal tubule increases its reabsorption rate to maintain fractional reabsorption at approximately 67%. This glomerulotubular (G-T) balance is primarily driven by which of the following changes?",
+      "options": [
+        "A decrease in the intraluminal concentration of glucose and amino acids.",
+        "A decrease in the hydrostatic pressure of the peritubular capillaries.",
+        "A reduction in the activity of the luminal Na^+/H^+ exchanger.",
+        "An increase in the filtration fraction leading to a rise in peritubular oncotic pressure.",
+        "Activation of the renal sympathetic nerves by the increased filtered load."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with nephrogenic diabetes insipidus secondary to chronic lithium therapy. He is prescribed a thiazide diuretic to help reduce his polyuria. What is the physiologic rationale for using this diuretic in this specific condition?",
+      "options": [
+        "It increases the sensitivity of the V2 receptor to circulating ADH.",
+        "It stimulates the insertion of AQP2 channels into the medullary collecting duct.",
+        "It induces mild ECF volume contraction, which enhances isosmotic reabsorption in the proximal tubule.",
+        "It decreases the osmolarity of the medullary interstitium by inhibiting the NKCC2 transporter.",
+        "It directly inhibits the thirst center in the anterior hypothalamus."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 75-year-old man with congestive heart failure has distended neck veins and peripheral edema. High levels of Atrial Natriuretic Peptide (ANP) are detected in his blood. ANP helps to increase sodium excretion by which of the following actions?",
+      "options": [
+        "Decreased GFR due to afferent arteriolar constriction.",
+        "Stimulation of the Na^+/K^+-ATPase in the renal proximal tubule.",
+        "Increased reabsorption of Na^+ in the thick ascending limb of Henle.",
+        "Activation of the renin-angiotensin-aldosterone system.",
+        "Dilation of afferent renal arterioles and inhibition of Na^+ reabsorption in the medullary collecting duct."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

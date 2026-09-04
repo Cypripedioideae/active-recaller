@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-rs-review-13",
+  "title": "Comprehensive Respiratory Set 2: Carbon Dioxide Transport and Acid-Base (MCQ)",
+  "topic": "Comprehensive RS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A physiology student analyzes a sample of arterial blood. Quantitatively, which of the following represents the largest fraction of the total carbon dioxide (CO2) content being transported to the lungs?",
+      "options": [
+        "CO2dissolved in the plasma",
+        "CO2bound to plasma proteins such as albumin",
+        "Bicarbonate (HCO3-) dissolved in the plasma",
+        "Carbaminohaemoglobin within the erythrocytes",
+        "Carbonic acid (H2CO3 ) free in solution"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "During the \"chloride shift\" in systemic capillaries, HCO3-ions exit the red blood cell in exchange for chloride (Cl^-) ions. Which of the following best describes the structural and osmotic consequences of this exchange?",
+      "options": [
+        "Movement occurs via a sodium-coupled symporter; the cell volume remains constant.",
+        "Movement occurs via Band 3 anion exchange protein; the cell volume increases slightly.",
+        "Movement occurs via simple diffusion through the lipid bilayer; the cell volume decreases.",
+        "Movement occurs via an ATP-dependent pump; the cell volume increases significantly.",
+        "Movement occurs via the Na^+-K^+  ATPase; the cell volume is regulated by active transport."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "In a patient with severe pulmonary disease, the ability of blood to \"hold\" CO2is observed to increase as the partial pressure of oxygen (P_(O2)) decreases. This phenomenon, which facilitates CO2  uptake in the tissues, is known as:",
+      "options": [
+        "The Haldane Effect",
+        "The Bohr Effect",
+        "The Hamburger Phenomenon",
+        "The Law of Mass Action",
+        "The Fick Principle"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient is admitted to the Intensive Care Unit with uncontrolled Type I Diabetes Mellitus. Laboratory findings show: Na^+= 140 mEq/L, Cl^-= 105 mEq/L, and HCO3-  = 10 mEq/L. Which of the following is the calculated anion gap, and what is the most likely cause of this acid-base state?",
+      "options": [
+        "15 mEq/L; indicating a normal anion gap acidosis due to diarrhea.",
+        "45 mEq/L; indicating an increased anion gap acidosis due to salicylate poisoning.",
+        "25 mEq/L; indicating a normal anion gap acidosis due to renal tubular acidosis.",
+        "12 mEq/L; indicating a healthy acid-base balance.",
+        "25 mEq/L; indicating an increased anion gap acidosis due to ketoacid accumulation."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 35-year-old patient has been vomiting persistently for three days due to a gastric outlet obstruction. Which set of arterial blood gas values is most consistent with this clinical presentation?",
+      "options": [
+        "pH 7.25, P_(CO2)25 mmHg, HCO3-12 mEq/L",
+        "pH 7.30, P_(CO2)60 mmHg, HCO3-30 mEq/L",
+        "pH 7.40, P_(CO2)40 mmHg, HCO3-24 mEq/L",
+        "pH 7.53, P_(CO2)48 mmHg, HCO3-37 mEq/L",
+        "pH 7.55, P_(CO2)25 mmHg, HCO3-  22 mEq/L"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A mountain climber takes acetazolamide (a carbonic anhydrase inhibitor) to facilitate acclimatization. What is the direct renal mechanism by which this drug helps counteract the respiratory alkalosis induced by high-altitude hyperventilation?",
+      "options": [
+        "It inhibits proximal tubular HCO3-reabsorption, causing a mild metabolic acidosis.",
+        "It stimulates the H^+ -ATPase in the intercalated cells to increase acid excretion.",
+        "It increases the synthesis of ammonium to buffer more hydrogen ions.",
+        "It decreases the filtered load of sodium to prevent volume expansion.",
+        "It shifts the oxygen-haemoglobin dissociation curve to the left to improve loading."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Using the Henderson-Hasselbalch equation (pH=6.1+log[HCO3-]/(P_(CO2)\u00d70.03)), if a patient's arterial P_(CO2)  is 60 mmHg and their plasma bicarbonate is 30 mEq/L, what is their calculated arterial pH?",
+      "options": [
+        "7.10",
+        "7.22",
+        "7.32",
+        "7.44",
+        "7.52"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient experiences a cardiac and respiratory arrest. Arterial blood gas analysis taken shortly after reveals: pH 7.12, P_(CO2)60 mmHg, and HCO3-  19 mEq/L. Which of the following is the most accurate diagnosis?",
+      "options": [
+        "Acute respiratory acidosis with full renal compensation.",
+        "Mixed acidosis (combined respiratory and metabolic acidosis).",
+        "Simple metabolic acidosis with respiratory compensation.",
+        "Respiratory alkalosis with an underlying metabolic acidosis.",
+        "Chronic respiratory acidosis with secondary lactic acidosis."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "In the systemic capillaries of metabolically active muscle, several factors decrease the affinity of haemoglobin for oxygen (the Bohr Effect). Which set of conditions specifically promotes this rightward shift?",
+      "options": [
+        "Decreased P_(CO2), increased pH, and decreased temperature.",
+        "Increased P_(CO2), increased pH, and increased 2,3-DPG.",
+        "Decreased P_(CO2), decreased pH, and decreased temperature.",
+        "Normal P_(CO2), normal pH, and decreased 2,3-DPG.",
+        "Increased P_(CO2) , decreased pH, and increased temperature."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A medical student compares the diffusion characteristics of CO2and O2across the respiratory membrane. Which of the following statements correctly analyzes the \"diffusion-limited\" versus \"perfusion-limited\" status of these gases in a healthy individual at rest?",
+      "options": [
+        "Both CO2and O2are diffusion-limited because they bind to haemoglobin.",
+        "CO2is diffusion-limited because it is a larger molecule, while O2is perfusion-limited.",
+        "O2is diffusion-limited due to its high solubility, while CO2is perfusion-limited.",
+        "Both CO2and O2are perfusion-limited because they equilibrate fully before blood leaves the capillary.",
+        "CO2is perfusion-limited, but O2  is diffusion-limited due to the slow action of carbonic anhydrase."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A patient with severe diarrhea for five days presents with a pH of 7.22 and a P_(CO2)of 25 mmHg. The serum Cl^-is elevated at 115 mEq/L. Which of the following best describes the status of the anion gap and the underlying reason?",
+      "options": [
+        "Increased anion gap; due to the accumulation of lactic acid from dehydration.",
+        "Decreased anion gap; due to the loss of sodium in the stool.",
+        "Normal anion gap; because the lost HCO3-is replaced by the measured anion Cl^-.",
+        "Normal anion gap; because CO2  retention compensates for the lost base.",
+        "Increased anion gap; due to the renal retention of phosphate and sulfate."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A patient is treated with a loop diuretic, leading to significant extracellular fluid (ECF) volume contraction. Which of the following describes the resulting \"contraction alkalosis\" and its maintenance mechanism?",
+      "options": [
+        "P_(CO2)increases directly; maintained by the inhibition of the respiratory center.",
+        "HCO3-reabsorption increases; maintained by high levels of Angiotensin II and Aldosterone.",
+        "H^+secretion decreases; maintained by the suppression of the renin-angiotensin system.",
+        "Cl^-reabsorption decreases; maintained by the osmotic pressure of the interstitial fluid.",
+        "HCO3-  excretion increases; maintained by the action of atrial natriuretic peptide."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "Within the red blood cells, which of the following represents the most significant buffer for the hydrogen ions generated during the transport of volatile acid (CO2 )?",
+      "options": [
+        "Deoxyhaemoglobin",
+        "Plasma bicarbonate",
+        "Inorganic phosphate",
+        "Oxyhaemoglobin",
+        "Plasma proteins (Albumin)"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "According to the \"Rules of Thumb\" for compensatory responses, if a patient has a primary metabolic alkalosis with a bicarbonate increase of 10 mEq/L, what is the expected compensatory increase in P_(CO2) ?",
+      "options": [
+        "13.0 mmHg",
+        "2.0 mmHg",
+        "4.0 mmHg",
+        "10.0 mmHg",
+        "7.0 mmHg"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "A patient with chronic obstructive pulmonary disease (COPD) has a P_(CO2)of 60 mmHg (20 mmHg above normal). If their HCO3-is 32 mEq/L (8 mEq/L above normal), which of the following is true regarding their renal compensation?",
+      "options": [
+        "Compensation is acute; the HCO3-increase is only due to mass action (0.1 mEq/L per mmHg).",
+        "Compensation is inadequate; the HCO3-should have increased by at least 15 mEq/L.",
+        "The patient has an underlying metabolic acidosis preventing a full HCO3-rise.",
+        "Compensation is chronic; the HCO3-  increase matches the 0.4 mEq/L per mmHg rule.",
+        "Compensation is not required because the pH is likely already 7.4."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "id": "comprehensive-neuro-review-20",
+  "title": "Comprehensive Neuro Set 2: Spinal Reflexes (MCQ)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A gymnast performs a slow, balanced pose followed by an explosive leap. According to the size principle of motoneuron recruitment, which of the following describes the activity of her motoneuron pool during this progression?",
+      "options": [
+        "Small motoneurons are recruited first to generate precise force, followed by larger motoneurons for the leap.",
+        "Large motoneurons are recruited first to overcome inertia, followed by smaller ones for stabilization.",
+        "All motoneurons in the pool fire simultaneously to ensure maximal force for the leap.",
+        "Recruitment order is determined solely by the velocity of the intended movement, not the size of the neuron.",
+        "Gamma-motoneurons are inhibited during the pose to prevent unwanted muscle twitches."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "During a neurological examination, a patellar tendon tap elicits a brisk \"knee jerk.\" Which of the following describes the coordinated synaptic events occurring in the antagonistic muscle (semitendinosus) during this reflex?",
+      "options": [
+        "Monosynaptic excitation by Group Ia afferent fibers leading to contraction.",
+        "Activation of an inhibitory interneuron in the spinal cord leading to hyperpolarization of the alpha-motoneuron.",
+        "Direct inhibition by Group Ib afferent fibers resulting in relaxation.",
+        "Activation of gamma-motoneurons to maintain the sensitivity of the opposing spindles.",
+        "Suppression of Renshaw cell activity to allow for unopposed limb extension."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A researcher is recording action potentials from a single sensory fiber during a controlled muscle stretch. The recording shows a high-frequency burst of spikes during the dynamic phase of the stretch, which then settles into a slower, steady rate when the muscle length is held constant. This fiber is most likely a:",
+      "options": [
+        "Group Ib fiber from a Golgi tendon organ.",
+        "Group II fiber from a nuclear chain fiber.",
+        "Group Ia fiber from a nuclear bag fiber.",
+        "Group IV fiber from a polymodal nociceptor.",
+        "B fiber from a preganglionic autonomic neuron."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "An athlete is performing a maximal isometric bicep curl. As the tension in the tendon reaches a critical level that threatens tissue integrity, the muscle suddenly relaxes. What is the mediating mechanism for this inverse myotatic reflex?",
+      "options": [
+        "Activation of muscle spindles which inhibit the homonymous muscle.",
+        "Inhibition of the alpha-motoneuron by a direct monosynaptic link from the tendon.",
+        "Excitation of the antagonistic muscle via Group Ia afferent fibers.",
+        "Group Ib afferents stimulate an inhibitory interneuron that synapses on the homonymous alpha-motoneuron.",
+        "Recurrent inhibition by Renshaw cells responding to excessive muscular force."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "If a pharmacological agent were administered that selectively blocked gamma-motoneurons while leaving alpha-motoneurons fully functional, what would be the observed effect on Group Ia afferent activity during a voluntary muscle contraction?",
+      "options": [
+        "Ia firing would increase because the spindle would be stretched by the contracting extrafusal fibers.",
+        "Ia firing would remain constant due to the inherent stability of the spindle receptor.",
+        "Ia firing would cease because the spindle would be crushed by the shortening of the muscle.",
+        "Ia firing would be maintained at a steady rate by the compensatory action of the Golgi tendon organ.",
+        "Ia firing would decrease or stop because the spindle would go slack as the muscle shortens."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "An experimental toxin is discovered that specifically destroys alpha-motoneurons but completely spares gamma-motoneurons. What is the expected functional status of a target muscle in an animal treated with this toxin?",
+      "options": [
+        "The muscle would be unable to generate force, but spindle sensitivity could still be modulated.",
+        "The muscle would exhibit spasticity because the gamma-loop would be unopposed.",
+        "The muscle would contract normally, but it would lose all sensory proprioceptive feedback.",
+        "The muscle would undergo hypertrophy due to constant stimulation of the intrafusal fibers.",
+        "The muscle would be paralyzed and the stretch reflex would be completely abolished."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient experiences generalized muscle convulsions after accidental exposure to strychnine. Strychnine causes these symptoms by acting as a competitive antagonist at glycine receptors. Which component of the spinal motor circuit is most directly impaired?",
+      "options": [
+        "The Ia afferent synapse onto the alpha-motoneuron.",
+        "The Renshaw cell feedback loop that normally provides recurrent inhibition.",
+        "The excitatory interneurons involved in the crossed-extension reflex.",
+        "The alpha-motoneuron terminal at the neuromuscular junction.",
+        "The gamma-motoneuron innervation of the nuclear bag fibers."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient with a chronic upper motor neuron (UMN) lesion exhibits a clasp-knife reflex during passive flexion of the arm. Which of the following best describes the physiological transition that occurs at the moment the resistance suddenly \"melts away\"?",
+      "options": [
+        "Activation of the stretch reflex in the antagonistic muscle group.",
+        "Sudden inactivation of the voltage-gated sodium channels in the alpha-motoneuron.",
+        "The Golgi tendon reflex overcomes the hyperactive stretch reflex, causing sudden relaxation.",
+        "Fatigue of the neuromuscular junction following sustained muscle contraction.",
+        "Activation of the primary motor cortex to voluntarily override the spinal reflex."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "During the final miles of a marathon, which motor units are the last to be recruited and are most likely to show signs of significant metabolic fatigue?",
+      "options": [
+        "Slow-oxidative (Type I) units, which have a high density of mitochondria.",
+        "Fast-oxidative-glycolytic (Type IIa) units, which utilize primarily aerobic pathways.",
+        "Units innervated by the smallest motoneurons in the motoneuron pool.",
+        "Fast-glycolytic (Type IIb) units, which are innervated by large, high-threshold motoneurons.",
+        "Muscle units consisting primarily of intrafusal fibers and gamma-motoneurons."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A subject is maintaining a steady-state (static) posture. Which sensory ending is providing the central nervous system with a continuous, non-adapting signal regarding the absolute length of the skeletal muscle?",
+      "options": [
+        "Primary (annulospiral) endings of Ia fibers on nuclear bag fibers.",
+        "Rapidly adapting Pacinian corpuscles within the muscle belly.",
+        "Nociceptors on free nerve endings detecting metabolic byproducts.",
+        "Golgi tendon organs responding to the steady-state tension of the tendon.",
+        "Secondary (flower-spray) endings of Group II afferents on nuclear chain fibers."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Analyze the functional logic behind the classification of the stretch reflex as monosynaptic and the Golgi tendon reflex as disynaptic.",
+      "options": [
+        "The Ia afferent synapses directly on the alpha-motoneuron, while the Ib afferent requires an intervening inhibitory interneuron.",
+        "The Ia afferent requires an excitatory interneuron, while the Ib afferent is a bare nerve ending.",
+        "The stretch reflex involves both alpha and gamma motoneurons, requiring an extra synapse.",
+        "The Golgi tendon reflex is faster because it involves only one synapse in the spinal cord.",
+        "The stretch reflex must pass through the dorsal column nuclei before returning to the muscle."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A patient is in the \"spinal shock\" phase following a traumatic complete spinal cord transection. What is the underlying physiological reason for the initial areflexia and flaccidity seen below the level of the lesion?",
+      "options": [
+        "Loss of the tonic excitatory influence from descending supraspinal pathways on the motoneurons.",
+        "Total destruction of the spinal reflex arcs at every segmental level.",
+        "Massive release of inhibitory neurotransmitters like GABA and glycine from the brain stem.",
+        "Irreversible damage to the primary afferent Group Ia and Group Ib fibers.",
+        "Autonomic failure leading to a lack of blood flow to the spinal gray matter."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A man steps on a sharp tack and his leg remains flexed for several seconds even after the painful stimulus is removed. This persistent motor activity, known as an afterdischarge, is primarily the result of:",
+      "options": [
+        "Prolonged binding of glutamate to the nicotinic receptors at the neuromuscular junction.",
+        "Continued firing of the nociceptors due to persistent tissue damage.",
+        "Recurrent activity within polysynaptic reflex circuits in the spinal cord.",
+        "The slow reuptake of calcium by the sarcoplasmic reticulum in the skeletal muscle.",
+        "Voluntary effort by the cerebral cortex to keep the foot away from the floor."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "How does the anatomical arrangement of the muscle spindle determine its unique functional role compared to the Golgi tendon organ?",
+      "options": [
+        "Spindles are in series with extrafusal fibers to detect tension; GTOs are in parallel to detect length.",
+        "Spindles are in parallel to detect tension; GTOs are in series to detect length.",
+        "Spindles are found only in the tendons, whereas GTOs are distributed throughout the muscle belly.",
+        "Spindles are in parallel to detect changes in length; GTOs are in series to detect changes in tension.",
+        "Spindles are only innervated by sensory fibers, whereas GTOs have both sensory and motor supply."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "A subject performs the Jendrassik maneuver (hooking fingers together and pulling) while their patellar reflex is tested. Why does this maneuver result in a more pronounced \"knee jerk\"?",
+      "options": [
+        "It increases the sensitivity of the alpha-motoneuron to all inhibitory inputs.",
+        "It causes a direct mechanical stretch of the quadriceps muscle.",
+        "It inhibits the Ia afferent fibers, allowing for a more explosive response when they fire.",
+        "It activates the Golgi tendon organ, which facilitates the stretch reflex.",
+        "It increases gamma-motoneuron discharge, which increases the sensitivity of the muscle spindle."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "An alpha-motoneuron in the spinal cord receives simultaneous excitatory inputs from a Group Ia fiber and inhibitory inputs from a Renshaw cell. If the net potential at the axon hillock is -65 mV and the firing threshold is -60 mV, what is the resulting motor response?",
+      "options": [
+        "No action potential is fired, as the summated inputs failed to reach the threshold of the spike initiation zone.",
+        "A smaller-than-normal action potential is fired due to the presence of the inhibitory input.",
+        "An action potential is fired because excitatory inputs always take precedence over inhibitory ones.",
+        "A single twitch is produced in the muscle unit because the cell is in its relative refractory period.",
+        "The motoneuron fires at a lower frequency, encoding a weaker muscle contraction."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "A patient with cerebellar disease exhibits hypotonia. Based on the components of the motor system, this decrease in the resistance to passive stretch is best explained by:",
+      "options": [
+        "A total loss of alpha-motoneurons in the spinal cord.",
+        "A decrease in gamma-motoneuron activity, which reduces the baseline sensitivity of the muscle spindles.",
+        "Overactivity of the Golgi tendon reflex, which causes constant muscle relaxation.",
+        "Destruction of the extrafusal muscle fibers by circulating antibodies.",
+        "Blockade of the voltage-gated calcium channels in the T-tubules of the skeletal muscle."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "A peripheral nerve is subjected to significant localized external pressure, leading to temporary ischemia. Which of the following sensory modalities will be lost first?",
+      "options": [
+        "Dull, aching pain and temperature sensation.",
+        "Perception of pleasant aromas and flavors.",
+        "Conscious proprioception and fine, discriminative touch.",
+        "Deep visceral pain from the abdominal organs.",
+        "Autonomic control of the heart rate and blood pressure."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "During the crossed-extension reflex, what specific synaptic event occurs in the contralateral flexor muscle to ensure it remains relaxed?",
+      "options": [
+        "Monosynaptic excitation by the nociceptor afferent fiber.",
+        "Direct inhibition of the muscle fiber by the release of glycine from the motor nerve.",
+        "Activation of gamma-motoneurons to stiffen the contralateral spindle.",
+        "Activation of an inhibitory interneuron leading to hyperpolarization of the alpha-motoneuron.",
+        "Suppression of the Golgi tendon organ to prevent any unwanted relaxation."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "A single muscle twitch produces a force of 10g, but tetanic stimulation (high frequency) produces a force of 50g. What is the primary physiological basis for this five-fold increase in tension?",
+      "options": [
+        "Recruitment of additional, larger motor units from the motoneuron pool.",
+        "Increased amplitude of each individual muscle action potential.",
+        "The activation of more nicotinic receptors at the motor end plate.",
+        "An increase in the number of alpha-motoneurons firing action potentials.",
+        "Sustained high intracellular calcium levels that maintain cross-bridge cycling and fully stretch the series elastic component."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

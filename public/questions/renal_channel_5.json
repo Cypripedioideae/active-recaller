@@ -1,0 +1,78 @@
+{
+  "id": "nephron-function-set-5",
+  "title": "Renal Channels 5",
+  "topic": "Nephron Function Set",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "Describe how activation of the basolateral calcium-sensing receptor (CaSR) in the thick ascending limb (TAL) influences the paracellular reabsorption of divalent cations.",
+      "modelAnswer": "CaSR is a G protein-coupled receptor that, when activated by high peritubular [Ca^(2+)], stimulates the production of 20-HETE and inhibits adenylyl cyclase to inhibit apical NKCC2 and ROMK channels; logically, this reduction in ion transport abolishes the lumen-positive transepithelial potential, which serves as the primary electrical driving force for the passive paracellular reabsorption of Ca^(2+) and Mg2+.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Define \"solvent drag\" and describe its role in the proximal tubule's handling of solutes like potassium and urea.",
+      "modelAnswer": "Solvent drag is the paracellular transport of solutes carried along by the bulk flow of water moving down an osmotic gradient; in the proximal tubule, as water is reabsorbed isosmotically, it \"drags\" dissolved solutes like K^+, Ca^(2+), and urea through the \"leaky\" tight junctions, accounting for a significant fraction of their total reabsorption independent of active transport proteins.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "Explain the physiological role of the enzyme 11\u03b2-hydroxysteroid dehydrogenase type 2 (11\u03b2-HSD2) in the principal cells of the collecting duct regarding aldosterone specificity.",
+      "modelAnswer": "11\u03b2-HSD2 is an enzyme that converts cortisol (which has high affinity for mineralocorticoid receptors) into cortisone (which does not); logically, this protects the principal cell from being overwhelmed by high systemic cortisol levels, ensuring that aldosterone remains the specific regulator of Na^+ reabsorption and K^+ secretion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "Explain the mechanism by which an unreabsorbed solute in the tubule lumen, such as mannitol, produces osmotic diuresis in the proximal tubule.",
+      "modelAnswer": "An unreabsorbed solute like mannitol increases luminal osmolarity, which \"holds\" water in the tubule and reduces the osmotic driving force for reabsorption; as water is retained, the luminal Na^+ concentration is diluted, establishing a concentration gradient that drives passive Na^+ backleak from the interstitium, ultimately resulting in the excretion of large volumes of water and electrolytes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "Define \"fractional excretion\" (FE) of a substance and explain its clinical utility in distinguishing between prerenal azotemia and acute tubular necrosis (ATN).",
+      "modelAnswer": "Fractional excretion is the percentage of a filtered substance that is actually excreted in the urine (FEx = Excretion Rate/Filtered Load); clinically, an FENa <1% indicates prerenal azotemia where tubules are functional and conserving sodium, whereas an FENa >2% indicates ATN, where damaged tubular cells fail to reabsorb sodium despite systemic needs.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "Describe the role of the thin descending limb (tDLH) in the process of urea recycling and identify the specific urea transporter isoform involved.",
+      "modelAnswer": "In juxtamedullary nephrons, the tDLH facilitates urea secretion from the high-concentration medullary interstitium into the tubular fluid; this process occurs via facilitated diffusion using the UT-A2 urea transporter and is essential for returning urea to the tubule so it can be concentrated in the collecting duct to maintain the corticomedullary osmotic gradient.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "Explain the physiological basis of \"splay\" in the renal glucose titration curve and why it prevents a sharp transition at the transport maximum (Tm).",
+      "modelAnswer": "Splay is the rounding of the glucose titration curve where glucose excretion begins (at the threshold) before the transport maximum (Tm) is reached; this occurs because of the heterogeneity of nephrons, where some reach their individual Tm at lower plasma concentrations than others, and because the affinity (binding) of SGLT transporters is not infinite, allowing some glucose to escape reabsorption at high loads.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "Identify the specific effect of Parathyroid Hormone (PTH) on bicarbonate handling in the proximal tubule and the resulting clinical consequence of hyperparathyroidism.",
+      "modelAnswer": "PTH binds to basolateral receptors to activate cAMP-dependent pathways that inhibit apical NHE3 and basolateral NBCe1 transporters; logically, this reduces proximal bicarbonate reabsorption, which can result in proximal renal tubular acidosis (Type 2 RTA) and a hyperchloremic metabolic acidosis in states of PTH excess.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "Contrast the localization and regulation of Aquaporin-1 (AQP1) versus Aquaporin-2 (AQP2) along the renal tubule.",
+      "modelAnswer": "AQP1 is constitutively expressed in both the apical and basolateral membranes of the proximal tubule and thin descending limb, where it facilitates bulk, obligatory water reabsorption; conversely, AQP2 is found only in the apical membrane of principal cells and is strictly regulated by AVP, which triggers its translocation from intracellular vesicles to increase water permeability during dehydration.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "Describe the mechanism of ammonium (NH4+) reabsorption in the thick ascending limb (TAL) and its importance for the medullary concentration of ammonia.",
+      "modelAnswer": "The TAL actively reabsorbs NH4+ by allowing it to substitute for K^+ on the apical NKCC2 symporter and ROMK channels; this process effectively \"recycles\" ammonium into the medullary interstitium, establishing a high concentration of NH4+/NH3 that provides the gradient for the passive diffusion of NH3 into the medullary collecting duct for excretion.",
+      "explanation": "-"
+    }
+  ]
+}

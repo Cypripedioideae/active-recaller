@@ -1,0 +1,148 @@
+{
+  "id": "general-parasitology-6",
+  "title": "General Parasitology 6",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A physician is ordering a thick blood film for a patient with suspected lymphatic filariasis caused by *Wuchereria bancrofti*. At what time should the blood specimen be collected to maximize diagnostic sensitivity?",
+      "options": [
+        "During the onset of a high fever",
+        "Early morning immediately after waking",
+        "Mid-day when the patient is most active",
+        "Late afternoon during the peak of symptoms",
+        "At night due to the periodicity of the microfilariae"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A patient with lymphatic filariasis is administered diethylcarbamazine (DEC). Shortly after the first dose, the patient develops a systemic reaction characterized by fever, malaise, and muscle pain. Which of the following best explains the pathophysiology of this clinical response?",
+      "options": [
+        "Accidental activation of host glutamate-gated chloride channels",
+        "Direct toxic effect of the drug on the vascular endothelium",
+        "Host inflammatory response to protein release from dying parasites",
+        "Immediate type I hypersensitivity to the chemical structure of DEC",
+        "Rapid accumulation of the drug within the central nervous system"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A public health official is investigating a food-borne outbreak of *Cyclospora cayetanensis* linked to imported raspberries. Why is direct person-to-person transmission via fresh fecal matter not observed with this parasite?",
+      "options": [
+        "Oocysts are only produced during the sexual cycle in feline hosts",
+        "Oocysts must mature and sporulate in the environment to become infectious",
+        "Parasites require an intermediate snail host for larval development",
+        "The infectious stage is a fragile trophozoite that dies outside the host",
+        "Trophozoites must encyst within the gallbladder before being passed"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 34-year-old male returns from a tropical region and presents with periodic fever paroxysms. A Giemsa-stained thin blood smear is performed, revealing enlarged, pale-staining infected erythrocytes that are distinctly oval in shape with characteristic fimbriated (jagged) edges. Sch\u00fcffner's dots are clearly visible within the host cell cytoplasm. Which of the following *Plasmodium* species is the most likely causative agent?",
+      "options": [
+        "*Plasmodium falciparum*",
+        "*Plasmodium knowlesi*",
+        "*Plasmodium malariae*",
+        "*Plasmodium ovale*",
+        "*Plasmodium vivax*"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient is treated for malaria, but the infection returns several weeks later. The physician determines the recurrence is a \"relapse\" rather than a \"recrudescence.\" Which of the following mechanisms differentiates a relapse in *Plasmodium vivax* from a recrudescence in *Plasmodium falciparum*?",
+      "options": [
+        "Activation of dormant hypnozoites in the liver",
+        "Infection of new erythrocytes by surviving gametocytes",
+        "Persistence of a low-level erythrocytic parasitemia",
+        "Infection of new erythrocytes by surviving merozoites",
+        "Re-entry of the parasite from the splenic reservoir"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient with a chronic, latent *Toxoplasma gondii* infection is at risk for reactivation if they become immunocompromised. Which of the following stages of the parasite is responsible for maintaining this lifelong infection within host tissue cysts?",
+      "options": [
+        "Amastigote",
+        "Bradyzoite",
+        "Epimastigote",
+        "Tachyzoite",
+        "Oocyst"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A public health initiative aims to disrupt the life cycle of *Opisthorchis viverrini* in an endemic region. Which of the following organisms serves as the primary first intermediate host that must be targeted?",
+      "options": [
+        "*Bithynia* snail",
+        "*Cyclops* copepod",
+        "Cyprinid fish",
+        "Freshwater crab",
+        "Pig"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Which developmental stages of *Giardia lamblia* represent the infectious form and the diagnostic form found in feces, respectively?",
+      "options": [
+        "Trophozoite and mature cyst",
+        "Mature cyst and trophozoite or cyst",
+        "Immature cyst and trophozoite",
+        "Sporulated oocyst and trophozoite",
+        "Trophozoite and embryonated egg"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient presents with severe weight loss, muscle wasting, and persistent, massive watery diarrhea. Stool examination reveals peanut-shaped eggs with striated shells and flattened mucoid plugs at both poles. The patient most likely acquired this infection from consuming which of the following?",
+      "options": [
+        "Raw freshwater fish",
+        "Undercooked poultry",
+        "Contaminated soil on vegetables",
+        "Raw buffalo meat",
+        "Undercooked pork"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A public health researcher is investigating the transmission of lymphatic filariasis in a region where both *Wuchereria bancrofti* and *Brugia malayi* are endemic. Which of the following features is unique to *Wuchereria bancrofti* and distinguishes it from *Brugia malayi*?",
+      "options": [
+        "Possession of a sheath in the microfilaria stage",
+        "Requirement of a mosquito intermediate host",
+        "Absence of a known animal reservoir host",
+        "Presence of two distinct terminal nuclei in the tail",
+        "Clinical presentation of elephantiasis in the lower limbs"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

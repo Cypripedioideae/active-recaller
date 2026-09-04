@@ -1,0 +1,71 @@
+{
+  "id": "case-based-microbiology-2",
+  "title": "Case-Based Problems 2 [Bacteria]",
+  "topic": "Case-Based Microbiology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is most likely the diagnosis?",
+      "modelAnswer": "Acute rheumatic fever following untreated streptococcal pharyngitis",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "What is the most likely causative organism, and what is its morphology on Gram stain?",
+      "modelAnswer": "*Streptococcus pyogenes*, Gram-positive cocci in chains",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "What is the hemolytic pattern of this organism? Which test differentiates it from other organisms with similar morphology and hemolysis, and what is the expected result?",
+      "modelAnswer": "\u03b2-hemolytic; bacitracin sensitivity test; organism is bacitracin-sensitive",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "This organism can cause a toxic shock-like syndrome. Which toxin is responsible for this?",
+      "modelAnswer": "Streptococcal pyrogenic exotoxins (SpeA, SpeC)",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "What are the two major nonsuppurative sequelae of infection with this organism, and which type of infection is each associated with?",
+      "modelAnswer": "Acute rheumatic fever, follows pharyngitis only; Poststreptococcal glomerulonephritis, follows pharyngitis or skin infection (impetigo)",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "What is the treatment of choice for pharyngitis caused by this organism?",
+      "modelAnswer": "Amoxicillin or penicillin V",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "What virulence factors of this organism promote immune evasion?",
+      "modelAnswer": "Hyaluronic acid capsule: interferes with phagocytosis. M protein: blocks the binding of complement compoent C3b -> impair phagocytosis.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Explain the pathophysiology of this patient's condition and identify the type of hypersensitivity reaction involved.",
+      "modelAnswer": "Molecular mimicry: antibodies against M protein cross-react with host tissues (heart, joints, CNS), leading to inflammation; this is a type II hypersensitivity reaction",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "[Extra] Why are antistreptolysin O (ASO) titers used instead of antibodies to streptolysin S? Name one additional laboratory test that can detect prior infection.",
+      "modelAnswer": "Streptolysin O is antigenic, therefore can cause the body to produce antibodies against this toxin. On the other hand, streptolysin S is not antigenic, so there is no production of antibodies against this toxin, so it cannot be used as a diagnostic test for past *Streptococcus pyogenes* infections. Some other diagnostic tests are anti-DNase B and anti-hyaluronidase for example.",
+      "explanation": "-"
+    }
+  ]
+}

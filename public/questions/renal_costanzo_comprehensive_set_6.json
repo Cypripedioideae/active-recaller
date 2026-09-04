@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-6",
+  "title": "Renal Comprehensive Set 1: Potassium Balance (Short Answer)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Distinguish between internal and external potassium (K^+) balance.",
+      "modelAnswer": "Internal balance is the distribution of K^+ between ICF and ECF; external balance is the matching of renal K^+ excretion to dietary K^+ intake.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "What is the approximate concentration of K^+ in the intracellular fluid (ICF) versus the extracellular fluid (ECF)?",
+      "modelAnswer": "ICF: ~150 mEq/L; ECF: ~4.5 mEq/L.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "By what molecular mechanism does insulin promote the shift of K^+ into cells?",
+      "modelAnswer": "It increases the activity of the Na^+/K^+ ATPase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Explain how alkalemia influences the distribution of K^+ across cell membranes.",
+      "modelAnswer": "In alkalemia, H^+ leaves the cells to buffer the ECF, and K^+ enters the cells to maintain electroneutrality, causing hypokalemia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Why does hyperosmolarity (e.g., high blood glucose) cause a shift of K^+ from the ICF to the ECF?",
+      "modelAnswer": "Water flows out of cells to equilibrate osmolarity, increasing the intracellular K^+ concentration and dragging K^+ out of the cell (solvent drag).",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "What is the effect of strenuous exercise on plasma K^+ levels, and why does this occur?",
+      "modelAnswer": "It causes hyperkalemia because the depletion of cellular ATP opens K^+ channels in muscle membranes, allowing K^+ to flow out down its gradient.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "How do \u03b22 -adrenergic agonists and antagonists affect the internal distribution of K^+?",
+      "modelAnswer": "\u03b22agonists shift K^+ into cells (hypokalemia); \u03b22  antagonists shift K^+ out of cells (hyperkalemia).",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "State the formula for the filtered load of K^+.",
+      "modelAnswer": "Filtered Load = GFR \u00d7 [P]K^+.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Approximately what percentage of filtered K^+ is reabsorbed in the proximal tubule, and what is the primary mechanism of this transport?",
+      "modelAnswer": "67%; it is reabsorbed passively via a paracellular route, following the isosmotic reabsorption of water.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Describe the handling of K^+ in the thick ascending limb of the loop of Henle, including the specific transporters involved.",
+      "modelAnswer": "20% is reabsorbed via the Na^+-K^+-2Cl^- cotransporter (NKCC2).",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Which cell type in the late distal tubule and collecting duct is responsible for K^+ reabsorption during K^+ depletion?",
+      "modelAnswer": "\u03b1-intercalated cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Identify the primary active transporter in the luminal membrane of \u03b1-intercalated cells.",
+      "modelAnswer": "H^+/K^+ ATPase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "List the two cellular steps required for net K^+ secretion in principal cells.",
+      "modelAnswer": "(1) Active uptake of K^+ from blood into the cell via the basolateral Na^+/K^+ ATPase; (2) Passive diffusion of K^+ from the cell into the lumen via K^+ channels.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Where in the body are the sensors that monitor ECF K^+ concentration located?",
+      "modelAnswer": "On the cell membranes of the zona glomerulosa in the adrenal cortex.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "How does aldosterone increase the driving force for K^+ secretion in the principal cells?",
+      "modelAnswer": "It increases the number of luminal Na^+ channels (ENaC), providing more Na^+ for the Na^+/K^+ ATPase to pump out, which simultaneously pumps more K^+ into the cell.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Explain why an increase in tubular fluid flow rate (diuresis) enhances K^+ secretion.",
+      "modelAnswer": "High flow rates dilute the luminal K^+ concentration, maintaining a steep concentration gradient for K^+ to diffuse out of the principal cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Describe the \"Aldosterone Paradox\" regarding why K^+ levels often remain stable during ECF volume contraction despite high aldosterone.",
+      "modelAnswer": "While high aldosterone stimulates secretion, the low GFR and high proximal reabsorption associated with hypovolemia reduce distal flow rate, which offsets the hormonal stimulation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "How does acute metabolic acidosis affect K^+ secretion by the principal cells?",
+      "modelAnswer": "It decreases K^+ secretion; H^+ enters the cells in exchange for K^+ leaving the cells, which reduces the intracellular K^+ concentration and the driving force for secretion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Why does the presence of non-reabsorbable anions (e.g., bicarbonate or sulfate) in the distal lumen increase K^+ secretion?",
+      "modelAnswer": "They increase the negativity of the lumen, which increases the electrochemical driving force for K^+ to exit the cell.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "What effect does hypokalemia have on renal ammonia (NH_3) synthesis, and what is the physiological consequence?",
+      "modelAnswer": "Hypokalemia stimulates NH_3 synthesis from glutamine, which increases the kidney's ability to excrete H^+ as NH\u2084^+.",
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "general-parasitology-13",
+  "title": "General Parasitology 13",
+  "topic": "General Parasitology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A patient presents with a chronic, \"cauliflower-like\" skin lesion on the lower extremity. Histopathological examination of a tissue biopsy reveals chestnut-brown, thick-walled, muriform cells. Which of the following conditions is most likely represented by these findings?",
+      "options": [
+        "Blastomycosis",
+        "Chromoblastomycosis",
+        "Dermatophytosis",
+        "Eumycotic mycetoma",
+        "Sporotrichosis"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A public health officer is analyzing the epidemiology of Human African Trypanosomiasis. Which of the following best describes the primary reservoir for the acute, rapidly progressive form of the disease caused by Trypanosoma brucei rhodesiense?",
+      "options": [
+        "Aquatic snails",
+        "Blackfly larvae",
+        "Domestic cats",
+        "Human carriers",
+        "Wild game and cattle"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Several individuals develop watery diarrhea and nausea after consuming imported raspberries. A laboratory investigation identifies acid-fast oocysts in the stool. Which of the following is the drug of choice for this Cyclospora cayetanensis infection?",
+      "options": [
+        "Albendazole",
+        "Iodoquinol",
+        "Metronidazole",
+        "Praziquantel",
+        "Trimethoprim-sulfamethoxazole"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient from Southeast Asia presents with an ocular infection. Surgical exploration of the periorbital tissue reveals a white, undulating, ribbon-like larval form identified as a \"sparganum.\" Which of the following parasites is the most likely cause?",
+      "options": [
+        "Dirofilaria immitis",
+        "Loa loa",
+        "Onchocerca volvulus",
+        "Spirometra spp.",
+        "Toxocara canis"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A stool specimen from a patient with chronic diarrhea is stained using the modified acid-fast technique. The laboratory technician observes spherical oocysts measuring approximately 8 to 10 \u00b5m in diameter. Based on this size, which organism is most likely present?",
+      "options": [
+        "Cryptosporidium spp.",
+        "Cyclospora cayetanensis",
+        "Cystoisospora belli",
+        "Dientamoeba fragilis",
+        "Giardia duodenalis"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 60-year-old patient with a history of chronic Schistosoma haematobium infection develops progressive shortness of breath. Which of the following vascular conditions is specifically associated with the long-term granulomatous inflammation and fibrosis caused by this parasite?",
+      "options": [
+        "Coronary artery disease",
+        "Deep vein thrombosis",
+        "Portal hypertension",
+        "Pulmonary artery hypertension",
+        "Renal artery stenosis"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

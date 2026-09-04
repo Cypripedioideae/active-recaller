@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-cvs-review-8",
+  "title": "Cardiovascular Comprehensive Set 1: Integrative Responses (Short answer)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the primary initiating hemodynamic event when a person move quickly from a supine to a standing position?",
+      "modelAnswer": "Venous pooling in the lower extremities due to the high compliance of veins.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Define orthostatic hypotension in the context of postural changes.",
+      "modelAnswer": "A decrease in arterial blood pressure upon standing, often causing light-headedness or fainting.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Why does stroke volume initially decrease when an individual stands up?",
+      "modelAnswer": "Due to decreased venous return (reduced preload).",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "During the compensatory response to standing, what specific change occurs in the firing rate of the carotid sinus nerve?",
+      "modelAnswer": "The firing rate decreases due to decreased stretch on the carotid sinus.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "List the four primary consequences of the baroreceptor reflex that attempt to restore mean arterial pressure (P_a) during a postural challenge.",
+      "modelAnswer": "(1) Increased heart rate, (2) increased contractility, (3) arteriolar constriction (increased TPR), and (4) venoconstriction (increased venous return).",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "In the context of the \"central command\" of exercise, what changes occur in the autonomic outflow to the heart?",
+      "modelAnswer": "Increased sympathetic outflow and decreased parasympathetic outflow.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Explain why the total peripheral resistance (TPR) decreases during aerobic exercise despite increased sympathetic activity.",
+      "modelAnswer": "Because of vasodilation of arterioles in the exercising skeletal muscle caused by local vasodilator metabolites (lactate, K^+, adenosine).",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "What mechanical mechanism, other than venoconstriction, helps increase venous return during physical activity?",
+      "modelAnswer": "The \"muscle pump\" (mechanical squeezing of veins by contracting skeletal muscle).",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Why does pulse pressure typically increase during strenuous exercise?",
+      "modelAnswer": "Because stroke volume increases.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Describe the effect of exercise on the arteriovenous (A-V) O_2 difference and the physiological reason for this change.",
+      "modelAnswer": "It increases because the tissues extract and consume more oxygen from the blood.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Which two major vascular beds are \"spared\" from the selective arteriolar vasoconstriction directed by the central command during exercise?",
+      "modelAnswer": "The coronary and cerebral circulations.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "What is the initiating event in the cardiovascular response to an acute hemorrhage?",
+      "modelAnswer": "Loss of blood volume, which decreases mean systemic pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "How does the body compensate for the loss of blood volume through \"autotransfusion\" at the capillary level?",
+      "modelAnswer": "Arteriolar vasoconstriction decreases capillary hydrostatic pressure (Pc), which favors the absorption of fluid from the interstitium.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Which specific hormonal system provides the slow, long-term compensation for blood volume loss after a hemorrhage?",
+      "modelAnswer": "The renin-angiotensin II-aldosterone system.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What are the two distinct effects of Antidiuretic Hormone (ADH) via its V_1 and V_2 receptors during the response to hemorrhage?",
+      "modelAnswer": "V_1 causes arteriolar vasoconstriction; V_2 increases water reabsorption in the renal collecting ducts.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "How does the baroreceptor reflex affect venous compliance during a state of shock?",
+      "modelAnswer": "It decreases venous compliance (venoconstriction) to increase venous return and stressed volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Explain the \"Bainbridge reflex\" and distinguish it from the baroreceptor reflex response to high arterial pressure.",
+      "modelAnswer": "The Bainbridge reflex is an increase in heart rate in response to increased venous/atrial pressure (sensing volume excess), whereas the baroreceptor reflex decreases heart rate in response to increased arterial pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "What is the role of Atrial Natriuretic Peptide (ANP) when the cardiopulmonary baroreceptors sense an increase in blood volume?",
+      "modelAnswer": "It causes vasodilation (decreased TPR) and increased Na^+ and water excretion by the kidneys.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "In the steady state of moderate exercise, what is the typical change in mean arterial pressure, and how is this achieved?",
+      "modelAnswer": "It shows a slight increase; the large increase in cardiac output is mostly balanced by the decrease in TPR.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Why does the heart rate increase during a hemorrhage even though blood volume is low?",
+      "modelAnswer": "The decrease in arterial pressure is sensed by baroreceptors, triggering a reflex increase in sympathetic activity and decrease in parasympathetic activity to the SA node.",
+      "explanation": "-"
+    }
+  ]
+}

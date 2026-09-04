@@ -1,0 +1,176 @@
+{
+  "id": "comprehensive-repro-review-11",
+  "title": "Reproductive Comprehensive Set 2: Puberty (MCQ)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 6-year-old boy is diagnosed with a pineal tumor that has significantly reduced his melatonin levels. He is subsequently noted to have increased testicular volume and early development of pubic hair. Which of the following best explains the neuroendocrine basis of his condition?",
+      "options": [
+        "Loss of tonic melatonin inhibition on hypothalamic GnRH release.",
+        "Direct stimulation of Leydig cells by pineal-derived serotonin.",
+        "Autonomous secretion of LH from the tumor cells.",
+        "Increased sensitivity of the adrenal cortex to ACTH.",
+        "Pre-pubertal down-regulation of GnRH receptors."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 16-year-old female high school runner presents with primary amenorrhea. Her body fat percentage is measured at 11%. Her laboratory profile shows low levels of LH, FSH, and estradiol. A deficiency in which of the following is the most likely upstream signal causing this suppression of the hypothalamic-pituitary-ovarian axis?",
+      "options": [
+        "Ghrelin.",
+        "Leptin.",
+        "Melatonin.",
+        "Prolactin.",
+        "Somatostatin."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A researcher is comparing the pituitary-gonadal axis across different age groups. Which of the following pairs of individuals will both demonstrate a serum gonadotropin profile where the concentration of Follicle-Stimulating Hormone (FSH) is higher than the concentration of Luteinizing Hormone (LH)?",
+      "options": [
+        "A 10-year-old girl and a 25-year-old woman.",
+        "A 15-year-old boy and a 70-year-old man.",
+        "A 6-year-old boy and a 60-year-old woman.",
+        "A fetus at 20 weeks and a 20-year-old woman.",
+        "A 30-year-old man and a postmenopausal woman."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "During the onset of puberty, there is a marked increase in the pituitary response to a fixed dose of Gonadotropin-Releasing Hormone (GnRH). What is the specific cellular mechanism responsible for this increased sensitivity?",
+      "options": [
+        "Increased secretion of dopamine into the portal circulation.",
+        "Down-regulation of LH receptors on the gonads.",
+        "Hyperpolarization of the hypothalamic pulse generator.",
+        "Up-regulation of GnRH receptors on pituitary gonadotrophs.",
+        "Activation of aGi-protein-coupled pathway by GnRH."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 14-year-old phenotypic female presents for evaluation of primary amenorrhea. Physical examination shows a lack of pubic and axillary hair, although breast development is normal. Laboratory results indicate an 46, XY genotype and high serum testosterone. Which of the following is the most likely explanation for her lack of pubic hair?",
+      "options": [
+        "Absence of 5\u03b1-reductase in the skin.",
+        "Defective production of estradiol by the ovaries.",
+        "High levels of melatonin inhibiting the hair follicles.",
+        "Failure of the SRY gene to differentiate the gonads.",
+        "End-organ resistance to androgens at the hair follicles."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 13-year-old boy experiences a significant linear growth spurt. However, within 18 months, his growth ceases completely as his epiphyseal plates close. Which of the following hormonal events is primarily responsible for the termination of his linear growth?",
+      "options": [
+        "High local concentrations of testosterone.",
+        "Suppression of insulin-like growth factor 1 (IGF-1).",
+        "Down-regulation of growth hormone receptors.",
+        "Increased secretion of somatostatin from the hypothalamus.",
+        "Excessive secretion of dihydrotestosterone by the liver."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "In a clinical sleep study of a 9-year-old girl who is just starting to show breast budding, which of the following would be the earliest measurable neuroendocrine indicator of the onset of puberty?",
+      "options": [
+        "Tonic elevation of FSH levels throughout the 24-hour cycle.",
+        "Large nocturnal pulses of LH during REM sleep.",
+        "Continuous secretion of GnRH into the portal blood.",
+        "Suppression of growth hormone secretion during deep sleep.",
+        "Immediate disappearance of the alpha rhythm on EEG."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 55-year-old man who underwent bilateral orchidectomy for testicular cancer 5 years ago is being evaluated for osteoporosis. Compared to a healthy age-matched control, his hypothalamic-pituitary secretory pattern would most likely show which of the following?",
+      "options": [
+        "Decreased frequency of GnRH pulses.",
+        "Increased FSH, but suppressed LH due to inhibin loss.",
+        "Increased frequency and amplitude of GnRH and LH pulses.",
+        "Decreased amplitude of LH pulses due to loss of positive feedback.",
+        "Normal LH levels but significantly elevated testosterone."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A study on the human life cycle tracks the variations in pineal gland activity. At which of the following stages are plasma levels of melatonin expected to be at their lowest?",
+      "options": [
+        "During the first trimester of fetal life.",
+        "Throughout infancy and early childhood.",
+        "At the exact midpoint of the juvenile pause.",
+        "During the adult reproductive years and senescence.",
+        "Immediately following the first nocturnal LH surge."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 46, XX fetus is diagnosed with a congenital deficiency of the enzyme 17\u03b1-hydroxylase. If the pregnancy proceeds to term, which of the following clinical features will be most evident in the girl during the typical years of puberty?",
+      "options": [
+        "Precocious development of axillary hair.",
+        "Early onset of menarche and heavy menses.",
+        "Virilization and enlargement of the clitoris.",
+        "Normal breast development but absent menstruation.",
+        "Failure of adrenarche and lack of pubic hair."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A patient with advanced prostate cancer is treated with a long-acting, continuous-release GnRH agonist. After an initial brief surge in testosterone, why do his circulating testosterone levels fall to near-castrate levels?",
+      "options": [
+        "Down-regulation of GnRH receptors on the anterior pituitary.",
+        "Exhaustion of the cholesterol stores in the Leydig cells.",
+        "Direct inhibition of 5\u03b1-reductase by the GnRH agonist.",
+        "Massive increase in inhibin secretion from the Sertoli cells.",
+        "Inactivation of the Gs proteins in the pituitary gonadotrophs."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A 12-year-old girl presents with breast budding (thelarche) but has not yet experienced her first menstrual period. According to the typical chronological sequence of female puberty, when should she and her parents expect the onset of menarche?",
+      "options": [
+        "Within 3 to 6 months.",
+        "In approximately 2 years.",
+        "Only after the appearance of pubic hair (adrenarche).",
+        "Immediately following her peak height velocity spurt.",
+        "Approximately 5 years after the onset of thelarche."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

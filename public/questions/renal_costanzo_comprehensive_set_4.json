@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-4",
+  "title": "Renal Comprehensive Set 1: Tubular Function (Short Answer)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the fundamental formula used to determine the rate of urinary excretion for any substance?",
+      "modelAnswer": "Excretion Rate =V\u00d7[U]x  (Urine flow rate \u00d7 Urine concentration).",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Define \"Filtered Load\" and provide its mathematical expression.",
+      "modelAnswer": "Filtered Load is the amount of substance filtered into Bowman's space per unit time; Filtered Load =GFR\u00d7[P]x \u00d7fraction unbound in plasma.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "If the filtered load of a substance is greater than its excretion rate, what is the net renal process occurring?",
+      "modelAnswer": "Net reabsorption.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "List the three defining characteristics of carrier-mediated transport systems in the renal tubules.",
+      "modelAnswer": "Stereospecificity, Saturation (Tm ), and Competition.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "In the context of titration curves, what is the \"Transport Maximum\" (Tm )?",
+      "modelAnswer": "The maximum rate (usually in mg/min) at which a carrier-mediated transport system can move a solute, occurring when all binding sites are occupied.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Why is the glucose reabsorption curve identical to the filtration curve at plasma concentrations below 200 mg/dL?",
+      "modelAnswer": "Because at these concentrations, the filtered load is well below the Tm , and the transporters are able to reabsorb 100% of the filtered glucose.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Define the \"Renal Threshold\" for glucose and state its approximate value in a normal individual.",
+      "modelAnswer": "The plasma concentration at which the solute first appears in the urine; for glucose, it is approximately 250 mg/dL.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Explain the two physiological reasons for \"splay\" in the glucose titration curve.",
+      "modelAnswer": "(1) Low affinity of the transporters for the solute as they near saturation; (2) Heterogeneity of nephrons (different nephrons have slightly different Tm  values).",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "How does the renal handling of urea differ fundamentally from that of glucose in terms of the transport mechanism?",
+      "modelAnswer": "Glucose is reabsorbed by carrier-mediated active transport (secondary active transport), while urea is reabsorbed primarily by passive diffusion (simple and facilitated).",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "For a secreted substance like para-aminohippuric acid (PAH), how does the excretion curve behave once the plasma concentration exceeds the Tm ?",
+      "modelAnswer": "The excretion curve becomes parallel to the filtration curve because the secretion component has reached its maximum constant rate (Tm ).",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "What does a [TF/P]x  ratio of 1.0 signify when measured in Bowman's space for a freely filtered substance?",
+      "modelAnswer": "The concentration in the tubular fluid is equal to the concentration in the plasma (no reabsorption or secretion has occurred yet).",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "If the [TF/P]x  ratio for a solute is 1.0 at the end of the proximal tubule, does this mean no reabsorption has occurred? Explain.",
+      "modelAnswer": "No; it means that the solute was reabsorbed exactly in proportion to the reabsorption of water, keeping its luminal concentration constant.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "How is the [TF/P]inulin  ratio used to assess water reabsorption along the nephron?",
+      "modelAnswer": "It measures the concentration of inulin in tubular fluid relative to plasma; since inulin is not reabsorbed or secreted, any increase in the ratio must be due to the removal (reabsorption) of water.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "What is the formula for calculating the \"Fraction of Filtered Water Reabsorbed\" using the inulin ratio?",
+      "modelAnswer": "1-(1/[TF/P]inulin ).",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What does the \"double ratio\" [TF/P]x/[TF/P]inulin  represent?",
+      "modelAnswer": "The fraction of the filtered load of substance x remaining in the tubular fluid at a specific point in the nephron.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Briefly explain the principle of \"non-ionic diffusion\" as it applies to weak acids.",
+      "modelAnswer": "Only the uncharged (non-ionic) form of a weak acid or base is lipid-soluble and can diffuse across the tubular epithelial cell membrane.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Why does alkalinizing the urine (increasing pH) increase the excretion of a weak acid like salicylic acid?",
+      "modelAnswer": "A high pH shifts the equilibrium toward the charged A-  form, which is lipid-insoluble and cannot diffuse back into the blood, thus trapping it in the lumen for excretion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "Explain the term \"diffusion trapping\" in the context of ammonium (NH4+ ) excretion.",
+      "modelAnswer": "The process where lipid-soluble NH3diffuses into the lumen, reacts with secreted H^+to form lipid-insoluble NH4+ , which is then \"trapped\" and excreted.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "If a substance has a clearance ratio (Cx/Cinulin ) of 0.5, what can be concluded about its handling by the renal tubules?",
+      "modelAnswer": "The substance undergoes net tubular reabsorption (it is cleared at half the rate of the GFR).",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Which specialized structural feature of the proximal tubule epithelial cells provides the large surface area necessary for bulk reabsorption?",
+      "modelAnswer": "The brush border (microvilli).",
+      "explanation": "-"
+    }
+  ]
+}

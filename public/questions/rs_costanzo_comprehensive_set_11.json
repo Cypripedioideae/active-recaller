@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-rs-review-11",
+  "title": "Comprehensive Respiratory Set 2: Gas Exchange (MCQ)",
+  "topic": "Comprehensive RS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A researcher is studying a group of mountaineers at an altitude where the barometric pressure (PB) is 447 mmHg. If a subject's arterial P_(CO2)is 40 mmHg and their respiratory exchange ratio (R) is 0.8, what is their calculated alveolar P_(O2)(PA_(O2) )?",
+      "options": [
+        "24 mmHg",
+        "34 mmHg",
+        "44 mmHg",
+        "54 mmHg",
+        "64 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "During strenuous exercise, the diffusion of oxygen (O2) in a healthy individual can shift from being perfusion-limited to being partially diffusion-limited. Which statement best explains the physiological mechanism for this shift?",
+      "options": [
+        "The partial pressure gradient between the alveoli and the capillary increases, slowing down the rate of equilibration.",
+        "The total surface area for gas exchange decreases as blood flow is diverted to the base of the lung.",
+        "The velocity of blood flow increases, reducing the red blood cell transit time to a point where P_(O2)equilibration is not completed.",
+        "Pulmonary surfactant density increases at high lung volumes, creating a thicker barrier for O2diffusion.",
+        "The solubility coefficient of O2  in the plasma decreases as the core body temperature rises."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 65-year-old patient with chronic pulmonary edema has a diffusion distance (\u0394X) that has effectively doubled. Simultaneously, emphysematous changes have reduced his total alveolar surface area (A) by 50%. According to Fick's Law, what is the resulting rate of O2  transfer compared to normal?",
+      "options": [
+        "100% of normal",
+        "50% of normal",
+        "75% of normal",
+        "25% of normal",
+        "10% of normal"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient presents with a systemic arterial P_(O2)of 55 mmHg and a P_(CO2)of 60 mmHg. Assuming a PB  of 760 mmHg and R=0.8, which of the following is the most accurate assessment of this patient's A-a gradient and the likely underlying mechanism?",
+      "options": [
+        "Normal A-a gradient; indicating hypoventilation as the primary cause.",
+        "Increased A-a gradient; indicating a diffusion defect like pulmonary fibrosis.",
+        "Normal A-a gradient; indicating high-altitude exposure.",
+        "Increased A-a gradient; indicating a right-to-left cardiac shunt.",
+        "Increased A-a gradient; indicating a ventilation/perfusion (V/Q) mismatch."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Why is carbon monoxide (CO) the preferred gas for measuring the lung diffusing capacity (D_L), rather than a gas like nitrous oxide (N2O)?",
+      "options": [
+        "CO does not bind to hemoglobin, ensuring that its transfer is limited only by the membrane.",
+        "CO has a much higher solubility in the lipid bilayer than N2O.",
+        "CO binds so avidly to hemoglobin that the partial pressure of CO in the capillary blood remains near zero, making the transfer exclusively diffusion-limited.",
+        "N2O equilibration occurs so slowly that it is impossible to calculate a diffusion rate.",
+        "CO is a smaller molecule and therefore follows Graham's Law more predictably than N2 O."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "In a clinical trial for a new vasodilator, it is noted that tissue P_(O2)decreases significantly despite a normal arterial P_(O2)and hemoglobin concentration. Which form of hypoxia and associated blood gas finding in the mixed venous blood is most likely?",
+      "options": [
+        "Hypoxic hypoxia; decreased mixed venous P_(O2).",
+        "Stagnant hypoxia; decreased mixed venous P_(O2).",
+        "Anemic hypoxia; normal mixed venous P_(O2).",
+        "Histotoxic hypoxia; increased mixed venous P_(O2).",
+        "Hypoperfusion hypoxia; normal mixed venous P_(O2) ."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A medical student compares the diffusion of CO2and O2across the alveolar-capillary barrier. Which of the following is true regarding the comparison of these two gases?",
+      "options": [
+        "O2has a higher diffusion coefficient because it is a smaller molecule.",
+        "CO2requires a much larger partial pressure gradient than O2to achieve the same rate of transfer.",
+        "CO2diffuses about 20 times faster than O2because its solubility in the aqueous membrane is significantly higher.",
+        "O2equilibration takes longer than CO2because O2  is less lipid-soluble.",
+        "Both gases are diffusion-limited under normal resting conditions."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with pulmonary fibrosis. Analysis of his O2equilibration curve would show that the partial pressure of O2in his pulmonary capillaries (Pa_(O2)):",
+      "options": [
+        "Equilibrates with alveolar P_(O2)faster than normal due to a reduced volume of blood.",
+        "Fails to reach alveolar P_(O2)by the end of the capillary because the increased membrane thickness limits the rate of diffusion.",
+        "Equilibrates at the normal one-third mark of the capillary but at a lower absolute value.",
+        "Exceeds alveolar P_(O2)because of the compensatory increase in hemoglobin concentration.",
+        "Remains constant at the mixed venous P_(O2)  because diffusion is completely blocked."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Use Henry's Law (C=P\u00d7Solubility) to compare the dissolved content of O2and CO2in arterial blood where Pa_(O2)=100 mmHg and Pa_(CO2)=40 mmHg. Which statement is correct? (Solubility O2=0.003; Solubility CO2=0.07).",
+      "options": [
+        "Dissolved O2content is 0.3 mL/100 mL; dissolved CO2content is 2.8 mL/100 mL.",
+        "Dissolved O2content is 3.0 mL/100 mL; dissolved CO2content is 0.28 mL/100 mL.",
+        "Dissolved O2content is 0.003 mL/100 mL; dissolved CO2content is 0.07 mL/100 mL.",
+        "Dissolved O2content is higher than dissolved CO2content because the Pa_(O2)  is higher.",
+        "Both gases have equal dissolved concentrations because the system is in equilibrium."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A climber acclimatizing at high altitude exhibits a rightward shift of the oxygen-hemoglobin dissociation curve. What is the net effect of this shift on gas exchange at the lungs versus the tissues?",
+      "options": [
+        "Facilitates both loading in the lungs and unloading in the tissues.",
+        "Facilitates loading in the lungs but impairs unloading in the tissues.",
+        "Impairs both loading in the lungs and unloading in the tissues.",
+        "Impairs loading in the lungs but facilitates unloading in the tissues.",
+        "Has no effect on exchange at either site; only the hemoglobin concentration matters."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

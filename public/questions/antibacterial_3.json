@@ -1,0 +1,148 @@
+{
+  "id": "antibacterial-agents-3",
+  "title": "Antibacterial Agents 3",
+  "topic": "Antibacterial Agents",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which first-generation cephalosporin is used as a standard surgical prophylaxis to prevent *Staphylococcus aureus* wound infections by inhibiting peptidoglycan cross-linking?",
+      "options": [
+        "Cefazolin",
+        "Ceftriaxone",
+        "Cefuroxime",
+        "Cefepime",
+        "Ceftazidime"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 28-year-old male presents with a single, painless ulcer on his penis that appeared one week ago. Physical examination reveals a clean-based, indurated ulcer and bilateral, non-tender inguinal lymphadenopathy. Darkfield microscopic examination of the lesion exudate demonstrates motile, tightly coiled spirochetes. Which of the following is the most appropriate treatment of choice for this patient? ",
+      "options": [
+        "Ciprofloxacin",
+        "Benzathine penicillin G",
+        "Penicillin G sodium",
+        "Doxycycline",
+        "Azithromycin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 6-year-old child is diagnosed with a tick-borne infection. Which of the following antibiotic classes should be avoided in this patient due to the risk of permanent tooth discoloration and inhibition of bone growth?",
+      "options": [
+        "Penicillins",
+        "Tetracyclines",
+        "Aminoglycosides",
+        "Fluoroquinolones",
+        "Macrolides"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Which bactericidal agent requires an oxygen-dependent transporter to enter the cell and exerts its effect by binding irreversibly to the 30S ribosomal subunit, causing mRNA misreading?",
+      "options": [
+        "Gentamicin",
+        "Azithromycin",
+        "Linezolid",
+        "Chloramphenicol",
+        "Clindamycin"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 65-year-old patient presents with a productive cough, and sputum Gram stain reveals Gram-positive, lancet-shaped diplococci. Which of the following is the most appropriate empirical treatment if high-level penicillin resistance via altered penicillin-binding proteins is suspected?",
+      "options": [
+        "Amoxicillin",
+        "Levofloxacin",
+        "Penicillin V",
+        "Cephalexin",
+        "Azithromycin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient presents with a few hairless, hypopigmented skin plaques on his trunk that have a complete loss of sensation. Physical examination also reveals visible enlargement of the ulnar and peroneal nerves. A skin biopsy confirms the presence of acid-fast bacilli. He received the appropriate treatment for this condition. Ten days later, he presents with significant fatigue, jaundice, and dark-coloured urine. Laboratory evaluation reveals evidence of acute hemolytic anemia. Which of the following drugs is most likely to be the cause of this patient's new symptoms?",
+      "options": [
+        "Rifampin",
+        "Clofazimine",
+        "Dapsone",
+        "Isoniazid",
+        "Ethambutol  "
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient being treated for a vaginal infection develops severe flushing, tachycardia, and hypotension after consuming a glass of wine. Which of the following drugs is most likely responsible for this reaction?",
+      "options": [
+        "Fluconazole",
+        "Clindamycin",
+        "Metronidazole",
+        "Doxycycline",
+        "Azithromycin"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Which of the following describes the molecular mechanism by which ciprofloxacin inhibits bacterial DNA synthesis?",
+      "options": [
+        "Irreversible binding to enolpyruvate transferase",
+        "Binding to the 30S ribosomal subunit to prevent initiation",
+        "Inhibition of the beta-subunit of RNA polymerase",
+        "Inhibition of DNA gyrase and topoisomerase IV",
+        "Structural analogy to p-aminobenzoic acid (PABA)"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient with cystic fibrosis develops a pulmonary infection with *Pseudomonas aeruginosa*. Which of the following drugs treats this infection by disrupting bacterial cell wall synthesis?",
+      "options": [
+        "Levofloxacin",
+        "Ceftriaxone",
+        "Ceftaroline",
+        "Amikacin",
+        "Ceftazidime"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "For which patient population or clinical scenario is the use of bacteriostatic agents generally discouraged in favor of bactericidal therapy?",
+      "options": [
+        "Young, sexually active women with simple cystitis",
+        "A patient with a secondary pharyngitis during infectious mononucleosis",
+        "Pediatric patients with minor respiratory tract infections",
+        "An immunocompromised host or a patient with a life-threatening infection",
+        "A patient with a localized, uncomplicated skin infection"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    }
+  ]
+}

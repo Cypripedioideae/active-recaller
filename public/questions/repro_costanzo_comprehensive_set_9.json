@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-repro-review-9",
+  "title": "Reproductive Comprehensive Set 1: Parturition, Lactation, Integration (Short Answer)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What specific change in the estrogen-to-progesterone ratio occurs near term to increase uterine excitability?",
+      "modelAnswer": "Near term, the estrogen/progesterone ratio increases, which overcomes the \"progesterone block\" and makes the myometrium more sensitive to contractile stimuli.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Which two prostaglandins are stimulated by the rising estrogen levels late in pregnancy, and what are their specific roles in labor?",
+      "modelAnswer": "Prostaglandins PGE2 and PGF2\u03b1; they increase intracellular calcium in uterine smooth muscle to enhance contractility and promote gap junction formation for synchronous contraction.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Explain the positive feedback loop involving the \"Ferguson reflex\" and the role of oxytocin during parturition.",
+      "modelAnswer": "Dilation of the cervix stimulates oxytocin release from the posterior pituitary, which increases uterine contractions, further dilating the cervix and reinforcing the cycle.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Identify the primary physiological events occurring in each of the three stages of normal labor.",
+      "modelAnswer": "Stage 1: Uterine contractions widen and thin the cervix; Stage 2: The fetus is delivered through the vagina; Stage 3: The placenta is delivered and uterine vessels constrict.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Which hormone is primarily responsible for lactogenesis (milk production), and how is its secretion tonically regulated by the hypothalamus in non-pregnant individuals?",
+      "modelAnswer": "Prolactin; it is tonically inhibited by dopamine (prolactin-inhibiting factor) from the hypothalamus.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Describe the inhibitory mechanism that prevents milk secretion during pregnancy despite the presence of high prolactin levels.",
+      "modelAnswer": "High levels of estrogen and progesterone during pregnancy down-regulate prolactin receptors in the breast and block its lactogenic action.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "What is the \"milk letdown\" reflex, and which hormone mediates the contraction of myoepithelial cells for milk ejection?",
+      "modelAnswer": "The milk ejection reflex; it is mediated by oxytocin, which causes the myoepithelial cells lining the mammary ducts to contract.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "How does suckling provide a de facto method of contraception by suppressing the hypothalamic-pituitary-ovarian axis?",
+      "modelAnswer": "Suckling-induced prolactin secretion inhibits the synthesis and release of GnRH, which in turn inhibits FSH and LH secretion and prevents ovulation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Define menopause and identify the fundamental reason for the cessation of menstrual cycles in women around age 50.",
+      "modelAnswer": "Menopause is the cessation of menstrual cycles caused by the depletion of functioning ovarian follicles.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Why do the plasma levels of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) increase to their highest points in the lifespan after menopause?",
+      "modelAnswer": "The loss of negative feedback from ovarian steroids (estrogen/progesterone) leads to a massive increase in the secretion of gonadotropins by the anterior pituitary.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Which hormone, secreted by the trophoblast, is responsible for \"rescuing\" the corpus luteum from regression in early pregnancy?",
+      "modelAnswer": "Human chorionic gonadotropin (HCG).",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Explain why the placenta is considered an incomplete steroidogenic organ that requires a \"fetoplacental unit\" to synthesize estriol.",
+      "modelAnswer": "The placenta lacks the enzyme 17\u03b1-hydroxylase and cannot convert progesterone to androgens; it must use androgen precursors (DHEA-S) from the fetal adrenal glands and liver to produce estriol.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Describe the role of human placental lactogen (hPL) in coordinating the maternal-fetal fuel economy.",
+      "modelAnswer": "hPL increases maternal lipolysis and decreases maternal glucose utilization, shunting glucose and fatty acids toward the fetus for energy.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "What specific pressure change in the heart causes the functional closure of the foramen ovale within minutes after delivery?",
+      "modelAnswer": "An increase in left atrial pressure (due to increased pulmonary venous return) that exceeds right atrial pressure (due to the loss of umbilical flow).",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Why does the ductus arteriosus, which shunts blood from the pulmonary artery to the aorta in the fetus, normally close within 48-72 hours after birth?",
+      "modelAnswer": "Closure is triggered by the high partial pressure of oxygen (P_(O2)) in the blood after birth and the loss of placental prostaglandins (PGE2), causing the systemic vessel to constrict.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Which substance, essential for neonatal lung stability, is produced by type II alveolar cells, and what is its role in decreasing surface tension?",
+      "modelAnswer": "Pulmonary surfactant; it reduces the collapsing pressure on small alveoli by lowering surface tension, preventing atelectasis.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Describe the importance of the lecithin-to-sphingomyelin (L-S) ratio in evaluating fetal development.",
+      "modelAnswer": "It assesses fetal lung maturity; an L-S ratio > 2:1 indicates adequate surfactant for extrauterine life.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "How does the activation of the fetal hypothalamic-pituitary-adrenal axis near term contribute to the initiation of labor?",
+      "modelAnswer": "Increased fetal cortisol secretion increases the estrogen/progesterone ratio and stimulates the production of prostaglandins that trigger uterine contractions.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "In an integrative context, how does progesterone affect maternal respiratory physiology during pregnancy?",
+      "modelAnswer": "Progesterone stimulates the brainstem respiratory centers to increase alveolar ventilation, resulting in a physiological decrease in arterial P_(CO2) (hypocapnia).",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Contrast the genetic sex, gonadal sex, and phenotypic sex of an individual with Androgen Insensitivity Syndrome.",
+      "modelAnswer": "Genetic sex: 46, XY; Gonadal sex: Testes are present; Phenotypic sex: Female external genitalia (due to absent androgen receptors).",
+      "explanation": "-"
+    }
+  ]
+}

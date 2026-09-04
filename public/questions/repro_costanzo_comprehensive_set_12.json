@@ -1,0 +1,260 @@
+{
+  "id": "comprehensive-repro-review-12",
+  "title": "Reproductive Comprehensive Set 2: Male Physiology - Spermatogenesis (MCQ)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 28-year-old male is evaluated for infertility. A testicular biopsy reveals that while his interstitial cells appear normal, the seminiferous tubules show a marked reduction in the density of germ cells. Further testing shows that the tight junctions between his Sertoli cells are defective. Which of the following is the most likely consequence of this specific structural defect?",
+      "options": [
+        "Failure of Leydig cells to synthesize testosterone.",
+        "Inability to maintain a lower temperature than body core temperature.",
+        "Exposure of haploid germ cells to an autoimmune attack by the systemic circulation.",
+        "Decreased secretion of Luteinizing Hormone (LH) from the anterior pituitary.",
+        "Premature conversion of testosterone to dihydrotestosterone within the tubules."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 15-year-old boy is diagnosed with bilateral cryptorchidism. His physician explains that if left untreated, the higher temperature of the abdominal cavity will impair his fertility. Which of the following processes is most sensitive to this increase in temperature?",
+      "options": [
+        "The synthesis of testosterone by Leydig cells.",
+        "The secretion of Luteinizing Hormone (LH) by the anterior pituitary.",
+        "The synthesis of Androgen-Binding Protein (ABP) by Sertoli cells.",
+        "The meiotic and mitotic divisions involved in spermatogenesis.",
+        "The conversion of testosterone to estradiol by aromatase."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "During the final phase of spermatogenesis, known as spermiogenesis, spermatids undergo a dramatic transformation to become mature spermatozoa. Which of the following morphological changes is a hallmark of this specific phase?",
+      "options": [
+        "The loss of cytoplasm and the development of a flagellum.",
+        "The first meiotic division of primary spermatocytes.",
+        "The mitotic proliferation of diploid spermatogonia.",
+        "The doubling of the chromosome number to 46.",
+        "The conversion of secondary spermatocytes into spermatids."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A researcher develops a drug that selectively inhibits the secretion of Androgen-Binding Protein (ABP) from Sertoli cells. Which of the following would be the most immediate effect on the environment of the seminiferous tubules?",
+      "options": [
+        "Local testosterone levels near the germ cells would fall below the threshold required for maturation.",
+        "Plasma levels of testosterone would increase due to a loss of negative feedback.",
+        "The rate-limiting enzyme cholesterol desmolase would be inhibited.",
+        "The blood-testis barrier would become more permeable to large proteins.",
+        "The conversion of testosterone to dihydrotestosterone in the prostate would cease."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 30-year-old male undergoes a laboratory semen analysis. The results show a normal volume and sperm count, but the sperm are non-motile. A structural defect in which segment of the spermatozoon would best explain the lack of energy available for tail movement?",
+      "options": [
+        "The acrosomal cap.",
+        "The head.",
+        "The middle piece.",
+        "The principal piece.",
+        "The end piece."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "In a clinical trial, a long-acting GnRH antagonist is administered to healthy male volunteers. After 64 days, which of the following is the most likely finding regarding their sperm production?",
+      "options": [
+        "Increased sperm motility due to the removal of inhibitory factors.",
+        "Complete cessation of spermatogenesis due to the loss of pulsatile FSH and LH.",
+        "Selective hypertrophy of the Leydig cells.",
+        "Massive increase in the secretion of inhibin from the Sertoli cells.",
+        "Shift in the sperm chromosome number from haploid to diploid."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A couple has been attempting to conceive for over a year. Semen analysis shows that while the sperm are produced in normal quantities, they fail to penetrate the protective coverings of the ovum. This suggests a failure in which of the following processes?",
+      "options": [
+        "Capacitation in the epididymis.",
+        "The \"single effect\" of countercurrent multiplication.",
+        "The acrosomal reaction involving the release of proteolytic enzymes.",
+        "The mitotic division of secondary spermatocytes.",
+        "The reabsorption of water in the thin descending limb of Henle."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Which of the following correctly describes the progression of a single spermatogonium through the stages of spermatogenesis?",
+      "options": [
+        "One spermatogonium generates four haploid spermatozoa.",
+        "One spermatogonium generates sixty-four mature spermatozoa.",
+        "Primary spermatocytes are produced by meiotic division of spermatids.",
+        "Secondary spermatocytes are diploid 4N cells.",
+        "The second meiotic division results in the formation of primary spermatocytes."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "An experimental model shows that the concentration of testosterone in the lumen of the seminiferous tubules is nearly 100 times higher than that in the systemic circulation. What is the primary physiological mechanism that maintains this concentration gradient?",
+      "options": [
+        "Active transport of testosterone by the Na^+/K^+ ATPase.",
+        "The presence of aromatase in the Leydig cells.",
+        "Secretion of Androgen-Binding Protein (ABP) by Sertoli cells.",
+        "Passive diffusion of testosterone through the vasa recta.",
+        "Increased sensitivity of the LH receptors on the Sertoli cells."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 45-year-old male is treated with a drug that inhibits the Na^+-K^+-2Cl^- cotransporter. While primarily a diuretic, he asks about its effects on his reproductive health. Based on the presence of this transporter in the male reproductive tract, which of the following might be affected?",
+      "options": [
+        "The generation of the lumen-positive potential in the thick ascending limb, indirectly affecting Ca^(2+) levels.",
+        "The secretion of alkaline fluid by the prostate gland.",
+        "The synthesis of fructose in the seminal vesicles.",
+        "The maturation of sperm in the ampulla of the vas deferens.",
+        "The contractility of the myoepithelial cells in the breast."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "During a medical lecture on the male reproductive system, a student asks about the role of the epididymis. Which of the following best describes the physiological change sperm undergo while stored in this structure?",
+      "options": [
+        "They complete the second meiotic division.",
+        "They undergo the acrosomal reaction to release enzymes.",
+        "They achieve functional maturation and gain the potential for motility.",
+        "They are converted from haploid 1N to diploid 2N cells.",
+        "They are coated with prostaglandins to neutralize vaginal acidity."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A patient with a rare genetic mutation lacks the ability to synthesize inhibin. If his testosterone production and Leydig cell function are otherwise normal, what would be the expected finding in his laboratory hormone profile?",
+      "options": [
+        "Significantly elevated levels of Follicle-Stimulating Hormone (FSH).",
+        "Significantly elevated levels of Luteinizing Hormone (LH).",
+        "Undetectable levels of Gonadotropin-Releasing Hormone (GnRH).",
+        "Decreased levels of Androgen-Binding Protein (ABP).",
+        "Hypertrophy of the prostate gland due to excess dihydrotestosterone."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "The seminal vesicles contribute approximately 60% of the total volume of semen. A man with an obstruction of the ejaculatory ducts would be expected to have semen that is deficient in which of the following substances?",
+      "options": [
+        "Calcium and citrate from the prostate.",
+        "Acidic secretions from the vagina.",
+        "Fructose and prostaglandins.",
+        "Mature oocytes from the ovaries.",
+        "Dihydrotestosterone from the skin."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "Capacitation is a crucial step for fertilization that occurs after the sperm have left the male reproductive tract. Which of the following best describes the physiological basis of this process?",
+      "options": [
+        "The addition of cholesterol to the sperm membrane to increase stability.",
+        "The removal of inhibitory factors and the influx of Ca^(2+) to increase motility.",
+        "The fusion of the sperm with the syncytiotrophoblast.",
+        "The meiotic division of spermatids into spermatozoa.",
+        "The cooling of the sperm to 32\u00b0C within the fallopian tubes."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "If a man's Sertoli cells were selectively destroyed by a toxic agent, but his Leydig cells remained functional, which of the following processes would be most preserved?",
+      "options": [
+        "The synthesis and secretion of testosterone.",
+        "The maintenance of the blood-testis barrier.",
+        "The production of Androgen-Binding Protein (ABP).",
+        "The meiotic transformation of primary spermatocytes.",
+        "The secretion of inhibin to regulate FSH."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "A 55-year-old male with benign prostatic hyperplasia is treated with a 5\u03b1-reductase inhibitor. This drug reduces the size of the prostate by specifically preventing the formation of which substance?",
+      "options": [
+        "Testosterone.",
+        "Estradiol.",
+        "Androstenedione.",
+        "Cholesterol.",
+        "Dihydrotestosterone."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "Trace the correct path of a mature spermatozoon from its site of production to the point of ejaculation:",
+      "options": [
+        "Seminiferous tubules \u2192 Epididymis \u2192 Vas deferens \u2192 Ejaculatory duct \u2192 Urethra.",
+        "Epididymis \u2192 Seminiferous tubules \u2192 Vas deferens \u2192 Urethra.",
+        "Leydig cells \u2192 Sertoli cells \u2192 Vas deferens \u2192 Seminal vesicles.",
+        "Vas deferens \u2192 Epididymis \u2192 Seminiferous tubules \u2192 Ejaculatory duct.",
+        "Seminiferous tubules \u2192 Ampulla \u2192 Epididymis \u2192 Rete testis \u2192 Urethra."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "Which of the following events is triggered by the binding of LH to its receptors on the Leydig cells?",
+      "options": [
+        "Stimulation of aromatase to convert testosterone to estradiol.",
+        "Activation of the H^+/K^+ ATPase to acidify the tubules.",
+        "Activation of cholesterol desmolase to convert cholesterol to pregnenolone.",
+        "Closure of the gap junctions between adjacent Sertoli cells.",
+        "Initiation of the acrosomal reaction in the seminiferous tubules."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

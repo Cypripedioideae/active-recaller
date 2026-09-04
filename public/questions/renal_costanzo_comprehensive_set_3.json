@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-3",
+  "title": "Renal Comprehensive Set 1: Renal Clearance  (Short Answer)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Define renal clearance in terms of plasma volume.",
+      "modelAnswer": "Renal clearance is the volume of plasma that is completely cleared of a specific substance by the kidneys per unit of time.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "State the standard equation used to calculate the renal clearance of a substance.",
+      "modelAnswer": "Let X denotes substance X, C = ([U]_X \u00d7 V)/P_X   (where U is urine concentration, V is urine flow rate, and P is plasma concentration).",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "What are the typical units used to express renal clearance?",
+      "modelAnswer": "mL/min or L/day.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Why is the clearance of inulin considered the \"gold standard\" for measuring glomerular filtration rate (GFR)?",
+      "modelAnswer": "Because inulin is freely filtered across the glomerular capillaries but is neither reabsorbed nor secreted by the renal tubules; thus, its clearance equals GFR.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "List the three essential criteria a substance must meet to be an ideal glomerular marker.",
+      "modelAnswer": "(1) It must be freely filtered; (2) it must not be reabsorbed or secreted; (3) it must not alter the GFR when infused.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Which endogenous substance is most commonly used in clinical settings to estimate GFR, and why is it preferred over inulin?",
+      "modelAnswer": "Creatinine; it is an endogenous metabolite (already present in the body) and does not require an intravenous infusion like inulin.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Why does creatinine clearance slightly overestimate the actual GFR?",
+      "modelAnswer": "Because a small amount of creatinine is secreted by the renal tubules in addition to being filtered.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "How does a decrease in GFR affect the plasma concentrations of blood urea nitrogen (BUN) and creatinine?",
+      "modelAnswer": "Both BUN and serum creatinine concentrations increase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Define the \"clearance ratio\" and explain what it means when the ratio is exactly 1.0.",
+      "modelAnswer": "The clearance ratio is the clearance of a substance divided by the clearance of inulin (C_x/C_(inulin)); a ratio of 1.0 means the substance is a glomerular marker (filtered but not reabsorbed or secreted).",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "If the clearance ratio of a substance is less than 1.0, what are the two possible renal handling explanations?",
+      "modelAnswer": "The substance is either not filtered at all (like albumin) or it is filtered and subsequently reabsorbed.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "If the clearance ratio of a substance is greater than 1.0, what must be occurring in the nephron?",
+      "modelAnswer": "The substance is filtered and then undergoes net tubular secretion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Why is the renal clearance of glucose normally zero?",
+      "modelAnswer": "Because glucose is freely filtered but then completely reabsorbed back into the blood in the proximal tubule.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Under what specific condition would the renal clearance of glucose become greater than zero?",
+      "modelAnswer": "When the plasma glucose concentration exceeds the transport maximum (T_m), saturating the reabsorptive carriers.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Which substance is used to measure renal plasma flow (RPF), and what two processes allow it to be almost completely removed from the blood?",
+      "modelAnswer": "Para-aminohippuric acid (PAH); it is both filtered and secreted.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Explain the difference between \"effective\" RPF and \"true\" RPF.",
+      "modelAnswer": "Effective RPF is measured by PAH clearance (C_(PAH)) and assumes the renal vein concentration is zero; True RPF uses the Fick principle and accounts for the actual (non-zero) renal vein concentration.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Why does the clearance of PAH underestimate true RPF by approximately 10%?",
+      "modelAnswer": "Because about 10% of renal blood flow serves non-filtering tissues (like renal fat or the capsule) where PAH is not extracted.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "What is the formula for calculating total renal blood flow (RBF) from renal plasma flow and hematocrit?",
+      "modelAnswer": "RBF = RPF/(1-Hct).",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "In the context of the Fick principle, why is it necessary that the renal vein concentration of a marker (like PAH) be near zero to measure flow accurately?",
+      "modelAnswer": "Because a large difference between arterial and venous concentrations allows for a measurable denominator in the flow equation; if the marker isn't removed, the denominator becomes zero.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "What does a BUN:creatinine ratio greater than 20:1 typically indicate in a clinical setting?",
+      "modelAnswer": "Prerenal azotemia (hypovolemia/volume contraction).",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Why does BUN increase more than serum creatinine during states of volume contraction (prerenal azotemia)?",
+      "modelAnswer": "Because volume contraction stimulates increased proximal tubule reabsorption of many solutes, including urea, whereas creatinine is not reabsorbed.",
+      "explanation": "-"
+    }
+  ]
+}

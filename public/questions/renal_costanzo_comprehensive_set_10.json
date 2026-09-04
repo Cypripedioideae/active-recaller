@@ -1,0 +1,113 @@
+{
+  "id": "comprehensive-renal-review-10",
+  "title": "Renal Comprehensive Set 1: Integrative Response (Short Answer)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What enzyme does acetazolamide inhibit in the proximal tubule to cause bicarbonate loss?",
+      "modelAnswer": "Carbonic anhydrase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "How do loop diuretics affect the corticopapillary osmotic gradient?",
+      "modelAnswer": "They decrease it by inhibiting the reabsorption of NaCl in the thick ascending limb, thereby reducing the \"single effect\" of countercurrent multiplication.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "By what mechanism do thiazides increase distal calcium reabsorption?",
+      "modelAnswer": "They inhibit Na^+-Cl^- cotransport, which lowers intracellular Na^+ and promotes Ca^(2+) reabsorption via a separate mechanism (often a Na^+/Ca^(2+) exchanger on the basolateral side).",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Distinguish the inhibitory mechanisms of spironolactone and amiloride in the distal nephron.",
+      "modelAnswer": "Spironolactone is a competitive aldosterone receptor antagonist; amiloride directly blocks the luminal epithelial Na^+ channels (ENaC).",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Explain \"contraction alkalosis\" in the context of loop or thiazide diuretic use.",
+      "modelAnswer": "It is a metabolic alkalosis occurring when ECF volume contraction stimulates increased HCO_3^- reabsorption in the proximal tubule via the renin-angiotensin II-aldosterone system.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "What is \"aldosterone escape,\" and why does it prevent generalized edema in primary hyperaldosteronism?",
+      "modelAnswer": "It is the process where ECF volume expansion stimulates the release of atrial natriuretic peptide (ANP), which promotes Na^+ excretion and prevents excessive volume overload.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Why does severe hypercalcemia lead to polyuria and a form of nephrogenic diabetes insipidus?",
+      "modelAnswer": "Ca^(2+) accumulates in the inner medulla and papilla, inhibiting the ADH-dependent adenylyl cyclase and preventing the insertion of aquaporins.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Contrast the serum potassium levels in Type 1 versus Type 4 renal tubular acidosis (RTA).",
+      "modelAnswer": "Type 1 RTA is associated with hypokalemia; Type 4 RTA is associated with hyperkalemia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "What is the fundamental defect in Liddle's syndrome, and why does it mimic a state of hyperaldosteronism?",
+      "modelAnswer": "A mutation increases the activity of the epithelial sodium channels (ENaC), leading to excessive Na^+ reabsorption and volume expansion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Which molecular transporter is dysfunctional in Bartter's syndrome, and which segment does it affect? [160t, 3152]",
+      "modelAnswer": "The Na^+-K^+-2Cl^- cotransporter (NKCC2) in the thick ascending limb. [160t, 3152]",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Why is the blood urea nitrogen (BUN)/creatinine ratio typically greater than 20:1 in prerenal azotemia?",
+      "modelAnswer": "Because hypovolemia stimulates increased proximal reabsorption of urea, while creatinine is not reabsorbed, causing urea to accumulate in the blood more rapidly.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "How does chronic renal failure cause hypocalcemia and lead to secondary hyperparathyroidism?",
+      "modelAnswer": "Failing kidneys have reduced GFR (leading to phosphate retention) and a decreased ability to synthesize the active form of vitamin D (1,25-dihydroxycholecalciferol).",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Why does chronic renal failure eventually result in metabolic acidosis with an increased anion gap?",
+      "modelAnswer": "The kidneys are unable to excrete the daily load of fixed acids (sulfuric/phosphoric) as titratable acid and ammonium, leading to the accumulation of unmeasured anions.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "What is the role of the enzyme 11\u03b2-hydroxysteroid dehydrogenase in renal principal cells regarding cortisol?",
+      "modelAnswer": "It converts cortisol into cortisone, which has a low affinity for mineralocorticoid receptors, preventing cortisol from mimicking aldosterone.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Why is a low-protein diet clinically recommended for patients with chronic renal failure to manage metabolic waste?",
+      "modelAnswer": "To reduce the daily production of fixed H^+ and urea, which the failing kidneys cannot adequately excrete.",
+      "explanation": "-"
+    }
+  ]
+}

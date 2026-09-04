@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-1",
+  "title": "General Mycology 1",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 25-year-old male presents with a red, itchy, annular plaque with elevated edges on his leg. Direct microscopic examination of skin scrapings in 10% potassium hydroxide (KOH) shows hyaline septate hyphae. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Cutaneous candidiasis",
+        "Pityriasis versicolor",
+        "Tinea corporis",
+        "Tinea nigra",
+        "White piedra"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A patient is prescribed an azole antifungal agent. Which of the following enzymes is the specific target of this drug class?",
+      "options": [
+        "1,3-\u03b2-D-glucan synthase",
+        "14-\u03b1-demethylase",
+        "Cytosine deaminase",
+        "Squalene epoxidase",
+        "Thymidylate synthase"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A lung biopsy from a neutropenic patient with a pulmonary lesion demonstrates hyaline, septate hyphae that exhibit dichotomous branching at acute angles. Which of the following organisms is most likely responsible for this infection?",
+      "options": [
+        "*Aspergillus fumigatus*",
+        "*Candida albicans*",
+        "*Cryptococcus neoformans*",
+        "*Mucor* spp.",
+        "*Rhizopus* spp."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Fungal cell membranes possess a unique sterol component that is used as a target for several antifungal drug classes. Which of the following components is found in fungal cell membranes but is notably absent in human cell membranes?",
+      "options": [
+        "Chitin",
+        "Cholesterol",
+        "Ergosterol",
+        "Glucan",
+        "Peptidoglycan"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 34-year-old HIV-positive patient with a CD4+ T-cell count of 80 cells/mm\u00b3 presents with a severe headache and neck stiffness. India ink examination of the cerebrospinal fluid (CSF) demonstrates encapsulated budding yeast cells. Which of the following is the most sensitive and specific rapid test to confirm this diagnosis?",
+      "options": [
+        "Cerebrospinal fluid culture",
+        "Gram stain",
+        "India ink preparation",
+        "Latex agglutination for capsular antigen",
+        "Periodic acid-Schiff stain"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A skin scraping from a patient with hypopigmented scaly macules on the trunk is examined using a potassium hydroxide (KOH) mount. The laboratory report describes a \"spaghetti and meatballs\" appearance. Which of the following organisms is the most likely cause?",
+      "options": [
+        "*Candida albicans*",
+        "*Epidermophyton floccosum*",
+        "*Malassezia furfur*",
+        "*Microsporum canis*",
+        "*Trichophyton rubrum*"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Amphotericin B is a polyene antifungal agent used for serious systemic mycoses. Which of the following is the primary mechanism of action for this medication?",
+      "options": [
+        "Binding to tubulin to inhibit mitosis",
+        "Formation of membrane pores by binding ergosterol",
+        "Inhibition of 1,3-\u03b2-D-glucan synthase",
+        "Inhibition of fungal squalene epoxidase",
+        "Inhibition of DNA synthesis via 5-fluorouracil"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A diabetic patient in ketoacidosis presents with facial pain and a black necrotic eschar on the nasal turbinates. Microscopic examination of the tissue reveals broad, non-septate hyphae branching at right angles. Which of the following is the most appropriate next step in management?",
+      "options": [
+        "Intravenous fluconazole",
+        "Oral itraconazole",
+        "Surgical debridement and intravenous amphotericin B",
+        "Topical nystatin suspension",
+        "Topical selenium sulfide"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 42-year-old female presents with a three-week history of itchy, red, circular skin lesions with central clearing on her abdomen. Microscopic examination of skin scrapings confirms a diagnosis of tinea corporis, and the patient is initiated on a course of oral ketoconazole. At a follow-up visit two weeks later, the skin lesions show no improvement. Which of the following medications is the patient most likely taking concurrently that is responsible for this treatment failure? ",
+      "options": [
+        "Atorvastatin",
+        "Warfarin",
+        "Omeprazole",
+        "Metformin",
+        "Pyridoxine"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 45-year-old male with a medical history of \u03b2-thalassemia major presents with a rapidly progressing, painful necrotic lesion on his left leg that has developed into gangrene. A biopsy of the affected tissue demonstrates the presence of wide, non-septate hyphae. Which of the following antimicrobial agents would be theoretically ineffective against this pathogen due to the absence of its molecular target?",
+      "options": [
+        "Caspofungin",
+        "Amphotericin B",
+        "Flucytosine",
+        "Co-trimoxazole",
+        "Griseofulvin"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

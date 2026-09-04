@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-1",
+  "title": "Renal Comprehensive Set 1: Fluid Compartments (Short Answer)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the approximate percentage of body weight composed of water in a standard adult male?",
+      "modelAnswer": "60%",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "How does the percentage of total body water (TBW) change in individuals with a high percentage of adipose tissue?",
+      "modelAnswer": "It decreases, because fat has a low water content.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "According to the \"60-40-20 rule,\" what percentage of body weight is accounted for by the intracellular fluid (ICF) and extracellular fluid (ECF)?",
+      "modelAnswer": "ICF: 40%; ECF: 20%.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "What are the two main sub-compartments of the ECF, and what physical barrier separates them?",
+      "modelAnswer": "Plasma and interstitial fluid; they are separated by the capillary wall.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Which ion is the primary cation of the ECF?",
+      "modelAnswer": "Sodium (Na^+).",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "What are the major anions that balance the primary cation in the ECF?",
+      "modelAnswer": "Chloride (Cl^-) and bicarbonate (HCO_3^-).",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "List the primary cations found within the ICF.",
+      "modelAnswer": "Potassium (K^+) and magnesium (Mg^(2+)).",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Why is the protein concentration significantly higher in plasma compared to interstitial fluid?",
+      "modelAnswer": "The capillary wall is virtually impermeable to large molecules like plasma proteins.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "How does the presence of negatively charged plasma proteins influence the distribution of permeant ions between plasma and interstitial fluid? What effect is this referring to?",
+      "modelAnswer": "Through the Gibbs-Donnan effect, which causes plasma to have a slightly higher concentration of small cations and a lower concentration of small anions.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "In the steady state, what is the relationship between the osmolarity of the ICF and the ECF?",
+      "modelAnswer": "They are equal.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "What is the calculated osmolarity of a 154 mM NaCl solution (isotonic saline)?",
+      "modelAnswer": "308 mOsm/L.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "If a patient is given an intravenous infusion of isotonic NaCl, what is the effect on the osmolarity of the ECF and ICF?",
+      "modelAnswer": "Both remain unchanged.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "During an isosmotic volume expansion, such as an isotonic saline infusion, why does the hematocrit decrease?",
+      "modelAnswer": "It decreases due to dilution (plasma volume increases while red blood cell volume is constant).",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "In the case of isosmotic volume contraction (e.g., diarrhea), what happens to the volume and osmolarity of the ICF?",
+      "modelAnswer": "Both remain unchanged.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What is the effect of high NaCl intake (hyperosmotic volume expansion) on the volume of the ICF, and what is the mechanism for this change?",
+      "modelAnswer": "ICF volume decreases; water shifts out of the cells to equalize the increased ECF osmolarity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "In hyperosmotic volume contraction (e.g., sweating or water deprivation), why is the hematocrit often unchanged despite a decrease in ECF volume?",
+      "modelAnswer": "The concentration of RBCs increases due to ECF volume loss, but RBC volume decreases as water shifts out of them, causing the effects to offset.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "How does the syndrome of inappropriate antidiuretic hormone (SIADH) affect the volume and osmolarity of the ECF and ICF?",
+      "modelAnswer": "It increases the volume and decreases the osmolarity of both compartments.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "In hyposmotic volume contraction (e.g., adrenal insufficiency), in which direction does water shift between the ECF and ICF?",
+      "modelAnswer": "From the ECF to the ICF.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Why does adrenal insufficiency cause an increase in hematocrit that is more pronounced than the change in plasma protein concentration?",
+      "modelAnswer": "Because ECF volume contraction concentrates RBCs, and the shift of water into RBCs (due to lower ECF osmolarity) further increases their volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "What determines the volume of a body fluid compartment in terms of the solutes it contains?",
+      "modelAnswer": "The total amount of non-penetrating (osmoactive) solute it contains.",
+      "explanation": "-"
+    }
+  ]
+}

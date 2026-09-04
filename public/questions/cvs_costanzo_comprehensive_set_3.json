@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-cvs-review-3",
+  "title": "Cardiovascular Comprehensive Set 1: Myocardial Mechanics (Short answer)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the name of the basic contractile unit of the myocardial cell, which is delineated by Z disks?",
+      "modelAnswer": "The sarcomere.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Which specific subunit of the troponin complex is responsible for binding calcium to initiate the removal of tropomyosin's inhibition of the actin-myosin interaction?",
+      "modelAnswer": "Troponin C.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "The \"thick filament\" of cardiac muscle is primarily composed of which protein, and what site does its globular heads contain and what enzymatic activity does it have?",
+      "modelAnswer": "Myosin; the heads contain actin-binding sites and myosin ATPase activity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "In terms of myocardial tissue behavior, what is the functional purpose of the gap junctions located at the intercalated disks?",
+      "modelAnswer": "They provide low-resistance pathways for the rapid spread of action potentials, allowing the heart to act as an electrical syncytium.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "What is the specific physiological role of the transverse (T) tubules during the electrical activation of a cardiac muscle cell?",
+      "modelAnswer": "They carry the depolarization from the sarcolemmal membrane to the cell interior.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Explain the concept of \"calcium-induced calcium release\" (CICR) as it occurs during the plateau of the cardiac action potential.",
+      "modelAnswer": "The entry of trigger calcium through L-type channels during the plateau stimulates the ryanodine receptors to release a much larger amount of calcium from the sarcoplasmic reticulum.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Which membrane protein is responsible for the entry of \"trigger calcium\" from the extracellular fluid during the action potential?",
+      "modelAnswer": "L-type calcium channels (also called dihydropyridine receptors).",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "How does the sarcoplasmic reticulum (SR) maintain a low internal free calcium concentration despite the presence of high total calcium stores?",
+      "modelAnswer": "Calcium is bound to calsequestrin, a low-affinity, high-capacity binding protein.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "By what primary mechanism is calcium reaccumulated into the sarcoplasmic reticulum to allow for myocardial relaxation?",
+      "modelAnswer": "The SERCA pump (Sarcoplasmic reticulum Ca^(2+) ATPase).",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Describe the effect of phospholamban phosphorylation on the speed of cardiac relaxation.",
+      "modelAnswer": "Phosphorylation of phospholamban disinhibits the SERCA pump, resulting in a faster rate of calcium uptake and faster relaxation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Define myocardial contractility (inotropism) and identify the primary intracellular factor that determines its magnitude.",
+      "modelAnswer": "Contractility is the intrinsic ability to develop force at a given muscle length; it is determined by the intracellular calcium concentration.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "How does an increase in heart rate (the Bowditch staircase) result in increased tension development on a cellular level?",
+      "modelAnswer": "A higher frequency of action potentials increases the total influx of trigger calcium and increases the amount of calcium stored and released by the SR.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Explain the molecular mechanism by which cardiac glycosides, such as digoxin, produce a positive inotropic effect.",
+      "modelAnswer": "They inhibit Na^+/K^+ ATPase, which increases intracellular [Na^+]; this reduces the gradient for the Na^+-Ca^(2+) exchanger, leading to an increase in intracellular [Ca^(2+)].",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Define \"preload\" in the context of ventricular function and identify the parameter most commonly used to approximate it in a clinical setting.",
+      "modelAnswer": "Preload is the resting length from which the muscle contracts; it is approximated by left ventricular end-diastolic volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "How is the \"afterload\" for the left ventricle defined in terms of systemic hemodynamics?",
+      "modelAnswer": "Aortic pressure (or mean arterial pressure).",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "State the formula for the ejection fraction and identify its normal resting value in a healthy adult.",
+      "modelAnswer": "Ejection Fraction = Stroke Volume / End-Diastolic Volume; normal is approximately 0.55 (55%).",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "According to the Frank-Starling Law of the heart, what is the relationship between ventricular end-diastolic volume and the volume ejected during systole?",
+      "modelAnswer": "The volume of blood ejected (stroke volume) is determined by the volume present at the end of diastole.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "Apart from filament overlap, what are the two additional length-dependent mechanisms that increase the force of contraction when a cardiac muscle fiber is stretched?",
+      "modelAnswer": "(1) Increased calcium sensitivity of troponin C; (2) Increased calcium release from the sarcoplasmic reticulum.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Describe the two ionic mechanisms by which acetylcholine (parasympathetic stimulation) reduces the contractility of atrial muscle.",
+      "modelAnswer": "(1) It decreases inward calcium current during the plateau; (2) It increases the outward K^+ current (I_(K-ACh)), which shortens the action potential duration.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Why does cardiac muscle normally operate only on the ascending limb of its length-tension curve, unlike skeletal muscle?",
+      "modelAnswer": "Cardiac muscle has high resting tension and stiffness, which prevents stretching the fibers beyond their optimal length (L_(max)).",
+      "explanation": "-"
+    }
+  ]
+}

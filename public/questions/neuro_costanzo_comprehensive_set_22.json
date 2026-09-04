@@ -1,0 +1,288 @@
+{
+  "id": "comprehensive-neuro-review-22",
+  "title": "Comprehensive Neuro Set 2: Higher Function and CSF (MCQ)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which of the following describes the predominant brain wave pattern recorded on an EEG from a normal, awake adult with eyes open and focused on a complex task?",
+      "options": [
+        "Beta waves.",
+        "Alpha rhythm.",
+        "Theta waves.",
+        "Delta waves.",
+        "Sleep spindles."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Rapid eye movement (REM) sleep is physiologically distinguished from non-REM sleep by which of the following characteristics?",
+      "options": [
+        "Significantly increased skeletal muscle tone.",
+        "Periods of atonia or profound loss of muscle tone.",
+        "A highly regular and predictable heart rate and respiratory pattern.",
+        "A synchronized, high-voltage EEG pattern.",
+        "A marked global decrease in brain metabolic activity."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "When comparing Broca's aphasia to Wernicke's aphasia, which of the following statements best describes the functional clinical difference?",
+      "options": [
+        "Wernicke's aphasia involves a profound difficulty in speaking while understanding remains perfect.",
+        "Broca's aphasia is characterized by fluent but meaningless \"word salad\" speech.",
+        "Understanding and comprehension are intact in Broca's aphasia, whereas they are lost in Wernicke's aphasia.",
+        "Both conditions are primary motor disorders involving paralysis of the laryngeal muscles.",
+        "Both conditions are typically the result of focal lesions in the nondominant cerebral hemisphere."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Which of the following best explains why substances like O2and CO2  cross the blood-brain barrier (BBB) far more rapidly than ions or glucose?",
+      "options": [
+        "They are actively transported by specialized carrier proteins in the astrocyte foot processes.",
+        "They bypass the tight junctions by moving through large pores in the endothelial cells.",
+        "They are small enough to pass through the high-resistance basement membrane of the cerebral capillaries.",
+        "They are highly lipid-soluble and can diffuse directly through the endothelial cell membranes.",
+        "They utilize the Gibbs-Donnan equilibrium to maintain a constant concentration ratio with plasma."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "In a normal physiological state, which of the following sets of values characterizes the composition of cerebrospinal fluid (CSF) relative to blood plasma?",
+      "options": [
+        "Significantly higher protein and cholesterol concentrations.",
+        "A much lower concentration of magnesium (Mg2+ ) ions.",
+        "A higher glucose concentration to support high cerebral metabolic demand.",
+        "Identical concentrations of sodium, chloride, and bicarbonate.",
+        "Negligible concentrations of large molecules such as protein and cholesterol."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "The process of memory consolidation, which transforms short-term memory into stable long-term memory, is correctly described by which of the following?",
+      "options": [
+        "It takes time and can be interrupted by an unnatural loss of consciousness.",
+        "It involves only transient changes in synaptic strength without requiring new protein synthesis.",
+        "It is a process entirely independent of the subcortical structures within the temporal lobe.",
+        "It occurs instantaneously upon the first receipt of a sensory or cognitive stimulus.",
+        "It is primarily mediated by the persistent activation of inhibitory GABAergic interneurons."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient presents with a traumatic brain injury and an acute, massive increase in intracranial pressure. Which clinical finding is a hallmark of the resulting Cushing reflex?",
+      "options": [
+        "Systemic hypotension accompanied by a rapid, thready pulse.",
+        "Systemic hypertension accompanied by a compensatory bradycardia.",
+        "Systemic hypotension and a profound drop in the heart rate.",
+        "Systemic hypertension and a dangerous rise in the heart rate.",
+        "A decrease in arterial P_(CO2)  and a sharp increase in the ventilation rate."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 70-year-old patient suffers a stroke. He is found to speak fluently and with normal intonation, but his speech is meaningless junk, and he is unable to understand or follow any verbal instructions. The lesion is most likely located in which area?",
+      "options": [
+        "Precentral gyrus of the frontal lobe.",
+        "Frontal eye fields of the premotor cortex.",
+        "Posterior end of the superior temporal gyrus in the dominant hemisphere.",
+        "Lower portion of the prefrontal association cortex.",
+        "Medial underside of the occipital and temporal lobes."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "What is the primary physiological mechanism for the absorption of CSF back into the systemic circulation?",
+      "options": [
+        "Active transport across the choroid plexus epithelium into the ventricles.",
+        "Passive diffusion through the pia mater into the Virchow-Robin perivascular spaces.",
+        "Simple filtration through the ependymal cells lining the lateral and third ventricles.",
+        "One-way bulk flow through arachnoid villi into the dural venous sinuses.",
+        "Retrograde flow through the foramen of Monro into the cerebral arterial supply."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Which hypothalamic nucleus is responsible for regulating the 24-hour sleep-wake cycle and acts as the body's master circadian rhythm generator?",
+      "options": [
+        "Paraventricular nucleus.",
+        "Ventromedial nucleus.",
+        "Arcuate nucleus.",
+        "Lateral hypothalamic area.",
+        "Suprachiasmatic nucleus."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Why is REM sleep often characterized as \"paradoxical sleep\" in neurophysiology?",
+      "options": [
+        "The EEG pattern resembles that of an awake, alert state despite the subject being in a deep sleep.",
+        "The EEG is dominated by very slow, high-amplitude delta waves seen only in deep anesthesia.",
+        "The EEG becomes completely flat, showing a total absence of cortical electrical activity.",
+        "It is a state of sleep that can only be reached by patients with severe brainstem injury.",
+        "The electrical activity of the brain becomes highly synchronized with the respiratory and cardiac cycles."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "In the cellular mechanism of long-term potentiation (LTP), what is the unique role of the NMDA receptor?",
+      "options": [
+        "It functions as a chloride channel that hyperpolarizes the membrane when activated by GABA.",
+        "It is normally blocked by magnesium (Mg2+ ) ions, which are only displaced upon sufficient depolarization.",
+        "It allows a massive influx of sodium to trigger the degradation of synaptic proteins.",
+        "It is the primary inhibitory receptor for the neurotransmitter glycine in the spinal cord.",
+        "It decreases the overall sensitivity of the postsynaptic membrane to glutamate following activity."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A patient demonstrates an inability to understand written language or pictures and has difficulty naming objects, although his speech production and auditory comprehension are intact. This \"anomic aphasia\" is often associated with a lesion in which structure?",
+      "options": [
+        "Broca's area.",
+        "Wernicke's area.",
+        "Angular gyrus.",
+        "Arcuate fasciculus.",
+        "Hippocampus."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "How does the concentration of glucose in the CSF normally compare to the concentration of glucose in the plasma?",
+      "options": [
+        "It is significantly higher due to active secretion by the choroid plexus.",
+        "It is equal to the plasma concentration to ensure metabolic stability.",
+        "It is negligible or near zero, as the BBB is impermeable to all sugars.",
+        "It is approximately two-thirds (60% to 70%) of the plasma concentration.",
+        "It is five times higher than the concentration found in brain interstitial fluid."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "To confirm a definitive diagnosis of Alzheimer's disease, which of the following must be identified pathologically?",
+      "options": [
+        "The presence of a specific apolipoprotein \u03f54 allele on chromosome 19.",
+        "A nonspecific slowing of the rhythmic waves on an EEG recording.",
+        "Significant cerebral cortical atrophy observed on a high-resolution CT or MRI scan.",
+        "A rapid and sustained improvement of cognitive symptoms following L-Dopa administration.",
+        "Microscopic neuritic plaques containing A-beta amyloid bodies and neurofibrillary tangles on autopsy."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "Regarding the penetration of pharmacological agents through the blood-brain barrier, which principle is most accurate?",
+      "options": [
+        "Non-ionized, lipid-soluble drugs cross the barrier much more readily than ionized drugs.",
+        "Ionized, water-soluble drugs cross the barrier more readily via paracellular diffusion.",
+        "Only large, protein-bound drugs are capable of traversing the tight junctions of the BBB.",
+        "The rate of drug penetration is entirely independent of the drug's chemical properties.",
+        "Antibiotics are absolutely excluded from the brain, even in the presence of severe inflammation."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "In a healthy adult, what is the approximate daily rate of cerebrospinal fluid production?",
+      "options": [
+        "50 mL.",
+        "500 mL.",
+        "1500 mL.",
+        "5 L.",
+        "20 L."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "Which of the following EEG rhythms is characteristic of Stage 4 slow-wave sleep?",
+      "options": [
+        "Low-frequency, low-amplitude alpha waves.",
+        "High-frequency, low-voltage beta waves.",
+        "Low-frequency, high-amplitude delta waves.",
+        "Fast, irregular activity that closely resembles the awake state.",
+        "Rhythmic bursts of sleep spindles and high-voltage K complexes."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "A 30-year-old patient presents with a gait disorder, urinary incontinence, and progressive confusion. An MRI reveals enlarged ventricles but normal intracranial pressure. This presentation is most consistent with which condition?",
+      "options": [
+        "A stroke affecting the territory of the middle cerebral artery.",
+        "Parkinson's disease involving the substantia nigra.",
+        "M\u00e9ni\u00e8re's syndrome involving the inner ear.",
+        "Normal pressure hydrocephalus.",
+        "Acute bacterial meningitis."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "When the brain becomes ischemic, such as following a severe hemorrhage, how does the vasomotor center in the medulla respond to maintain cerebral perfusion?",
+      "options": [
+        "By directing a global withdrawal of sympathetic tone to all peripheral arterioles.",
+        "By increasing parasympathetic activity to the cutaneous blood vessels to dissipate heat.",
+        "By inhibiting the Cushing reflex to prevent life-threatening increases in blood pressure.",
+        "By decreasing the systemic P_(CO2)  through the reflex inhibition of all respiratory efforts.",
+        "By directing an intense sympathetic discharge that causes profound peripheral vasoconstriction."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "comprehensive-cvs-review-7",
+  "title": "Cardiovascular Comprehensive Set 1: Special Circulation (Short answer)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Define autoregulation and identify three organs that prominently exhibit this phenomenon.",
+      "modelAnswer": "Autoregulation is the maintenance of constant blood flow despite changes in perfusion pressure; it is prominent in the heart, brain, and kidney.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Explain the myogenic hypothesis of autoregulation in terms of the relationship between transmural pressure and vascular smooth muscle.",
+      "modelAnswer": "It states that vascular smooth muscle contracts when stretched; an increase in pressure stretches the arteriole, causing it to constrict and increase resistance to maintain constant flow.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "How does the metabolic hypothesis explain the matching of blood flow to the oxygen demand of a tissue?",
+      "modelAnswer": "Metabolic activity produces vasodilator metabolites; as demand for O2 increases, these metabolites accumulate and dilate arterioles to increase O2 delivery.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "List four specific vasodilator metabolites produced during periods of high metabolic activity.",
+      "modelAnswer": "CO2, H^+, K^+, lactate, and adenosine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "What is active hyperemia, and how does it differ from reactive hyperemia?",
+      "modelAnswer": "Active hyperemia occurs when flow is proportional to metabolic activity; reactive hyperemia is an increase in flow following a period of occlusion.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Identify the most important local metabolic factors responsible for regulating coronary blood flow.",
+      "modelAnswer": "Adenosine and hypoxia (low P_(O2)).",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "During which phase of the cardiac cycle is left ventricular coronary blood flow lowest, and what is the mechanical cause?",
+      "modelAnswer": "Systole, because the contracting myocardium mechanically compresses the coronary blood vessels.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Which metabolic byproduct is the most important local vasodilator for the cerebral circulation?",
+      "modelAnswer": "Carbon dioxide (CO2).",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Explain why many circulating vasoactive substances in the systemic blood have little or no effect on cerebral blood flow.",
+      "modelAnswer": "The blood-brain barrier is impermeable to many large or polar vasoactive substances.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Describe the Cushing reaction in terms of the stimulus and the resulting effect on systemic arterial pressure.",
+      "modelAnswer": "Cerebral ischemia (increased intracranial pressure) stimulates the vasomotor center to produce an intense increase in mean arterial pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "What is the primary regulator of skeletal muscle blood flow at rest?",
+      "modelAnswer": "The sympathetic nervous system (vasoconstrictor tone).",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Which specific autonomic receptors on skeletal muscle arterioles mediate vasoconstriction, and which mediate vasodilation?",
+      "modelAnswer": "\u03b11receptors mediate vasoconstriction; \u03b22  receptors (activated by epinephrine) mediate vasodilation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Identify the three local metabolites primarily responsible for vasodilation in exercising skeletal muscle.",
+      "modelAnswer": "Lactate, adenosine, and K^+.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "What is the principal physiological function of the sympathetic innervation of skin blood vessels?",
+      "modelAnswer": "Temperature regulation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "How does the anterior hypothalamus coordinate heat dissipation through the cutaneous circulation when body temperature increases?",
+      "modelAnswer": "It decreases sympathetic tone to skin vessels (causing vasodilation) and increases sympathetic cholinergic activity to sweat glands.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Describe the components of the \"triple response\" in the skin following trauma and identify the chemical responsible for the \"wheal\".",
+      "modelAnswer": "A red line, a red flare, and a wheal; the wheal is caused by histamine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Contrast the effect of hypoxia on the pulmonary vasculature with its effect on most other systemic vascular beds.",
+      "modelAnswer": "Hypoxia causes vasoconstriction in the pulmonary circulation but vasodilation in most systemic circulations.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "By what cellular mechanism does nitric oxide (NO) produce relaxation of vascular smooth muscle?",
+      "modelAnswer": "It activates guanylate cyclase, increasing cGMP, which causes relaxation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "How do histamine and bradykinin alter Starling forces to produce local edema?",
+      "modelAnswer": "They cause arteriolar dilation and venous constriction, which increases capillary hydrostatic pressure (Pc ), favoring filtration.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "What is the effect of low-dose dopamine on renal, splanchnic, and cerebral arterioles?",
+      "modelAnswer": "It dilates these arterioles, protecting blood flow to critical organs.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "Explain the \"vasomotor tone\" (basal tone) in the context of arteriolar smooth muscle.",
+      "modelAnswer": "It is the state of tonic (continuous) contraction of arteriolar smooth muscle maintained by sympathetic adrenergic nerves.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "How does an increase in intracranial pressure lead to a decrease in brain oxygenation?",
+      "modelAnswer": "It compresses cerebral veins, raising capillary pressure and causing cerebral edema, which further increases pressure and ischemia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "In the context of parallel resistance, what is the effect of adding a new blood vessel to an organ's circulation on the total resistance of that organ?",
+      "modelAnswer": "Total resistance decreases.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "Identify the role of serotonin in the response to blood vessel damage.",
+      "modelAnswer": "It causes local vasoconstriction to reduce blood loss after vessel damage.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Explain why the filtration fraction increases when the efferent arteriole is constricted.",
+      "modelAnswer": "It increases PGC  (glomerular capillary hydrostatic pressure), which increases GFR, while simultaneously decreasing RPF.",
+      "explanation": "-"
+    }
+  ]
+}

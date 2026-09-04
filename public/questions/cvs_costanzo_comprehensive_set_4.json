@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-cvs-review-4",
+  "title": "Cardiovascular Comprehensive Set 1: Cardiac Cycle (Short answer)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Which electrical event on the ECG immediately precedes the mechanical event of atrial systole?",
+      "modelAnswer": "The P wave.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "What are the five criteria used to define \"Normal Sinus Rhythm\"?",
+      "modelAnswer": "(1) Normal P wave; (2) PR intervals between 0.12-0.2 s at constant interval; (3) Each P wave is always followed by a QRS complex; (4) QRS complexes duration less than 0.12 s; (5) Regular heart rate between 60-100 bpm",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "What are the two primary phases of the ventricular cardiac cycle, and what do they represent?",
+      "modelAnswer": "Systole (ventricular contraction and ejection) and Diastole (ventricular relaxation and filling).",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "At what specific point in the cardiac cycle does the first heart sound (S1) occur?",
+      "modelAnswer": "At the beginning of ventricular systole, immediately following the closure of the AV valves.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Which mechanical event is responsible for the generation of the second heart sound (S2)?",
+      "modelAnswer": "The closure of the semilunar (aortic and pulmonic) valves at the beginning of ventricular relaxation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Describe the state of the cardiac valves during the isovolumetric contraction phase.",
+      "modelAnswer": "All valves (AV and semilunar) are closed, allowing pressure to rise without a change in volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "What occurs during the rapid ventricular ejection phase once ventricular pressure exceeds aortic pressure?",
+      "modelAnswer": "The aortic valve opens and blood is forcefully propelled into the aorta, rapidly decreasing ventricular volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Why does aortic pressure begin to decrease during the phase of reduced ventricular ejection?",
+      "modelAnswer": "Aortic pressure falls because the rate of blood \"running off\" into the arterial tree exceeds the rate of blood being ejected from the ventricle.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Define \"isovolumetric relaxation\" in terms of valve position and ventricular volume.",
+      "modelAnswer": "It is the period where the ventricle is relaxed and all valves are closed, resulting in a precipitous drop in pressure at a constant (minimum) volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "What pressure change triggers the opening of the mitral valve to begin the rapid ventricular filling phase?",
+      "modelAnswer": "The ventricular pressure falls below the left atrial pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Which phase of the cardiac cycle is the longest, and how is it affected by an increase in heart rate?",
+      "modelAnswer": "Reduced ventricular filling (diastasis); it is significantly shortened as heart rate increases, which can compromise filling.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Under what physiological or clinical conditions is a third heart sound (S3) typically heard?",
+      "modelAnswer": "It is normal in children but indicates volume overload (e.g., heart failure) in adults.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "What is the origin of the fourth heart sound (S4), and why is it usually not audible in normal adults?",
+      "modelAnswer": "It is caused by atrial contraction filling a stiffened or non-compliant ventricle; it is usually inaudible in healthy adults due to high ventricular compliance.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "What does the \"a\" wave on a jugular venous pulse represent?",
+      "modelAnswer": "Atrial contraction.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What mechanical event corresponds to the \"c\" wave observed in a jugular venous pulse?",
+      "modelAnswer": "Right ventricular contraction causing the tricuspid valve to bulge into the right atrium.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Describe the physiological cause of the \"v\" wave in the jugular venous pulse.",
+      "modelAnswer": "Atrial filling occurring against a closed tricuspid valve during ventricular systole.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "What is the \"dicrotic notch\" (incisura) and what specific event produces it?",
+      "modelAnswer": "A small \"blip\" in the aortic pressure curve caused by the closure of the aortic valve.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "What is the primary determinant of pulse pressure in a healthy individual?",
+      "modelAnswer": "Stroke volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "State the formula for Ejection Fraction and its approximate normal value in a resting adult.",
+      "modelAnswer": "Ejection Fraction = Stroke Volume / End-Diastolic Volume; normal is approximately 0.55 (55%).",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "In terms of ventricular volume, how is \"preload\" defined?",
+      "modelAnswer": "Left ventricular end-diastolic volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "In terms of pressure, how is \"afterload\" defined for the left ventricle?",
+      "modelAnswer": "Aortic pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "Which segment of the ventricular pressure-volume loop represents isovolumetric contraction?",
+      "modelAnswer": "The segment where pressure increases vertically while volume remains at the end-diastolic value.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "On a pressure-volume loop, what mechanical phase is represented by the segment where volume decreases while pressure remains high?",
+      "modelAnswer": "Ventricular ejection.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "Which segment of the pressure-volume loop represents isovolumetric relaxation?",
+      "modelAnswer": "The segment where pressure decreases vertically while volume remains at the end-systolic value.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Describe the segment of the pressure-volume loop that corresponds to ventricular filling.",
+      "modelAnswer": "The segment where volume increases at a relatively low and constant pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "short_answer",
+      "prompt": "How does a sudden increase in afterload (e.g., increased aortic pressure) affect stroke volume and end-systolic volume?",
+      "modelAnswer": "It decreases stroke volume and increases end-systolic volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "short_answer",
+      "prompt": "What is the effect of increased myocardial contractility (positive inotropism) on the end-systolic volume and ejection fraction?",
+      "modelAnswer": "It decreases end-systolic volume and increases ejection fraction.",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "short_answer",
+      "prompt": "According to the Frank-Starling Law, what is the effect of an increase in preload on the resulting stroke volume?",
+      "modelAnswer": "It increases stroke volume.",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "short_answer",
+      "prompt": "What clinical measurement is used to estimate left atrial pressure?",
+      "modelAnswer": "Pulmonary capillary wedge pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "short_answer",
+      "prompt": "Explain why the second heart sound splits during inspiration.",
+      "modelAnswer": "Inspiration decreases intrathoracic pressure, increasing venous return to the right heart, which prolongs right ventricular ejection time and delays the closure of the pulmonic valve.",
+      "explanation": "-"
+    }
+  ]
+}

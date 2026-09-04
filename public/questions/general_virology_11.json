@@ -1,0 +1,106 @@
+{
+  "id": "general-virology-11",
+  "title": "General Virology 11",
+  "topic": "General Virology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Acyclovir is a guanosine analog used to treat Herpes Simplex Virus (HSV) infections. It acts as a potent inhibitor of viral DNA synthesis because it lacks a 3'-hydroxyl group on its side chain. What is the immediate biochemical consequence when this drug is incorporated into a growing viral DNA strand?",
+      "options": [
+        "Inhibition of the viral protease enzyme",
+        "Prevention of viral uncoating in the cytoplasm",
+        "Immediate termination of the DNA chain",
+        "Blockade of viral entry at the cell membrane",
+        "Enhanced degradation of the viral mRNA"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 25-year-old healthcare worker undergoes routine screening for Hepatitis B. The laboratory results show a positive test for Hepatitis B surface antibody (anti-HBs), but negative results for both Hepatitis B surface antigen (HBsAg) and antibody to Hepatitis B core antigen (anti-HBc). What is the correct interpretation of this serological profile?",
+      "options": [
+        "Acute Hepatitis B infection",
+        "Chronic Hepatitis B infection",
+        "Immunity resulting from a prior natural infection",
+        "Immunity resulting from Hepatitis B vaccination",
+        "Window period of an acute infection"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Human Immunodeficiency Virus (HIV) utilizes several accessory proteins to facilitate infection and evade the host immune system. A specific viral protein, Nef, is known to promote viral persistence and prevent the elimination of infected cells. According to viral life cycle models, what is one primary mechanism of action for the Nef protein?",
+      "options": [
+        "Inhibiting the viral protease to prevent premature maturation",
+        "Promoting the degradation and downregulation of host CD4 molecules",
+        "Directly inhibiting the transcription of host interferon-gamma",
+        "Blocking the integration of the provirus into the host genome",
+        "Inducing a hypermutation state in the p24 capsid protein"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient with a severe, recurrent HSV-2 infection is treated with acyclovir but shows no clinical improvement. Laboratory testing confirms the presence of a viral strain with a mutation in the thymidine kinase (TK) gene. Which of the following drugs is the most appropriate alternative for this patient because its mechanism of action does not require phosphorylation by the viral TK?",
+      "options": [
+        "Valacyclovir",
+        "Famciclovir",
+        "Foscarnet",
+        "Ganciclovir",
+        "Penciclovir"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Amantadine and rimantadine are antiviral agents historically used for the treatment of Influenza A. These drugs interfere with the viral replication cycle by targeting the M2 protein. What specific step in the life cycle is inhibited by this interaction?",
+      "options": [
+        "Attachment to host sialic acid receptors",
+        "Release of progeny virions from the cell membrane",
+        "Uncoating of the viral genome within the endosome",
+        "Cleavage of the viral polyprotein precursor",
+        "Integration of viral DNA into the host genome"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "The Human Immunodeficiency Virus (HIV) genome contains the pol structural gene, which is essential for the production of infectious progeny. Which set of viral enzymes is encoded by this specific gene?",
+      "options": [
+        "gp120 and gp41",
+        "p24 and p17",
+        "Reverse transcriptase, integrase, and protease",
+        "Tat, Rev, and Nef",
+        "DNA-dependent RNA polymerase and neuraminidase"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Parvovirus B19 is a small, non-enveloped DNA virus that can cause a transient aplastic crisis in patients with high red cell turnover. To initiate infection, the virus must bind to a specific receptor on the surface of erythroid precursor cells. Which molecule serves as this receptor?",
+      "options": [
+        "CD4 glycoprotein",
+        "Intercellular adhesion molecule-1 (ICAM-1)",
+        "Erythrocyte P antigen (globoside)",
+        "Nicotinic acetylcholine receptor",
+        "Angiotensin-converting enzyme 2 (ACE2)"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

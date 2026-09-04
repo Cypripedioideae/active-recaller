@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-renal-review-17",
+  "title": "Renal Comprehensive Set 2: Urea, Calcium, Phosphate, Magnesium (MCQ)",
+  "topic": "Comprehensive Renal Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 35-year-old man with a hypothalamic tumor is diagnosed with central diabetes insipidus. Which of the following best describes the state of urea handling in his inner medullary collecting ducts compared to a healthy individual?",
+      "options": [
+        "Increased expression and activity of urea transporter 1 (UT1).",
+        "Enhanced reabsorption of urea from the lumen into the medullary interstitium.",
+        "Decreased corticopapillary osmotic gradient due to impaired urea recycling.",
+        "Increased passive urea secretion from the vasa recta into the thin ascending limb.",
+        "Total filtered load of urea increases, exceeding the tubular reabsorptive capacity."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A 52-year-old woman is found to have a parathyroid adenoma secreting excessive amounts of parathyroid hormone (PTH). Which set of findings would most likely be observed in her clinical laboratory profile?",
+      "options": [
+        "Decreased renal phosphate reabsorption, hypercalcemia, and increased urinary cAMP.",
+        "Increased renal phosphate reabsorption, hypocalcemia, and decreased urinary cAMP.",
+        "Increased 1-alpha-hydroxylase activity, hyperphosphatemia, and decreased bone resorption.",
+        "Decreased intestinal calcium absorption, hypophosphatemia, and increased urinary cAMP.",
+        "Decreased renal calcium reabsorption, hyperphosphatemia, and increased bone formation."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A patient with severe hypercalcemia secondary to a malignancy is treated with intravenous saline and a loop diuretic (furosemide). Which statement best explains the physiologic basis for using a loop diuretic in this condition?",
+      "options": [
+        "Loop diuretics inhibit the basolateral Ca\u00b2\u207a-ATPase in the thick ascending limb, preventing the primary active transport of calcium into the peritubular capillaries.",
+        "Inhibition of the Na^+-K^+-2Cl^- cotransporter abolishes the lumen-positive potential, reducing paracellular calcium reabsorption.",
+        "Loop diuretics increase the sensitivity of the distal tubule to the hypocalciuric effects of PTH.",
+        "Increased distal delivery of sodium stimulates a sodium-calcium countertransporter on the apical membrane.",
+        "Loop diuretics directly inhibit 1-alpha-hydroxylase, reducing active vitamin D levels and intestinal absorption."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A medical student compares the effects of thiazide diuretics and loop diuretics on renal calcium handling. Which of the following is a unique characteristic of thiazide diuretics?",
+      "options": [
+        "They inhibit calcium reabsorption by blocking the Na^+-K^+-2Cl^- cotransporter in the thick ascending limb.",
+        "They cause a decrease in the corticopapillary osmotic gradient by blocking solute reabsorption.",
+        "They increase the fractional excretion of magnesium by competing for paracellular pathways.",
+        "They produce metabolic acidosis by inhibiting the reabsorption of filtered bicarbonate.",
+        "They increase distal calcium reabsorption and are used to treat idiopathic hypercalciuria."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 65-year-old patient with chronic renal failure and a significantly reduced glomerular filtration rate (GFR) has a serum phosphate of 7.2 mg/dL. This condition leads to secondary hyperparathyroidism primarily because of which mechanism?",
+      "options": [
+        "Excessive renal production of 1,25-dihydroxycholecalciferol stimulating the parathyroid gland.",
+        "Decreased functional renal mass results in a state of functional resistance where the proximal tubule fails to down-regulate Na\u207a-phosphate cotransporters in response to PTH",
+        "High levels of phosphate in the urine acting as an osmotic diuretic.",
+        "Retention of phosphate complexes with free ionized calcium, lowering blood Ca^(2+) and triggering PTH release.",
+        "Direct inhibition of the Ca^(2+)-sensing receptors in the parathyroid gland by urea."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A patient with severe hypovolemia and a blood urea nitrogen (BUN) of 80 mg/dL (normal 10-26) and serum creatinine of 2.0 mg/dL (normal 0.6-1.3) is evaluated. Why is the BUN/creatinine ratio typically greater than 20:1 in this prerenal state?",
+      "options": [
+        "Decreased GFR slows tubular flow, providing more time for passive urea reabsorption in the proximal tubule.",
+        "Hypovolemia causes the liver to increase the rate of the urea cycle and protein catabolism.",
+        "Creatinine is net secreted by the distal nephron, while urea reabsorption is constant.",
+        "Angiotensin II directly stimulates the urea transporter 1 (UT1) in the collecting ducts.",
+        "ADH is suppressed, which inhibits urea recycling and increases urea accumulation in the blood."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient with Albright's hereditary osteodystrophy is found to have hypocalcemia and hyperphosphatemia. Laboratory testing reveals that administration of exogenous parathyroid hormone (PTH) fails to increase urinary cAMP or phosphate excretion. What is the molecular basis for this disorder?",
+      "options": [
+        "Congenital absence of parathyroid chief cells.",
+        "Autoimmune destruction of the PTH receptors in the proximal tubule.",
+        "A defective G_s protein coupling the PTH receptor to adenylyl cyclase.",
+        "Inactivating mutations in the Ca^(2+)-sensing receptors of the parathyroid gland.",
+        "Excessive synthesis of 24,25-dihydroxycholecalciferol by the kidneys."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient in the emergency department has acute respiratory alkalosis due to hyperventilation. She begins to experience muscle spasms and a positive Chvostek sign. What is the physiologic explanation for these symptoms?",
+      "options": [
+        "Alkalosis causes a shift of calcium from the bone into the extracellular fluid.",
+        "Decreased [H^+] causes more Ca^(2+) to bind to plasma albumin, reducing the free ionized calcium concentration.",
+        "Hypocapnia directly inhibits the Na^+-K^+-2Cl^- cotransporter in the thick ascending limb.",
+        "Hyperventilation stimulates the release of calcitonin, which induces rapid bone deposition.",
+        "Intracellular alkalosis inhibits the H^+/K^+ ATPase, preventing potassium reabsorption."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with familial hypocalciuric hypercalcemia (FHH). This condition is characterized by high serum calcium and low urinary calcium because of which defect?",
+      "options": [
+        "Overexpression of 1-alpha-hydroxylase in the renal proximal tubule.",
+        "Excessive secretion of parathyroid hormone-related peptide (PTH-rp) by the liver.",
+        "Hyperplasia of the parafollicular cells in the thyroid gland.",
+        "Inactivating mutations of the Ca^(2+)-sensing receptors, causing the kidney to incorrectly sense blood calcium as low.",
+        "A mutation in the Na^+-phosphate cotransporter preventing phosphate reabsorption."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient with chronic renal failure is unable to maintain normal calcium levels despite adequate dietary intake. Which step in the activation of vitamin D is impaired in this patient?",
+      "options": [
+        "The conversion of 7-dehydrocholesterol to cholecalciferol in the skin.",
+        "The 25-hydroxylation of cholecalciferol in the liver.",
+        "The absorption of fat-soluble vitamin D3 from the jejunum.",
+        "The binding of 25-hydroxycholecalciferol to transcortin in the blood.",
+        "The 1-alpha-hydroxylation of 25-hydroxycholecalciferol in the renal cortex."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

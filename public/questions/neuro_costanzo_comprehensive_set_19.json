@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-neuro-review-19",
+  "title": "Comprehensive Neuro Set 2: Olfaction and Gustation (MCQ)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 24-year-old man is brought to the emergency department following a motorcycle accident that resulted in a fracture of the cribriform plate. Upon recovery, he is found to have anosmia. However, when an open bottle of concentrated ammonia is held near his nose, he immediately recoils and describes a stinging sensation. What is the most appropriate physiological explanation for this preserved response?",
+      "options": [
+        "The irritant properties of ammonia are detected by ophthalmic and maxillary branches of the trigeminal nerve (CN V).",
+        "Ammonia molecules are small enough to bypass the olfactory bulb and project directly to the prepiriform cortex.",
+        "Olfactory receptor neurons are the only neurons in the adult human capable of rapid neurogenesis from basal stem cells.",
+        "The ammonia stimulus activates high-threshold polymodal nociceptors carried within the facial nerve (CN VII).",
+        "The cribriform plate fracture spared the unmyelinated C-fibers responsible for the \"second smell\" of noxious stimuli."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A researcher is studying the biochemical cascades of sensory transduction. He applies a pharmacological inhibitor of adenylyl cyclase to a preparation of sensory receptor cells. Which of the following sensory processes would be most directly and profoundly abolished by this intervention?",
+      "options": [
+        "The influx of Na^+through epithelial sodium channels (ENaC) during the perception of salty tastes.",
+        "The increase in intracellular cAMP levels required to open cation channels in olfactory receptor cilia.",
+        "The IP3-mediated release of intracellular Ca^(2+)following the activation of gustducin by bitter tastants.",
+        "The closing of cyclic nucleotide-gated sodium channels in retinal rods during exposure to light.",
+        "The hyperpolarization of taste receptor cells in response to high concentrations of H^+  ions."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A 22-year-old woman undergoes the extraction of her third molars (wisdom teeth). Postoperatively, she reports a \"metallic\" and \"distorted\" taste on the right side of her tongue. Clinical testing confirms an absence of taste sensation on the anterior two-thirds of the tongue on the right side. Which nerve was most likely injured during the procedure?",
+      "options": [
+        "The lingual branch of the glossopharyngeal nerve (CN IX).",
+        "The greater petrosal branch of the facial nerve (CN VII).",
+        "The chorda tympani branch of the facial nerve (CN VII).",
+        "The superior laryngeal branch of the vagus nerve (CN X).",
+        "The mandibular branch of the trigeminal nerve (CN V)."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient is participating in a study on gustatory thresholds. He is found to have an abnormally high threshold for the perception of bitterness, requiring much higher concentrations of quinine than average to elicit a response. A defect in which of the following signaling components is the most likely cause?",
+      "options": [
+        "Facilitated diffusion of K^+through luminal membrane channels.",
+        "Opening of amiloride-sensitive epithelial Na^+channels (ENaC).",
+        "H^+-mediated blockade of K^+channels leading to depolarization.",
+        "Activation of the G-protein gustducin and the subsequent IP3/Ca^(2+)  cascade.",
+        "Binding of glutamate to ionotropic receptors on the microvilli of the taste bud."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Olfactory and gustatory receptor cells differ significantly in their neural classification and life cycles. Which of the following statements correctly analyzes these differences based on normal human physiology?",
+      "options": [
+        "Both olfactory and gustatory receptors are specialized epithelial cells that synapse on primary afferent neurons.",
+        "Olfactory receptors are the only neurons in the human body that do not utilize G-protein coupled receptors for transduction.",
+        "Taste receptor cells have a longer average lifespan (60 days) compared to olfactory receptor neurons (10 days).",
+        "Gustatory receptors are primary afferent neurons, whereas olfactory receptors are modified epithelial cells.",
+        "Olfactory receptor cells are true neurons that conduct action potentials directly to the central nervous system."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A student is testing the effects of different pharmacological agents on his own taste perception. He rinses his mouth with a solution of amiloride, which is a known blocker of epithelial sodium channels (ENaC). Which of the following changes in taste perception is he most likely to observe?",
+      "options": [
+        "A significant reduction in the intensity of \"salty\" and \"sour\" taste modalities.",
+        "A selective loss of the \"umami\" sensation while \"salty\" perception remains intact.",
+        "An increased sensitivity to \"bitter\" compounds due to the release of lateral inhibition.",
+        "A complete inability to distinguish between \"sweet\" and \"umami\" savory flavors.",
+        "A decrease in the pH of his saliva, leading to a compensatory increase in \"sweet\" thresholds."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 63-year-old woman is diagnosed with a localized stroke in the medulla oblongata. Neurological testing reveals a complete loss of taste sensation from the entire tongue. If the lesion has affected the primary relay for gustatory information, which of the following structures is most likely damaged?",
+      "options": [
+        "The ventral posteromedial (VPM) nucleus of the thalamus.",
+        "The solitary nucleus (nucleus of the tractus solitarius).",
+        "The prepiriform cortex within the temporal lobe.",
+        "The geniculate ganglion of the facial nerve.",
+        "The arcuate nucleus of the hypothalamus."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "During the \"sour\" taste transduction process, H^+ions produce a depolarizing receptor potential. Which of the following sets of mechanisms correctly describes how the presence of acid in the oral cavity leads to this depolarization?",
+      "options": [
+        "H^+binds to Gsproteins, increasing cAMP and opening Na^+channels.",
+        "H^+triggers the release of Ca^(2+)from the sarcoplasmic reticulum via the IP3pathway.",
+        "H^+enters the cell through ENaC channels or blocks K^+efflux channels.",
+        "H^+isomerizes 11-cis retinal to all-trans retinal within the taste pore.",
+        "H^+facilitates the co-transport of glucose and Na^+  through SGLT1."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "The olfactory system is unique among the special senses for its central projection pattern. Which of the following best describes the anatomical pathway of olfactory information as it travels from the receptor to the site of conscious perception?",
+      "options": [
+        "Olfactory nerve \u2192 VPM nucleus of the thalamus \u2192 Frontal operculum.",
+        "Olfactory nerve \u2192 Nucleus of the solitary tract \u2192 VPM nucleus \u2192 Insula.",
+        "Olfactory nerve \u2192 Medial geniculate nucleus \u2192 Temporal association cortex.",
+        "Olfactory nerve \u2192 Olfactory bulb \u2192 Olfactory tract \u2192 Prepiriform cortex.",
+        "Olfactory nerve \u2192 Optic chiasm \u2192 Lateral geniculate nucleus \u2192 Occipital lobe."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient presents with a lesion in the ventral posteromedial (VPM) nucleus of the thalamus. Based on the partitioning of sensory pathways, which of the following deficits would this patient most likely exhibit?",
+      "options": [
+        "Total loss of the sense of smell (anosmia) on the side of the lesion.",
+        "Loss of fine touch and vibration from the contralateral lower extremity.",
+        "Inability to recognize faces (prosopagnosia) despite intact visual acuity.",
+        "Loss of sound localization due to damage to the medial longitudinal fasciculus.",
+        "Loss of taste sensation from the ipsilateral side of the tongue."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Humans are capable of discriminating at least 10,000 different odors, despite possessing only approximately 1,000 different types of olfactory receptor proteins. This sophisticated level of discrimination is achieved primarily through which of the following?",
+      "options": [
+        "An \"across-fiber pattern code\" where each odorant produces a unique pattern of activity across a population of receptors.",
+        "The high degree of convergence (1000:1) of mitral cells onto single secondary olfactory neurons.",
+        "The presence of \"labeled lines\" where each individual receptor protein is strictly dedicated to one specific odor.",
+        "The isomerization of different retinal isoforms within the cilia of the olfactory neurons.",
+        "The use of the \"size principle\" to recruit larger olfactory neurons for more intense smells."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "The olfactory bulb contains complex neural circuitry, including glomeruli. Which of the following describes the functional organization of a single glomerulus?",
+      "options": [
+        "It receives excitatory input from a single mitral cell and projects to 1000 olfactory receptors.",
+        "It serves as a site where axons from approximately 1000 olfactory receptor neurons converge onto a single mitral cell.",
+        "It is the location where inhibitory granule cells provide feedback to the thalamic relay nuclei.",
+        "It contains chemoreceptors that are directly sensitive to the P_(CO2)  and pH of the blood.",
+        "It serves as a stem cell reservoir for the continuous replacement of the olfactory neuroepithelium."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "The \"umami\" taste sensation is elicited primarily by glutamate. Which of the following best describes the transduction mechanism for this savory modality?",
+      "options": [
+        "Glutamate enters the receptor cell directly via Na^+-coupled secondary active transport.",
+        "Glutamate blocks K^+leak channels, leading to a gradual hyperpolarization of the membrane.",
+        "Glutamate binds to a specific metabotropic receptor, activating a G-protein cascade.",
+        "Glutamate acts as an inhibitory neurotransmitter that increases Cl^-  conductance.",
+        "Glutamate requires binding to intrinsic factor in the saliva for absorption into the taste bud."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "Mammals possess a vomeronasal organ (VNO) that is functionally distinct from the primary olfactory system. What is the primary role of the VNO?",
+      "options": [
+        "To detect changes in the P_(O2)  of the inhaled air to regulate respiratory rate.",
+        "To amplify sound waves in the nasal cavity to improve sound localization.",
+        "To act as a pressure relief valve for the cerebrospinal fluid during sneezing.",
+        "To detect pheromones, which influence social, sexual, and behavioral responses.",
+        "To secrete the mucous layer that protects the cribriform plate from bacterial invasion."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "A patient enters a coffee shop and is immediately struck by the strong aroma of roasting beans. However, after sitting in the shop for 15 minutes, he notices that he can no longer smell the coffee. This phenomenon is best explained by:",
+      "options": [
+        "The saturation of the IP3second messenger system in the taste receptor cells.",
+        "The \"labeled line\" principle, which prevents the perception of two modalities at once.",
+        "The irreversible inactivation of Golf  proteins by aromatic odorant molecules.",
+        "The depletion of glutamate vesicles in the primary afferent neurons of the solitary tract.",
+        "Rapid sensory adaptation of the olfactory receptors to a constant stimulus."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

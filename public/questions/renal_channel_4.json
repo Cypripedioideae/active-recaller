@@ -1,0 +1,78 @@
+{
+  "id": "nephron-function-set-4",
+  "title": "Renal Channels 4",
+  "topic": "Nephron Function Set",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "Explain why the clearance of inulin is considered the \"gold standard\" for measuring the glomerular filtration rate (GFR) based on its handling by the renal tubules.",
+      "modelAnswer": "Inulin is used because it is freely filtered but neither reabsorbed nor secreted by the tubules; logically, this ensures that the mass of inulin excreted in the urine per unit time is exactly equal to the mass filtered at the glomerulus, allowing its clearance (C=UV/P) to provide an accurate measurement of GFR.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Describe the mechanism of the myogenic reflex in renal autoregulation and how it responds to an increase in renal perfusion pressure.",
+      "modelAnswer": "The myogenic reflex is an intrinsic response where increased stretch in the afferent arteriole opens stretch-activated cation channels; the resulting depolarization opens voltage-gated Ca 2+ channels, causing smooth muscle contraction and increased resistance to keep renal blood flow and GFR constant despite changes in perfusion pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "Identify the sensor, the chemical mediator, and the effector response in the tubuloglomerular feedback (TGF) mechanism when distal tubule NaCl delivery increases.",
+      "modelAnswer": "The macula densa (sensor) in the thick ascending limb detects increased NaCl delivery via the NKCC2 symporter and releases adenosine (mediator); adenosine then binds to A1 receptors on the afferent arteriole (effector) to cause vasoconstriction, which lowers glomerular hydrostatic pressure and GFR.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "Explain the specific effect of Angiotensin II on the proximal tubule NHE3 exchanger and its overall impact on sodium reabsorption.",
+      "modelAnswer": "Angiotensin II stimulates sodium reabsorption in the proximal tubule by binding to apical AT1 receptors, which directly increases the activity of the NHE3 (Na-H exchanger); this logic ensures that during states of low effective circulating volume, the kidney maximizes bulk Na + and water reclamation to restore systemic blood pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "Identify the primary urinary buffer responsible for the formation of \"titratable acid\" and explain why its concentration in the tubule increases.",
+      "modelAnswer": "Phosphate (HPO_4^{2-}) is the primary buffer for titratable acid because its pK a  (~6.8) is close to luminal pH and it is progressively concentrated as water is reabsorbed; as secreted H + ions bind to HPO_4^{2-} to form HPO_4^{2-}, metabolic acid is eliminated without lowering urinary pH below the limiting gradient of the H-ATPase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "Describe the cellular mechanism by which Atrial Natriuretic Peptide (ANP) increases GFR and decreases sodium reabsorption.",
+      "modelAnswer": "ANP increases GFR by dilating the afferent arteriole and constricting the efferent arteriole while decreasing sodium reabsorption by inhibiting the ENaC channel in the collecting duct; these actions are mediated by increased cGMP levels and act to increase sodium excretion (natriuresis) in response to atrial stretch.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "Explain the physiological purpose of the vasa recta's \"U-shape\" and low blood flow velocity in the renal medulla.",
+      "modelAnswer": "The vasa recta function as countercurrent exchangers; their \"U-shape\" and sluggish blood flow allow solutes to diffuse out of the ascending limb and into the descending limb (and water vice-versa), which ensures that the blood supply to the medulla does not wash out the osmotic gradient established by the loops of Henle.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "Define the \"renal threshold\" for glucose and explain why it differs from the transport maximum (Tm).",
+      "modelAnswer": "The renal threshold is the plasma glucose concentration (~180-200 mg/dL) at which glucose first appears in the urine, while the T m  (~375 mg/min) is the point of absolute transporter saturation; the \"splay\" between these points occurs because different nephrons have varying transport capacities and affinities, causing some to reach saturation earlier than others.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "Describe the secondary active transport mechanism for amino acid reabsorption in the proximal tubule, including the identity of the required co-ion.",
+      "modelAnswer": "Amino acids are reabsorbed via secondary active transport symporters on the apical membrane, powered by the inward Na + gradient maintained by the Na-K-ATPase; this high-affinity mechanism ensures that virtually 100% of filtered amino acids are reclaimed in the proximal tubule before the fluid reaches the loop of Henle.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "Identify the three primary physiological stimuli that trigger the release of renin from the granular cells of the juxtaglomerular apparatus.",
+      "modelAnswer": "Renin release is triggered by decreased pressure in the afferent arteriole (baroreceptor mechanism), decreased NaCl delivery sensed by the macula densa, and increased sympathetic activity (acting via \u03b2 1  receptors); these stimuli signal the granular cells to secrete renin, initiating the RAAS cascade to maintain volume and blood pressure.",
+      "explanation": "-"
+    }
+  ]
+}

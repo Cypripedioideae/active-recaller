@@ -1,0 +1,148 @@
+{
+  "id": "comprehensive-rs-review-12",
+  "title": "Comprehensive Respiratory Set 2: Oxygen Transport and Hemoglobin (MCQ)",
+  "topic": "Comprehensive RS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A patient with a rare congenital deficiency in methemoglobin reductase is expected to have a higher percentage of hemoglobin in a state where iron is unable to bind oxygen. In which specific iron state is this hemoglobin found?",
+      "options": [
+        "Ferrous (Fe2+)",
+        "Heme-bound sulfite",
+        "Ferrous disulfide",
+        "Ferric (Fe3+ )",
+        "Divalent cobalt"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Hemoglobin exhibits a sigmoidal dissociation curve due to the phenomenon of positive cooperativity. Which of the following best describes this phenomenon as it occurs during the transition from deoxygenated to oxygenated blood?",
+      "options": [
+        "Binding of the fourth molecule of O2is the most difficult step due to steric hindrance.",
+        "Binding of each successive molecule of O2increases the affinity of the remaining heme sites.",
+        "The first molecule of O2binds with the highest affinity to initiate the process.",
+        "Hemoglobin affinity for O2remains constant throughout the entire saturation range.",
+        "The third molecule of O2  reduces the affinity for the fourth to prevent over-saturation."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "In a patient with chronic hypoxaemia, the body adaptively increases a specific glycolytic byproduct to shift the oxygen-hemoglobin dissociation curve to the right. Which of the following changes is responsible for this shift?",
+      "options": [
+        "Decreased core body temperature.",
+        "Increased affinity of hemoglobin for oxygen.",
+        "Increased concentration of 2,3-diphosphoglycerate (2,3-DPG).",
+        "Decreased levels of P_(CO2)  in the blood.",
+        "Increased arterial blood pH."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A patient suffering from iron-deficiency anemia has a hemoglobin concentration of 10 g/dL. Assuming a normal Pa_(O2)of 100 mmHg and 98% saturation, what is the approximate total O2content of this patient's arterial blood?",
+      "options": [
+        "13.4 mL O2/100 mL",
+        "20.0 mL O2/100 mL",
+        "15.1 mL O2/100 mL",
+        "10.3 mL O2/100 mL",
+        "19.7 mL O2 /100 mL"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A patient is brought to the hospital after being found in a garage with a running car engine. Laboratory analysis reveals a Pa_(O2)of 100 mmHg but an O2saturation of only 60%. Which of the following explanations best accounts for this discrepancy?",
+      "options": [
+        "The patient is suffering from anemic hypoxia where hemoglobin concentration is reduced.",
+        "A right-to-left cardiac shunt is mixing deoxygenated venous blood with arterialized blood.",
+        "High-altitude exposure has reduced the atmospheric oxygen partial pressure.",
+        "A diffusion defect in the lungs is preventing the equilibration of oxygen into the plasma.",
+        "Carbon monoxide is competitively binding to heme sites with 250 times the affinity of O2 ."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A hiker ascends to 15,000 feet, where the barometric pressure is significantly reduced. After several days, which of the following integrated physiological responses helps maintain tissue oxygen delivery despite the hypoxemia?",
+      "options": [
+        "Increased synthesis of 2,3-diphosphoglycerate (2,3-DPG) in red blood cells.",
+        "Decreased renal synthesis of erythropoietin (EPO).",
+        "Respiratory acidosis due to CO2  retention from high-altitude air.",
+        "Decreased heart rate and cardiac output to conserve energy.",
+        "Reduced synthesis of hemoglobin to decrease blood viscosity."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Erythropoietin (EPO) is the primary stimulus for the differentiation of proerythroblasts into red blood cells in response to hypoxia. Which specific site in the body is the major source of EPO synthesis?",
+      "options": [
+        "Alveolar type II pneumocytes.",
+        "Renal fibroblasts in the cortex and medulla.",
+        "Beta cells of the islets of Langerhans.",
+        "Hepatocytes in the liver sinusoids.",
+        "Myocardial cells in the left ventricle."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Fetal hemoglobin (HbF) has a significantly different structure and function compared to adult hemoglobin (HbA). Which characteristic allows HbF to facilitate the transfer of oxygen from mother to fetus across the placenta?",
+      "options": [
+        "HbF has a lower affinity for oxygen than adult HbA at any given P_(O2).",
+        "The presence of \u03b2 subunits in HbF prevents the binding of 2,3-DPG.",
+        "HbF binds 2,3-DPG less avidly than HbA, leading to a higher affinity for oxygen.",
+        "HbF is composed of four \u03b1 subunits, increasing its binding capacity.",
+        "Fetal blood has a much higher P_(O2)  than maternal blood, driving diffusion."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "The Bohr effect describes a critical regulatory mechanism for oxygen delivery to metabolically active tissues. Which set of conditions in the systemic capillaries would facilitate the unloading of oxygen from hemoglobin?",
+      "options": [
+        "Decreased P_(CO2), increased pH, and decreased temperature.",
+        "Normal P_(CO2), normal pH, and normal temperature.",
+        "Decreased P_(CO2), decreased pH, and increased temperature.",
+        "Increased P_(CO2), decreased pH, and increased temperature.",
+        "Increased P_(CO2) , increased pH, and decreased temperature."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A shift of the oxygen-hemoglobin dissociation curve to the left reflects an increased affinity of hemoglobin for oxygen. What is the primary clinical consequence of this leftward shift at the level of the peripheral tissues?",
+      "options": [
+        "Enhanced loading of oxygen into the pulmonary capillary blood.",
+        "Increased partial pressure of oxygen in the interstitial fluid.",
+        "Reduction in the concentration of 2,3-diphosphoglycerate.",
+        "Significant increase in the total oxygen-carrying capacity of blood.",
+        "Impairment of the release (unloading) of oxygen to the cells."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

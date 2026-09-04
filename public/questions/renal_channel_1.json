@@ -1,0 +1,78 @@
+{
+  "id": "nephron-function-set-1",
+  "title": "Renal Channels 1",
+  "topic": "Nephron Function Set",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "long_answer",
+      "prompt": "Identify the primary active transporter located on the basolateral membrane of renal tubular cells and describe its stoichiometry and role in establishing the cellular environment.",
+      "modelAnswer": "The Na-K-ATPase (sodium-potassium pump) utilizes ATP hydrolysis to extrude 3 Na^+ ions and take up 2 K^+ ions, maintaining a low intracellular [Na^+], a high intracellular [K^+], and a negative membrane potential (~ -70 mV) which provides the electrochemical driving force for most other tubular transport processes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "long_answer",
+      "prompt": "Explain the mechanism and physiological purpose of the Na-H exchanger (NHE3) in the apical membrane of the proximal convoluted tubule.",
+      "modelAnswer": "NHE3 (Na-H exchanger) is a secondary active transporter that uses the inward Na^+ gradient to extrude H+ into the lumen in exchange for Na^+ entry; this process is essential for reabsorbing ~80% of filtered bicarbonate (HCO3-) and facilitating bulk Na^+ reabsorption.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "long_answer",
+      "prompt": "Which specific transporter in the thick ascending limb (TAL) is the target of loop diuretics, and what is its ion stoichiometry?",
+      "modelAnswer": "The target is the NKCC2 (Na-K-2Cl cotransporter), which moves 1 Na^+, 1 K^+, and 2 Cl^- ions into the cell from the lumen using secondary active transport powered by the basolateral Na-K-ATPase.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "long_answer",
+      "prompt": "Describe the two primary pathways (transcellular and paracellular) for chloride reabsorption in the late proximal tubule.",
+      "modelAnswer": "Chloride is reabsorbed paracellularly down a concentration gradient (established by upstream water reabsorption) and transcellularly via apical Cl^-anion exchangers (e.g., SLC26A6) that exchange Cl^- for bases like formate or oxalate, followed by basolateral exit via Cl^- channels or K/Cl cotransporters.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "long_answer",
+      "prompt": "Identify the apical membrane transporter responsible for NaCl reabsorption in the early distal tubule and name the class of diuretics that specifically inhibits it.",
+      "modelAnswer": "The transporter is the NCC (Na/Cl cotransporter), which is an electroneutral symporter specifically inhibited by thiazide diuretics (e.g., chlorothiazide).",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "long_answer",
+      "prompt": "Explain the two-step process of potassium secretion in the principal cells of the collecting duct.",
+      "modelAnswer": "Secretion involves basolateral K^+ uptake via the Na-K-ATPase to establish a high intracellular concentration, followed by passive K^+ exit across the apical membrane into the lumen through ROMK and BK channels, driven by the electrochemical gradient.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "long_answer",
+      "prompt": "Identify the specific water channel regulated by Arginine Vasopressin (AVP) and its cellular location in the absence of the hormone.",
+      "modelAnswer": "The channel is Aquaporin-2 (AQP2); in the absence of AVP, it is sequestered within intracellular vesicles called aggregophores just beneath the apical membrane.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "long_answer",
+      "prompt": "Describe the genomic mechanism by which aldosterone increases sodium reabsorption in the principal cells of the cortical collecting duct.",
+      "modelAnswer": "Aldosterone binds cytoplasmic mineralocorticoid receptors (MRs), translocates to the nucleus, and induces transcription of aldosterone-induced proteins (AIPs) that increase the number and open probability of apical ENaC channels and the activity/synthesis of basolateral Na-K-ATPase pumps.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "long_answer",
+      "prompt": "Identify the cell type and the primary active transporter responsible for hydrogen ion secretion in the late distal tubule and collecting duct.",
+      "modelAnswer": "\u03b1-Intercalated cells (Type A) utilize the H-ATPase (proton pump) and H-K-ATPase on their apical membrane to secrete H+ ions into the lumen, often against steep concentration gradients.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "long_answer",
+      "prompt": "Explain the physiological characteristics that allow the thick ascending limb (TAL) to function as the \"diluting segment\" of the nephron.",
+      "modelAnswer": "The TAL is the diluting segment because it actively reabsorbs solutes (Na^+, K^+, Cl^- via NKCC2) while remaining virtually impermeable to water, thereby decreasing the osmolality of the tubular fluid to ~100 mOsm/L relative to the surrounding interstitium.",
+      "explanation": "-"
+    }
+  ]
+}

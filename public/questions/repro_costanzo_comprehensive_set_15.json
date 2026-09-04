@@ -1,0 +1,260 @@
+{
+  "id": "comprehensive-repro-review-15",
+  "title": "Reproductive Comprehensive Set 2: Female Physiology - Ovarian Steroidogenesis (MCQ)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 24-year-old woman is found to have a mutation in the CYP19A1 gene, resulting in a loss of aromatase activity within her ovarian follicles. Which of the following steroid levels would you most likely expect to be significantly elevated in her ovarian venous blood compared to a healthy female in the mid-follicular phase?",
+      "options": [
+        "Testosterone.",
+        "17\u03b2-estradiol.",
+        "Pregnenolone.",
+        "Progesterone.",
+        "Cortisol."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A patient is treated with a drug that prevents the plasma concentration of estradiol from exceeding a specific threshold of 100 picograms per milliliter. During a standard 28-day cycle, which of the following events will be most directly inhibited by this pharmacological intervention?",
+      "options": [
+        "The negative feedback of estradiol on the hypothalamus.",
+        "The preovulatory surge of Luteinizing Hormone (LH).",
+        "The synthesis of androstenedione in the theca interna cells.",
+        "The recruitment of a new cohort of primordial follicles.",
+        "The conversion of cholesterol to pregnenolone."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A researcher evaluates the steroidogenic capacity of isolated theca interna cells in a culture medium. He notes that while these cells produce significant quantities of androstenedione and progesterone, they are unable to synthesize any measurable 17\u03b2-estradiol. What is the fundamental biochemical explanation for this finding?",
+      "options": [
+        "Theca cells lack LH receptors.",
+        "Theca cells lack the enzyme 17\u03b1-hydroxylase.",
+        "Theca cells lack the enzyme aromatase.",
+        "Theca cells lack cholesterol desmolase.",
+        "Theca cells are insensitive to the effects of FSH."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "In the \"two-cell theory\" of ovarian steroidogenesis, which of the following describes the necessary interaction between theca and granulosa cells for the production of estrogens?",
+      "options": [
+        "Granulosa cells provide cholesterol to theca cells via gap junctions.",
+        "Theca cells synthesize testosterone and secrete it into the systemic circulation to reach the liver.",
+        "Granulosa cells synthesize androgens but lack the receptors to bind them.",
+        "Theca cells synthesize androgens which then diffuse into granulosa cells to be converted to estrogens.",
+        "Theca cells provide aromatase to granulosa cells during mid-cycle."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 30-year-old woman is administered a synthetic inhibitor of the enzyme cholesterol desmolase. Predict the most likely immediate effect on her ovarian hormone production.",
+      "options": [
+        "Increased production of progesterone due to shunting.",
+        "Increased secretion of LH due to loss of positive feedback.",
+        "Increased production of DHEA via the zona reticularis.",
+        "Increased aromatization of androstenedione.",
+        "Decreased production of progesterone, androstenedione, and estradiol."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "An athlete is using high doses of an anabolic steroid that also possesses strong progestogenic activity. Which of the following changes in her hypothalamic-pituitary-ovarian axis is most likely to occur during this period of use?",
+      "options": [
+        "Suppression of the GnRH pulse generator and inhibition of follicular growth.",
+        "Massive nocturnal surges of LH due to thelarche-like effects.",
+        "Up-regulation of FSH receptors in the granulosa cells.",
+        "Increased sensitivity of the anterior pituitary to TRH.",
+        "Increased conversion of testosterone to estriol in the liver."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient with primary ovarian failure has been amenorrheic for six months. Which of the following is the most likely reason that her uterine smooth muscle remains in a state of relative quiescence?",
+      "options": [
+        "High levels of inhibin maintaining the uterine threshold.",
+        "Lack of progesterone-mediated up-regulation of estrogen receptors.",
+        "High levels of relaxin produced by the adrenal cortex.",
+        "Absence of the FSH surge required for uterine contraction.",
+        "Failure to achieve a high enough estrogen/progesterone ratio to increase excitability."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 52-year-old woman in the menopause transition is found to have serum FSH levels of 90 mIU/mL (normal reproductive range < 20). This elevation is most accurately attributed to which of the following?",
+      "options": [
+        "Hypertrophy of the GnRH-secreting neurons in the arcuate nucleus.",
+        "Autonomous secretion of FSH by a pituitary adenoma.",
+        "Loss of negative feedback from estradiol and inhibin due to follicle depletion.",
+        "Increased sensitivity of the theca cells to pulsatile LH.",
+        "Failure of the kidneys to clear the glycoprotein beta subunits."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "During the selection of the dominant follicle, one follicle successfully continues to grow while its cohorts undergo atresia. Which mechanism allows this dominant follicle to thrive despite the falling systemic concentrations of FSH?",
+      "options": [
+        "It switches its dependency from FSH to insulin-like growth factor II.",
+        "It possesses a higher density of LH receptors on its theca cells.",
+        "It synthesizes 11\u03b2-hydroxysteroid dehydrogenase to protect itself from cortisol.",
+        "Local estradiol production up-regulates its own FSH receptors, increasing sensitivity.",
+        "It prevents the diffusion of androstenedione into the neighboring follicles."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A woman participates in a clinical trial where she receives a drug that blocks the conversion of T4 to T3 (5'-iodinase inhibitor) at the tissue level. She subsequently develops symptoms of listlessness and weight gain. How would her reproductive system most likely be affected?",
+      "options": [
+        "Accelerated ovulation due to loss of TRH inhibition on prolactin.",
+        "Increased endometrial thickness due to hyper-responsiveness to progesterone.",
+        "Reduced thyroidal iodine uptake leading to an LH surge.",
+        "Permanent closure of the epiphyseal plates.",
+        "Menstrual dysfunction and potentially anovulatory cycles."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Imagine a scenario where a mutation causes the Gi  protein coupled to the somatostatin receptor in the ovary to be constitutively active. Based on the paracrine role of somatostatin in endocrine regulation, which of the following is the most likely result?",
+      "options": [
+        "Inhibition of the stimulatory effects of other hormones that utilize the cAMP pathway.",
+        "Hyper-responsiveness to LH in the theca cells.",
+        "Increased synthesis of LDL receptors in the granulosa cells.",
+        "Potentiation of the FSH-induced aromatase activity.",
+        "Spontaneous luteinization of primary follicles."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A 32-year-old woman is found to have a specific deficiency in the enzyme 17\u03b2-hydroxysteroid dehydrogenase within her granulosa cells. During the follicular phase, which of the following would be the most likely laboratory finding?",
+      "options": [
+        "Elevated serum 17\u03b2-estradiol.",
+        "Low serum 17\u03b2-estradiol and elevated serum androstenedione.",
+        "Low serum FSH and LH.",
+        "High serum progesterone and low serum testosterone.",
+        "Increased urinary excretion of estriol."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A synthetic hormone that mimics the physiological action of Activin is administered. Which specific endocrine change would you expect to measure?",
+      "options": [
+        "Decreased GnRH pulse amplitude.",
+        "Increased LH secretion from the posterior pituitary.",
+        "Increased FSH secretion from the anterior pituitary.",
+        "Decreased aromatase activity in the granulosa cells.",
+        "Increased inhibin secretion from the theca cells."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "During the luteal phase of the menstrual cycle, the hypothalamic pulse generator slows the frequency of GnRH release. Which of the following is the primary mediator of this inhibitory effect?",
+      "options": [
+        "Negative feedback of FSH on the arcuate nucleus.",
+        "Positive feedback of estradiol on the anterior pituitary.",
+        "Direct inhibition of the median eminence by oxytocin.",
+        "Negative feedback of progesterone on the hypothalamic-pituitary axis.",
+        "Paracrine action of relaxin on the GnRH neurons."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "A woman has an endocrine-active tumor of the theca interna cells that hypersecretes androstenedione. If her granulosa cell function remains normal, which of the following clinical signs is most likely?",
+      "options": [
+        "Primary amenorrhea due to a lack of estrogen precursors.",
+        "Virilization due to the peripheral conversion of androstenedione to DHT.",
+        "Chronic hypotension due to the vasodilatory effects of androstenedione.",
+        "Decreased uterine thickness due to the \"progesterone block.\"",
+        "Hyper-estrogenism and endometrial hyperplasia."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "In analyzing the mechanism of the preovulatory LH surge, it is noted that the pituitary sensitivity to GnRH increases dramatically. Which of the following is the most likely cellular mechanism for this change?",
+      "options": [
+        "Estrogen-induced up-regulation of GnRH receptors on pituitary gonadotrophs.",
+        "Progesterone-induced down-regulation of the Giprotein.",
+        "LH-induced positive feedback on the arcuate nucleus.",
+        "Inhibin-induced stimulation of the Gs  protein in the anterior pituitary.",
+        "Dopamine-induced release of FSH from the median eminence."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "A woman has a mutation that prevents her granulosa cells from expressing FSH receptors. Predict the status of her steroidogenic pathway.",
+      "options": [
+        "High levels of progesterone but low levels of androstenedione.",
+        "Normal thecal androgen production but failure to synthesize estradiol.",
+        "Increased FSH and LH levels due to excessive estrogen negative feedback.",
+        "Hypertrophy of the ovaries due to lack of trophic inhibition.",
+        "Conversion of theca cells into functional corpus luteum."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "What is the specific role of the LH surge in the maturation of the female gamete?",
+      "options": [
+        "It induces the first mitotic division of the oogonia.",
+        "It triggers the extrusion of the second polar body.",
+        "It induces the completion of the first meiotic division, producing a secondary oocyte.",
+        "It arrests the oocyte in the prophase of Meiosis II.",
+        "It prevents the synthesis of HCG by the unfertilized ovum."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    }
+  ]
+}

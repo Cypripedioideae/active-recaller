@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-cvs-review-10",
+  "title": "Cardiovascular Comprehensive Set 2: Electrophysiology  (MCQ)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A patient with heart failure is administered digoxin, which inhibits the Na^+/K^+ ATPase on the cardiac cell membrane. Which of the following analytical shifts in ionic exchange directly explains the resulting positive inotropic effect?",
+      "options": [
+        "Decreased intracellular [Na^+] enhancing Na^+/Ca^(2+) exchange.",
+        "Increased intracellular [K^+] promoting Ca^(2+) release from the SR.",
+        "Increased intracellular [Na^+] diminishing the Na^+ gradient used to extrude Ca^(2+).",
+        "Hyperpolarization of the membrane increasing the driving force for Ca^(2+) influx.",
+        "Direct inhibition of the Ca^(2+)-ATPase (PMCA) on the sarcolemma."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Cardiac muscle is protected from tetanic contraction, a property not shared by skeletal muscle, due to its unique electrical profile. This physiological difference is primarily analyzed as a function of which of the following?",
+      "options": [
+        "The prolonged Phase 2 plateau phase extending the absolute refractory period to coincide with the duration of the mechanical twitch.",
+        "The rapid re-sequestration of Ca^(2+) into the sarcoplasmic reticulum by SERCA, ensuring immediate relaxation after each stimulus.",
+        "The electrical coupling of cardiomyocytes via gap junctions, which allows the heart to function as a functional syncytium and limits individual fiber summation.",
+        "The absence of L-type Ca^(2+) channels in the ventricular myocardium, which prevents the summation of sub-threshold generator potentials.",
+        " A stable Phase 4 resting membrane potential that remains significantly more negative than the K^+ equilibrium potential"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A patient exhibits signs of excessive vagal tone, leading to profound bradycardia. Which application of the neurotransmitter-receptor interaction at the sinoatrial node explains this decrease in heart rate?",
+      "options": [
+        "Activation of \u03b2_1 receptors increasing the slope of Phase 4 depolarization.",
+        "Opening of K^+-ACh channels by the G_i protein subunit, hyperpolarizing the cell. ",
+        "Inhibition of the funny current (I_f) via a G_s-protein coupled mechanism.",
+        "Closing of voltage-gated Ca^(2+) channels during the plateau phase.",
+        "Increased sodium conductance bringing the maximum diastolic potential closer to threshold."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "During the \"fight or flight\" response, sympathetic nerves release norepinephrine to increase heart rate. Apply the molecular mechanism of this chronotropic effect to identify the correct sequence of events:",
+      "options": [
+        "cAMP decrease -> decreased I_f -> slower Phase 4 depolarization.",
+        "IP_3 increase -> Ca^(2+) release from SR -> immediate Phase 0 upstroke.",
+        "cAMP increase -> opening of Ca^(2+) channels -> depolarization.",
+        "cAMP increase -> increased I_f -> faster rate of Phase 4 depolarization.",
+        "Decreased chloride conductance -> destabilization of the maximum diastolic potential."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A volunteer in a study has their autonomic conduction velocity measured. Which analysis regarding the fiber types and speeds in the heart's autonomic control is correct?",
+      "options": [
+        "Unmyelinated post-ganglionic C fibers conduct faster than myelinated pre-ganglionic B fibers.",
+        "Parasympathetic pre-ganglionic fibers release norepinephrine at the cardiac ganglion.",
+        "Sympathetic pre-ganglionic fibers have smaller diameters than post-ganglionic fibers.",
+        "Conduction velocity is highest in the unmyelinated fibers to the SA node.",
+        "Myelinated pre-ganglionic B fibers have higher conduction velocities than unmyelinated post-ganglionic C fibers."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A physiology student observes \"respiratory sinus arrhythmia\" in a healthy subject. Which analytical explanation best describes the heart rate change during inspiration?",
+      "options": [
+        "Heart rate increases due to a decrease in parasympathetic vagal tone.",
+        "Heart rate decreases as a result of the Hering-Breuer inflation reflex.",
+        "Heart rate remains constant while the QRS amplitude increases due to chest expansion.",
+        "Heart rate increases because intrapleural pressure becomes less negative.",
+        "Heart rate decreases due to an increase in baroreceptor firing from the carotid sinus."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A climber at high altitude hyperventilates, resulting in respiratory alkalosis. Which application of this state to cardiac electrophysiology is most likely in this patient?",
+      "options": [
+        "Increased serum [H^+] displacing Ca^(2+) from plasma proteins.",
+        "Shortening of the QT interval due to a rapid increase in ionized calcium.",
+        "Decreased ionized calcium leading to increased membrane excitability and potential tetany.",
+        "Hyperpolarization of the threshold potential in pacemaker cells.",
+        "Massive potassium efflux leading to a shortened action potential duration."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "An ECG reveals that the net QRS deflection is negative in Lead I and positive in Lead aVF. What is the correct application and interpretation of the patient's mean electrical axis?",
+      "options": [
+        "Left axis deviation (0 to -90 degrees).",
+        "Right axis deviation (+90 to +180 degrees).",
+        "Normal axis (0 to +90 degrees).",
+        "Extreme axis deviation (-90 to -180 degrees).",
+        "Indeterminate axis due to a biphasic aVR."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "An 82-year-old man has an ECG showing a constant PR interval of 0.28 seconds and a normal QRS duration. Which analysis of his conduction system is most accurate?",
+      "options": [
+        "He has a second-degree heart block with occasional dropped beats.",
+        "The action potential is being initiated in an ectopic ventricular pacemaker.",
+        "The delay is primarily due to slowed conduction through the Purkinje system.",
+        "He has a first-degree heart block, typically caused by a conduction delay in the AV node.",
+        "The QRS duration indicates a left bundle branch block."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient with chronic renal failure presents with a potassium concentration of 7.2 mEq/L. What is the expected application of this state on his ECG?",
+      "options": [
+        "A decrease in the amplitude of the T wave.",
+        "The appearance of prominent U waves.",
+        "Shortening of the PR interval.",
+        "Prolongation of the ST segment.",
+        "Tall, peaked T waves."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "A clinician treats a patient with furosemide, a loop diuretic that inhibits the Na^+-K^+-2Cl^- cotransporter. What is the expected application of this drug on the patient's potassium balance and resulting RMP?",
+      "options": [
+        "Hyperkalemia resulting from a decrease in the electrochemical driving force for K^+ secretion across the principal cell luminal membrane.",
+        "Hypokalemia leading to hyperpolarization of the cell membrane.",
+        "Isotonic volume expansion reducing the K^+ concentration gradient.",
+        "Increased intracellular [K^+] promoting the \"funny current\" (I_f).",
+        "Depolarization-induced inactivation of Na^+ channels secondary to a hyperkalemic shift in the K^+  Nernst potential."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A woman with Graves' disease presents with a rapid heart rate and heat intolerance. Which application of thyroid hormone physiology best explains her tachycardia?",
+      "options": [
+        "Up-regulation of \u03b2_1 adrenergic receptors in the sinoatrial node.",
+        "Direct activation of the Na^+/Ca^(2+) exchanger by T_3.",
+        "Inhibition of the vagal parasympathetic center in the medulla.",
+        "Decreased metabolic rate reducing the demand for cardiac output.",
+        "Production of thyroid-stimulating immunoglobulins that block M_2 receptors."
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with Addison's disease (primary adrenal insufficiency). Analyze the typical electrolyte and ECG triad found in such patients:",
+      "options": [
+        "Hypernatremia, hypokalemia, and U waves.",
+        "Hyponatremia, hyperkalemia, and peaked T waves.",
+        "Metabolic alkalosis, hypertension, and a shortened PR interval.",
+        "Hypercalcemia, hyperphosphatemia, and a flat ST segment.",
+        "Hypoglycemia, hypokalemia, and sinus tachycardia."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "Following an acute hemorrhage, a patient's heart rate increases reflexively. Analyze the sequence of the baroreceptor reflex that restores his blood pressure:",
+      "options": [
+        "Increased stretch -> increased carotid sinus nerve firing -> decreased sympathetic outflow.",
+        "Decreased blood volume -> increased venous compliance -> increased preload.",
+        "Decreased stretch -> increased firing rate of Hering's nerve -> tachycardia.",
+        "Decreased stretch -> decreased firing rate of CN IX -> increased sympathetic outflow to the SA node.",
+        "Increased parasympathetic outflow -> increased contractility -> increased Pa."
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "A patient experiences a drop in arterial pressure and a \"racing heart\" when standing up quickly. Which analysis best explains the compensatory tachycardia?",
+      "options": [
+        "Pooling of blood in leg veins leads to increased venous return and the Bainbridge reflex.",
+        "Activation of peripheral chemoreceptors by a transient decrease in arterial P_(O2). ",
+        "A sudden increase in mean systemic filling pressure upon standing.",
+        "Increased intra-abdominal pressure stimulating the swallowing reflex.",
+        "Venous pooling decreases cardiac output, which is sensed by baroreceptors to trigger a reflex sympathetic increase in heart rate."
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

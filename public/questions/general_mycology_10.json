@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-10",
+  "title": "General Mycology 10",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A 30-year-old patient with thalassemia major presents with progressive leg pain and discoloration. Imaging reveals extensive arteritis, and a biopsy of the affected vessel demonstrates wide, non-septate hyphae. The causative organism is identified as belonging to the Kingdom Chromista rather than Fungi. Which of the following molecular features is characteristic of this pathogen?",
+      "options": [
+        "Cell wall composed primarily of chitin",
+        "Production of aflatoxins",
+        "Cytoplasmic membrane containing no ergosterol",
+        "Presence of a thick mucicarmine-staining capsule",
+        "Formation of endosporulating spherules"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "During the microscopic examination of a skin scraping from a patient with a dermatophyte infection, the laboratory technician identifies specific morphological structures. Which of the following terms describes barrel-shaped cells that result from the fragmentation of hyphal filaments?",
+      "options": [
+        "Arthroconidia",
+        "Blastoconidia",
+        "Chlamydoconidia",
+        "Pseudohyphae",
+        "Sporangiospores"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A clinical microbiologist observing *Candida albicans* notes its ability to spontaneously and reversibly change both its colony morphology and microscopic appearance to adapt to different host environments. Which of the following terms best describes this specific virulence mechanism?",
+      "options": [
+        "Germ tube induction",
+        "Phenotypic switching",
+        "Biofilm formation",
+        "Arthroconidiation",
+        "Endosporulation"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A 42-year-old male with a history of hematologic malignancy is diagnosed with invasive aspergillosis and initiated on antifungal therapy. Shortly after starting the medication, he reports transient visual disturbances, specifically describing seeing \"wavy lines\" and flashing lights. Which of the following medications was most likely administered?",
+      "options": [
+        "Isavuconazole",
+        "Fluconazole",
+        "Voriconazole",
+        "Itraconazole",
+        "Posaconazole"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 55-year-old diabetic patient presents with rhinocerebral mucormycosis. The clinical team considers initiating therapy with a newer triazole that is administered as the prodrug isavuconazonium sulfate. Which of the following is a contraindication for the use of this specific medication?",
+      "options": [
+        "History of asthma",
+        "Prolonged QT interval",
+        "Shortened QT interval",
+        "Concurrent use of paracetamol",
+        "G6PD deficiency"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A 39-year-old male with HIV presents with headache and lethargy. The medical team suspects cryptococcal meningitis and performs a rapid diagnostic test on the cerebrospinal fluid that utilizes antibody-coated latex particles to detect specific fungal components. Which of the following is the specific target of this diagnostic test?",
+      "options": [
+        "Galactomannan antigen",
+        "(1,3)-\u03b2-D-glucan",
+        "Polysaccharide capsular antigen",
+        "Trichothecene mycotoxin",
+        "Ergosterol in the cell membrane"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A 29-year-old male with a history of HIV (CD4 count 45 cells/mm^3) presents to a clinic in Northern Thailand with a two-week history of fever, a nonproductive cough, and significant weight loss. Physical examination reveals generalized lymphadenopathy, hepatosplenomegaly, and numerous skin lesions consisting of small, centrally umbilicated papules on the face and trunk. A skin biopsy is performed; a portion is sent for histopathology and another for fungal culture. The culture, when grown at room temperature, produces a mold colony that secretes a characteristic diffusible red pigment into the medium. Histopathological examination of the skin biopsy specimen is likely to reveal which of the following microscopic morphologies?",
+      "options": [
+        "Encapsulated budding yeasts",
+        "Intracellular budding yeasts",
+        "Intracellular fission yeasts",
+        "Broad-based budding yeasts",
+        "Branching septate hyphae"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A 29-year-old male with a history of HIV (CD4 count 45 cells/mm^3) presents to a clinic in Northern Thailand with a two-week history of fever, a nonproductive cough, and significant weight loss. Physical examination reveals generalized lymphadenopathy, hepatosplenomegaly, and numerous skin lesions consisting of small, centrally umbilicated papules on the face and trunk. A skin biopsy is performed; a portion is sent for histopathology and another for fungal culture. The culture, when grown at room temperature, produces a mold colony that secretes a characteristic diffusible red pigment into the medium. Which of the following is the primary mode of transmission for this fungal infection?",
+      "options": [
+        "Ingestion of contaminated food",
+        "Traumatic implantation via thorns",
+        "Inhalation of infectious spores",
+        "Direct person-to-person contact",
+        "Sexual transmission"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A 52-year-old female with poorly controlled Type 2 Diabetes Mellitus presents with adherent white, curd-like plaques on her tongue and inner cheeks. She also reports a thick, white, \"cottage cheese\" vaginal discharge and intense pruritus. A scraping of the oral lesions is incubated in serum at 37\u00b0C for three hours, revealing the formation of true hyphal extensions without constriction at the point of origin. Which of the following vaginal pH and microscopic findings would be most consistent with the patient's genital symptoms?",
+      "options": [
+        "pH > 4.5; motile pear-shaped organisms",
+        "pH > 4.5; presence of clue cells",
+        "pH 4.0-4.5; budding yeast and pseudohyphae",
+        "pH 4.0-4.5; thick-walled endosporulating spherules",
+        "pH > 5.0; septate hyphae with arthroconidia"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A 35-year-old male with a known history of HIV and a CD4 count of 40 cells/mm\u00b3 is brought to the emergency department with a three-week history of progressive headache, intermittent fever, and increasing confusion. On physical examination, the patient is lethargic and demonstrates mild nuchal rigidity. India ink preparation of the cerebrospinal fluid (CSF) reveals numerous round budding yeasts surrounded by a distinct, large clear halo. While receiving the initial induction therapy, the patient must be closely monitored for adverse effects. Which of the following clinical findings is specifically associated with the oral agent utilized in the induction regimen for this disease?",
+      "options": [
+        "Abnormal vision, including wavy lines or flashing lights",
+        "Negative inotropic effect and congestive heart failure",
+        "Orange-tan discoloration of tears and saliva",
+        "Shortened QT interval on electrocardiogram",
+        "Dose-related reversible bone marrow suppression"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    }
+  ]
+}

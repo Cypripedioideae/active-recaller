@@ -1,0 +1,330 @@
+{
+  "id": "comprehensive-cvs-review-14",
+  "title": "Cardiovascular Comprehensive Set 2: Microcirculation and Lymphatics (MCQ)",
+  "topic": "Comprehensive CVS Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Solutes like glucose and amino acids are water-soluble and cannot dissolve in the lipid of the cell membrane. By what primary mechanism do these substances move between the capillary lumen and the interstitial fluid?",
+      "options": [
+        "Primary active transport",
+        "Simple diffusion through aqueous clefts",
+        "Facilitated diffusion via GLUT1 transporters",
+        "Receptor-mediated endocytosis",
+        "Secondary active cotransport"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A clinician is examining a patient with significantly reduced blood flow velocity in the lower extremities. Which segment of the systemic circulation normally exhibits the lowest velocity of blood flow to facilitate nutrient exchange?",
+      "options": [
+        "Aorta",
+        "Arterioles",
+        "Capillaries",
+        "Venules",
+        "Vena cava"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "During an experiment, the hydraulic conductance (K_f) of a capillary bed is measured. What does this coefficient represent in the Starling equation?",
+      "options": [
+        "The pressure required to stop the flow of water",
+        "The thickness of the basement membrane",
+        "The ratio of extravascular to intravascular volume",
+        "The intrinsic water permeability of the capillary wall",
+        "The concentration of osmotically active particles"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "In the liver, the capillary endothelium contains exceptionally wide intercellular clefts. What is the functional name for these specialized capillaries?",
+      "options": [
+        "Fenestrated capillaries",
+        "Sinusoids",
+        "Continuous capillaries",
+        "Metarterioles",
+        "Vasa recta"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A 62-year-old man presents with recurring peripheral edema. The physician notes that in a healthy adult, the lymphatic system returns a specific volume of excess filtered fluid and protein to the circulation daily. What is this approximate volume?",
+      "options": [
+        "500 mL/day",
+        "1 L/day",
+        "2-3 L/day",
+        "5-6 L/day",
+        "10 L/day"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Within the renal microcirculation, which Starling force is primarily responsible for the high rates of reabsorption observed in the peritubular capillaries?",
+      "options": [
+        "High capillary hydrostatic pressure (P_c)",
+        "Low interstitial hydrostatic pressure (P_i)",
+        "High capillary oncotic pressure (\u03c0_c)",
+        "High interstitial oncotic pressure (\u03c0_i)",
+        "Increased filtration coefficient (K_f)"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "The \"low-pressure\" baroreceptors are essential for monitoring the \"fullness\" of the vascular system. Where are these receptors primarily located?",
+      "options": [
+        "Carotid sinus and aortic arch",
+        "Afferent arterioles and macula densa",
+        "Splanchnic and cutaneous arterioles",
+        "Atria, veins, and pulmonary arteries",
+        "Ventricular wall and coronary ostia"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A researcher is studying a solute with a reflection coefficient (\u03c3) of 1.0. What does this value indicate regarding the solute's behavior at the capillary membrane?",
+      "options": [
+        "The solute is completely permeable and exerts no osmotic pressure.",
+        "The solute is as diffusible through the membrane as water.",
+        "The solute is impermeable and exerts its maximal effective osmotic pressure.",
+        "The solute moves via solvent drag through the intercellular clefts.",
+        "The solute requires a carrier-mediated transport protein."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "An experimental drug causes profound arteriolar constriction in a skeletal muscle bed. How will this change affect the capillary hydrostatic pressure (P_c) \"downstream\"?",
+      "options": [
+        "P_c will increase because resistance is higher.",
+        "P_c will decrease, favoring fluid absorption.",
+        "P_c will remain constant due to autoregulation.",
+        "P_c will increase only if venous pressure also rises.",
+        "P_c will decrease, leading to an increase in lymph flow."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A person stands motionless for 30 minutes, leading to an increase in hydrostatic pressure in the veins of the feet. According to the Starling relationship, what is the most likely consequence for the capillaries in the feet?",
+      "options": [
+        "Decreased P_c and increased absorption",
+        "Increased P_c and increased filtration",
+        "Increased \u03c0_c and decreased filtration",
+        "Decreased K_f and decreased filtration",
+        "Increased P_i and decreased lymph flow"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Why does the capillary hydrostatic pressure (P_c) typically decline from the arteriolar end to the venous end of a systemic capillary?",
+      "options": [
+        "Protein is lost to the interstitium, lowering the pressure.",
+        "The total cross-sectional area decreases, raising the resistance.",
+        "Frictional resistance to flow and fluid filtration consume energy.",
+        "Venous capacitance is higher than arterial capacitance.",
+        "The myogenic response causes the venous end to constrict."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "In the \"chloride shift\" during CO_2 transport, which event occurs as blood passes through systemic capillaries?",
+      "options": [
+        "Cl^- ions leave the red blood cells to maintain electroneutrality.",
+        "HCO_3^- ions pass from the plasma into the red blood cells.",
+        "HCO_3^- ions pass from the red blood cells to the plasma in exchange for Cl^-.",
+        "Carbonic anhydrase catalyzes the conversion of H_2CO_3 into CO_2.",
+        "The pH of the red blood cells increase due to H^+ buffering by oxyhemoglobin"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "mcq",
+      "prompt": "How does the lymphatic system prevent the build-up of interstitial oncotic pressure (\u03c0_i)?",
+      "options": [
+        "By actively pumping Na^+ out of the interstitial space",
+        "By returning leaked plasma proteins to the systemic circulation",
+        "By increasing the hydraulic conductance of the vascular wall",
+        "By synthesizing new albumin to replace lost protein",
+        "By maintaining a positive interstitial hydrostatic pressure"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "mcq",
+      "prompt": "What happens to the interstitial fluid hydrostatic pressure (P_i) if capillary filtration is significantly increased?",
+      "options": [
+        "P_i decreases to favor more filtration.",
+        "P_i remains constant due to the \"washout\" effect.",
+        "P_i increases, acting as a safety factor against further filtration.",
+        "P_i becomes more negative due to increased lymphatic pumping.",
+        "P_i is unaffected unless the reflection coefficient is zero."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "mcq",
+      "prompt": "A patient is administered a nitric oxide (NO) donor. Analyze the effect of NO on the Starling forces and lymph flow in the infused limb.",
+      "options": [
+        "Arteriolar constriction \u2192 decreased P_c \u2192 decreased lymph flow",
+        "Arteriolar dilation \u2192 decreased P_c \u2192 increased lymph flow",
+        "Arteriolar dilation \u2192 increased P_c \u2192 increased filtration and lymph flow",
+        "Venous constriction \u2192 increased P_c \u2192 decreased filtration",
+        "Increased plasma protein \u2192 increased \u03c0_c \u2192 decreased lymph flow"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "mcq",
+      "prompt": "A 72-year-old man with nephrotic syndrome presents with generalized edema. Which shift in Starling forces is the initiating cause of his condition?",
+      "options": [
+        "Increased capillary hydrostatic pressure (P_c)",
+        "Decreased capillary oncotic pressure (\u03c0_c)",
+        "Increased interstitial hydrostatic pressure (P_i)",
+        "Decreased hydraulic conductance (K_f)",
+        "Increased filtration fraction"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "mcq",
+      "prompt": "A patient with end-stage liver failure is found to have significant ascites and peripheral edema. Which analytical explanation best describes the underlying mechanism?",
+      "options": [
+        "Excessive ADH secretion leading to hyposmotic volume expansion.",
+        "Increased P_c due to portal hypertension and decreased \u03c0cdue to hypoalbuminemia.",
+        "Decreased K_f in the hepatic sinusoids preventing protein return.",
+        "Arteriolar constriction reducing blood flow and P_c.",
+        "Reduced lymphatic drainage from the thoracic duct."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "mcq",
+      "prompt": "During an anaphylactic reaction, there is a massive release of histamine. How does this affect the microcirculation to produce a \"wheal\" or local edema?",
+      "options": [
+        "Arteriolar constriction and decreased K_f.",
+        "Venous dilation and increased \u03c0_c.",
+        "Arteriolar dilation and increased K_f and Pc.",
+        "Decreased \u03c0_i due to protein dilution.",
+        "Inhibition of the Na^+/K^+ ATPase in the vascular wall."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "mcq",
+      "prompt": "Following an acute hemorrhage, a patient's body initiates \"autotransfusion.\" What is the primary mechanism for this shift of fluid into the vascular space?",
+      "options": [
+        "Arteriolar vasodilation increasing P_c.",
+        "Decreased plasma protein concentration lowering \u03c0_c.",
+        "Arteriolar vasoconstriction decreasing P_c , which favors absorption.",
+        "Increased heart rate increasing the filtration fraction.",
+        "Activation of V_2 receptors in the lymphatic vessels."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "mcq",
+      "prompt": "A 40-year-old woman in her third trimester of pregnancy has significant ankle edema. Which shift in Starling forces is most likely responsible?",
+      "options": [
+        "Decreased P_i due to ligament laxity.",
+        "Increased \u03c0_i caused by fetal protein synthesis.",
+        "Increased P_c in the legs due to compression of the vena cava by the uterus.",
+        "Decreased K_f resulting from increased circulating relaxin.",
+        "Isosmotic volume expansion due to aldosterone secretion."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "mcq",
+      "prompt": "In a muscle capillary, the following pressures were measured: P_c = 30 mmHg, P_i = -2 mmHg, \u03c0_c = 25 mmHg, and \u03c0_i = 2 mmHg. Calculate the net driving force and direction.",
+      "options": [
+        "5 mmHg, favoring absorption",
+        "6 mmHg, favoring filtration",
+        "9 mmHg, favoring filtration",
+        "11 mmHg, favoring absorption",
+        "0 mmHg, equilibrium"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "mcq",
+      "prompt": "Glomerular filtration is unique because \"filtration equilibrium\" normally occurs at the end of the capillary. What change in Starling forces causes the net ultrafiltration pressure to become zero?",
+      "options": [
+        "P_(GC) decreases to match P_(BS).",
+        "P_(BS) increases until it exceeds P_(GC).",
+        "\u03c0_(GC) increases until it equals the difference between P_(GC) and P_(BS).",
+        "K_f decreases as the mesangial cells contract.",
+        "\u03c0_(BS) increases due to the leakage of small peptides."
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "mcq",
+      "prompt": "A patient with pulmonary edema is evaluated using a Swan-Ganz catheter. The pulmonary artery wedge pressure (PAWP) is found to be 25 mmHg. How does this value relate to capillary dynamics?",
+      "options": [
+        "It represents a decrease in pulmonary capillary hydrostatic pressure.",
+        "It is an index of left ventricular preload and reflects increased pulmonary capillary hydrostatic pressure favoring edema.",
+        "It indicates that the filtration coefficient (K_f) has increased due to infection.",
+        "It shows that the pulmonary circulation is now in parallel with the systemic.",
+        "It indicates a decrease in left atrial pressure."
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

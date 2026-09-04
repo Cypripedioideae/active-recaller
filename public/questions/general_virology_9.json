@@ -1,0 +1,134 @@
+{
+  "id": "general-virology-9",
+  "title": "General Virology 9",
+  "topic": "General Virology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "The Human Immunodeficiency Virus (HIV) is an enveloped member of the Retroviridae family. Which of the following best describes the specific genomic structure found within a mature HIV virion?",
+      "options": [
+        "Haploid single-stranded DNA",
+        "Diploid positive-sense RNA",
+        "Segmented double-stranded RNA",
+        "Circular partially double-stranded DNA",
+        "Non-segmented negative-sense RNA"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Ganciclovir is significantly more effective than acyclovir for the treatment of serious Cytomegalovirus (CMV) infections in immunocompromised patients. What is the primary biochemical reason CMV is susceptible to ganciclovir but typically resistant to acyclovir?",
+      "options": [
+        "CMV lacks a viral-encoded DNA polymerase",
+        "CMV produces a specific protein kinase (UL97) that phosphorylates ganciclovir",
+        "Acyclovir is unable to penetrate the complex CMV envelope",
+        "CMV replicates in the cytoplasm where acyclovir remains inactive",
+        "Ganciclovir acts as a pyrophosphate analog while acyclovir does not"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A premature infant born in February is administered palivizumab as prophylaxis to prevent severe lower respiratory tract disease and bronchiolitis. Which viral protein is the specific target of this monoclonal antibody?",
+      "options": [
+        "Neuraminidase",
+        "Hemagglutinin",
+        "Fusion (F) protein",
+        "Matrix (M1) protein",
+        "RNA-dependent RNA polymerase"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Naked capsid viruses, such as Hepatitis A virus (HAV), are typically transmitted via the fecal-oral route. In contrast, enveloped viruses like HIV are not transmitted this way. Which structural property of HAV primarily allows it to survive transit through the gastrointestinal tract?",
+      "options": [
+        "Presence of a lipid-rich lipoprotein envelope",
+        "Lack of an envelope, providing resistance to detergents and acidic pH",
+        "Use of a viral-encoded reverse transcriptase",
+        "Possession of a diploid RNA genome",
+        "Helical nucleocapsid symmetry that resists bile salts"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Individuals who are homozygous for the CCR5-delta 32 mutation exhibit significant natural resistance to infection by common macrophage-tropic strains of HIV. Which specific process of the viral life cycle is fundamentally blocked by this genetic variation?",
+      "options": [
+        "Production of high-titer neutralizing anti-envelope antibodies",
+        "Docking and entry mediated by the coreceptor interaction",
+        "Intracellular degradation of viral genomic RNA",
+        "Translation of the viral Gag-Pol polyprotein precursor",
+        "Syncytium formation between infected CD4+ T cells"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Zika virus is an enveloped flavivirus associated with congenital Zika syndrome and microcephaly in neonates. To establish infection in target cells, such as neural progenitor cells, the virus utilizes which specific cellular receptor for entry?",
+      "options": [
+        "CD21",
+        "ACE2",
+        "AXL",
+        "P antigen",
+        "Nicotinic AChR"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Parvovirus B19 is a small, non-enveloped DNA virus that can cause a transient aplastic crisis (TAC). To establish infection, the virus must gain entry into its primary target cell, the erythroid progenitor cell. Which host cell component serves as the receptor for viral attachment?",
+      "options": [
+        "CD4 receptor",
+        "Erythrocyte blood group P antigen",
+        "ICAM-1 adhesion molecule",
+        "ACE2 receptor",
+        "Nicotinic acetylcholine receptor"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A clinician is managing an elderly patient with a laboratory-confirmed Influenza A infection. If the clinician prescribes amantadine, which specific step of the viral life cycle is being targeted?",
+      "options": [
+        "Viral attachment to host cell receptors",
+        "Uncoating of the viral genome within the host cell",
+        "Cleavage of sialic acid residues for progeny release",
+        "Integration of viral DNA into the host cell chromosome",
+        "Proteolytic processing of viral polyproteins"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A patient with HIV who has been poorly adherent to their antiretroviral therapy (ART) is found to have high-level resistance to the Protease Inhibitor (PI) class of drugs. This mechanism of resistance allows the virus to bypass the drug-induced blockade of which essential life cycle step?",
+      "options": [
+        "Integration of the linear viral DNA into the host genome",
+        "Cleavage of the Gag-Pol polyprotein required for viral maturation",
+        "Fusion of the viral envelope mediated by the gp41 protein",
+        "Synthesis of a DNA copy from the genomic RNA template",
+        "Binding of the gp120 glycoprotein to the CCR5 coreceptor"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}

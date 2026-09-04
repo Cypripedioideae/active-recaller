@@ -1,0 +1,183 @@
+{
+  "id": "comprehensive-neuro-review-9",
+  "title": "Comprehensive Neuro Set 1: Spinal Reflexes (Short Answer)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Define a \"motor unit\" and a \"motoneuron pool\".",
+      "modelAnswer": "Motor unit: A single motoneuron and all the muscle fibers it innervates. Motoneuron pool: The set of all motoneurons innervating a single muscle.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Explain the \"size principle\" regarding the order of motoneuron recruitment.",
+      "modelAnswer": "Small motoneurons have lower thresholds and fire first; larger motoneurons are recruited as more force is required.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Which specific muscle fibers provide the force for contraction, and which type of motoneuron innervates them?",
+      "modelAnswer": "Extrafusal fibers; innervated by \u03b1-motoneurons.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Describe the structural arrangement of muscle spindles relative to extrafusal muscle fibers.",
+      "modelAnswer": "Muscle spindles are arranged in parallel with extrafusal fibers.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "What type of motoneuron innervates the contractile ends of intrafusal muscle fibers?",
+      "modelAnswer": "\u03b3-motoneurons.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Identify the two types of intrafusal fibers found within a muscle spindle.",
+      "modelAnswer": "Nuclear bag fibers and nuclear chain fibers.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Distinguish between nuclear bag and nuclear chain fibers in terms of the specific information they detect (dynamic vs static).",
+      "modelAnswer": "Nuclear bag fibers detect dynamic changes (velocity/rate of change); nuclear chain fibers detect static changes (length).",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Which sensory afferent fiber provides the primary (annulospiral) ending that detects the rate of change in muscle length?",
+      "modelAnswer": "Group Ia afferents.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Which sensory afferent fiber provides the secondary (flower-spray) ending that primarily detects static muscle length?",
+      "modelAnswer": "Group II afferents.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Explain the physiological purpose of \u03b1-\u03b3 coactivation during voluntary movement.",
+      "modelAnswer": "To prevent the muscle spindle from going slack during contraction, thereby maintaining its sensitivity to stretch.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "What is the specific stimulus that initiates the stretch (myotatic) reflex?",
+      "modelAnswer": "Muscle stretch (lengthening).",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Why is the stretch reflex categorized as a monosynaptic reflex?",
+      "modelAnswer": "Because the sensory afferent (Ia) synapses directly onto the \u03b1-motoneuron without an intervening interneuron.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Describe the \"reciprocal inhibition\" that occurs during a stretch reflex.",
+      "modelAnswer": "While the stretched (homonymous) muscle is stimulated to contract, its antagonistic muscles are inhibited (relaxed).",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "How does the Golgi tendon organ differ from the muscle spindle in its anatomical arrangement relative to extrafusal fibers?",
+      "modelAnswer": "Golgi tendon organs are arranged in series with extrafusal fibers.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Which group of sensory afferent fibers is activated by the Golgi tendon organ?",
+      "modelAnswer": "Group Ib afferents.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Describe the sequence of events in the Golgi tendon reflex (inverse myotatic reflex) following a strong muscle contraction.",
+      "modelAnswer": "Strong contraction stretches the tendon \u2192 Ib afferents activate inhibitory interneurons \u2192 \u03b1-motoneurons are inhibited \u2192 the muscle relaxes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "How many synapses are present in the reflex arc of the Golgi tendon reflex?",
+      "modelAnswer": "Two (disynaptic).",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "Define the \"clasp-knife reflex\" and identify the pathology it typically suggests.",
+      "modelAnswer": "A sudden decrease in resistance to passive stretch when tension activates the Golgi tendon reflex; suggests corticospinal tract disease (upper motor neuron lesion).",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "What is the typical stimulus for the flexor-withdrawal reflex?",
+      "modelAnswer": "Pain, temperature, or a noxious stimulus.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Explain the \"crossed-extension reflex\" that occurs simultaneously with the flexor-withdrawal reflex.",
+      "modelAnswer": "The ipsilateral limb flexes (withdraws) while the contralateral limb extends to maintain balance.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "Define \"recurrent inhibition\" and name the specific inhibitory interneuron involved in this process.",
+      "modelAnswer": "Motoneurons send collaterals to Renshaw cells, which then provide feedback inhibition to that same motoneuron.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "Which inhibitory neurotransmitter is released by Renshaw cells?",
+      "modelAnswer": "Glycine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "Contrast \"convergence\" and \"divergence\" as they apply to the spinal organization of motor systems.",
+      "modelAnswer": "Convergence: multiple inputs onto a single neuron. Divergence: a single neuron projecting to multiple targets.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "How do increases in \u03b3-motoneuron activity specifically change the sensitivity of the stretch reflex?",
+      "modelAnswer": "It increases sensitivity by causing the intrafusal fibers to contract/stiffen, making them more responsive to stretch.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Define \"skeletal muscle tone\" in the context of the stretch reflex.",
+      "modelAnswer": "The resistance to passive stretch produced by continuous, low-level reflex contraction of muscles.",
+      "explanation": "-"
+    }
+  ]
+}

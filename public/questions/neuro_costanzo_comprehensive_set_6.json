@@ -1,0 +1,218 @@
+{
+  "id": "comprehensive-neuro-review-6",
+  "title": "Comprehensive Neuro Set 1: Vision (Short Answer)",
+  "topic": "Comprehensive Neuro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the unit of measurement used to express the refractive power of a lens?",
+      "modelAnswer": "Diopters.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "In an eye with myopia (nearsightedness), where is the image focused relative to the retina?",
+      "modelAnswer": "In front of the retina.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Which type of lens is required to correct hyperopia (farsightedness)?",
+      "modelAnswer": "Convex lens.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Define \"presbyopia\" and identify its primary physiological cause.",
+      "modelAnswer": "Presbyopia is the loss of the eye's ability to accommodate for near vision due to a stiffening of the lens and loss of elasticity associated with aging.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "What is the underlying cause of astigmatism?",
+      "modelAnswer": "An irregular or uneven curvature of the cornea or lens.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Explain why the optic disc is referred to as the \"blind spot.\"",
+      "modelAnswer": "It is the site of the optic disc, where the optic nerve exits the eye and there are no photoreceptors.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Which layer of the retina is responsible for absorbing stray light to prevent reflection and for the phagocytosis of photoreceptor discs?",
+      "modelAnswer": "The pigment epithelium.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Which form of vitamin A is the light-sensitive component of rhodopsin?",
+      "modelAnswer": "11-cis retinal.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Contrast rods and cones in terms of their sensitivity to light and their role in night vs. day vision.",
+      "modelAnswer": "Rods have a lower threshold, are highly sensitive to low-intensity light, and mediate night vision. Cones have a higher threshold and mediate day/color vision.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Which area of the retina contains only cones and provides the highest visual acuity?",
+      "modelAnswer": "The fovea centralis (within the macula).",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Describe the \"dark current\" in photoreceptors in terms of ion flow and the second messenger involved.",
+      "modelAnswer": "The dark current is an inward Na^+ flow through channels held open by high levels of cGMP.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "What specific chemical transformation occurs to retinal immediately upon the absorption of a photon?",
+      "modelAnswer": "Photoisomerization of 11-cis retinal to all-trans retinal.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Name the G protein that is activated by metarhodopsin II during the visual cascade.",
+      "modelAnswer": "Transducin (G_t).",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "How does the intracellular concentration of cyclic GMP (cGMP) change when a photoreceptor is exposed to light?",
+      "modelAnswer": "It decreases (due to activation of phosphodiesterase).",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Does a photoreceptor depolarize or hyperpolarize in response to light?",
+      "modelAnswer": "It hyperpolarizes.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "What effect does light-induced hyperpolarization of a rod have on the release of the neurotransmitter glutamate?",
+      "modelAnswer": "It decreases the release of glutamate.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Which retinal cells are the only ones capable of producing true action potentials?",
+      "modelAnswer": "Retinal ganglion cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "What is the physiological function of horizontal cells in the retina?",
+      "modelAnswer": "They provide lateral inhibition, which sharpens visual contrast and helps define the boundaries of images.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "Distinguish between an \"on-center\" and an \"off-center\" ganglion cell receptive field.",
+      "modelAnswer": "On-center: Light in the center excites the cell; light in the surround inhibits it. Off-center: Light in the center inhibits the cell; light in the surround excites it.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Which cranial nerve carries visual information from the eye to the brain?",
+      "modelAnswer": "Optic nerve (Cranial Nerve II).",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "At which anatomical structure do the fibers from the nasal hemiretinas cross the midline?",
+      "modelAnswer": "The optic chiasm.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "Name the primary thalamic relay nucleus for the visual system.",
+      "modelAnswer": "The lateral geniculate nucleus (LGN).",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "What visual field deficit results from a complete lesion of the optic chiasm?",
+      "modelAnswer": "Bitemporal heteronymous hemianopia (loss of both temporal visual fields).",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "A lesion of the right optic tract will result in what specific type of vision loss?",
+      "modelAnswer": "Left homonymous hemianopia (loss of the left visual field in both eyes).",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Define \"homonymous contralateral hemianopia with macular sparing\" and identify the likely site of the lesion.",
+      "modelAnswer": "It is the loss of the same half of the visual field in both eyes but with central vision intact; it is caused by a lesion of the geniculocalcarine tract (optic radiations) or visual cortex.",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "short_answer",
+      "prompt": "Where in the brain is the primary visual cortex (Brodmann's area 17) located?",
+      "modelAnswer": "The occipital lobe (banks of the calcarine fissure).",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "short_answer",
+      "prompt": "Which type of visual cortex cell responds best to a stationary bar of light with a specific orientation?",
+      "modelAnswer": "Simple cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "short_answer",
+      "prompt": "How do \"complex cells\" in the visual cortex differ from \"simple cells\" in their stimulus requirements?",
+      "modelAnswer": "Complex cells respond best to moving bars or edges of light with a specific orientation, whereas simple cells prefer stationary ones.",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "short_answer",
+      "prompt": "What is the mechanism of action of the drug pilocarpine in the treatment of glaucoma?",
+      "modelAnswer": "It is a cholinergic muscarinic agonist that causes miosis (pupillary constriction), which helps open the canals of Schlemm and improve drainage.",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "short_answer",
+      "prompt": "What is the primary cause of the increased intraocular pressure seen in open-angle glaucoma?",
+      "modelAnswer": "Increased hydraulic resistance to the outflow of aqueous humor through the trabecular meshwork.",
+      "explanation": "-"
+    }
+  ]
+}

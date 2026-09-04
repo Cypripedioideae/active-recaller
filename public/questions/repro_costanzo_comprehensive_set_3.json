@@ -1,0 +1,134 @@
+{
+  "id": "comprehensive-repro-review-3",
+  "title": "Reproductive Comprehensive Set 1: Male Physiology - Spermatogenesis (Short Answer)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What are the two primary functional components of the adult testis, and what proportion of the organ does each occupy?",
+      "modelAnswer": "The seminiferous tubules (80%) and the connective tissue containing Leydig cells (20%).",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "At what specific temperature must the testes be maintained for normal spermatogenesis to occur, and how is this achieved?",
+      "modelAnswer": "Approximately 32\u00b0C to 36\u00b0C (1\u00b0C-2\u00b0C below body temperature), maintained by a countercurrent heat exchange between testicular arteries and veins.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Identify the three distinct cell types found within the epithelium of the seminiferous tubules.",
+      "modelAnswer": "Spermatogonia, spermatocytes, and Sertoli cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Describe the physical structure and functional purpose of the blood-testis barrier.",
+      "modelAnswer": "It is formed by tight junctions between Sertoli cells to provide an immunologically privileged environment for sperm maturation.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "Which specific protein is secreted by Sertoli cells to ensure that local testosterone levels remain high enough to support sperm development?",
+      "modelAnswer": "Androgen-binding protein (ABP).",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Trace the developmental sequence of germ cells from the primitive stem cell to the mature haploid form.",
+      "modelAnswer": "Spermatogonia \u2192 primary spermatocytes \u2192 secondary spermatocytes \u2192 spermatids \u2192 spermatozoa.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Distinguish between the processes of spermatogenesis and spermiogenesis.",
+      "modelAnswer": "Spermatogenesis is the entire process of forming sperm from spermatogonia; spermiogenesis is specifically the final transformation of spermatids into mature, flagellated spermatozoa.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "What are the two major products of the meiotic divisions during the formation of spermatozoa?",
+      "modelAnswer": "Secondary spermatocytes (from Meiosis I) and haploid spermatids (from Meiosis II).",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Approximately how many days does one full cycle of spermatogenesis require in humans?",
+      "modelAnswer": "Approximately 64 days.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Where are Leydig cells located, and what is their primary endocrine function?",
+      "modelAnswer": "They are located in the connective tissue between seminiferous tubules and function to synthesise and secrete testosterone.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Into which structure do sperm move after leaving the seminiferous tubules for maturation and storage?",
+      "modelAnswer": "The epididymis.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "How long can sperm remain viable while stored in the epididymis?",
+      "modelAnswer": "Several months.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Identify the three main structural segments of a mature spermatozoon and the primary organelle found in the middle piece.",
+      "modelAnswer": "The head, middle piece, and principal piece (tail); the middle piece contains mitochondria.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "What is the function of the acrosome, and where is it located on the sperm cell?",
+      "modelAnswer": "It is a cap-like structure on the head containing hydrolytic and proteolytic enzymes needed to penetrate the ovum.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Define \"capacitation\" and state where and over what timeframe it typically occurs.",
+      "modelAnswer": "A 4- to 6-hour process in the female reproductive tract that removes inhibitory factors and increases sperm motility.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "Describe the acrosomal reaction and its necessity for successful fertilisation.",
+      "modelAnswer": "The fusion of the acrosomal and sperm membranes, creating pores for enzyme release to allow the sperm to penetrate the protective coverings of the ovum.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "What role does the Sertoli cell play in the physical movement of sperm toward the epididymis?",
+      "modelAnswer": "It secretes an aqueous fluid that creates a flow to transport sperm through the tubules.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "What is the typical daily production rate of mature spermatozoa in a healthy adult male?",
+      "modelAnswer": "Approximately 128 million sperm (though estimates range from 100 to 200 million).",
+      "explanation": "-"
+    }
+  ]
+}

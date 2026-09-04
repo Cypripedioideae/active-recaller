@@ -1,0 +1,218 @@
+{
+  "id": "autonomic-pharmacology-2",
+  "title": "Cholinoreceptors Blocking Drugs",
+  "topic": "Autonomic Pharmacology",
+  "category": "Pharmacology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "Atropine is historically described as a competitive antagonist but recent evidence suggests it acts as an inverse agonist at muscarinic receptors. What is the biochemical distinction between these two mechanisms in a system with high constitutive activity?",
+      "modelAnswer": "A neutral competitive antagonist only prevents agonist binding without changing basal receptor activity while an inverse agonist shifts the equilibrium toward the inactive state actively reducing constitutive signaling.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Predict the effect of an M2 selective antagonist on the intracellular levels of cAMP in the sinoatrial node.",
+      "modelAnswer": "cAMP levels will increase. M2 receptors normally couple to Gi proteins that inhibit adenylyl cyclase so blocking them removes this inhibition.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Tissues show varying sensitivities to atropine. Why are salivary and sweat glands inhibited by lower doses of atropine than gastric parietal cells despite atropine being non selective for M1 M2 and M3 subtypes?",
+      "modelAnswer": "Sensitivity depends on parasympathetic tone spare receptor capacity and alternative regulatory pathways such as gastrin releasing peptide in the stomach that are not blocked by atropine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Contrast the pharmacological distribution and side effect profile of atropine a tertiary amine with glycopyrrolate a quaternary ammonium compound.",
+      "modelAnswer": "Atropine is lipid soluble and crosses the blood brain barrier causing central effects such as hallucinations or sedation. Glycopyrrolate is permanently charged and excluded from the CNS making it more suitable for peripheral effects with minimal neurological toxicity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "If a patient is given a ganglion blocking drug like mecamylamine predict the effect on the gastrointestinal tract and explain why.",
+      "modelAnswer": "Profound inhibition of motility and secretion leading to constipation. The parasympathetic system provides dominant tone in the gastrointestinal tract so blocking ganglia removes this excitatory input.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Why does an intravenous bolus of norepinephrine cause tachycardia rather than the expected reflex bradycardia in a patient pre treated with trimethaphan?",
+      "modelAnswer": "Trimethaphan blocks autonomic ganglia abolishing the baroreceptor reflex. Without parasympathetic compensation only the direct beta 1 agonist effect of norepinephrine on the heart is seen.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Many synthetic antimuscarinics used for overactive bladder such as darifenacin are M3 selective. If these receptors were constitutively active how would an inverse agonist behave differently from a standard antagonist in the absence of acetylcholine?",
+      "modelAnswer": "The inverse agonist would decrease detrusor muscle tone even in the absence of acetylcholine whereas a neutral antagonist would have no effect without an agonist.",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Why is the paralysis caused by succinylcholine Phase I block worsened rather than reversed by a cholinesterase inhibitor like neostigmine?",
+      "modelAnswer": "Succinylcholine is a depolarizing agonist and neostigmine increases acetylcholine which further depolarizes the endplate preventing repolarization and worsening the blockade.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "Describe the physiological transition from a Phase I to a Phase II block during prolonged succinylcholine exposure.",
+      "modelAnswer": "Initial persistent depolarization transitions to a repolarized but desensitized state where the membrane is refractory to acetylcholine and resembles a nondepolarizing block.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "Atropine is used to treat bradycardia. At a molecular level how does its blockade of M2 receptors affect the heart's response to concurrent sympathetic beta 1 stimulation?",
+      "modelAnswer": "It removes accentuated antagonism. Blocking M2 prevents inhibition of adenylyl cyclase allowing sympathetic stimulation to maximally increase cAMP and contractility.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Scopolamine is preferred over atropine for motion sickness. Analyze the pharmacological basis for this preference.",
+      "modelAnswer": "Scopolamine has stronger central nervous system effects and longer duration. It blocks muscarinic transmission from vestibular nuclei to higher centers which is key in motion sickness.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Explain why rocuronium can produce skeletal muscle paralysis without causing significant drops in blood pressure seen with high dose tubocurarine.",
+      "modelAnswer": "Rocuronium is selective for Nm receptors and lacks ganglionic blocking and histamine releasing effects seen with tubocurarine.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Contrast the terminal half life and receptor dissociation of tiotropium and ipratropium in the treatment of COPD.",
+      "modelAnswer": "Ipratropium is short acting and dissociates rapidly from receptors. Tiotropium dissociates slowly from M3 receptors and has a long half life allowing once daily dosing.",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Analyze the mechanism by which atropine causes a dangerous rise in intraocular pressure in patients with narrow angle glaucoma.",
+      "modelAnswer": "Atropine causes mydriasis which pushes the iris toward the anterior chamber angle obstructing aqueous humor outflow and increasing intraocular pressure.",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "Why do aminoglycoside antibiotics potentiate the effect of nondepolarizing neuromuscular blockers?",
+      "modelAnswer": "Aminoglycosides inhibit prejunctional acetylcholine release by interfering with calcium and reduce postjunctional sensitivity thereby enhancing neuromuscular blockade.",
+      "explanation": "-"
+    },
+    {
+      "id": "q16",
+      "type": "short_answer",
+      "prompt": "A patient presents with tachycardia dry skin and dilated pupils. To differentiate between sympathomimetic toxicity such as cocaine and anticholinergic toxicity why is skin moisture the most reliable clinical sign?",
+      "modelAnswer": "Sympathomimetics cause diaphoresis sweating while anticholinergics cause anhidrosis dry skin by blocking sympathetic cholinergic innervation of eccrine sweat glands.",
+      "explanation": "-"
+    },
+    {
+      "id": "q17",
+      "type": "short_answer",
+      "prompt": "Why is tropicamide generally preferred over atropine for a routine funduscopic examination in an outpatient setting?",
+      "modelAnswer": "Duration of action. Tropicamide produces mydriasis and cycloplegia for about 6 hours whereas atropine lasts 7 to 10 days making it impractical for routine use.",
+      "explanation": "-"
+    },
+    {
+      "id": "q18",
+      "type": "short_answer",
+      "prompt": "A patient with COPD is started on tiotropium. Why might this patient be at a higher risk for urinary retention if they also have an enlarged prostate?",
+      "modelAnswer": "Systemic absorption can block M3 receptors on the detrusor muscle inhibiting contraction and worsening urinary retention in a patient with existing outflow obstruction.",
+      "explanation": "-"
+    },
+    {
+      "id": "q19",
+      "type": "short_answer",
+      "prompt": "After surgery a patient is given neostigmine to reverse neuromuscular blockade. Why is atropine or glycopyrrolate always co administered?",
+      "modelAnswer": "To prevent muscarinic side effects such as bradycardia excessive secretions and bronchospasm caused by increased acetylcholine at parasympathetic sites.",
+      "explanation": "-"
+    },
+    {
+      "id": "q20",
+      "type": "short_answer",
+      "prompt": "Why does low dose atropine occasionally cause a paradoxical decrease in heart rate before the expected tachycardia?",
+      "modelAnswer": "Low doses block presynaptic M2 autoreceptors which normally inhibit acetylcholine release leading to a transient increase in acetylcholine and slowing of the SA node.",
+      "explanation": "-"
+    },
+    {
+      "id": "q21",
+      "type": "short_answer",
+      "prompt": "Why are antimuscarinic drugs contraindicated in patients with gastric ulcers?",
+      "modelAnswer": "They slow gastric emptying increasing the duration of acid contact with the ulcer which can worsen mucosal injury.",
+      "explanation": "-"
+    },
+    {
+      "id": "q22",
+      "type": "short_answer",
+      "prompt": "A toddler ingests jimson weed seeds. In addition to the red as a beet symptoms why is the development of a high fever atropine fever particularly dangerous in this age group?",
+      "modelAnswer": "Children rely heavily on sweating for thermoregulation. Blocking sweat glands can lead to severe hyperthermia which may become life threatening.",
+      "explanation": "-"
+    },
+    {
+      "id": "q23",
+      "type": "short_answer",
+      "prompt": "In a patient with an inferior wall myocardial infarction and sinus bradycardia what is the clinical rationale for using atropine?",
+      "modelAnswer": "To increase heart rate and improve AV nodal conduction by blocking excessive vagal tone which is common in inferior myocardial infarction.",
+      "explanation": "-"
+    },
+    {
+      "id": "q24",
+      "type": "short_answer",
+      "prompt": "An 80 year old patient with Alzheimer's is prescribed a tricyclic antidepressant for depression. Why might this dramatically worsen their cognitive symptoms?",
+      "modelAnswer": "Tricyclic antidepressants have strong antimuscarinic effects which impair central M1 receptor mediated cognition worsening baseline deficits in Alzheimer's disease.",
+      "explanation": "-"
+    },
+    {
+      "id": "q25",
+      "type": "short_answer",
+      "prompt": "Analyze the use of benztropine in a patient with Parkinson's who is experiencing severe tremors.",
+      "modelAnswer": "Parkinson's disease involves relative cholinergic excess due to dopamine deficiency. Benztropine reduces tremor and rigidity by blocking muscarinic receptors in the basal ganglia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q26",
+      "type": "short_answer",
+      "prompt": "In the combination drug Lomotil diphenoxylate plus atropine what is the role of the atropine component if diphenoxylate is the primary antidiarrheal?",
+      "modelAnswer": "It is included to deter abuse. High doses of diphenoxylate will produce unpleasant anticholinergic side effects from atropine discouraging misuse.",
+      "explanation": "-"
+    },
+    {
+      "id": "q27",
+      "type": "short_answer",
+      "prompt": "Why is succinylcholine contraindicated in a patient with massive burn injuries or spinal cord trauma?",
+      "modelAnswer": "These conditions upregulate extrajunctional nicotinic receptors. Succinylcholine causes widespread depolarization leading to massive potassium release and risk of fatal hyperkalemia.",
+      "explanation": "-"
+    },
+    {
+      "id": "q28",
+      "type": "short_answer",
+      "prompt": "Why is the scopolamine transdermal patch applied behind the ear postauricular?",
+      "modelAnswer": "The postauricular skin has higher permeability allowing sustained and efficient absorption providing steady drug levels over 72 hours.",
+      "explanation": "-"
+    },
+    {
+      "id": "q29",
+      "type": "short_answer",
+      "prompt": "A patient undergoing surgery with succinylcholine suddenly develops muscle rigidity and a core temperature of 42 degrees Celsius. Identify the condition and the mechanism based antidote.",
+      "modelAnswer": "Malignant hyperthermia. The antidote is dantrolene which blocks ryanodine receptors in the sarcoplasmic reticulum preventing excessive calcium release.",
+      "explanation": "-"
+    },
+    {
+      "id": "q30",
+      "type": "short_answer",
+      "prompt": "Contrast the mechanism of sugammadex with neostigmine for reversing rocuronium induced paralysis.",
+      "modelAnswer": "Neostigmine inhibits acetylcholinesterase increasing acetylcholine to compete with the blocker. Sugammadex directly encapsulates rocuronium removing it from the synapse without affecting acetylcholine levels.",
+      "explanation": "-"
+    }
+  ]
+}

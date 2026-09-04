@@ -1,0 +1,113 @@
+{
+  "id": "comprehensive-repro-review-4",
+  "title": "Reproductive Comprehensive Set 1: Male Physiology - Hormonal Control (Short Answer)",
+  "topic": "Comprehensive Repro Review",
+  "category": "Physiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short_answer",
+      "prompt": "What is the chemical nature of the hypothalamic hormone that regulates the male reproductive axis, and in what specific pattern must it be secreted to be effective?",
+      "modelAnswer": "GnRH is a decapeptide that must be secreted in a pulsatile pattern; continuous secretion leads to down-regulation of receptors and inhibition of gonadotropin release.",
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "prompt": "Identify the specific nuclei in the hypothalamus where Gonadotropin-Releasing Hormone (GnRH) is synthesized and the blood system that delivers it to the anterior pituitary.",
+      "modelAnswer": "GnRH is synthesized in the arcuate nuclei and delivered via the hypothalamic-hypophysial portal blood vessels.",
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "prompt": "Describe the structural relationship between Follicle-Stimulating Hormone (FSH) and Luteinizing Hormone (LH) regarding their subunits.",
+      "modelAnswer": "FSH and LH are glycoproteins consisting of an identical alpha subunit and a unique beta subunit that confers biological specificity.",
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "prompt": "Which testicular cells possess LH receptors, and what is the primary intracellular second messenger system activated by LH binding?",
+      "modelAnswer": "LH receptors are located on Leydig cells; the second messenger system is the adenylyl cyclase/cAMP pathway.",
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "prompt": "What is the rate-limiting enzyme in the synthesis of testosterone, and which pituitary hormone regulates its activity?",
+      "modelAnswer": "The rate-limiting enzyme is cholesterol desmolase, which is stimulated by LH.",
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "prompt": "Explain the \"paracrine\" role of testosterone within the testis itself.",
+      "modelAnswer": "Testosterone diffuses from Leydig cells to Sertoli cells to locally support and reinforce the spermatogenic effects of FSH.",
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "short_answer",
+      "prompt": "Identify the protein secreted by Sertoli cells that helps maintain high local concentrations of testosterone near the developing germ cells.",
+      "modelAnswer": "Androgen-binding protein (ABP).",
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "short_answer",
+      "prompt": "Which hormone provides the specific negative feedback signal to the anterior pituitary to inhibit the secretion of FSH, and which cell type produces it?",
+      "modelAnswer": "Inhibin, which is produced by the Sertoli cells.",
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "short_answer",
+      "prompt": "How does testosterone exert negative feedback on both the hypothalamus and the anterior pituitary?",
+      "modelAnswer": "It inhibits the hypothalamus by decreasing the frequency and amplitude of GnRH pulses and directly inhibits the anterior pituitary's secretion of LH.",
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "short_answer",
+      "prompt": "What is the functional significance of the alkaline pH of prostatic secretions?",
+      "modelAnswer": "The alkalinity helps neutralize the acidic environments of the vas deferens and the vagina, thereby increasing sperm motility and viability.",
+      "explanation": "-"
+    },
+    {
+      "id": "q11",
+      "type": "short_answer",
+      "prompt": "Name the four primary components of the fluid secreted by the seminal vesicles and identify which one serves as the primary energy source for sperm.",
+      "modelAnswer": "Fructose, citrate, prostaglandins, and fibrinogen; fructose is the primary energy source.",
+      "explanation": "-"
+    },
+    {
+      "id": "q12",
+      "type": "short_answer",
+      "prompt": "Distinguish between the autonomic nervous system branches responsible for penile erection versus ejaculation.",
+      "modelAnswer": "Penile erection is a parasympathetic reflex, whereas ejaculation is a sympathetic reflex.",
+      "explanation": "-"
+    },
+    {
+      "id": "q13",
+      "type": "short_answer",
+      "prompt": "Name the primary neurotransmitter of erection and the intracellular second messenger it generates to produce vasodilation.",
+      "modelAnswer": "The neurotransmitter is Nitric Oxide (NO); the second messenger is cyclic guanosine monophosphate (cGMP).",
+      "explanation": "-"
+    },
+    {
+      "id": "q14",
+      "type": "short_answer",
+      "prompt": "Which specific enzyme is required in target tissues like the prostate to convert testosterone into its more potent form, and what is the name of that form?",
+      "modelAnswer": "The enzyme is 5\u03b1-reductase; the product is dihydrotestosterone (DHT).",
+      "explanation": "-"
+    },
+    {
+      "id": "q15",
+      "type": "short_answer",
+      "prompt": "What proportion of the total semen volume is typically contributed by the accessory glands compared to the spermatozoa themselves?",
+      "modelAnswer": "Accessory gland secretions compose approximately 90% of the volume, while sperm compose only 10%.",
+      "explanation": "-"
+    }
+  ]
+}

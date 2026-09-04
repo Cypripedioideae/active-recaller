@@ -1,0 +1,148 @@
+{
+  "id": "general-mycology-12",
+  "title": "General Mycology 12",
+  "topic": "General Mycology",
+  "category": "Microbiology",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A laboratory technician identifies a monomorphic fungus that grows only as a mold with hyaline, septate hyphae branching at acute 45-degree angles. In which of the following clinical situations is this organism most likely to form a \"fungus ball\" or aspergilloma?",
+      "options": [
+        "Within a pre-existing pulmonary cavity from a prior tuberculosis infection",
+        "Within the deep dermis of a patient with a traumatic wood splinter injury",
+        "Within the nasal passages of a patient in diabetic ketoacidosis",
+        "Within the bloodstream of a neonate receiving lipid hyperalimentation",
+        "Within the meninges of an HIV-positive patient with low CD4+ counts"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Fungal cell walls are composed of specific polysaccharides that provide rigid support and are absent in human cells. Which of the following biochemical components of the fungal cell wall is identified in the sources as being stronger than carbon or iron fibers?",
+      "options": [
+        "1,3-\u03b2-D-glucan",
+        "1,4-\u03b1-demethylase",
+        "Chitin",
+        "Ergosterol",
+        "Mannoprotein"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A medical student is learning to identify systemic dimorphic fungi. Which of the following phrases describes the characteristic thermal dimorphism of these pathogens as they transition between the environment and the human host?",
+      "options": [
+        "Mold in the cold (20\u00b0C) and yeast in the heat (37\u00b0C)",
+        "Spherules in the cold and arthroconidia in the heat",
+        "Yeast in the environment and hyphae in the tissue",
+        "Non-septate in nature and septate in the body",
+        "Monomorphic yeast at all temperatures"
+      ],
+      "answer": 0,
+      "explanation": "-"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A newborn in the neonatal intensive care unit receiving intravenous lipid hyperalimentation develops a fever. Blood cultures are positive for a yeast-like fungus that requires lipids for growth. Which of the following organisms is most likely responsible for this catheter-related sepsis?",
+      "options": [
+        "Candida albicans",
+        "Candida parapsilosis",
+        "Cryptococcus neoformans",
+        "Malassezia furfur",
+        "Trichosporon species"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "An HIV-positive patient with a CD4+ T-cell count of 50 cells/mm\u00b3 presents with chronic fever and malaise. A bone marrow biopsy reveals small intracellular budding yeasts. When the isolate is cultured at room temperature (25\u00b0C), it produces hyaline septate hyphae with tuberculate macroconidia. What is the most likely diagnosis?",
+      "options": [
+        "Coccidioidomycosis",
+        "Disseminated blastomycosis",
+        "Disseminated candidiasis",
+        "Disseminated histoplasmosis",
+        "Penicillosis marneffei"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Echinocandin drugs, such as caspofungin and micafungin, are used to treat invasive fungal infections. Why are these medications considered to have a high safety profile with low toxicity to human cells?",
+      "options": [
+        "Human cells lack the enzyme 14-\u03b1-demethylase",
+        "Human cells possess cholesterol rather than ergosterol",
+        "Human cells do not possess 1,3-\u03b2-glucans or a cell wall",
+        "These agents are not absorbed systemically by the human host",
+        "Fungal 30S ribosomes are structurally different from human ribosomes"
+      ],
+      "answer": 2,
+      "explanation": "-"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "A patient with a history of \"athlete's foot\" presents with thickened, discolored, and deformed toenails. Microscopic examination of the nail samples demonstrates hyaline septate hyphae and arthroconidia. Which of the following is the most appropriate clinical term for this fungal nail infection?",
+      "options": [
+        "Tinea corporis",
+        "Tinea cruris",
+        "Tinea manum",
+        "Tinea pedis",
+        "Tinea unguium"
+      ],
+      "answer": 4,
+      "explanation": "-"
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A patient returning from the southwestern United States presents with respiratory symptoms. Histopathological examination of the lung tissue reveals specialized \"bags of spores\" or sac-like structures filled with endospores. Which of the following terms describes this characteristic tissue form?",
+      "options": [
+        "Arthroconidia",
+        "Blastoconidia",
+        "Hyphae",
+        "Spherule",
+        "Teleomorph"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A researcher identifies a fungal species that disseminates to the central nervous system, producing characteristic \"soap bubble\" lesions in the brain parenchyma. Which fungal virulence factor is most directly responsible for avoiding phagocytosis in the bloodstream?",
+      "options": [
+        "Aflatoxin production",
+        "Keratinase secretion",
+        "Melanin pigment",
+        "Polysaccharide capsule",
+        "Urease activity"
+      ],
+      "answer": 3,
+      "explanation": "-"
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "A clinician performs a lumbar puncture on a patient with suspected fungal meningitis. Which of the following rapid laboratory methods uses a contrasting dye to specifically detect a clear halo surrounding the yeast cells in the cerebrospinal fluid?",
+      "options": [
+        "Gram stain",
+        "India ink preparation",
+        "Modified acid-fast stain",
+        "Periodic acid-Schiff stain",
+        "Wright stain"
+      ],
+      "answer": 1,
+      "explanation": "-"
+    }
+  ]
+}
