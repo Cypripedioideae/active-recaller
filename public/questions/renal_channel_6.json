@@ -36,7 +36,7 @@
       "id": "q5",
       "type": "long_answer",
       "prompt": "Contrast the effect of acute respiratory acidosis versus chronic metabolic acidosis on the kidney's capacity to excrete acid as ammonium (NH4+).",
-      "modelAnswer": "While acute respiratory acidosis increases H+ secretion by increasing the mass action supply of intracellular CO 2  , chronic metabolic acidosis produces a far more profound increase in ammonium excretion . This is because metabolic acidosis triggers an adaptive induction of ammoniagenic enzymes like glutaminase and PEPCK, allowing the proximal tubule to significantly scale up NH 3  synthesis from glutamine.",
+      "modelAnswer": "While acute respiratory acidosis increases H^+ secretion by increasing the mass action supply of intracellular CO 2  , chronic metabolic acidosis produces a far more profound increase in ammonium excretion . This is because metabolic acidosis triggers an adaptive induction of ammoniagenic enzymes like glutaminase and PEPCK, allowing the proximal tubule to significantly scale up NH 3  synthesis from glutamine.",
       "explanation": "-"
     },
     {
@@ -50,7 +50,7 @@
       "id": "q7",
       "type": "long_answer",
       "prompt": "Analyze why a patient with Type 2 (proximal) RTA eventually reaches a steady state with an acidic urine pH despite the initial defect in bicarbonate reabsorption.",
-      "modelAnswer": "In Type 2 RTA, the proximal tubule fails to reabsorb HCO3-, causing a massive initial loss in urine . However, as plasma [HCO 3 -  ] falls to a level where the filtered load finally matches the tubule's limited reabsorptive capacity (the \"new\" threshold), HCO3- delivery to the distal nephron ceases, allowing distal H-ATPase secretion to finally lower the urine pH below 5.3.",
+      "modelAnswer": "In Type 2 RTA, the proximal tubule fails to reabsorb HCO_3^-, causing a massive initial loss in urine . However, as plasma [HCO 3 -  ] falls to a level where the filtered load finally matches the tubule's limited reabsorptive capacity (the \"new\" threshold), HCO_3^- delivery to the distal nephron ceases, allowing distal H-ATPase secretion to finally lower the urine pH below 5.3.",
       "explanation": "-"
     },
     {

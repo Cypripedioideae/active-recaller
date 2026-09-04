@@ -49,7 +49,7 @@
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "During the downstroke of a neuronal action potential, the rapid repolarization is mediated by the open state of voltage-gated K+ channels and the active, ATP-driven extrusion of Na+ by the Na+-K+ ATPase.",
+      "prompt": "During the downstroke of a neuronal action potential, the rapid repolarization is mediated by the open state of voltage-gated K^+ channels and the active, ATP-driven extrusion of Na^+ by the Na^+-K^+ ATPase.",
       "answer": "false",
       "explanation": "-"
     },
@@ -63,7 +63,7 @@
     {
       "id": "q9",
       "type": "true_false",
-      "prompt": "In the cerebrospinal fluid (CSF), the concentration of K+ is significantly higher than in blood plasma, which helps maintain a highly hyperpolarized resting membrane potential in central nervous system neurons.",
+      "prompt": "In the cerebrospinal fluid (CSF), the concentration of K^+ is significantly higher than in blood plasma, which helps maintain a highly hyperpolarized resting membrane potential in central nervous system neurons.",
       "answer": "false",
       "explanation": "-"
     },
@@ -210,7 +210,7 @@
     {
       "id": "q30",
       "type": "true_false",
-      "prompt": "In response to chronic respiratory alkalosis, the kidneys compensate by downregulating apical Na+-H+ exchangers and basolateral Na+-HCO3- cotransporters in the proximal tubule, which increases the urinary excretion of bicarbonate and decreases plasma bicarbonate.",
+      "prompt": "In response to chronic respiratory alkalosis, the kidneys compensate by downregulating apical Na^+-H^+ exchangers and basolateral Na^+-HCO_3^- cotransporters in the proximal tubule, which increases the urinary excretion of bicarbonate and decreases plasma bicarbonate.",
       "answer": "true",
       "explanation": "-"
     },
@@ -343,7 +343,7 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "A patient with a history of COPD presents with severe vomiting. Their arterial blood gas shows pH = 7.40, PaCO2 = 60 mmHg, and HCO3- = 36 mEq/L, which represents a mixed respiratory acidosis and metabolic alkalosis rather than a normal acid-base state.",
+      "prompt": "A patient with a history of COPD presents with severe vomiting. Their arterial blood gas shows pH = 7.40, PaCO2 = 60 mmHg, and HCO_3^- = 36 mEq/L, which represents a mixed respiratory acidosis and metabolic alkalosis rather than a normal acid-base state.",
       "answer": "true",
       "explanation": "-"
     },
@@ -357,14 +357,14 @@
     {
       "id": "q51",
       "type": "true_false",
-      "prompt": "During primary active transport by the Na+-K+ ATPase, the binding of three intracellular Na+ ions triggers the autophosphorylation of the pump, which induces a conformational change that decreases its affinity for Na+.",
+      "prompt": "During primary active transport by the Na^+-K^+ ATPase, the binding of three intracellular Na^+ ions triggers the autophosphorylation of the pump, which induces a conformational change that decreases its affinity for Na^+.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q52",
       "type": "true_false",
-      "prompt": "Under physiological conditions, the chemical driving force on chloride (Cl-) always acts in the same direction as its electrical driving force, driving Cl- out of the cell.",
+      "prompt": "Under physiological conditions, the chemical driving force on chloride (Cl^-) always acts in the same direction as its electrical driving force, driving Cl^- out of the cell.",
       "answer": "false",
       "explanation": "-"
     },
@@ -399,7 +399,7 @@
     {
       "id": "q57",
       "type": "true_false",
-      "prompt": "During auditory transduction, the bending of stereocilia toward the tallest kinocilium opens mechanically gated channels, allowing potassium (K+) to flow into the hair cell from the endolymph because the endolymph has an exceptionally high K+ concentration and a highly positive electrical potential.",
+      "prompt": "During auditory transduction, the bending of stereocilia toward the tallest kinocilium opens mechanically gated channels, allowing potassium (K^+) to flow into the hair cell from the endolymph because the endolymph has an exceptionally high K^+ concentration and a highly positive electrical potential.",
       "answer": "true",
       "explanation": "-"
     },
@@ -434,7 +434,7 @@
     {
       "id": "q62",
       "type": "true_false",
-      "prompt": "The absolute refractory period of a neuron is primarily due to the inactivation gates (h-gates) of voltage-gated Na+ channels remaining closed, which prevents the channel from opening in response to any depolarizing stimulus.",
+      "prompt": "The absolute refractory period of a neuron is primarily due to the inactivation gates (h-gates) of voltage-gated Na^+ channels remaining closed, which prevents the channel from opening in response to any depolarizing stimulus.",
       "answer": "true",
       "explanation": "-"
     },
@@ -539,7 +539,7 @@
     {
       "id": "q77",
       "type": "true_false",
-      "prompt": "Administering a loop diuretic like furosemide inhibits the NKCC2 cotransporter in the thick ascending limb, which blocks the reabsorption of Na+, K+, and Cl- and directly impairs the kidney's ability to dilute urine, while leaving the concentration ability intact.",
+      "prompt": "Administering a loop diuretic like furosemide inhibits the NKCC2 cotransporter in the thick ascending limb, which blocks the reabsorption of Na^+, K^+, and Cl^- and directly impairs the kidney's ability to dilute urine, while leaving the concentration ability intact.",
       "answer": "false",
       "explanation": "-"
     },
@@ -567,7 +567,7 @@
     {
       "id": "q81",
       "type": "true_false",
-      "prompt": "In the stomach, parietal cells secrete hydrogen ions (H+) into the gastric lumen in exchange for potassium (K+) via the apical H+-K+ ATPase, while bicarbonate (HCO3-) is transported across the basolateral membrane into the blood, causing an \"alkaline tide.\"",
+      "prompt": "In the stomach, parietal cells secrete hydrogen ions (H^+) into the gastric lumen in exchange for potassium (K^+) via the apical H^+-K^+ ATPase, while bicarbonate (HCO_3^-) is transported across the basolateral membrane into the blood, causing an \"alkaline tide.\"",
       "answer": "true",
       "explanation": "-"
     },
@@ -616,7 +616,7 @@
     {
       "id": "q88",
       "type": "true_false",
-      "prompt": "Saliva is always hypotonic to plasma because the salivary duct cells reabsorb Na+ and Cl- in excess of water, and the ductal epithelium is highly impermeable to water.",
+      "prompt": "Saliva is always hypotonic to plasma because the salivary duct cells reabsorb Na^+ and Cl^- in excess of water, and the ductal epithelium is highly impermeable to water.",
       "answer": "true",
       "explanation": "-"
     },
@@ -644,7 +644,7 @@
     {
       "id": "q92",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) decreases blood phosphate levels by inhibiting the Na+-phosphate cotransporters (NaPi-IIa) in the apical membrane of the renal proximal tubule, thereby reducing phosphate reabsorption.",
+      "prompt": "Parathyroid hormone (PTH) decreases blood phosphate levels by inhibiting the Na^+-phosphate cotransporters (NaPi-IIa) in the apical membrane of the renal proximal tubule, thereby reducing phosphate reabsorption.",
       "answer": "true",
       "explanation": "-"
     },

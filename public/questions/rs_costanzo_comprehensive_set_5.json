@@ -8,7 +8,7 @@
       "id": "q1",
       "type": "short_answer",
       "prompt": "Identify the three primary forms in which CO2  is transported in the blood and their relative percentages.",
-      "modelAnswer": "Dissolved CO2(approx. 5%), Carbaminohaemoglobin (approx. 3%), and Bicarbonate (HCO3-) (approx. 90%).",
+      "modelAnswer": "Dissolved CO2(approx. 5%), Carbaminohaemoglobin (approx. 3%), and Bicarbonate (HCO_3^-) (approx. 90%).",
       "explanation": "-"
     },
     {
@@ -22,7 +22,7 @@
       "id": "q3",
       "type": "short_answer",
       "prompt": "Describe the \"chloride shift\" (Hamburger effect) and explain why it occurs during CO2  uptake in systemic tissues.",
-      "modelAnswer": "It is the movement of Cl^-into the red blood cell in exchange for HCO3-leaving the cell; it maintains electroneutrality as HCO3-levels rise in the cell during CO2uptake.",
+      "modelAnswer": "It is the movement of Cl^-into the red blood cell in exchange for HCO_3^-leaving the cell; it maintains electroneutrality as HCO_3^-levels rise in the cell during CO2uptake.",
       "explanation": "-"
     },
     {
@@ -71,14 +71,14 @@
       "id": "q10",
       "type": "short_answer",
       "prompt": "Define metabolic acidosis and state its primary respiratory compensatory mechanism.",
-      "modelAnswer": "A primary decrease in blood HCO3-concentration; the compensatory response is hyperventilation (decreased P_(CO2)).",
+      "modelAnswer": "A primary decrease in blood HCO_3^-concentration; the compensatory response is hyperventilation (decreased P_(CO2)).",
       "explanation": "-"
     },
     {
       "id": "q11",
       "type": "short_answer",
       "prompt": "What is the formula for calculating the serum anion gap, and what are its standard normal values?",
-      "modelAnswer": "Anion Gap=[Na^+]-([Cl^-]+[HCO3-]); normal range is 8-16 mEq/L.",
+      "modelAnswer": "Anion Gap=[Na^+]-([Cl^-]+[HCO_3^-]); normal range is 8-16 mEq/L.",
       "explanation": "-"
     },
     {
@@ -99,7 +99,7 @@
       "id": "q14",
       "type": "short_answer",
       "prompt": "How do the kidneys compensate for a chronic respiratory acidosis over a period of several days?",
-      "modelAnswer": "By increasing H^+excretion and the synthesis/reabsorption of \"new\" HCO3-.",
+      "modelAnswer": "By increasing H^+excretion and the synthesis/reabsorption of \"new\" HCO_3^-.",
       "explanation": "-"
     },
     {
@@ -120,7 +120,7 @@
       "id": "q17",
       "type": "short_answer",
       "prompt": "What are the typical normal values for arterial pH, arterial P_(CO2) , and plasma bicarbonate concentration?",
-      "modelAnswer": "pH=7.4, P_(CO2)=40 mmHg, HCO3-=24 mEq/L.",
+      "modelAnswer": "pH=7.4, P_(CO2)=40 mmHg, HCO_3^-=24 mEq/L.",
       "explanation": "-"
     },
     {
@@ -141,14 +141,14 @@
       "id": "q20",
       "type": "short_answer",
       "prompt": "Why is the bicarbonate/CO2  system a more effective buffer than phosphate despite its pK being further from physiological pH?",
-      "modelAnswer": "HCO3-is present in much higher concentrations and its acid form (CO2) is volatile and easily expired.",
+      "modelAnswer": "HCO_3^-is present in much higher concentrations and its acid form (CO2) is volatile and easily expired.",
       "explanation": "-"
     },
     {
       "id": "q21",
       "type": "short_answer",
       "prompt": "What constitutes the \"alkaline tide\" sometimes observed in venous blood draining the stomach?",
-      "modelAnswer": "The increase in blood pH (increase in HCO3-) that occurs after a meal due to the secretion of H^+into the stomach lumen.",
+      "modelAnswer": "The increase in blood pH (increase in HCO_3^-) that occurs after a meal due to the secretion of H^+into the stomach lumen.",
       "explanation": "-"
     },
     {
@@ -169,7 +169,7 @@
       "id": "q24",
       "type": "short_answer",
       "prompt": "How does the kidney generate \"new\" bicarbonate while excreting hydrogen ions?",
-      "modelAnswer": "By excreting H^+as titratable acid or NH4+; for every H^+excreted, one HCO3-molecule is synthesized and returned to the blood.",
+      "modelAnswer": "By excreting H^+as titratable acid or NH4+; for every H^+excreted, one HCO_3^-molecule is synthesized and returned to the blood.",
       "explanation": "-"
     },
     {

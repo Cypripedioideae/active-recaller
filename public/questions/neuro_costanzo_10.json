@@ -84,7 +84,7 @@
     {
       "id": "q12",
       "type": "true_false",
-      "prompt": "The blood-brain barrier is significantly more permeable to lipid-soluble substances like oxygen and carbon dioxide than to small, highly charged ions such as hydrogen (H+ ).",
+      "prompt": "The blood-brain barrier is significantly more permeable to lipid-soluble substances like oxygen and carbon dioxide than to small, highly charged ions such as hydrogen (H^+ ).",
       "answer": "true",
       "explanation": "-"
     },

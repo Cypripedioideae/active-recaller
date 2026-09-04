@@ -49,7 +49,7 @@
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "Hyperkalemia paradoxically inhibits the renal synthesis of ammonia (NH3) from glutamine in proximal tubule cells, thereby reducing the kidney's ability to excrete H+  as ammonium.",
+      "prompt": "Hyperkalemia paradoxically inhibits the renal synthesis of ammonia (NH3) from glutamine in proximal tubule cells, thereby reducing the kidney's ability to excrete H^+  as ammonium.",
       "answer": "true",
       "explanation": "-"
     },
@@ -175,7 +175,7 @@
     {
       "id": "q25",
       "type": "true_false",
-      "prompt": "Primary adrenal insufficiency (Addison's disease) results in metabolic alkalosis because the lack of aldosterone forces the kidneys to retain H+  ions to maintain electrical neutrality.",
+      "prompt": "Primary adrenal insufficiency (Addison's disease) results in metabolic alkalosis because the lack of aldosterone forces the kidneys to retain H^+  ions to maintain electrical neutrality.",
       "answer": "false",
       "explanation": "-"
     },
@@ -252,7 +252,7 @@
     {
       "id": "q36",
       "type": "true_false",
-      "prompt": "Loop diuretics can cause metabolic alkalosis not only by increasing H+  secretion but also by causing volume contraction and secondary hyperaldosteronism.",
+      "prompt": "Loop diuretics can cause metabolic alkalosis not only by increasing H^+  secretion but also by causing volume contraction and secondary hyperaldosteronism.",
       "answer": "true",
       "explanation": "-"
     },

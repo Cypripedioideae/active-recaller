@@ -7,14 +7,14 @@
     {
       "id": "q1",
       "type": "true_false",
-      "prompt": "The Na+-K+ ATPase is electrogenic because it pumps 3 Na+ ions out of the cell for every 2 K+ ions in, which directly generates the majority (~90%) of the resting membrane potential of typical mammalian cells.",
+      "prompt": "The Na^+-K^+ ATPase is electrogenic because it pumps 3 Na^+ ions out of the cell for every 2 K^+ ions in, which directly generates the majority (~90%) of the resting membrane potential of typical mammalian cells.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q2",
       "type": "true_false",
-      "prompt": "Because the Na+-Ca2+ exchanger (NCX) is electrogenic, moving 3 Na+ ions into the cell in exchange for 1 Ca2+ ion out, its activity is facilitated by membrane depolarization.",
+      "prompt": "Because the Na^+-Ca2+ exchanger (NCX) is electrogenic, moving 3 Na^+ ions into the cell in exchange for 1 Ca2+ ion out, its activity is facilitated by membrane depolarization.",
       "answer": "false",
       "explanation": "-"
     },
@@ -42,14 +42,14 @@
     {
       "id": "q6",
       "type": "true_false",
-      "prompt": "Presynaptic inhibition is mediated by the activation of metabotropic GABAB receptors, which open G protein-activated inward rectifier K+ channels (GIRK) and inhibit voltage-gated Ca2+ channels, reducing transmitter release.",
+      "prompt": "Presynaptic inhibition is mediated by the activation of metabotropic GABAB receptors, which open G protein-activated inward rectifier K^+ channels (GIRK) and inhibit voltage-gated Ca2+ channels, reducing transmitter release.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "Under normal conditions, the primary reason the intracellular Cl- concentration is kept low in mature central neurons is the active extrusion of Cl- by the K+-Cl- cotransporter KCC2.",
+      "prompt": "Under normal conditions, the primary reason the intracellular Cl^- concentration is kept low in mature central neurons is the active extrusion of Cl^- by the K^+-Cl^- cotransporter KCC2.",
       "answer": "true",
       "explanation": "-"
     },
@@ -70,7 +70,7 @@
     {
       "id": "q10",
       "type": "true_false",
-      "prompt": "The blood-brain barrier is highly permeable to H+ and HCO3- ions, but virtually impermeable to CO2 and O2, because of the tight junctions between cerebral capillary endothelial cells.",
+      "prompt": "The blood-brain barrier is highly permeable to H^+ and HCO_3^- ions, but virtually impermeable to CO2 and O2, because of the tight junctions between cerebral capillary endothelial cells.",
       "answer": "false",
       "explanation": "-"
     },
@@ -168,7 +168,7 @@
     {
       "id": "q24",
       "type": "true_false",
-      "prompt": "In the proximal tubule, the reabsorption of bicarbonate (HCO3-) is directly mediated by an apical Na+-HCO3- cotransporter.",
+      "prompt": "In the proximal tubule, the reabsorption of bicarbonate (HCO_3^-) is directly mediated by an apical Na^+-HCO_3^- cotransporter.",
       "answer": "false",
       "explanation": "-"
     },
@@ -210,7 +210,7 @@
     {
       "id": "q30",
       "type": "true_false",
-      "prompt": "Acetazolamide, a carbonic anhydrase inhibitor, acts primarily in the proximal tubule to inhibit Na+ and HCO3- reabsorption, which can lead to a hyperchloremic metabolic acidosis with an elevated urinary pH.",
+      "prompt": "Acetazolamide, a carbonic anhydrase inhibitor, acts primarily in the proximal tubule to inhibit Na^+ and HCO_3^- reabsorption, which can lead to a hyperchloremic metabolic acidosis with an elevated urinary pH.",
       "answer": "true",
       "explanation": "-"
     },
@@ -308,7 +308,7 @@
     {
       "id": "q44",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) decreases renal phosphate reabsorption in the proximal tubule by causing the internalization and degradation of apical Na+-phosphate cotransporters (NaPi-IIa).",
+      "prompt": "Parathyroid hormone (PTH) decreases renal phosphate reabsorption in the proximal tubule by causing the internalization and degradation of apical Na^+-phosphate cotransporters (NaPi-IIa).",
       "answer": "true",
       "explanation": "-"
     },
@@ -427,14 +427,14 @@
     {
       "id": "q61",
       "type": "true_false",
-      "prompt": "If the threshold of a neuron is -55 mV and the resting membrane potential is -70 mV, a drug that selectively blocks leak K+ channels will make the cell less excitable by hyperpolarizing the resting membrane potential further away from threshold.",
+      "prompt": "If the threshold of a neuron is -55 mV and the resting membrane potential is -70 mV, a drug that selectively blocks leak K^+ channels will make the cell less excitable by hyperpolarizing the resting membrane potential further away from threshold.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q62",
       "type": "true_false",
-      "prompt": "The dark current in photoreceptors is maintained by the continuous influx of Na+ through cGMP-gated channels, which keeps the photoreceptor depolarized and continuously releasing glutamate in the dark.",
+      "prompt": "The dark current in photoreceptors is maintained by the continuous influx of Na^+ through cGMP-gated channels, which keeps the photoreceptor depolarized and continuously releasing glutamate in the dark.",
       "answer": "true",
       "explanation": "-"
     },
@@ -525,7 +525,7 @@
     {
       "id": "q75",
       "type": "true_false",
-      "prompt": "In the thick ascending limb of the loop of Henle, the positive lumen-positive transepithelial potential difference is created by the back-leak of K+ through ROMK channels, which drives the paracellular reabsorption of Ca2+ and Mg2+.",
+      "prompt": "In the thick ascending limb of the loop of Henle, the positive lumen-positive transepithelial potential difference is created by the back-leak of K^+ through ROMK channels, which drives the paracellular reabsorption of Ca2+ and Mg2+.",
       "answer": "true",
       "explanation": "-"
     },
@@ -574,7 +574,7 @@
     {
       "id": "q82",
       "type": "true_false",
-      "prompt": "In the stomach, parietal cells secrete H+ into the lumen via an H+-K+ ATPase, which runs against a massive concentration gradient and requires the simultaneous export of HCO3- across the basolateral membrane into the blood.",
+      "prompt": "In the stomach, parietal cells secrete H^+ into the lumen via an H^+-K^+ ATPase, which runs against a massive concentration gradient and requires the simultaneous export of HCO_3^- across the basolateral membrane into the blood.",
       "answer": "true",
       "explanation": "-"
     },
@@ -630,7 +630,7 @@
     {
       "id": "q90",
       "type": "true_false",
-      "prompt": "Aldosterone acts on the principal cells of the collecting duct to increase the transcription of epithelial sodium channels (ENaC) and basolateral Na+-K+ ATPase pumps, resulting in sodium retention and potassium wasting.",
+      "prompt": "Aldosterone acts on the principal cells of the collecting duct to increase the transcription of epithelial sodium channels (ENaC) and basolateral Na^+-K^+ ATPase pumps, resulting in sodium retention and potassium wasting.",
       "answer": "true",
       "explanation": "-"
     },
@@ -686,7 +686,7 @@
     {
       "id": "q98",
       "type": "true_false",
-      "prompt": "Saliva is always hypotonic relative to plasma because salivary duct cells reabsorb Na+ and Cl- in excess of water, and the salivary duct epithelium is highly impermeable to water.",
+      "prompt": "Saliva is always hypotonic relative to plasma because salivary duct cells reabsorb Na^+ and Cl^- in excess of water, and the salivary duct epithelium is highly impermeable to water.",
       "answer": "true",
       "explanation": "-"
     },
@@ -700,7 +700,7 @@
     {
       "id": "q100",
       "type": "true_false",
-      "prompt": "In a patient presenting with an arterial blood pH of 7.24, HCO3- of 15 mEq/L, and PaCO2 of 35 mmHg, the primary disorder is a metabolic acidosis, and the respiratory compensation is fully adequate according to Winters' formula.",
+      "prompt": "In a patient presenting with an arterial blood pH of 7.24, HCO_3^- of 15 mEq/L, and PaCO2 of 35 mmHg, the primary disorder is a metabolic acidosis, and the respiratory compensation is fully adequate according to Winters' formula.",
       "answer": "false",
       "explanation": "-"
     }

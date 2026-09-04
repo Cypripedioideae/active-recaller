@@ -7,7 +7,7 @@
     {
       "id": "q1",
       "type": "true_false",
-      "prompt": "In cells expressing the Na+-K+-2Cl- cotransporter (NKCC), the intracellular concentration of Cl- is maintained at a level higher than its electrochemical equilibrium, meaning that opening of Cl- channels in these cells leads to Cl- efflux and depolarization.",
+      "prompt": "In cells expressing the Na^+-K^+-2Cl^- cotransporter (NKCC), the intracellular concentration of Cl^- is maintained at a level higher than its electrochemical equilibrium, meaning that opening of Cl^- channels in these cells leads to Cl^- efflux and depolarization.",
       "answer": "true",
       "explanation": "-"
     },
@@ -42,7 +42,7 @@
     {
       "id": "q6",
       "type": "true_false",
-      "prompt": "Presynaptic facilitation at a chemical synapse is typically mediated by a decrease in the intracellular Ca2+ concentration of the presynaptic terminal, which prolongs the open state of voltage-gated Na+ channels.",
+      "prompt": "Presynaptic facilitation at a chemical synapse is typically mediated by a decrease in the intracellular Ca2+ concentration of the presynaptic terminal, which prolongs the open state of voltage-gated Na^+ channels.",
       "answer": "false",
       "explanation": "-"
     },
@@ -70,7 +70,7 @@
     {
       "id": "q10",
       "type": "true_false",
-      "prompt": "The endolymph of the cochlea has a high Na+ concentration and low K+ concentration, similar to extracellular fluid, which generates a positive endocochlear potential of +80 mV relative to the perilymph.",
+      "prompt": "The endolymph of the cochlea has a high Na^+ concentration and low K^+ concentration, similar to extracellular fluid, which generates a positive endocochlear potential of +80 mV relative to the perilymph.",
       "answer": "false",
       "explanation": "-"
     },
@@ -105,7 +105,7 @@
     {
       "id": "q15",
       "type": "true_false",
-      "prompt": "Carbon dioxide is transported in the blood primarily as bicarbonate (HCO3-), which is formed inside erythrocytes by carbonic anhydrase and then exported into the plasma in exchange for Cl- (the chloride shift).",
+      "prompt": "Carbon dioxide is transported in the blood primarily as bicarbonate (HCO_3^-), which is formed inside erythrocytes by carbonic anhydrase and then exported into the plasma in exchange for Cl^- (the chloride shift).",
       "answer": "true",
       "explanation": "-"
     },
@@ -168,7 +168,7 @@
     {
       "id": "q24",
       "type": "true_false",
-      "prompt": "In the early distal tubule, Na+ and Cl- are reabsorbed by the NaCl cotransporter (NCC), which is electrically neutral and is directly inhibited by thiazide diuretics.",
+      "prompt": "In the early distal tubule, Na^+ and Cl^- are reabsorbed by the NaCl cotransporter (NCC), which is electrically neutral and is directly inhibited by thiazide diuretics.",
       "answer": "true",
       "explanation": "-"
     },
@@ -203,7 +203,7 @@
     {
       "id": "q29",
       "type": "true_false",
-      "prompt": "In the cortical collecting duct, aldosterone stimulates Na+ reabsorption and K+ secretion primarily by activating apical Na+-K+ ATPase pumps and basolateral epithelial sodium channels (ENaC).",
+      "prompt": "In the cortical collecting duct, aldosterone stimulates Na^+ reabsorption and K^+ secretion primarily by activating apical Na^+-K^+ ATPase pumps and basolateral epithelial sodium channels (ENaC).",
       "answer": "false",
       "explanation": "-"
     },
@@ -224,14 +224,14 @@
     {
       "id": "q32",
       "type": "true_false",
-      "prompt": "In the stomach, parietal cell secretion of hydrochloric acid (HCl) is mediated by an apical Na+-H+ exchanger that pumps H+ into the lumen in exchange for Na+.",
+      "prompt": "In the stomach, parietal cell secretion of hydrochloric acid (HCl) is mediated by an apical Na^+-H^+ exchanger that pumps H^+ into the lumen in exchange for Na^+.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q33",
       "type": "true_false",
-      "prompt": "Pancreatic acinar cells secrete digestive enzymes in response to cholecystokinin (CCK) and acetylcholine, whereas pancreatic ductal cells secrete a large volume of HCO3--rich fluid in response to secretin.",
+      "prompt": "Pancreatic acinar cells secrete digestive enzymes in response to cholecystokinin (CCK) and acetylcholine, whereas pancreatic ductal cells secrete a large volume of HCO_3^--rich fluid in response to secretin.",
       "answer": "true",
       "explanation": "-"
     },
@@ -280,7 +280,7 @@
     {
       "id": "q40",
       "type": "true_false",
-      "prompt": "In the thyroid gland, the sodium-iodide symporter (NIS) on the basolateral membrane of follicular cells is a secondary active cotransporter that utilizes the sodium gradient established by the Na+-K+ ATPase to accumulate iodide.",
+      "prompt": "In the thyroid gland, the sodium-iodide symporter (NIS) on the basolateral membrane of follicular cells is a secondary active cotransporter that utilizes the sodium gradient established by the Na^+-K^+ ATPase to accumulate iodide.",
       "answer": "true",
       "explanation": "-"
     },
@@ -322,7 +322,7 @@
     {
       "id": "q46",
       "type": "true_false",
-      "prompt": "During prolonged, intense aerobic exercise, the increase in skeletal muscle blood flow is primarily mediated by local metabolic factors (such as adenosine, hypoxia, and increased extracellular K+), which override sympathetic adrenergic vasoconstrictor signals (active hyperemia).",
+      "prompt": "During prolonged, intense aerobic exercise, the increase in skeletal muscle blood flow is primarily mediated by local metabolic factors (such as adenosine, hypoxia, and increased extracellular K^+), which override sympathetic adrenergic vasoconstrictor signals (active hyperemia).",
       "answer": "true",
       "explanation": "-"
     },
@@ -343,7 +343,7 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "A patient with metabolic acidosis has a serum bicarbonate of 16 mEq/L. According to Winters' formula (predicted PaCO2 = 1.5 * [HCO3-] + 8 +/- 2), if their measured PaCO2 is 40 mmHg, they have a fully compensated metabolic acidosis.",
+      "prompt": "A patient with metabolic acidosis has a serum bicarbonate of 16 mEq/L. According to Winters' formula (predicted PaCO2 = 1.5 * [HCO_3^-] + 8 +/- 2), if their measured PaCO2 is 40 mmHg, they have a fully compensated metabolic acidosis.",
       "answer": "false",
       "explanation": "-"
     },
@@ -364,7 +364,7 @@
     {
       "id": "q52",
       "type": "true_false",
-      "prompt": "The Na+-K+ ATPase directly consumes one molecule of ATP to pump 3 Na+ ions out of the cell and 2 K+ ions into the cell, which means the pump is electrically silent if the membrane is already depolarized.",
+      "prompt": "The Na^+-K^+ ATPase directly consumes one molecule of ATP to pump 3 Na^+ ions out of the cell and 2 K^+ ions into the cell, which means the pump is electrically silent if the membrane is already depolarized.",
       "answer": "false",
       "explanation": "-"
     },
@@ -392,7 +392,7 @@
     {
       "id": "q56",
       "type": "true_false",
-      "prompt": "In myelinated axons, voltage-gated Na+ channels are distributed uniformly along the entire length of the axon under the myelin sheath to ensure continuous saltatory conduction.",
+      "prompt": "In myelinated axons, voltage-gated Na^+ channels are distributed uniformly along the entire length of the axon under the myelin sheath to ensure continuous saltatory conduction.",
       "answer": "false",
       "explanation": "-"
     },
@@ -560,7 +560,7 @@
     {
       "id": "q80",
       "type": "true_false",
-      "prompt": "Luminal carbonic anhydrase (CA IV) in the proximal tubule converts filtered HCO3- and secreted H+ into CO2 and H2O, which can then passively diffuse across the apical membrane of the tubular cells.",
+      "prompt": "Luminal carbonic anhydrase (CA IV) in the proximal tubule converts filtered HCO_3^- and secreted H^+ into CO2 and H2O, which can then passively diffuse across the apical membrane of the tubular cells.",
       "answer": "true",
       "explanation": "-"
     },
@@ -581,7 +581,7 @@
     {
       "id": "q83",
       "type": "true_false",
-      "prompt": "Secretin stimulates the apical Cl-HCO3- exchanger in pancreatic ductal cells, while the necessary Cl- recycling is mediated by apical CFTR chloride channels.",
+      "prompt": "Secretin stimulates the apical Cl^-HCO_3^- exchanger in pancreatic ductal cells, while the necessary Cl^- recycling is mediated by apical CFTR chloride channels.",
       "answer": "true",
       "explanation": "-"
     },

@@ -29,7 +29,7 @@
       "id": "q4",
       "type": "long_answer",
       "prompt": "Identify the transporters and driving forces involved in the secretion of organic cations (e.g., creatinine, morphine) from the blood into the proximal tubule lumen.",
-      "modelAnswer": "Organic cations enter the cell across the basolateral membrane via OCT2 uniporters driven by the inside-negative membrane potential (~ -70 mV); they are then secreted into the lumen via MATE1/2-K exchangers, which use the H+ electrochemical gradient (established by apical NHE3) to drive the extrusion of the cation in exchange for H+ entry.",
+      "modelAnswer": "Organic cations enter the cell across the basolateral membrane via OCT2 uniporters driven by the inside-negative membrane potential (~ -70 mV); they are then secreted into the lumen via MATE1/2-K exchangers, which use the H^+ electrochemical gradient (established by apical NHE3) to drive the extrusion of the cation in exchange for H^+ entry.",
       "explanation": "-"
     },
     {

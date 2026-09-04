@@ -7,21 +7,21 @@
     {
       "id": "q1",
       "type": "true_false",
-      "prompt": "In visceral smooth muscle, the upstroke of the action potential is primarily mediated by Ca2+ influx rather than Na+ influx",
+      "prompt": "In visceral smooth muscle, the upstroke of the action potential is primarily mediated by Ca^(2+) influx rather than Na^+ influx",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q2",
       "type": "true_false",
-      "prompt": "According to the Nernst equation, doubling the extracellular concentration of K+ will cause the equilibrium potential of K+ to become twice as positive.",
+      "prompt": "According to the Nernst equation, doubling the extracellular concentration of K^+ will cause the equilibrium potential of K^+ to become twice as positive.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q3",
       "type": "true_false",
-      "prompt": "Malignant hyperthermia, which can be triggered by halogenated anesthetics, is caused by a mutation in the sarcoplasmic reticulum ryanodine receptor that results in uncontrolled Ca2+ release into the myoplasm",
+      "prompt": "Malignant hyperthermia, which can be triggered by halogenated anesthetics, is caused by a mutation in the sarcoplasmic reticulum ryanodine receptor that results in uncontrolled Ca^(2+) release into the myoplasm",
       "answer": "true",
       "explanation": "-"
     },
@@ -49,21 +49,21 @@
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "At the resting membrane potential of -90 mV, a skeletal muscle cell membrane is highly permeable to K+ but has a strong electrical driving force that acts to prevent K+ efflux",
+      "prompt": "At the resting membrane potential of -90 mV, a skeletal muscle cell membrane is highly permeable to K^+ but has a strong electrical driving force that acts to prevent K^+ efflux",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q8",
       "type": "true_false",
-      "prompt": "Blocking the Na+-K+ ATPase pump in a neuron will immediately cause the amplitude of a single, subsequently triggered action potential to drop to zero because the intracellular and extracellular concentration gradients are instantly abolished.",
+      "prompt": "Blocking the Na^+-K^+ ATPase pump in a neuron will immediately cause the amplitude of a single, subsequently triggered action potential to drop to zero because the intracellular and extracellular concentration gradients are instantly abolished.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q9",
       "type": "true_false",
-      "prompt": "Activation of Gq-coupled metabotropic receptors stimulates phospholipase C, leading to the generation of IP3 and DAG, which releases Ca2+ from the endoplasmic reticulum",
+      "prompt": "Activation of Gq-coupled metabotropic receptors stimulates phospholipase C, leading to the generation of IP3 and DAG, which releases Ca^(2+) from the endoplasmic reticulum",
       "answer": "true",
       "explanation": "-"
     },
@@ -119,7 +119,7 @@
     {
       "id": "q17",
       "type": "true_false",
-      "prompt": "During quiet inspiration, alveolar pressure becomes subatmospheric as the thoracic cavity expands, while intrapleural pressure drops from its resting end-expiratory value of approximately -3 cm H2O to a more negative value of approximately -6 cm H2O",
+      "prompt": "During quiet inspiration, alveolar pressure becomes subatmospheric as the thoracic cavity expands, while intrapleural pressure drops from its resting end-expiratory value of approximately -3 cm H_2O to a more negative value of approximately -6 cm H_2O",
       "answer": "true",
       "explanation": "-"
     },
@@ -308,14 +308,14 @@
     {
       "id": "q44",
       "type": "true_false",
-      "prompt": "In patients with primary hyperparathyroidism, elevated parathyroid hormone (PTH) levels stimulate 1-alpha-hydroxylase in the kidneys to increase active vitamin D (1,25-dihydroxycholecalciferol) synthesis, which enhances intestinal Ca2+ absorption",
+      "prompt": "In patients with primary hyperparathyroidism, elevated parathyroid hormone (PTH) levels stimulate 1-alpha-hydroxylase in the kidneys to increase active vitamin D (1,25-dihydroxycholecalciferol) synthesis, which enhances intestinal Ca^(2+) absorption",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q45",
       "type": "true_false",
-      "prompt": "Calcitonin, secreted by the chief cells of the parathyroid gland, acts as the primary minute-to-minute regulator of plasma Ca2+ concentration in adult humans by actively stimulating bone resorption",
+      "prompt": "Calcitonin, secreted by the chief cells of the parathyroid gland, acts as the primary minute-to-minute regulator of plasma Ca^(2+) concentration in adult humans by actively stimulating bone resorption",
       "answer": "false",
       "explanation": "-"
     },
@@ -371,14 +371,14 @@
     {
       "id": "q53",
       "type": "true_false",
-      "prompt": "The primary mechanism for maintaining the low resting intracellular Ca2+ concentration (~10-7 M) in mammalian cells is the Na+-Ca2+ exchanger (NCX), which has a high affinity but low capacity for Ca2+.",
+      "prompt": "The primary mechanism for maintaining the low resting intracellular Ca^(2+) concentration (~10-7 M) in mammalian cells is the Na^+-Ca^(2+) exchanger (NCX), which has a high affinity but low capacity for Ca^(2+).",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q54",
       "type": "true_false",
-      "prompt": "In skeletal muscle, extracellular Ca2+ is required to initiate contraction because depolarization of the T-tubules activates L-type Ca2+ channels, allowing Ca2+ influx that triggers ryanodine receptor activation.",
+      "prompt": "In skeletal muscle, extracellular Ca^(2+) is required to initiate contraction because depolarization of the T-tubules activates L-type Ca^(2+) channels, allowing Ca^(2+) influx that triggers ryanodine receptor activation.",
       "answer": "false",
       "explanation": "-"
     },
@@ -392,7 +392,7 @@
     {
       "id": "q56",
       "type": "true_false",
-      "prompt": "The absolute refractory period of a neuron is primarily due to the slow inactivation gating of voltage-gated K+ channels.",
+      "prompt": "The absolute refractory period of a neuron is primarily due to the slow inactivation gating of voltage-gated K^+ channels.",
       "answer": "false",
       "explanation": "-"
     },
@@ -420,7 +420,7 @@
     {
       "id": "q60",
       "type": "true_false",
-      "prompt": "Long-term potentiation (LTP) in the hippocampus requires the activation of NMDA receptors, which occurs when postsynaptic depolarization expels Mg2+ ions blocking the channel pore, allowing Ca2+ influx.",
+      "prompt": "Long-term potentiation (LTP) in the hippocampus requires the activation of NMDA receptors, which occurs when postsynaptic depolarization expels Mg2+ ions blocking the channel pore, allowing Ca^(2+) influx.",
       "answer": "true",
       "explanation": "-"
     },
@@ -441,7 +441,7 @@
     {
       "id": "q63",
       "type": "true_false",
-      "prompt": "Depolarization of auditory hair cells occurs when mechanical bending of stereocilia toward the tallest kinocilium opens mechanically-gated transduction channels, allowing K+ influx from the endolymph.",
+      "prompt": "Depolarization of auditory hair cells occurs when mechanical bending of stereocilia toward the tallest kinocilium opens mechanically-gated transduction channels, allowing K^+ influx from the endolymph.",
       "answer": "true",
       "explanation": "-"
     },
@@ -497,7 +497,7 @@
     {
       "id": "q71",
       "type": "true_false",
-      "prompt": "The phase 2 plateau of the ventricular action potential is sustained by a balance between inward Ca2+ current through L-type Ca2+ channels and outward K+ current through delayed rectifier channels.",
+      "prompt": "The phase 2 plateau of the ventricular action potential is sustained by a balance between inward Ca^(2+) current through L-type Ca^(2+) channels and outward K^+ current through delayed rectifier channels.",
       "answer": "true",
       "explanation": "-"
     },
@@ -532,7 +532,7 @@
     {
       "id": "q76",
       "type": "true_false",
-      "prompt": "In the principal cells of the late distal tubule and collecting duct, aldosterone increases K+ secretion by stimulating the Na+-K+ ATPase on the basolateral membrane and increasing the permeability of K+ channels on the apical membrane.",
+      "prompt": "In the principal cells of the late distal tubule and collecting duct, aldosterone increases K^+ secretion by stimulating the Na^+-K^+ ATPase on the basolateral membrane and increasing the permeability of K^+ channels on the apical membrane.",
       "answer": "true",
       "explanation": "-"
     },
@@ -546,14 +546,14 @@
     {
       "id": "q78",
       "type": "true_false",
-      "prompt": "In a patient with chronic respiratory acidosis, the kidneys compensate by increasing the excretion of ammonium (NH4+) and synthesizing new bicarbonate (HCO3-) ions, which raises the plasma HCO3- concentration.",
+      "prompt": "In a patient with chronic respiratory acidosis, the kidneys compensate by increasing the excretion of ammonium (NH_4^+) and synthesizing new bicarbonate (HCO_3^-) ions, which raises the plasma HCO_3^- concentration.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q79",
       "type": "true_false",
-      "prompt": "If a patient has a urine flow rate of 2 mL/minute, a urine osmolality of 150 mOsm/kg H2O, and a plasma osmolality of 300 mOsm/kg H2O, their osmolar clearance is 1 mL/minute and their free water clearance is +1 mL/minute.",
+      "prompt": "If a patient has a urine flow rate of 2 mL/minute, a urine osmolality of 150 mOsm/kg H_2O, and a plasma osmolality of 300 mOsm/kg H_2O, their osmolar clearance is 1 mL/minute and their free water clearance is +1 mL/minute.",
       "answer": "true",
       "explanation": "-"
     },
@@ -595,21 +595,21 @@
     {
       "id": "q85",
       "type": "true_false",
-      "prompt": "Pancreatic acinar cells secrete a fluid that is high in enzyme content but low in volume, which is stimulated primarily by cholecystokinin (CCK) and acetylcholine, whereas ductal cells secrete a large volume of HCO3--rich fluid stimulated primarily by secretin.",
+      "prompt": "Pancreatic acinar cells secrete a fluid that is high in enzyme content but low in volume, which is stimulated primarily by cholecystokinin (CCK) and acetylcholine, whereas ductal cells secrete a large volume of HCO_3^--rich fluid stimulated primarily by secretin.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q86",
       "type": "true_false",
-      "prompt": "Dietary non-heme iron (Fe3+) must be reduced to ferrous iron (Fe2+) by apical ferric reductase before it can be transported into the enterocyte via the divalent metal transporter 1 (DMT1).",
+      "prompt": "Dietary non-heme iron (Fe^(3+)) must be reduced to ferrous iron (Fe^(2+)) by apical ferric reductase before it can be transported into the enterocyte via the divalent metal transporter 1 (DMT1).",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q87",
       "type": "true_false",
-      "prompt": "Unlike pancreatic secretions, salivary secretions become increasingly hyperosmotic relative to plasma as the salivary flow rate increases because less time is available for ductal reabsorption of Na+ and Cl-.",
+      "prompt": "Unlike pancreatic secretions, salivary secretions become increasingly hyperosmotic relative to plasma as the salivary flow rate increases because less time is available for ductal reabsorption of Na^+ and Cl^-.",
       "answer": "false",
       "explanation": "-"
     },
@@ -672,7 +672,7 @@
     {
       "id": "q96",
       "type": "true_false",
-      "prompt": "An individual who ascends to an altitude of 4,000 meters will develop an acute respiratory alkalosis due to hypoxic hyperventilation, which the kidneys compensate for over several days by decreasing the filtration of HCO3-.",
+      "prompt": "An individual who ascends to an altitude of 4,000 meters will develop an acute respiratory alkalosis due to hypoxic hyperventilation, which the kidneys compensate for over several days by decreasing the filtration of HCO_3^-.",
       "answer": "false",
       "explanation": "-"
     },

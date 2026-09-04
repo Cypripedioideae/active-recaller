@@ -42,14 +42,14 @@
     {
       "id": "q6",
       "type": "true_false",
-      "prompt": "The Goldman-Hodgkin-Katz equation predicts that if a membrane becomes exclusively permeable to Na+, the membrane potential will equal the Na+ equilibrium potential.",
+      "prompt": "The Goldman-Hodgkin-Katz equation predicts that if a membrane becomes exclusively permeable to Na^+, the membrane potential will equal the Na^+ equilibrium potential.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "During the relative refractory period, the threshold for firing an action potential is less negative (more depolarized) than at rest because some voltage-gated Na+ channels are still inactivated and there is an increased K+ conductance.",
+      "prompt": "During the relative refractory period, the threshold for firing an action potential is less negative (more depolarized) than at rest because some voltage-gated Na^+ channels are still inactivated and there is an increased K^+ conductance.",
       "answer": "true",
       "explanation": "-"
     },
@@ -147,7 +147,7 @@
     {
       "id": "q21",
       "type": "true_false",
-      "prompt": "Vasodilator metabolites produced by skeletal muscle during exercise, such as adenosine, lactate, and K+, cause relaxation of vascular smooth muscle by opening ATP-sensitive potassium (K_ATP) channels or activating Na+-K+ ATPase.",
+      "prompt": "Vasodilator metabolites produced by skeletal muscle during exercise, such as adenosine, lactate, and K^+, cause relaxation of vascular smooth muscle by opening ATP-sensitive potassium (K_ATP) channels or activating Na^+-K^+ ATPase.",
       "answer": "true",
       "explanation": "-"
     },
@@ -168,7 +168,7 @@
     {
       "id": "q24",
       "type": "true_false",
-      "prompt": "The thick ascending limb of the loop of Henle is highly permeable to water and actively reabsorbs NaCl via the NKCC2 cotransporter, which generates a lumen-negative transepithelial potential that drives the paracellular reabsorption of anions like Cl-.",
+      "prompt": "The thick ascending limb of the loop of Henle is highly permeable to water and actively reabsorbs NaCl via the NKCC2 cotransporter, which generates a lumen-negative transepithelial potential that drives the paracellular reabsorption of anions like Cl^-.",
       "answer": "false",
       "explanation": "-"
     },
@@ -196,14 +196,14 @@
     {
       "id": "q28",
       "type": "true_false",
-      "prompt": "In the cortical collecting duct, aldosterone stimulates Na+ reabsorption and K+ secretion by increasing the number of active epithelial sodium channels (ENaC) on the apical membrane and stimulating Na+-K+ ATPase pumps on the basolateral membrane.",
+      "prompt": "In the cortical collecting duct, aldosterone stimulates Na^+ reabsorption and K^+ secretion by increasing the number of active epithelial sodium channels (ENaC) on the apical membrane and stimulating Na^+-K^+ ATPase pumps on the basolateral membrane.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q29",
       "type": "true_false",
-      "prompt": "Acetazolamide, a carbonic anhydrase inhibitor, acts in the proximal tubule to inhibit both brush-border and intracellular carbonic anhydrase, which reduces Na+ and HCO3- reabsorption and leads to a metabolic alkalosis with a high urine pH.",
+      "prompt": "Acetazolamide, a carbonic anhydrase inhibitor, acts in the proximal tubule to inhibit both brush-border and intracellular carbonic anhydrase, which reduces Na^+ and HCO_3^- reabsorption and leads to a metabolic alkalosis with a high urine pH.",
       "answer": "false",
       "explanation": "-"
     },
@@ -231,7 +231,7 @@
     {
       "id": "q33",
       "type": "true_false",
-      "prompt": "The hormone secretin is secreted by S cells in the duodenum in response to low luminal pH (< 4.5), and it stimulates pancreatic ductal cells to secrete a large volume of HCO3--rich fluid via a cAMP-dependent pathway.",
+      "prompt": "The hormone secretin is secreted by S cells in the duodenum in response to low luminal pH (< 4.5), and it stimulates pancreatic ductal cells to secrete a large volume of HCO_3^--rich fluid via a cAMP-dependent pathway.",
       "answer": "true",
       "explanation": "-"
     },
@@ -336,7 +336,7 @@
     {
       "id": "q48",
       "type": "true_false",
-      "prompt": "In a patient with metabolic acidosis, respiratory compensation is immediate, and the expected PaCO2 can be calculated using Winters' formula (PaCO2 = 1.5 * [HCO3-] + 8 +/- 2); however, the respiratory system can never compensate enough to return the arterial pH completely to 7.40.",
+      "prompt": "In a patient with metabolic acidosis, respiratory compensation is immediate, and the expected PaCO2 can be calculated using Winters' formula (PaCO2 = 1.5 * [HCO_3^-] + 8 +/- 2); however, the respiratory system can never compensate enough to return the arterial pH completely to 7.40.",
       "answer": "true",
       "explanation": "-"
     },
@@ -371,7 +371,7 @@
     {
       "id": "q53",
       "type": "true_false",
-      "prompt": "The Na+-Ca2+ exchanger (NCX) utilizes the energy of the Na+ gradient to pump Ca2+ out of the cell with a stoichiometry of 3 Na+ ions per 1 Ca2+ ion, which means its operation is electroneutral and unaffected by changes in membrane potential.",
+      "prompt": "The Na^+-Ca2+ exchanger (NCX) utilizes the energy of the Na^+ gradient to pump Ca2+ out of the cell with a stoichiometry of 3 Na^+ ions per 1 Ca2+ ion, which means its operation is electroneutral and unaffected by changes in membrane potential.",
       "answer": "false",
       "explanation": "-"
     },
@@ -392,7 +392,7 @@
     {
       "id": "q56",
       "type": "true_false",
-      "prompt": "Myelinated axons have voltage-gated Na+ channels concentrated almost exclusively at the nodes of Ranvier, while the internodal membrane under the myelin sheath is rich in voltage-gated K+ channels.",
+      "prompt": "Myelinated axons have voltage-gated Na^+ channels concentrated almost exclusively at the nodes of Ranvier, while the internodal membrane under the myelin sheath is rich in voltage-gated K^+ channels.",
       "answer": "true",
       "explanation": "-"
     },
@@ -406,7 +406,7 @@
     {
       "id": "q58",
       "type": "true_false",
-      "prompt": "If the equilibrium potential for Cl- (E-Cl) in a mature neuron is -70 mV and the resting membrane potential is -70 mV, activation of GABA-A receptor Cl- channels will cause a massive influx of Cl- ions that hyperpolarizes the membrane.",
+      "prompt": "If the equilibrium potential for Cl^- (E-Cl) in a mature neuron is -70 mV and the resting membrane potential is -70 mV, activation of GABA-A receptor Cl^- channels will cause a massive influx of Cl^- ions that hyperpolarizes the membrane.",
       "answer": "false",
       "explanation": "-"
     },
@@ -497,14 +497,14 @@
     {
       "id": "q71",
       "type": "true_false",
-      "prompt": "The phase 0 upstroke of the cardiac action potential in the sinoatrial (SA) node is mediated by the influx of Ca2+ through L-type Ca2+ channels, whereas in ventricular muscle, it is mediated by Na+ influx through fast voltage-gated Na+ channels.",
+      "prompt": "The phase 0 upstroke of the cardiac action potential in the sinoatrial (SA) node is mediated by the influx of Ca2+ through L-type Ca2+ channels, whereas in ventricular muscle, it is mediated by Na^+ influx through fast voltage-gated Na^+ channels.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q72",
       "type": "true_false",
-      "prompt": "During Phase 4 of the sinoatrial nodal action potential, the funny current (If) is activated by hyperpolarization and conducts a net inward Na+ current, which is enhanced by sympathetic stimulation via cAMP-mediated channel opening.",
+      "prompt": "During Phase 4 of the sinoatrial nodal action potential, the funny current (If) is activated by hyperpolarization and conducts a net inward Na^+ current, which is enhanced by sympathetic stimulation via cAMP-mediated channel opening.",
       "answer": "true",
       "explanation": "-"
     },
@@ -546,7 +546,7 @@
     {
       "id": "q78",
       "type": "true_false",
-      "prompt": "In the cortical collecting duct, aldosterone acts on principal cells to stimulate Na+ reabsorption and K+ secretion by decreasing the activity of epithelial sodium channels (ENaC) on the apical membrane.",
+      "prompt": "In the cortical collecting duct, aldosterone acts on principal cells to stimulate Na^+ reabsorption and K^+ secretion by decreasing the activity of epithelial sodium channels (ENaC) on the apical membrane.",
       "answer": "false",
       "explanation": "-"
     },
@@ -567,14 +567,14 @@
     {
       "id": "q81",
       "type": "true_false",
-      "prompt": "During high salivary flow rates, the salivary HCO3- concentration decreases because the ductal cells reabsorb bicarbonate via an apical Na+-HCO3- cotransporter.",
+      "prompt": "During high salivary flow rates, the salivary HCO_3^- concentration decreases because the ductal cells reabsorb bicarbonate via an apical Na^+-HCO_3^- cotransporter.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q82",
       "type": "true_false",
-      "prompt": "In the gastric parietal cell, the apical H+-K+ ATPase pump transport rate is directly stimulated by gastrin, acetylcholine, and histamine, which act via G protein-coupled receptors to increase intracellular cAMP or calcium.",
+      "prompt": "In the gastric parietal cell, the apical H^+-K^+ ATPase pump transport rate is directly stimulated by gastrin, acetylcholine, and histamine, which act via G protein-coupled receptors to increase intracellular cAMP or calcium.",
       "answer": "true",
       "explanation": "-"
     },
@@ -693,7 +693,7 @@
     {
       "id": "q99",
       "type": "true_false",
-      "prompt": "In a patient presenting with an arterial blood pH of 7.20, HCO3- of 12 mEq/L, and PaCO2 of 26 mmHg, the primary disorder is a metabolic acidosis, and the respiratory compensation is fully adequate according to Winters' formula.",
+      "prompt": "In a patient presenting with an arterial blood pH of 7.20, HCO_3^- of 12 mEq/L, and PaCO2 of 26 mmHg, the primary disorder is a metabolic acidosis, and the respiratory compensation is fully adequate according to Winters' formula.",
       "answer": "true",
       "explanation": "-"
     },

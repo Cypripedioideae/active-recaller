@@ -8,7 +8,7 @@
       "id": "q1",
       "type": "long_answer",
       "prompt": "Explain how carbonic anhydrase (CA) facilitates bicarbonate reabsorption in the proximal tubule, distinguishing between its luminal and intracellular roles.",
-      "modelAnswer": "Luminal CA IV dehydrates H2CO3 (formed from secreted H+ and filtered HCO3-) into CO2 and H2O, which then diffuse into the cell. Intracellular CA II rehydrates the CO2 to reform H+ (for continued secretion via NHE3) and HCO3-, which exits the basolateral membrane via the NBCe1 cotransporter to return to the blood.",
+      "modelAnswer": "Luminal CA IV dehydrates H2CO3 (formed from secreted H^+ and filtered HCO_3^-) into CO2 and H2O, which then diffuse into the cell. Intracellular CA II rehydrates the CO2 to reform H^+ (for continued secretion via NHE3) and HCO_3^-, which exits the basolateral membrane via the NBCe1 cotransporter to return to the blood.",
       "explanation": "-"
     },
     {
@@ -71,7 +71,7 @@
       "id": "q10",
       "type": "long_answer",
       "prompt": "Explain the function of Type B (beta) intercalated cells in the collecting duct and identify the primary apical transporter involved in their role during alkalosis.",
-      "modelAnswer": "Type B intercalated cells function to secrete bicarbonate and reabsorb chloride during metabolic alkalosis. They utilize the apical pendrin (an electroneutral Cl^-/HCO3- exchanger) to extrude HCO3- into the lumen while the basolateral H-ATPase pumps protons into the blood to lower systemic pH.",
+      "modelAnswer": "Type B intercalated cells function to secrete bicarbonate and reabsorb chloride during metabolic alkalosis. They utilize the apical pendrin (an electroneutral Cl^-/HCO_3^- exchanger) to extrude HCO_3^- into the lumen while the basolateral H-ATPase pumps protons into the blood to lower systemic pH.",
       "explanation": "-"
     }
   ]

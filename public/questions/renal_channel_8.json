@@ -36,7 +36,7 @@
       "id": "q5",
       "type": "long_answer",
       "prompt": "Analyze why a patient with Type 4 RTA (hypoaldosteronism) presents with a more significant reduction in ammonium excretion than a patient with a simple dietary potassium overload, even if systemic pH is initially similar.",
-      "modelAnswer": "In Type 4 RTA, hyperkalemia causes a shift of K^+ into cells in exchange for H+ leaving, which increases intracellular pH and directly inhibits glutaminase, reducing NH3 production. In contrast, while dietary K^+ overload also increases plasma K^+, the aldosterone system is typically functional; the lack of a primary aldosterone defect means that the renal tubule is not fundamentally \"stuck\" in an acid-retention state, and the kidney can prioritize K^+ secretion over NH3 suppression more effectively than in a diseased RTA state.",
+      "modelAnswer": "In Type 4 RTA, hyperkalemia causes a shift of K^+ into cells in exchange for H^+ leaving, which increases intracellular pH and directly inhibits glutaminase, reducing NH3 production. In contrast, while dietary K^+ overload also increases plasma K^+, the aldosterone system is typically functional; the lack of a primary aldosterone defect means that the renal tubule is not fundamentally \"stuck\" in an acid-retention state, and the kidney can prioritize K^+ secretion over NH3 suppression more effectively than in a diseased RTA state.",
       "explanation": "-"
     },
     {
@@ -64,7 +64,7 @@
       "id": "q9",
       "type": "long_answer",
       "prompt": "Analyze the impact of systemic metabolic alkalosis on the renal handling of magnesium in the distal convoluted tubule (DCT) and predict the risk of hypomagnesemia.",
-      "modelAnswer": "Metabolic alkalosis (low extracellular [H+]) relieves the H+-mediated inhibition of apical TRPV5/6 calcium channels and TRPM6 magnesium channels in the DCT. This logic suggests that alkalosis increases magnesium reabsorption (hypomagnesiuria), which is the opposite of the effect seen in acidosis (magnesiuria). Therefore, metabolic alkalosis generally acts to defend against hypomagnesemia by enhancing distal tubular reclamation of the filtered load.",
+      "modelAnswer": "Metabolic alkalosis (low extracellular [H^+]) relieves the H^+-mediated inhibition of apical TRPV5/6 calcium channels and TRPM6 magnesium channels in the DCT. This logic suggests that alkalosis increases magnesium reabsorption (hypomagnesiuria), which is the opposite of the effect seen in acidosis (magnesiuria). Therefore, metabolic alkalosis generally acts to defend against hypomagnesemia by enhancing distal tubular reclamation of the filtered load.",
       "explanation": "-"
     },
     {

@@ -7,14 +7,14 @@
     {
       "id": "q1",
       "type": "true_false",
-      "prompt": "In cell physiology, an acute inhibition of the Na+-K+ ATPase leads to an accumulation of intracellular Na+, which increases intracellular osmolality and causes the cell to swell.",
+      "prompt": "In cell physiology, an acute inhibition of the Na^+-K^+ ATPase leads to an accumulation of intracellular Na^+, which increases intracellular osmolality and causes the cell to swell.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q2",
       "type": "true_false",
-      "prompt": "The sodium-calcium exchanger (NCX) is a secondary active transporter that utilizes the electrochemical gradient of Na+ to export Ca2+ from the cell, and its activity is directly enhanced by digitalis (digoxin).",
+      "prompt": "The sodium-calcium exchanger (NCX) is a secondary active transporter that utilizes the electrochemical gradient of Na^+ to export Ca2+ from the cell, and its activity is directly enhanced by digitalis (digoxin).",
       "answer": "false",
       "explanation": "-"
     },
@@ -175,7 +175,7 @@
     {
       "id": "q25",
       "type": "true_false",
-      "prompt": "Loop diuretics such as furosemide act by inhibiting the Na+-K+-2Cl- (NKCC2) cotransporter in the thick ascending limb of the loop of Henle, which abolishes the lumen-positive transepithelial potential and increases the urinary excretion of Ca2+ and Mg2+.",
+      "prompt": "Loop diuretics such as furosemide act by inhibiting the Na^+-K^+-2Cl^- (NKCC2) cotransporter in the thick ascending limb of the loop of Henle, which abolishes the lumen-positive transepithelial potential and increases the urinary excretion of Ca2+ and Mg2+.",
       "answer": "true",
       "explanation": "-"
     },
@@ -189,7 +189,7 @@
     {
       "id": "q27",
       "type": "true_false",
-      "prompt": "Type B intercalated cells in the cortical collecting duct respond to metabolic alkalosis by secreting HCO3- into the tubular lumen via an apical Cl--HCO3- exchanger (pendrin) and secreting H+ into the blood via a basolateral H+-ATPase.",
+      "prompt": "Type B intercalated cells in the cortical collecting duct respond to metabolic alkalosis by secreting HCO_3^- into the tubular lumen via an apical Cl^--HCO_3^- exchanger (pendrin) and secreting H^+ into the blood via a basolateral H^+-ATPase.",
       "answer": "true",
       "explanation": "-"
     },
@@ -217,7 +217,7 @@
     {
       "id": "q31",
       "type": "true_false",
-      "prompt": "Aldosterone acts on the salivary ductal cells to increase the reabsorption of Na+ and Cl- and increase the secretion of K+ and HCO3-, making the saliva of a patient with primary aldosteronism exceptionally low in sodium.",
+      "prompt": "Aldosterone acts on the salivary ductal cells to increase the reabsorption of Na^+ and Cl^- and increase the secretion of K^+ and HCO_3^-, making the saliva of a patient with primary aldosteronism exceptionally low in sodium.",
       "answer": "true",
       "explanation": "-"
     },
@@ -231,7 +231,7 @@
     {
       "id": "q33",
       "type": "true_false",
-      "prompt": "Omeprazole, a proton pump inhibitor, decreases gastric acid secretion by selectively and reversibly blocking the basolateral Na+-K+ ATPase of parietal cells.",
+      "prompt": "Omeprazole, a proton pump inhibitor, decreases gastric acid secretion by selectively and reversibly blocking the basolateral Na^+-K^+ ATPase of parietal cells.",
       "answer": "false",
       "explanation": "-"
     },
@@ -343,7 +343,7 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "A patient has the following arterial blood gas results: pH = 7.52, PaCO2 = 25 mmHg, HCO3- = 20 mEq/L. This represents an acute respiratory alkalosis with partial metabolic compensation.",
+      "prompt": "A patient has the following arterial blood gas results: pH = 7.52, PaCO2 = 25 mmHg, HCO_3^- = 20 mEq/L. This represents an acute respiratory alkalosis with partial metabolic compensation.",
       "answer": "true",
       "explanation": "-"
     },
@@ -364,7 +364,7 @@
     {
       "id": "q52",
       "type": "true_false",
-      "prompt": "The Na+-K+ ATPase undergoes conformational changes during its catalytic cycle, where the E1 state has a high affinity for intracellular Na+ and the E2 state has a high affinity for extracellular K+.",
+      "prompt": "The Na^+-K^+ ATPase undergoes conformational changes during its catalytic cycle, where the E1 state has a high affinity for intracellular Na^+ and the E2 state has a high affinity for extracellular K^+.",
       "answer": "true",
       "explanation": "-"
     },
@@ -392,21 +392,21 @@
     {
       "id": "q56",
       "type": "true_false",
-      "prompt": "The absolute refractory period of a nerve fiber is primarily caused by the voltage-dependent inactivation of voltage-gated Na+ channels, which makes them completely unresponsive to further depolarization.",
+      "prompt": "The absolute refractory period of a nerve fiber is primarily caused by the voltage-dependent inactivation of voltage-gated Na^+ channels, which makes them completely unresponsive to further depolarization.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q57",
       "type": "true_false",
-      "prompt": "During olfactory transduction, the binding of an odorant to its receptor activates adenylyl cyclase to increase intracellular cAMP, which directly opens cyclic nucleotide-gated channels to allow depolarizing Na+ and Ca2+ influx.",
+      "prompt": "During olfactory transduction, the binding of an odorant to its receptor activates adenylyl cyclase to increase intracellular cAMP, which directly opens cyclic nucleotide-gated channels to allow depolarizing Na^+ and Ca2+ influx.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q58",
       "type": "true_false",
-      "prompt": "Glycine is a major inhibitory neurotransmitter in the spinal cord that acts by opening ligand-gated anion channels, leading to a Cl- influx that hyperpolarizes the postsynaptic membrane potential.",
+      "prompt": "Glycine is a major inhibitory neurotransmitter in the spinal cord that acts by opening ligand-gated anion channels, leading to a Cl^- influx that hyperpolarizes the postsynaptic membrane potential.",
       "answer": "true",
       "explanation": "-"
     },
@@ -560,7 +560,7 @@
     {
       "id": "q80",
       "type": "true_false",
-      "prompt": "The macula densa cells of the juxtaglomerular apparatus are specialized epithelial cells located in the thick ascending limb of the loop of Henle that monitor GFR by sensing the concentration of Na+, K+, and Cl- in the tubular fluid.",
+      "prompt": "The macula densa cells of the juxtaglomerular apparatus are specialized epithelial cells located in the thick ascending limb of the loop of Henle that monitor GFR by sensing the concentration of Na^+, K^+, and Cl^- in the tubular fluid.",
       "answer": "true",
       "explanation": "-"
     },
@@ -665,7 +665,7 @@
     {
       "id": "q95",
       "type": "true_false",
-      "prompt": "In pancreatic beta cells, an increase in intracellular ATP concentration opens ATP-sensitive K+ channels, which hyperpolarizes the membrane and inhibits insulin secretion.",
+      "prompt": "In pancreatic beta cells, an increase in intracellular ATP concentration opens ATP-sensitive K^+ channels, which hyperpolarizes the membrane and inhibits insulin secretion.",
       "answer": "false",
       "explanation": "-"
     },

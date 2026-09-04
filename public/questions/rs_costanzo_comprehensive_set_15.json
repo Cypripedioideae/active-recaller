@@ -94,7 +94,7 @@
       "prompt": "A mountaineer is acclimatizing at a high-altitude camp. After three days, his ventilation has increased beyond the initial acute response. Which of the following renal and central changes facilitates this further increase in the hypoxic drive?",
       "options": [
         "The kidneys excrete more H^+, causing a metabolic alkalosis that stimulates the brain.",
-        "The kidneys excrete HCO3-, and HCO3-levels in the CSF fall, returning the brain pH toward normal and removing the \"alkaline brake\" on ventilation.",
+        "The kidneys excrete HCO_3^-, and HCO_3^-levels in the CSF fall, returning the brain pH toward normal and removing the \"alkaline brake\" on ventilation.",
         "The brain produces more lactic acid, which directly inhibits the peripheral chemoreceptors.",
         "The red blood cells decrease 2,3-DPG production to shift the curve to the left.",
         "Peripheral chemoreceptor sensitivity to P_(O2)decreases after prolonged exposure to low O2 ."

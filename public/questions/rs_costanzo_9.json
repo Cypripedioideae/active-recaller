@@ -49,7 +49,7 @@
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "The \"chloride shift\" in systemic capillaries involves the movement of Cl^-into the erythrocyte via Band 3 protein to maintain electrical neutrality as HCO3-  moves out into the plasma.",
+      "prompt": "The \"chloride shift\" in systemic capillaries involves the movement of Cl^-into the erythrocyte via Band 3 protein to maintain electrical neutrality as HCO_3^-  moves out into the plasma.",
       "answer": "true",
       "explanation": "-"
     },
@@ -63,7 +63,7 @@
     {
       "id": "q9",
       "type": "true_false",
-      "prompt": "Central chemoreceptors in the medulla are sheltered from changes in arterial H+by the blood-brain barrier but respond to H+ions generated within the cerebrospinal fluid after CO2  diffuses across.",
+      "prompt": "Central chemoreceptors in the medulla are sheltered from changes in arterial H^+by the blood-brain barrier but respond to H^+ions generated within the cerebrospinal fluid after CO2  diffuses across.",
       "answer": "true",
       "explanation": "-"
     },
@@ -140,7 +140,7 @@
     {
       "id": "q20",
       "type": "true_false",
-      "prompt": "In high-altitude acclimatization, the kidneys compensate for respiratory alkalosis by increasing the excretion of HCO3- , which helps return the blood pH toward normal.",
+      "prompt": "In high-altitude acclimatization, the kidneys compensate for respiratory alkalosis by increasing the excretion of HCO_3^- , which helps return the blood pH toward normal.",
       "answer": "true",
       "explanation": "-"
     },
@@ -329,7 +329,7 @@
     {
       "id": "q47",
       "type": "true_false",
-      "prompt": "During exercise, the respiratory exchange ratio (R) may rise above 1.0 because the buffering of lactic acid by HCO3-generates \"extra\" CO2  that is expired by the lungs.",
+      "prompt": "During exercise, the respiratory exchange ratio (R) may rise above 1.0 because the buffering of lactic acid by HCO_3^-generates \"extra\" CO2  that is expired by the lungs.",
       "answer": "true",
       "explanation": "-"
     },

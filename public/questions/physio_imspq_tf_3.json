@@ -42,7 +42,7 @@
     {
       "id": "q6",
       "type": "true_false",
-      "prompt": "During the relative refractory period of an action potential, a stronger-than-normal depolarizing stimulus is required to fire a second action potential because the voltage-gated Na+ channels are completely inactivated.",
+      "prompt": "During the relative refractory period of an action potential, a stronger-than-normal depolarizing stimulus is required to fire a second action potential because the voltage-gated Na^+ channels are completely inactivated.",
       "answer": "false",
       "explanation": "-"
     },
@@ -126,7 +126,7 @@
     {
       "id": "q18",
       "type": "true_false",
-      "prompt": "The upstroke (Phase 0) of the action potential in SA nodal pacemaker cells is mediated by the rapid influx of Na+ through fast voltage-gated Na+ channels, similar to ventricular myocytes.",
+      "prompt": "The upstroke (Phase 0) of the action potential in SA nodal pacemaker cells is mediated by the rapid influx of Na^+ through fast voltage-gated Na^+ channels, similar to ventricular myocytes.",
       "answer": "false",
       "explanation": "-"
     },
@@ -161,7 +161,7 @@
     {
       "id": "q23",
       "type": "true_false",
-      "prompt": "In the early proximal tubule, bicarbonate reabsorption is dependent on apical Na+-H+ exchange, which secretes H+ into the lumen to react with filtered HCO3- under the catalysis of brush-border carbonic anhydrase.",
+      "prompt": "In the early proximal tubule, bicarbonate reabsorption is dependent on apical Na^+-H^+ exchange, which secretes H^+ into the lumen to react with filtered HCO_3^- under the catalysis of brush-border carbonic anhydrase.",
       "answer": "true",
       "explanation": "-"
     },
@@ -189,14 +189,14 @@
     {
       "id": "q27",
       "type": "true_false",
-      "prompt": "Type A intercalated cells in the late distal tubule secrete H+ via an apical H+-ATPase and reabsorb HCO3- via a basolateral Cl--HCO3- exchanger (AE1) to correct acidosis.",
+      "prompt": "Type A intercalated cells in the late distal tubule secrete H^+ via an apical H^+-ATPase and reabsorb HCO_3^- via a basolateral Cl^--HCO_3^- exchanger (AE1) to correct acidosis.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q28",
       "type": "true_false",
-      "prompt": "Hyperkalemia directly stimulates the adrenal cortex to secrete aldosterone, which acts on principal cells of the collecting duct to decrease the number of active apical epithelial Na+ channels (ENaC) to promote K+ excretion.",
+      "prompt": "Hyperkalemia directly stimulates the adrenal cortex to secrete aldosterone, which acts on principal cells of the collecting duct to decrease the number of active apical epithelial Na^+ channels (ENaC) to promote K^+ excretion.",
       "answer": "false",
       "explanation": "-"
     },
@@ -322,7 +322,7 @@
     {
       "id": "q46",
       "type": "true_false",
-      "prompt": "During progressive dynamic exercise, the increase in skeletal muscle blood flow is primarily mediated by local metabolic factors (like adenosine, lactate, and K+), which override sympathetic vasoconstrictor signals.",
+      "prompt": "During progressive dynamic exercise, the increase in skeletal muscle blood flow is primarily mediated by local metabolic factors (like adenosine, lactate, and K^+), which override sympathetic vasoconstrictor signals.",
       "answer": "true",
       "explanation": "-"
     },
@@ -343,7 +343,7 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "If a patient has a metabolic acidosis with an arterial pH of 7.20 and a serum HCO3- of 12 mEq/L, the predicted compensatory PaCO2 according to Winters' formula (PaCO2 = 1.5 * [HCO3-] + 8 +/- 2) is between 24 and 28 mmHg.",
+      "prompt": "If a patient has a metabolic acidosis with an arterial pH of 7.20 and a serum HCO_3^- of 12 mEq/L, the predicted compensatory PaCO2 according to Winters' formula (PaCO2 = 1.5 * [HCO_3^-] + 8 +/- 2) is between 24 and 28 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -364,7 +364,7 @@
     {
       "id": "q52",
       "type": "true_false",
-      "prompt": "Under normal physiological conditions, the electrical driving force on Na+ acts in the same direction as its chemical concentration gradient, drawing Na+ into the cell.",
+      "prompt": "Under normal physiological conditions, the electrical driving force on Na^+ acts in the same direction as its chemical concentration gradient, drawing Na^+ into the cell.",
       "answer": "true",
       "explanation": "-"
     },
@@ -392,7 +392,7 @@
     {
       "id": "q56",
       "type": "true_false",
-      "prompt": "An increase in the cytoplasmic concentration of Na+ during an action potential is so small that it does not significantly alter the concentration gradients of Na+ across the membrane during a single event.",
+      "prompt": "An increase in the cytoplasmic concentration of Na^+ during an action potential is so small that it does not significantly alter the concentration gradients of Na^+ across the membrane during a single event.",
       "answer": "true",
       "explanation": "-"
     },
@@ -546,7 +546,7 @@
     {
       "id": "q78",
       "type": "true_false",
-      "prompt": "Proximal tubular reabsorption of sodium is primarily driven by the basolateral Na+-K+ ATPase pump, which maintains a low intracellular Na+ concentration and a negative membrane potential.",
+      "prompt": "Proximal tubular reabsorption of sodium is primarily driven by the basolateral Na^+-K^+ ATPase pump, which maintains a low intracellular Na^+ concentration and a negative membrane potential.",
       "answer": "true",
       "explanation": "-"
     },
@@ -560,7 +560,7 @@
     {
       "id": "q80",
       "type": "true_false",
-      "prompt": "In response to a severe decrease in extracellular fluid volume, the high levels of angiotensin II stimulate both Na+-H+ exchange in the proximal tubule and Na+-Cl- cotransport in the early distal tubule to maximize sodium retention.",
+      "prompt": "In response to a severe decrease in extracellular fluid volume, the high levels of angiotensin II stimulate both Na^+-H^+ exchange in the proximal tubule and Na^+-Cl^- cotransport in the early distal tubule to maximize sodium retention.",
       "answer": "true",
       "explanation": "-"
     },

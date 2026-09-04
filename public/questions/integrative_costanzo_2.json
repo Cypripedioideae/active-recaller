@@ -196,7 +196,7 @@
     {
       "id": "q28",
       "type": "true_false",
-      "prompt": "In a state of chronic metabolic acidosis, the kidneys compensate by increasing the excretion of H+as titratable acid and ammonium (NH4+ ) to generate new bicarbonate for the plasma.",
+      "prompt": "In a state of chronic metabolic acidosis, the kidneys compensate by increasing the excretion of H^+as titratable acid and ammonium (NH4+ ) to generate new bicarbonate for the plasma.",
       "answer": "true",
       "explanation": "-"
     },
@@ -252,7 +252,7 @@
     {
       "id": "q36",
       "type": "true_false",
-      "prompt": "Pancreatic ductal cells secrete a bicarbonate-rich fluid into the ductal lumen via an apical Cl^-/HCO3-exchanger that is functionally coupled to an apical Cl^-  channel.",
+      "prompt": "Pancreatic ductal cells secrete a bicarbonate-rich fluid into the ductal lumen via an apical Cl^-/HCO_3^-exchanger that is functionally coupled to an apical Cl^-  channel.",
       "answer": "true",
       "explanation": "-"
     },

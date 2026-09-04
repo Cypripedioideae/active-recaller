@@ -49,7 +49,7 @@
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "Hyperkalemia inhibits the renal synthesis of ammonia (NH3) by increasing the intracellular pH of proximal tubule cells, thereby reducing the capacity to excrete H+  as ammonium.",
+      "prompt": "Hyperkalemia inhibits the renal synthesis of ammonia (NH3) by increasing the intracellular pH of proximal tubule cells, thereby reducing the capacity to excrete H^+  as ammonium.",
       "answer": "true",
       "explanation": "-"
     },
@@ -161,7 +161,7 @@
     {
       "id": "q23",
       "type": "true_false",
-      "prompt": "\"Contraction Alkalosis\" is maintained because the drive to reabsorb sodium in volume-depleted states simultaneously forces the reabsorption of bicarbonate and secretion of H+ .",
+      "prompt": "\"Contraction Alkalosis\" is maintained because the drive to reabsorb sodium in volume-depleted states simultaneously forces the reabsorption of bicarbonate and secretion of H^+ .",
       "answer": "true",
       "explanation": "-"
     },
@@ -252,7 +252,7 @@
     {
       "id": "q36",
       "type": "true_false",
-      "prompt": "In the \"Reno-Respi\" partnership, rapid respiratory compensation for metabolic acidosis involves peripheral chemoreceptors sensing high H+  and triggering hyperventilation.",
+      "prompt": "In the \"Reno-Respi\" partnership, rapid respiratory compensation for metabolic acidosis involves peripheral chemoreceptors sensing high H^+  and triggering hyperventilation.",
       "answer": "true",
       "explanation": "-"
     },
@@ -287,7 +287,7 @@
     {
       "id": "q41",
       "type": "true_false",
-      "prompt": "During strenuous exercise, the hemoglobin-oxygen dissociation curve shifts to the right in the tissues due to local increases in PCO2and H+ .",
+      "prompt": "During strenuous exercise, the hemoglobin-oxygen dissociation curve shifts to the right in the tissues due to local increases in PCO2and H^+ .",
       "answer": "true",
       "explanation": "-"
     },

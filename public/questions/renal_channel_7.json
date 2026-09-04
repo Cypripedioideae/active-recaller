@@ -29,21 +29,21 @@
       "id": "q4",
       "type": "long_answer",
       "prompt": "Predict the alterations in renal acid-base handling in a patient with chronic hyperkalemia, specifically focusing on the synthesis and medullary recycling of ammonium (NH4+).",
-      "modelAnswer": "Hyperkalemia causes K^+ to enter renal cells in exchange for H+ leaving, which increases intracellular pH; this alkalinity inhibits glutaminase, reducing the synthesis of NH3 from glutamine. Additionally, high luminal [K^+] in the TAL competitvely inhibits NH4+ reabsorption via the NKCC2 symporter, impairing medullary NH4+ accumulation and resulting in a Type 4 RTA (metabolic acidosis).",
+      "modelAnswer": "Hyperkalemia causes K^+ to enter renal cells in exchange for H^+ leaving, which increases intracellular pH; this alkalinity inhibits glutaminase, reducing the synthesis of NH3 from glutamine. Additionally, high luminal [K^+] in the TAL competitvely inhibits NH4+ reabsorption via the NKCC2 symporter, impairing medullary NH4+ accumulation and resulting in a Type 4 RTA (metabolic acidosis).",
       "explanation": "-"
     },
     {
       "id": "q5",
       "type": "long_answer",
       "prompt": "Analyze how the administration of a carbonic anhydrase inhibitor (acetazolamide) produces a diuresis and predict the subsequent changes in distal potassium handling.",
-      "modelAnswer": "Acetazolamide inhibits carbonic anhydrase, preventing the dehydration of luminal H2CO3 and the rehydration of intracellular CO2, which stops HCO3- reabsorption and H+ secretion in the proximal tubule. The resulting increase in luminal HCO3- acts as an osmotic diuretic and an unreabsorbable anion, which increases distal flow and luminal negativity, both of which potently stimulate potassium secretion (kaliuresis).",
+      "modelAnswer": "Acetazolamide inhibits carbonic anhydrase, preventing the dehydration of luminal H2CO3 and the rehydration of intracellular CO2, which stops HCO_3^- reabsorption and H^+ secretion in the proximal tubule. The resulting increase in luminal HCO_3^- acts as an osmotic diuretic and an unreabsorbable anion, which increases distal flow and luminal negativity, both of which potently stimulate potassium secretion (kaliuresis).",
       "explanation": "-"
     },
     {
       "id": "q6",
       "type": "long_answer",
-      "prompt": "Predict the effect of a specific defect in the basolateral Cl^-/HCO3- exchanger (AE1) in \u03b1-intercalated cells on systemic pH and the formation of the medullary NH3 gradient.",
-      "modelAnswer": "A defect in AE1 prevents HCO3- exit across the basolateral membrane of \u03b1-intercalated cells, causing a buildup of intracellular HCO3- and a secondary inhibition of the apical H-ATPase. This leads to a failure to secrete H+ and acidify the urine (Type 1 RTA), which prevents the diffusion trapping of NH3 as NH4+ in the collecting duct, ultimately causing systemic metabolic acidosis and low ammonium excretion.",
+      "prompt": "Predict the effect of a specific defect in the basolateral Cl^-/HCO_3^- exchanger (AE1) in \u03b1-intercalated cells on systemic pH and the formation of the medullary NH3 gradient.",
+      "modelAnswer": "A defect in AE1 prevents HCO_3^- exit across the basolateral membrane of \u03b1-intercalated cells, causing a buildup of intracellular HCO_3^- and a secondary inhibition of the apical H-ATPase. This leads to a failure to secrete H^+ and acidify the urine (Type 1 RTA), which prevents the diffusion trapping of NH3 as NH4+ in the collecting duct, ultimately causing systemic metabolic acidosis and low ammonium excretion.",
       "explanation": "-"
     },
     {
@@ -57,14 +57,14 @@
       "id": "q8",
       "type": "long_answer",
       "prompt": "Explain the \"paradoxical aciduria\" observed in a patient with metabolic alkalosis secondary to severe protracted vomiting and extracellular fluid (ECF) volume contraction.",
-      "modelAnswer": "Severe vomiting causes metabolic alkalosis (loss of gastric H+) and volume contraction; the low effective circulating volume activates the RAAS. Angiotensin II and aldosterone stimulate proximal and distal H+ secretion (via NHE3 and H-ATPase) to maximize Na^+ and HCO3- reabsorption. Consequently, the kidney prioritizes volume defense over pH defense, secreting H+ into the urine even in an alkalotic state, resulting in a paradoxically acidic urine.",
+      "modelAnswer": "Severe vomiting causes metabolic alkalosis (loss of gastric H^+) and volume contraction; the low effective circulating volume activates the RAAS. Angiotensin II and aldosterone stimulate proximal and distal H^+ secretion (via NHE3 and H-ATPase) to maximize Na^+ and HCO_3^- reabsorption. Consequently, the kidney prioritizes volume defense over pH defense, secreting H^+ into the urine even in an alkalotic state, resulting in a paradoxically acidic urine.",
       "explanation": "-"
     },
     {
       "id": "q9",
       "type": "long_answer",
       "prompt": "Analyze why patients with Type 1 (distal) RTA are prone to developing calcium phosphate kidney stones, whereas patients with Type 2 (proximal) RTA are not.",
-      "modelAnswer": "Type 1 RTA causes stones because the distal inability to secrete H+ results in a persistently alkaline urine pH, which decreases the solubility of calcium phosphate. Conversely, in Type 2 RTA, although bicarbonate is initially lost, the urine pH eventually becomes acidic (once plasma [HCO3-] falls below the new threshold), and the associated citraturia (which complexes with Ca^(2+)) is generally less pronounced or the pH effect is absent, preventing stone formation.",
+      "modelAnswer": "Type 1 RTA causes stones because the distal inability to secrete H^+ results in a persistently alkaline urine pH, which decreases the solubility of calcium phosphate. Conversely, in Type 2 RTA, although bicarbonate is initially lost, the urine pH eventually becomes acidic (once plasma [HCO_3^-] falls below the new threshold), and the associated citraturia (which complexes with Ca^(2+)) is generally less pronounced or the pH effect is absent, preventing stone formation.",
       "explanation": "-"
     },
     {

@@ -15,7 +15,7 @@
       "id": "q2",
       "type": "long_answer",
       "prompt": "Explain the mechanism and physiological purpose of the Na-H exchanger (NHE3) in the apical membrane of the proximal convoluted tubule.",
-      "modelAnswer": "NHE3 (Na-H exchanger) is a secondary active transporter that uses the inward Na^+ gradient to extrude H+ into the lumen in exchange for Na^+ entry; this process is essential for reabsorbing ~80% of filtered bicarbonate (HCO3-) and facilitating bulk Na^+ reabsorption.",
+      "modelAnswer": "NHE3 (Na-H exchanger) is a secondary active transporter that uses the inward Na^+ gradient to extrude H^+ into the lumen in exchange for Na^+ entry; this process is essential for reabsorbing ~80% of filtered bicarbonate (HCO_3^-) and facilitating bulk Na^+ reabsorption.",
       "explanation": "-"
     },
     {
@@ -64,7 +64,7 @@
       "id": "q9",
       "type": "long_answer",
       "prompt": "Identify the cell type and the primary active transporter responsible for hydrogen ion secretion in the late distal tubule and collecting duct.",
-      "modelAnswer": "\u03b1-Intercalated cells (Type A) utilize the H-ATPase (proton pump) and H-K-ATPase on their apical membrane to secrete H+ ions into the lumen, often against steep concentration gradients.",
+      "modelAnswer": "\u03b1-Intercalated cells (Type A) utilize the H-ATPase (proton pump) and H-K-ATPase on their apical membrane to secrete H^+ ions into the lumen, often against steep concentration gradients.",
       "explanation": "-"
     },
     {

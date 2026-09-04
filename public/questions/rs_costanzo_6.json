@@ -182,7 +182,7 @@
     {
       "id": "q26",
       "type": "true_false",
-      "prompt": "In acute respiratory acidosis, the initial compensation involves the intracellular buffering of H+ ions by hemoglobin and other proteins, rather than a significant change in renal bicarbonate reabsorption.",
+      "prompt": "In acute respiratory acidosis, the initial compensation involves the intracellular buffering of H^+ ions by hemoglobin and other proteins, rather than a significant change in renal bicarbonate reabsorption.",
       "answer": "true",
       "explanation": "-"
     },
@@ -217,7 +217,7 @@
     {
       "id": "q31",
       "type": "true_false",
-      "prompt": "The central chemoreceptors are not directly sensitive to changes in arterial P_(O2); instead, they respond to changes in the [H+] of the brain extracellular fluid.",
+      "prompt": "The central chemoreceptors are not directly sensitive to changes in arterial P_(O2); instead, they respond to changes in the [H^+] of the brain extracellular fluid.",
       "answer": "true",
       "explanation": "-"
     },

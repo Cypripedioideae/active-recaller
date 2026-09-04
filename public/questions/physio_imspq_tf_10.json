@@ -77,7 +77,7 @@
     {
       "id": "q11",
       "type": "true_false",
-      "prompt": "In mature central nervous system neurons, the intracellular concentration of chloride is kept high due to the activity of the Na+-coupled Cl- cotransporter NKCC1, which makes GABA-A receptor activation depolarizing.",
+      "prompt": "In mature central nervous system neurons, the intracellular concentration of chloride is kept high due to the activity of the Na^+-coupled Cl^- cotransporter NKCC1, which makes GABA-A receptor activation depolarizing.",
       "answer": "false",
       "explanation": "-"
     },
@@ -203,7 +203,7 @@
     {
       "id": "q29",
       "type": "true_false",
-      "prompt": "Type A intercalated cells in the collecting duct secrete hydrogen ions into the lumen via an apical H+-ATPase and reabsorb bicarbonate across the basolateral membrane via a Cl-HCO3- exchanger.",
+      "prompt": "Type A intercalated cells in the collecting duct secrete hydrogen ions into the lumen via an apical H^+-ATPase and reabsorb bicarbonate across the basolateral membrane via a Cl^-HCO_3^- exchanger.",
       "answer": "true",
       "explanation": "-"
     },
@@ -217,7 +217,7 @@
     {
       "id": "q31",
       "type": "true_false",
-      "prompt": "In the gastric parietal cell, the apical H+-K+ ATPase pumps H+ into the stomach lumen in exchange for K+, while HCO3- is transported across the basolateral membrane into the blood, resulting in a temporary increase in arterial pH (alkaline tide) after a meal.",
+      "prompt": "In the gastric parietal cell, the apical H^+-K^+ ATPase pumps H^+ into the stomach lumen in exchange for K^+, while HCO_3^- is transported across the basolateral membrane into the blood, resulting in a temporary increase in arterial pH (alkaline tide) after a meal.",
       "answer": "true",
       "explanation": "-"
     },
@@ -322,7 +322,7 @@
     {
       "id": "q46",
       "type": "true_false",
-      "prompt": "Acclimatization to high altitude involves hypoxic hyperventilation that causes respiratory alkalosis, which the kidneys compensate for over several days by increasing the excretion of bicarbonate (HCO3-).",
+      "prompt": "Acclimatization to high altitude involves hypoxic hyperventilation that causes respiratory alkalosis, which the kidneys compensate for over several days by increasing the excretion of bicarbonate (HCO_3^-).",
       "answer": "true",
       "explanation": "-"
     },
@@ -357,14 +357,14 @@
     {
       "id": "q51",
       "type": "true_false",
-      "prompt": "The lipid bilayer is highly permeable to hydrophobic molecules like O2, CO2, and steroid hormones, whereas its permeability to small uncharged polar molecules like water and urea is much lower but still significantly higher than its permeability to ions like Na+ and K+.",
+      "prompt": "The lipid bilayer is highly permeable to hydrophobic molecules like O2, CO2, and steroid hormones, whereas its permeability to small uncharged polar molecules like water and urea is much lower but still significantly higher than its permeability to ions like Na^+ and K^+.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q52",
       "type": "true_false",
-      "prompt": "The Na+-K+ ATPase uses the energy from ATP hydrolysis to transport 3 Na+ ions into the cell and 2 K+ ions out of the cell, which directly maintains the resting membrane potential and cellular volume.",
+      "prompt": "The Na^+-K^+ ATPase uses the energy from ATP hydrolysis to transport 3 Na^+ ions into the cell and 2 K^+ ions out of the cell, which directly maintains the resting membrane potential and cellular volume.",
       "answer": "false",
       "explanation": "-"
     },
@@ -399,7 +399,7 @@
     {
       "id": "q57",
       "type": "true_false",
-      "prompt": "The absolute refractory period of an action potential is primarily determined by the time required for voltage-gated Na+ channels to transition from their inactivated state back to their closed, resting state.",
+      "prompt": "The absolute refractory period of an action potential is primarily determined by the time required for voltage-gated Na^+ channels to transition from their inactivated state back to their closed, resting state.",
       "answer": "true",
       "explanation": "-"
     },
@@ -420,7 +420,7 @@
     {
       "id": "q60",
       "type": "true_false",
-      "prompt": "Auditory hair cells in the organ of Corti are depolarized when their stereocilia are bent toward the tallest kinocilium, which opens mechanically gated channels that allow Na+ to flow rapidly into the cell from the endolymph.",
+      "prompt": "Auditory hair cells in the organ of Corti are depolarized when their stereocilia are bent toward the tallest kinocilium, which opens mechanically gated channels that allow Na^+ to flow rapidly into the cell from the endolymph.",
       "answer": "false",
       "explanation": "-"
     },
@@ -490,7 +490,7 @@
     {
       "id": "q70",
       "type": "true_false",
-      "prompt": "The phase 0 upstroke of the cardiac action potential in the SA node is mediated by Ca2+ influx through L-type Ca2+ channels, whereas in ventricular myocytes, it is mediated by Na+ influx through fast voltage-gated Na+ channels.",
+      "prompt": "The phase 0 upstroke of the cardiac action potential in the SA node is mediated by Ca2+ influx through L-type Ca2+ channels, whereas in ventricular myocytes, it is mediated by Na^+ influx through fast voltage-gated Na^+ channels.",
       "answer": "true",
       "explanation": "-"
     },
@@ -609,7 +609,7 @@
     {
       "id": "q87",
       "type": "true_false",
-      "prompt": "Salivary secretion is always hypertonic to plasma, and its osmolality increases even further as the salivary flow rate increases because less time is available for ductal reabsorption of Na+ and Cl-.",
+      "prompt": "Salivary secretion is always hypertonic to plasma, and its osmolality increases even further as the salivary flow rate increases because less time is available for ductal reabsorption of Na^+ and Cl^-.",
       "answer": "false",
       "explanation": "-"
     },
@@ -686,7 +686,7 @@
     {
       "id": "q98",
       "type": "true_false",
-      "prompt": "Acclimatization to high altitude involves hypoxic hyperventilation that causes respiratory alkalosis, which the kidneys compensate for over several days by increasing the excretion of bicarbonate (HCO3-).",
+      "prompt": "Acclimatization to high altitude involves hypoxic hyperventilation that causes respiratory alkalosis, which the kidneys compensate for over several days by increasing the excretion of bicarbonate (HCO_3^-).",
       "answer": "true",
       "explanation": "-"
     },
