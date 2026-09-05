@@ -21,7 +21,7 @@
     {
       "id": "q3",
       "type": "true_false",
-      "prompt": "During skeletal muscle contraction, the binding of Ca2+ to troponin C induces a conformational change in tropomyosin, which moves tropomyosin into the groove of the thin filament and exposes the myosin-binding sites on actin.",
+      "prompt": "During skeletal muscle contraction, the binding of Ca^(2+) to troponin C induces a conformational change in tropomyosin, which moves tropomyosin into the groove of the thin filament and exposes the myosin-binding sites on actin.",
       "answer": "true",
       "explanation": "-"
     },
@@ -315,7 +315,7 @@
     {
       "id": "q45",
       "type": "true_false",
-      "prompt": "Angiotensin II stimulates aldosterone secretion from the zona glomerulosa by binding to AT1 receptors, which activates a Gq-coupled pathway that increases intracellular calcium and activates protein kinase PKC.",
+      "prompt": "Angiotensin II stimulates aldosterone secretion from the zona glomerulosa by binding to AT1 receptors, which activates a G_q-coupled pathway that increases intracellular calcium and activates protein kinase PKC.",
       "answer": "true",
       "explanation": "-"
     },
@@ -364,7 +364,7 @@
     {
       "id": "q52",
       "type": "true_false",
-      "prompt": "Digitalis (digoxin) increases cardiac contractility by directly inhibiting the Na^+-K^+ ATPase, which decreases intracellular Na^+ and subsequently increases the activity of the Na^+-Ca2+ exchanger.",
+      "prompt": "Digitalis (digoxin) increases cardiac contractility by directly inhibiting the Na^+-K^+ ATPase, which decreases intracellular Na^+ and subsequently increases the activity of the Na^+-Ca^(2+) exchanger.",
       "answer": "false",
       "explanation": "-"
     },
@@ -497,7 +497,7 @@
     {
       "id": "q71",
       "type": "true_false",
-      "prompt": "During the Phase 2 plateau of the ventricular action potential, the membrane is highly permeable to both Ca2+ and K^+, which prevents the activation of voltage-gated Na^+ channels and prolongs the absolute refractory period.",
+      "prompt": "During the Phase 2 plateau of the ventricular action potential, the membrane is highly permeable to both Ca^(2+) and K^+, which prevents the activation of voltage-gated Na^+ channels and prolongs the absolute refractory period.",
       "answer": "true",
       "explanation": "-"
     },
@@ -658,7 +658,7 @@
     {
       "id": "q94",
       "type": "true_false",
-      "prompt": "During the first stage of labor, uterine contractions are stimulated by oxytocin, which acts on Gq-coupled receptors on myometrial smooth muscle cells to increase intracellular calcium and activate MLCK.",
+      "prompt": "During the first stage of labor, uterine contractions are stimulated by oxytocin, which acts on G_q-coupled receptors on myometrial smooth muscle cells to increase intracellular calcium and activate MLCK.",
       "answer": "true",
       "explanation": "-"
     },

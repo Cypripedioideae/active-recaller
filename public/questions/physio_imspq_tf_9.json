@@ -77,7 +77,7 @@
     {
       "id": "q11",
       "type": "true_false",
-      "prompt": "Activation of postganglionic sympathetic receptors in the pupillary dilator muscle (alpha-1 adrenergic receptors) causes pupil dilation (mydriasis) via a Gs-coupled pathway that increases intracellular cAMP.",
+      "prompt": "Activation of postganglionic sympathetic receptors in the pupillary dilator muscle (alpha-1 adrenergic receptors) causes pupil dilation (mydriasis) via a G_s-coupled pathway that increases intracellular cAMP.",
       "answer": "false",
       "explanation": "-"
     },
@@ -112,14 +112,14 @@
     {
       "id": "q16",
       "type": "true_false",
-      "prompt": "According to the Bohr effect, an increase in temperature, partial pressure of CO2 (PCO2), and 2,3-BPG concentration in red blood cells decreases the affinity of hemoglobin for oxygen, shifting the oxygen dissociation curve to the right.",
+      "prompt": "According to the Bohr effect, an increase in temperature, partial pressure of CO2 (P_(CO2)), and 2,3-BPG concentration in red blood cells decreases the affinity of hemoglobin for oxygen, shifting the oxygen dissociation curve to the right.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q17",
       "type": "true_false",
-      "prompt": "In a healthy individual breathing 100% supplemental oxygen at sea level, the total oxygen content of the arterial blood increases dramatically because the high alveolar PO2 forces a massive amount of additional oxygen to bind to hemoglobin.",
+      "prompt": "In a healthy individual breathing 100% supplemental oxygen at sea level, the total oxygen content of the arterial blood increases dramatically because the high alveolar P_(O2) forces a massive amount of additional oxygen to bind to hemoglobin.",
       "answer": "false",
       "explanation": "-"
     },
@@ -224,7 +224,7 @@
     {
       "id": "q32",
       "type": "true_false",
-      "prompt": "Cholecystokinin (CCK) stimulates gallbladder contraction and pancreatic enzyme secretion primarily by acting on CCK1 receptors, which are Gq-coupled and activate the PLC-IP3-Ca2+ signaling pathway in gallbladder smooth muscle and pancreatic acinar cells.",
+      "prompt": "Cholecystokinin (CCK) stimulates gallbladder contraction and pancreatic enzyme secretion primarily by acting on CCK1 receptors, which are G_q-coupled and activate the PLC-IP_3-Ca^(2+) signaling pathway in gallbladder smooth muscle and pancreatic acinar cells.",
       "answer": "true",
       "explanation": "-"
     },
@@ -273,7 +273,7 @@
     {
       "id": "q39",
       "type": "true_false",
-      "prompt": "Thyroid hormones increase cardiac output primarily by upregulating the expression of beta-1 adrenergic receptors and cardiac sarcoplasmic reticulum Ca2+ ATPase (SERCA2) pumps, which increases myocardial contractility and heart rate.",
+      "prompt": "Thyroid hormones increase cardiac output primarily by upregulating the expression of beta-1 adrenergic receptors and cardiac sarcoplasmic reticulum Ca^(2+) ATPase (SERCA2) pumps, which increases myocardial contractility and heart rate.",
       "answer": "true",
       "explanation": "-"
     },
@@ -343,7 +343,7 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "A patient with a history of COPD presents with severe vomiting. Their arterial blood gas shows pH = 7.40, PaCO2 = 60 mmHg, and HCO_3^- = 36 mEq/L, which represents a mixed respiratory acidosis and metabolic alkalosis rather than a normal acid-base state.",
+      "prompt": "A patient with a history of COPD presents with severe vomiting. Their arterial blood gas shows pH = 7.40, P_(aCO2) = 60 mmHg, and HCO_3^- = 36 mEq/L, which represents a mixed respiratory acidosis and metabolic alkalosis rather than a normal acid-base state.",
       "answer": "true",
       "explanation": "-"
     },
@@ -448,7 +448,7 @@
     {
       "id": "q64",
       "type": "true_false",
-      "prompt": "In a patient with a ventilation-perfusion (V/Q) ratio of zero (a true shunt), the composition of the alveolar gas in the affected area will equilibrate with the incoming mixed venous blood, resulting in a PO2 of 40 mmHg and a PCO2 of 46 mmHg.",
+      "prompt": "In a patient with a ventilation-perfusion (V/Q) ratio of zero (a true shunt), the composition of the alveolar gas in the affected area will equilibrate with the incoming mixed venous blood, resulting in a P_(O2) of 40 mmHg and a P_(CO2) of 46 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -693,7 +693,7 @@
     {
       "id": "q99",
       "type": "true_false",
-      "prompt": "If a patient has a metabolic acidosis with a bicarbonate of 15 mEq/L, and their measured PaCO2 is 30 mmHg, their respiratory compensation is fully adequate according to Winters' formula, indicating a simple metabolic acidosis without a secondary respiratory disorder.",
+      "prompt": "If a patient has a metabolic acidosis with a bicarbonate of 15 mEq/L, and their measured P_(aCO2) is 30 mmHg, their respiratory compensation is fully adequate according to Winters' formula, indicating a simple metabolic acidosis without a secondary respiratory disorder.",
       "answer": "true",
       "explanation": "-"
     },

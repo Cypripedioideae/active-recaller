@@ -14,7 +14,7 @@
     {
       "id": "q2",
       "type": "true_false",
-      "prompt": "The sodium-calcium exchanger (NCX) is a secondary active transporter that utilizes the electrochemical gradient of Na^+ to export Ca2+ from the cell, and its activity is directly enhanced by digitalis (digoxin).",
+      "prompt": "The sodium-calcium exchanger (NCX) is a secondary active transporter that utilizes the electrochemical gradient of Na^+ to export Ca^(2+) from the cell, and its activity is directly enhanced by digitalis (digoxin).",
       "answer": "false",
       "explanation": "-"
     },
@@ -28,7 +28,7 @@
     {
       "id": "q4",
       "type": "true_false",
-      "prompt": "The primary source of Ca2+ for contraction in multi-unit smooth muscle is the sarcoplasmic reticulum, whereas unitary smooth muscle depends entirely on extracellular Ca2+ influx.",
+      "prompt": "The primary source of Ca^(2+) for contraction in multi-unit smooth muscle is the sarcoplasmic reticulum, whereas unitary smooth muscle depends entirely on extracellular Ca^(2+) influx.",
       "answer": "false",
       "explanation": "-"
     },
@@ -98,7 +98,7 @@
     {
       "id": "q14",
       "type": "true_false",
-      "prompt": "A patient breathing room air at sea level (barometric pressure = 760 mmHg) has an arterial PaCO2 of 40 mmHg and a respiratory quotient (R) of 0.8. If their arterial PaO2 is 60 mmHg, their alveolar-arterial (A-a) oxygen gradient is 40 mmHg.",
+      "prompt": "A patient breathing room air at sea level (barometric pressure = 760 mmHg) has an arterial P_(aCO2) of 40 mmHg and a respiratory quotient (R) of 0.8. If their arterial PaO2 is 60 mmHg, their alveolar-arterial (A-a) oxygen gradient is 40 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -126,7 +126,7 @@
     {
       "id": "q18",
       "type": "true_false",
-      "prompt": "The upstroke (Phase 0) of the action potential in Purkinje fibers is mediated by the influx of Ca2+ through L-type Ca2+ channels, whereas in ventricular myocytes it is mediated by Na^+ influx.",
+      "prompt": "The upstroke (Phase 0) of the action potential in Purkinje fibers is mediated by the influx of Ca^(2+) through L-type Ca^(2+) channels, whereas in ventricular myocytes it is mediated by Na^+ influx.",
       "answer": "false",
       "explanation": "-"
     },
@@ -147,14 +147,14 @@
     {
       "id": "q21",
       "type": "true_false",
-      "prompt": "An increase in venous return (preload) increases stroke volume because the stretching of cardiac myocytes causes a significant increase in the intracellular concentration of free Ca2+ released during the subsequent contraction.",
+      "prompt": "An increase in venous return (preload) increases stroke volume because the stretching of cardiac myocytes causes a significant increase in the intracellular concentration of free Ca^(2+) released during the subsequent contraction.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q22",
       "type": "true_false",
-      "prompt": "Under the influence of a selective beta-1 adrenergic antagonist, the cardiac pacemaker potential (Phase 4) in the SA node is slowed because of a decrease in both the funny current (If) and the inward Ca2+ current (ICa).",
+      "prompt": "Under the influence of a selective beta-1 adrenergic antagonist, the cardiac pacemaker potential (Phase 4) in the SA node is slowed because of a decrease in both the funny current (If) and the inward Ca^(2+) current (ICa).",
       "answer": "true",
       "explanation": "-"
     },
@@ -273,7 +273,7 @@
     {
       "id": "q39",
       "type": "true_false",
-      "prompt": "Cortisol is synthesized in the zona fasciculata of the adrenal cortex and is regulated by ACTH, which acts via a Gs-coupled receptor to stimulate the rate-limiting conversion of cholesterol to pregnenolone.",
+      "prompt": "Cortisol is synthesized in the zona fasciculata of the adrenal cortex and is regulated by ACTH, which acts via a G_s-coupled receptor to stimulate the rate-limiting conversion of cholesterol to pregnenolone.",
       "answer": "true",
       "explanation": "-"
     },
@@ -385,7 +385,7 @@
     {
       "id": "q55",
       "type": "true_false",
-      "prompt": "During smooth muscle contraction, calcium binds to calmodulin, and the Ca2+-calmodulin complex directly phosphorylates the myosin light chains to initiate cross-bridge cycling.",
+      "prompt": "During smooth muscle contraction, calcium binds to calmodulin, and the Ca^(2+)-calmodulin complex directly phosphorylates the myosin light chains to initiate cross-bridge cycling.",
       "answer": "false",
       "explanation": "-"
     },
@@ -413,7 +413,7 @@
     {
       "id": "q59",
       "type": "true_false",
-      "prompt": "Presynaptic inhibition is mediated by the opening of ligand-gated Ca2+ channels on the presynaptic terminal, which depolarizes the terminal and prevents the release of neurotransmitter.",
+      "prompt": "Presynaptic inhibition is mediated by the opening of ligand-gated Ca^(2+) channels on the presynaptic terminal, which depolarizes the terminal and prevents the release of neurotransmitter.",
       "answer": "false",
       "explanation": "-"
     },
@@ -469,7 +469,7 @@
     {
       "id": "q67",
       "type": "true_false",
-      "prompt": "If a patient has a tidal volume of 600 mL, a respiratory rate of 10 breaths/minute, an arterial PaCO2 of 40 mmHg, and a mixed expired PECO2 of 30 mmHg, their physiological dead space is 150 mL and their alveolar ventilation is 4.5 L/minute.",
+      "prompt": "If a patient has a tidal volume of 600 mL, a respiratory rate of 10 breaths/minute, an arterial P_(aCO2) of 40 mmHg, and a mixed expired PECO2 of 30 mmHg, their physiological dead space is 150 mL and their alveolar ventilation is 4.5 L/minute.",
       "answer": "true",
       "explanation": "-"
     },
@@ -525,7 +525,7 @@
     {
       "id": "q75",
       "type": "true_false",
-      "prompt": "In the thick ascending limb of the loop of Henle, the NKCC2 cotransporter transport rate is directly inhibited by loop diuretics, which prevents the generation of a lumen-positive transepithelial potential and leads to increased excretion of Ca2+ and Mg2+.",
+      "prompt": "In the thick ascending limb of the loop of Henle, the NKCC2 cotransporter transport rate is directly inhibited by loop diuretics, which prevents the generation of a lumen-positive transepithelial potential and leads to increased excretion of Ca^(2+) and Mg2+.",
       "answer": "true",
       "explanation": "-"
     },
@@ -567,7 +567,7 @@
     {
       "id": "q81",
       "type": "true_false",
-      "prompt": "Gastric acid secretion by parietal cells is stimulated by histamine, which acts on H2 receptors to activate a Gs-coupled pathway, and by acetylcholine and gastrin, both of which activate Gq-coupled pathways.",
+      "prompt": "Gastric acid secretion by parietal cells is stimulated by histamine, which acts on H2 receptors to activate a G_s-coupled pathway, and by acetylcholine and gastrin, both of which activate G_q-coupled pathways.",
       "answer": "true",
       "explanation": "-"
     },
@@ -693,7 +693,7 @@
     {
       "id": "q99",
       "type": "true_false",
-      "prompt": "A patient presents with the following lab values: arterial pH = 7.15, PaCO2 = 24 mmHg, HCO_3^- = 8 mEq/L. According to Winters' formula (predicted PaCO2 = 1.5 * [HCO_3^-] + 8 +/- 2), the respiratory compensation is fully adequate, indicating a simple metabolic acidosis without a secondary respiratory disorder.",
+      "prompt": "A patient presents with the following lab values: arterial pH = 7.15, P_(aCO2) = 24 mmHg, HCO_3^- = 8 mEq/L. According to Winters' formula (predicted P_(aCO2) = 1.5 * [HCO_3^-] + 8 +/- 2), the respiratory compensation is fully adequate, indicating a simple metabolic acidosis without a secondary respiratory disorder.",
       "answer": "false",
       "explanation": "-"
     },

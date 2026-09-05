@@ -476,7 +476,7 @@
     {
       "id": "q68",
       "type": "true_false",
-      "prompt": "The central chemoreceptors located in the medulla are directly stimulated by a decrease in arterial PO2 below 60 mmHg.",
+      "prompt": "The central chemoreceptors located in the medulla are directly stimulated by a decrease in arterial P_(O2) below 60 mmHg.",
       "answer": "false",
       "explanation": "-"
     },
@@ -525,8 +525,8 @@
     {
       "id": "q75",
       "type": "true_false",
-      "prompt": "The ascending limb of the loop of Henle is highly permeable to NaCl but impermeable to impermeable, which allows the transport of solutes out of the ascending limb to generate the hyperosmolal medullary interstitium.",
-      "answer": "false",
+      "prompt": "The ascending limb of the loop of Henle is impermeable to water, and NaCl exits the tubule lumen, which generates the hyperosmolar medullary interstitium because water cannot follow.",
+      "answer": "true",
       "explanation": "-"
     },
     {

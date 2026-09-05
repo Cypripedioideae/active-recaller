@@ -21,14 +21,14 @@
     {
       "id": "q3",
       "type": "true_false",
-      "prompt": "In skeletal muscle, the Ryanodine receptor (RyR1) is a voltage-gated Ca2+ channel that opens directly in response to T-tubule depolarization, allowing Ca2+ to flow from the sarcoplasmic reticulum into the cytosol.",
+      "prompt": "In skeletal muscle, the Ryanodine receptor (RyR1) is a voltage-gated Ca^(2+) channel that opens directly in response to T-tubule depolarization, allowing Ca^(2+) to flow from the sarcoplasmic reticulum into the cytosol.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q4",
       "type": "true_false",
-      "prompt": "In smooth muscle, the enzymatic activity of myosin light chain phosphatase (MLCP) is inhibited by the phosphorylation of its regulatory subunit by Rho-kinase, which promotes smooth muscle contraction at a constant intracellular Ca2+ concentration (calcium sensitization).",
+      "prompt": "In smooth muscle, the enzymatic activity of myosin light chain phosphatase (MLCP) is inhibited by the phosphorylation of its regulatory subunit by Rho-kinase, which promotes smooth muscle contraction at a constant intracellular Ca^(2+) concentration (calcium sensitization).",
       "answer": "true",
       "explanation": "-"
     },
@@ -42,7 +42,7 @@
     {
       "id": "q6",
       "type": "true_false",
-      "prompt": "Presynaptic facilitation at a chemical synapse is typically mediated by a decrease in the intracellular Ca2+ concentration of the presynaptic terminal, which prolongs the open state of voltage-gated Na^+ channels.",
+      "prompt": "Presynaptic facilitation at a chemical synapse is typically mediated by a decrease in the intracellular Ca^(2+) concentration of the presynaptic terminal, which prolongs the open state of voltage-gated Na^+ channels.",
       "answer": "false",
       "explanation": "-"
     },
@@ -112,14 +112,14 @@
     {
       "id": "q16",
       "type": "true_false",
-      "prompt": "Hypoxic pulmonary vasoconstriction (HPV) is a unique compensatory mechanism where low alveolar PO2 causes vasoconstriction of local pulmonary arterioles, which increases blood flow to poorly ventilated regions of the lung to optimize gas exchange.",
+      "prompt": "Hypoxic pulmonary vasoconstriction (HPV) is a unique compensatory mechanism where low alveolar P_(O2) causes vasoconstriction of local pulmonary arterioles, which increases blood flow to poorly ventilated regions of the lung to optimize gas exchange.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q17",
       "type": "true_false",
-      "prompt": "If a patient has an arterial PaCO2 of 40 mmHg and a mixed expired PECO2 of 30 mmHg, their physiological dead space fraction (VD/VT) is 0.25, meaning 25% of each tidal volume does not participate in gas exchange.",
+      "prompt": "If a patient has an arterial P_(aCO2) of 40 mmHg and a mixed expired PECO2 of 30 mmHg, their physiological dead space fraction (VD/VT) is 0.25, meaning 25% of each tidal volume does not participate in gas exchange.",
       "answer": "true",
       "explanation": "-"
     },
@@ -343,7 +343,7 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "A patient with metabolic acidosis has a serum bicarbonate of 16 mEq/L. According to Winters' formula (predicted PaCO2 = 1.5 * [HCO_3^-] + 8 +/- 2), if their measured PaCO2 is 40 mmHg, they have a fully compensated metabolic acidosis.",
+      "prompt": "A patient with metabolic acidosis has a serum bicarbonate of 16 mEq/L. According to Winters' formula (predicted P_(aCO2) = 1.5 * [HCO_3^-] + 8 +/- 2), if their measured P_(aCO2) is 40 mmHg, they have a fully compensated metabolic acidosis.",
       "answer": "false",
       "explanation": "-"
     },
@@ -371,14 +371,14 @@
     {
       "id": "q53",
       "type": "true_false",
-      "prompt": "The plasma membrane Ca2+ ATPase (PMCA) has a lower affinity for Ca2+ but a much higher transport capacity than the sodium-calcium exchanger (NCX).",
+      "prompt": "The plasma membrane Ca^(2+) ATPase (PMCA) has a lower affinity for Ca^(2+) but a much higher transport capacity than the sodium-calcium exchanger (NCX).",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q54",
       "type": "true_false",
-      "prompt": "During skeletal muscle relaxation, calsequestrin actively pumps Ca2+ back into the sarcoplasmic reticulum against its concentration gradient.",
+      "prompt": "During skeletal muscle relaxation, calsequestrin actively pumps Ca^(2+) back into the sarcoplasmic reticulum against its concentration gradient.",
       "answer": "false",
       "explanation": "-"
     },
@@ -399,7 +399,7 @@
     {
       "id": "q57",
       "type": "true_false",
-      "prompt": "Decreasing the extracellular Ca2+ concentration will decrease the amplitude of individual miniature endplate potentials (MEPPs) at the neuromuscular junction.",
+      "prompt": "Decreasing the extracellular Ca^(2+) concentration will decrease the amplitude of individual miniature endplate potentials (MEPPs) at the neuromuscular junction.",
       "answer": "false",
       "explanation": "-"
     },
@@ -448,7 +448,7 @@
     {
       "id": "q64",
       "type": "true_false",
-      "prompt": "If a person's alveolar ventilation is doubled while their metabolic rate remains constant, their alveolar PCO2 will be reduced by exactly half.",
+      "prompt": "If a person's alveolar ventilation is doubled while their metabolic rate remains constant, their alveolar P_(CO2) will be reduced by exactly half.",
       "answer": "true",
       "explanation": "-"
     },
@@ -476,7 +476,7 @@
     {
       "id": "q68",
       "type": "true_false",
-      "prompt": "A patient breathing room air (PIO2 = 150 mmHg) at sea level has a PaCO2 of 48 mmHg and a respiratory exchange ratio of 0.8. If their measured arterial PaO2 is 80 mmHg, their alveolar-arterial (A-a) oxygen gradient is 10 mmHg.",
+      "prompt": "A patient breathing room air (PIO2 = 150 mmHg) at sea level has a P_(aCO2) of 48 mmHg and a respiratory exchange ratio of 0.8. If their measured arterial PaO2 is 80 mmHg, their alveolar-arterial (A-a) oxygen gradient is 10 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -490,14 +490,14 @@
     {
       "id": "q70",
       "type": "true_false",
-      "prompt": "The funny current (If) in sinoatrial nodal cells is a hyperpolarization-activated inward current carried primarily by Ca2+ ions.",
+      "prompt": "The funny current (If) in sinoatrial nodal cells is a hyperpolarization-activated inward current carried primarily by Ca^(2+) ions.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q71",
       "type": "true_false",
-      "prompt": "An increase in extracellular Ca2+ concentration (hypercalcemia) prolongs the QT interval on an electrocardiogram because it delays the closure of L-type Ca2+ channels.",
+      "prompt": "An increase in extracellular Ca^(2+) concentration (hypercalcemia) prolongs the QT interval on an electrocardiogram because it delays the closure of L-type Ca^(2+) channels.",
       "answer": "false",
       "explanation": "-"
     },
@@ -644,7 +644,7 @@
     {
       "id": "q92",
       "type": "true_false",
-      "prompt": "Calcitonin is the primary, minute-to-minute regulator of plasma Ca2+ concentration in adult humans, and its secretion from parathyroid chief cells is stimulated by hypercalcemia.",
+      "prompt": "Calcitonin is the primary, minute-to-minute regulator of plasma Ca^(2+) concentration in adult humans, and its secretion from parathyroid chief cells is stimulated by hypercalcemia.",
       "answer": "false",
       "explanation": "-"
     },
@@ -693,7 +693,7 @@
     {
       "id": "q99",
       "type": "true_false",
-      "prompt": "If a patient has a metabolic acidosis with a bicarbonate of 10 mEq/L and their measured PaCO2 is 30 mmHg, they have a mixed acid-base disorder consisting of metabolic acidosis and a secondary respiratory acidosis.",
+      "prompt": "If a patient has a metabolic acidosis with a bicarbonate of 10 mEq/L and their measured P_(aCO2) is 30 mmHg, they have a mixed acid-base disorder consisting of metabolic acidosis and a secondary respiratory acidosis.",
       "answer": "true",
       "explanation": "-"
     },

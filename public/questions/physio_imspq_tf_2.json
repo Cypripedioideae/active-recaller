@@ -14,7 +14,7 @@
     {
       "id": "q2",
       "type": "true_false",
-      "prompt": "Because the Na^+-Ca2+ exchanger (NCX) is electrogenic, moving 3 Na^+ ions into the cell in exchange for 1 Ca2+ ion out, its activity is facilitated by membrane depolarization.",
+      "prompt": "Na^+-Ca^(2+) exchanger (NCX) is electrogenic, moving 3 Na^+ ions into the cell in exchange for 1 Ca^(2+) ion out. Its activity is facilitated by membrane depolarization.",
       "answer": "false",
       "explanation": "-"
     },
@@ -35,14 +35,14 @@
     {
       "id": "q5",
       "type": "true_false",
-      "prompt": "In smooth muscle, contraction is initiated when Ca2+ binds to troponin C, exposing the myosin-binding sites on actin.",
+      "prompt": "In smooth muscle, contraction is initiated when Ca^(2+) binds to troponin C, exposing the myosin-binding sites on actin.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q6",
       "type": "true_false",
-      "prompt": "Presynaptic inhibition is mediated by the activation of metabotropic GABAB receptors, which open G protein-activated inward rectifier K^+ channels (GIRK) and inhibit voltage-gated Ca2+ channels, reducing transmitter release.",
+      "prompt": "Presynaptic inhibition is mediated by the activation of metabotropic GABA_B receptors, which open G protein-activated inward rectifier K^+ channels (G_(IRK)) and inhibit voltage-gated Ca^(2+) channels, reducing transmitter release.",
       "answer": "true",
       "explanation": "-"
     },
@@ -56,21 +56,21 @@
     {
       "id": "q8",
       "type": "true_false",
-      "prompt": "Axons with a lower membrane resistance (Rm) and a higher internal axonal resistance (Ri) have a longer length constant (lambda), allowing local depolarizing currents to propagate further.",
+      "prompt": "Axons with a lower membrane resistance (R_m) and a higher internal axonal resistance (R_i) have a longer length constant, allowing local depolarizing currents to propagate further.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q9",
       "type": "true_false",
-      "prompt": "An increase in extracellular Ca2+ concentration shifts the threshold potential of a neuron to a more positive value, thereby decreasing neuronal excitability.",
+      "prompt": "An increase in extracellular Ca^(2+) concentration shifts the threshold potential of a neuron to a more positive value, thereby decreasing neuronal excitability.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q10",
       "type": "true_false",
-      "prompt": "The blood-brain barrier is highly permeable to H^+ and HCO_3^- ions, but virtually impermeable to CO2 and O2, because of the tight junctions between cerebral capillary endothelial cells.",
+      "prompt": "The blood-brain barrier is highly permeable to H^+ and HCO_3^- ions, but virtually impermeable to CO_2 and O_2, because of the tight junctions between cerebral capillary endothelial cells.",
       "answer": "false",
       "explanation": "-"
     },
@@ -112,7 +112,7 @@
     {
       "id": "q16",
       "type": "true_false",
-      "prompt": "Carbon monoxide (CO) inhalation decreases the arterial partial pressure of oxygen (PaO2) because CO competes with oxygen for binding sites on hemoglobin.",
+      "prompt": "Carbon monoxide (CO) inhalation decreases the arterial partial pressure of oxygen (P_(aO2)) because CO competes with oxygen for binding sites on hemoglobin.",
       "answer": "false",
       "explanation": "-"
     },
@@ -126,14 +126,14 @@
     {
       "id": "q18",
       "type": "true_false",
-      "prompt": "An increase in heart rate from 70 to 120 beats/minute during exercise increases coronary blood flow, primarily because the duration of diastole\u2014the phase of maximum coronary perfusion\u2014is selectively spared during tachycardic states.",
+      "prompt": "An increase in heart rate from 70 to 120 beats/minute during exercise increases coronary blood flow, primarily because the duration of diastole is selectively spared during tachycardic states.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q19",
       "type": "true_false",
-      "prompt": "According to the Frank-Starling law of the heart, an increase in end-diastolic volume increases stroke volume because the higher preload increases the intracellular concentration of free Ca2+ during the subsequent contraction.",
+      "prompt": "According to the Frank-Starling law of the heart, an increase in end-diastolic volume increases stroke volume because the higher preload increases the intracellular concentration of free Ca^(2+) during the subsequent contraction.",
       "answer": "false",
       "explanation": "-"
     },
@@ -189,14 +189,14 @@
     {
       "id": "q27",
       "type": "true_false",
-      "prompt": "The macula densa cells of the juxtaglomerular apparatus detect changes in the concentration of glucose in the tubular fluid of the early distal tubule and regulate the resistance of the efferent arteriole via tubuloglomerular feedback.",
+      "prompt": "The macula densa cells of the juxtaglomerular apparatus detect changes in the concentration of Na^+ in the tubular fluid of the early distal tubule and regulate the resistance of the efferent arteriole via tubuloglomerular feedback.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q28",
       "type": "true_false",
-      "prompt": "Acute metabolic acidosis shifts potassium ions out of cells in exchange for hydrogen ions, resulting in hyperkalemia, whereas acute respiratory acidosis has a much smaller effect on extracellular potassium concentration.",
+      "prompt": "Acute inorganic metabolic acidosis shifts potassium ions out of cells in exchange for hydrogen ions, resulting in hyperkalemia, whereas acute respiratory acidosis has a much smaller effect on extracellular potassium concentration.",
       "answer": "true",
       "explanation": "-"
     },
@@ -217,14 +217,14 @@
     {
       "id": "q31",
       "type": "true_false",
-      "prompt": "The primary bile acids, cholic acid and chenodeoxycholic acid, are synthesized from cholesterol in the liver and conjugated with glycine or taurine to lower their pKa, making them more soluble in the acidic duodenum.",
+      "prompt": "The primary bile acids, cholic acid and chenodeoxycholic acid, are synthesized from cholesterol in the liver and conjugated with glycine or taurine to lower their pK_a, making them more soluble in the acidic duodenum.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q32",
       "type": "true_false",
-      "prompt": "Sglt1 transport of glucose and galactose across the apical membrane of the enterocyte is a sodium-dependent active process, whereas fructose is absorbed via facilitated diffusion through the GLUT5 transporter.",
+      "prompt": "SGLT1 transport of glucose and galactose across the apical membrane of the enterocyte is a sodium-dependent active process, whereas fructose is absorbed via facilitated diffusion through the GLUT5 transporter.",
       "answer": "true",
       "explanation": "-"
     },
@@ -238,7 +238,7 @@
     {
       "id": "q34",
       "type": "true_false",
-      "prompt": "In the stomach, histamine released from enterochromaffin-like (ECL) cells acts on parietal cell H2 receptors to stimulate acid secretion via a Gq-coupled pathway that activates phospholipase C and increases intracellular calcium.",
+      "prompt": "In the stomach, histamine released from enterochromaffin-like (ECL) cells acts on parietal cell H_2 receptors to stimulate acid secretion via a G_q-coupled pathway that activates phospholipase C and increases intracellular calcium.",
       "answer": "false",
       "explanation": "-"
     },
@@ -301,7 +301,7 @@
     {
       "id": "q43",
       "type": "true_false",
-      "prompt": "17-alpha-hydroxylase deficiency causes a selective decrease in both glucocorticoids and adrenal androgens, leading to an overproduction of mineralocorticoids (like aldosterone) and causing hypertension and hypokalemia.",
+      "prompt": "17-alpha-hydroxylase deficiency causes a selective decrease in both glucocorticoids and adrenal androgens, leading to an overproduction of aldosterone and causing hypertension and hypokalemia.",
       "answer": "false",
       "explanation": "-"
     },
@@ -329,7 +329,7 @@
     {
       "id": "q47",
       "type": "true_false",
-      "prompt": "During an acute panic attack, hyperventilation causes a decrease in arterial PCO2, which leads to respiratory alkalosis and increases the fraction of ionized calcium (Ca2+) in the plasma, triggering tetany and muscle spasms.",
+      "prompt": "During an acute panic attack, hyperventilation causes a decrease in arterial P_(CO2), which leads to respiratory alkalosis and increases the fraction of ionized calcium (Ca^(2+)) in the plasma.",
       "answer": "false",
       "explanation": "-"
     },
@@ -350,28 +350,28 @@
     {
       "id": "q50",
       "type": "true_false",
-      "prompt": "During pregnancy, maternal total blood volume and cardiac output increase significantly, but mean arterial pressure normally decreases slightly during the first two trimesters because of a marked decrease in systemic vascular resistance (SVR) mediated by progesterone and local vasodilators.",
+      "prompt": "During pregnancy, maternal total blood volume and cardiac output increase significantly, but mean arterial pressure normally decreases slightly during the first two trimesters because of a marked decrease in systemic vascular resistance mediated by progesterone and local vasodilators.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q51",
       "type": "true_false",
-      "prompt": "Facilitated diffusion and primary active transport both require cellular energy (ATP) to move solutes across the cell membrane, but they differ in their selectivity.",
+      "prompt": "Facilitated diffusion and primary active transport both require cellular energy to move solutes across the cell membrane, but they differ in their selectivity.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q52",
       "type": "true_false",
-      "prompt": "Under physiological conditions, the intracellular concentration of free Ca2+ is maintained at a level approximately 10,000-fold lower than the extracellular Ca2+ concentration.",
+      "prompt": "Under physiological conditions, the intracellular concentration of free Ca^(2+) is maintained at a level approximately 10,000-fold lower than the extracellular Ca^(2+) concentration.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q53",
       "type": "true_false",
-      "prompt": "A decrease in extracellular pH shifts the ionization of local anesthetics toward the uncharged form, thereby accelerating their entry into the axon and enhancing the speed of nerve block.",
+      "prompt": "A decrease in extracellular pH shifts the ionization of local anesthetics (weak bases) toward the uncharged form, thereby accelerating their entry into the axon and enhancing the speed of nerve block.",
       "answer": "false",
       "explanation": "-"
     },
@@ -448,28 +448,28 @@
     {
       "id": "q64",
       "type": "true_false",
-      "prompt": "Because of gravity, both ventilation and perfusion are greater at the base of the upright lung than at the apex, but the ventilation-perfusion ratio (V/Q) is higher at the base.",
+      "prompt": "Because of gravity, both ventilation and perfusion are greater at the base of the upright lung than at the apex, and the ventilation-perfusion ratio (V/Q) is higher at the base.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q65",
       "type": "true_false",
-      "prompt": "The respiratory center in the medulla is primarily regulated by changes in arterial pH and PCO2, which are sensed directly by central chemoreceptors after hydrogen ions freely cross the blood-brain barrier.",
+      "prompt": "The respiratory center in the medulla is primarily regulated by changes in arterial pH and P_(CO2).",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q66",
       "type": "true_false",
-      "prompt": "In a patient with severe pulmonary fibrosis, the diffusing capacity of the lung for carbon monoxide (DLCO) is reduced because of an increase in the thickness of the alveolar-capillary barrier.",
+      "prompt": "In a patient with severe pulmonary fibrosis, the diffusing capacity of the lung for carbon monoxide (DL_(CO)) is reduced because of an increase in the thickness of the alveolar-capillary barrier.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q67",
       "type": "true_false",
-      "prompt": "If a patient has a barometric pressure of 760 mmHg, is breathing room air (21% O2, water vapor pressure of 47 mmHg), has a PaCO2 of 48 mmHg, and a respiratory exchange ratio of 0.8, their alveolar PO2 (PAO2) is approximately 90 mmHg.",
+      "prompt": "If a patient has a barometric pressure of 760 mmHg, is breathing room air (21% O2, water vapor pressure of 47 mmHg), has a P_(aCO2) of 48 mmHg, and a respiratory exchange ratio of 0.8, their alveolar P_(O2) (P_(AO2)) is approximately 90 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -490,14 +490,14 @@
     {
       "id": "q70",
       "type": "true_false",
-      "prompt": "The dicrotic notch (incisura) on the aortic pressure curve is caused by the sudden contraction of the atria just before ventricular systole begins.",
+      "prompt": "The dicrotic notch appears on the descending limb of the aortic pressure curve shortly before aortic valve closure, reflecting the transient change in aortic blood flow that precedes cessation of ventricular ejection.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q71",
       "type": "true_false",
-      "prompt": "In a patient with third-degree (complete) atrioventricular block, the ventricles are depolarized by an ectopic pacemaker at a slower rate than the atria, and there is no temporal correlation between P waves and QRS complexes.",
+      "prompt": "In a patient with third-degree (complete) atrioventricular block, the ventricles are depolarized by a pacemaker at a slower rate than the atria, and there is no temporal correlation between P waves and QRS complexes.",
       "answer": "true",
       "explanation": "-"
     },
@@ -511,21 +511,21 @@
     {
       "id": "q73",
       "type": "true_false",
-      "prompt": "An increase in parasympathetic activity to the heart reduces heart rate by slowing the rate of phase 4 depolarization in SA nodal cells, which is mediated by decreasing the inward sodium current (If) and increasing a potassium current (IK-ACh).",
+      "prompt": "An increase in parasympathetic activity to the heart reduces heart rate by slowing the rate of phase 4 depolarization to the threshold in SA nodal cells, which is mediated by decreasing the funny current (I_f) and increasing a potassium current (I_(K-ACh)).",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q74",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) regulates calcium and phosphate handling in the kidney by stimulating calcium reabsorption in the distal convoluted tubule and inhibiting phosphate reabsorption in the proximal convoluted tubule.",
+      "prompt": "Parathyroid hormone regulates calcium and phosphate handling in the kidney by stimulating calcium reabsorption in the distal convoluted tubule and inhibiting phosphate reabsorption in the proximal convoluted tubule.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q75",
       "type": "true_false",
-      "prompt": "In the thick ascending limb of the loop of Henle, the positive lumen-positive transepithelial potential difference is created by the back-leak of K^+ through ROMK channels, which drives the paracellular reabsorption of Ca2+ and Mg2+.",
+      "prompt": "In the thick ascending limb of the loop of Henle, the positive lumen-positive transepithelial potential difference is created by the back-leak of K^+ through ROMK channels, which drives the paracellular reabsorption of Ca^(2+) and Mg^(2+).",
       "answer": "true",
       "explanation": "-"
     },
@@ -546,14 +546,14 @@
     {
       "id": "q78",
       "type": "true_false",
-      "prompt": "At plasma glucose concentrations above the renal transport maximum (Tm), the rate of glucose reabsorption is directly proportional to the plasma glucose concentration.",
+      "prompt": "At plasma glucose concentrations above the renal transport maximum (T_m), the rate of glucose reabsorption is inversely proportional to the plasma glucose concentration.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q79",
       "type": "true_false",
-      "prompt": "ADH increases the water permeability of the principal cells of the medullary collecting duct, but it has no effect on the urea permeability of these cells.",
+      "prompt": "ADH sole function in a nephron is to increase the water permeability of the principal cells of the collecting duct.",
       "answer": "false",
       "explanation": "-"
     },
@@ -581,7 +581,7 @@
     {
       "id": "q83",
       "type": "true_false",
-      "prompt": "In a patient with Zollinger-Ellison syndrome, the excessive gastrin secretion from a pancreatic tumor causes atrophy of the gastric mucosa and a severe reduction in gastric acid secretion.",
+      "prompt": "In a patient with Zollinger-Ellison syndrome, the excessive gastrin secretion from a pancreatic tumor causes atrophy of the gastric mucosa.",
       "answer": "false",
       "explanation": "-"
     },
@@ -616,21 +616,21 @@
     {
       "id": "q88",
       "type": "true_false",
-      "prompt": "The migrating motor complex (MMC) occurs primarily during the digestive phase after a meal to mix food with pancreatic secretions and bile.",
+      "prompt": "The migrating motor complex occurs primarily during the digestive phase after a meal to mix food with pancreatic secretions and bile.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q89",
       "type": "true_false",
-      "prompt": "Growth hormone (GH) stimulates the liver to produce insulin-like growth factor 1 (IGF-1), which mediates most of the growth-promoting effects of GH on skeletal tissue.",
+      "prompt": "Growth hormone stimulates the liver to produce insulin-like growth factor 1, which mediates most of the growth-promoting effects of GH on skeletal tissue.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q90",
       "type": "true_false",
-      "prompt": "Aldosterone acts on the principal cells of the collecting duct to increase the transcription of epithelial sodium channels (ENaC) and basolateral Na^+-K^+ ATPase pumps, resulting in sodium retention and potassium wasting.",
+      "prompt": "Aldosterone acts on the principal cells of the collecting duct to increase the transcription of epithelial sodium channels and basolateral Na^+-K^+ ATPase pumps, resulting in sodium retention and potassium wasting.",
       "answer": "true",
       "explanation": "-"
     },
@@ -665,14 +665,14 @@
     {
       "id": "q95",
       "type": "true_false",
-      "prompt": "In males, LH stimulates Leydig cells to secrete testosterone, which then acts locally on Sertoli cells to support spermatogenesis and systemically to inhibit LH release via negative feedback on both the hypothalamus and anterior pituitary.",
-      "answer": "true",
+      "prompt": "In males, LH stimulates Leydig cells to secrete testosterone, which acts on developing germ cells to initiate and maintain spermatogenesis.",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q96",
       "type": "true_false",
-      "prompt": "During moderate-intensity exercise, arterial PO2 and PCO2 do not change significantly from resting levels because alveolar ventilation increases in direct proportion to the increase in metabolic rate.",
+      "prompt": "During moderate-intensity exercise, arterial P_(O2) and P_(CO2) do not change significantly from resting levels because alveolar ventilation increases in direct proportion to the increase in metabolic rate.",
       "answer": "true",
       "explanation": "-"
     },
@@ -700,7 +700,7 @@
     {
       "id": "q100",
       "type": "true_false",
-      "prompt": "In a patient presenting with an arterial blood pH of 7.24, HCO_3^- of 15 mEq/L, and PaCO2 of 35 mmHg, the primary disorder is a metabolic acidosis, and the respiratory compensation is fully adequate according to Winters' formula.",
+      "prompt": "In a patient presenting with an arterial blood pH of 7.24, HCO_3^- of 15 mEq/L, and P_(aCO2) of 35 mmHg, the primary disorder is a metabolic acidosis, and the respiratory compensation is fully adequate according to Winters' formula.",
       "answer": "false",
       "explanation": "-"
     }

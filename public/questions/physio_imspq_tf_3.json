@@ -14,7 +14,7 @@
     {
       "id": "q2",
       "type": "true_false",
-      "prompt": "Cholera toxin causes persistent activation of adenylyl cyclase by ADP-ribosylating the alpha subunit of Gs, which inhibits its intrinsic GTPase activity and prevents it from reassociating with the beta-gamma subunits.",
+      "prompt": "Cholera toxin causes persistent activation of adenylyl cyclase by ADP-ribosylating the alpha subunit of G_s, which inhibits its intrinsic GTPase activity and prevents it from reassociating with the beta-gamma subunits.",
       "answer": "true",
       "explanation": "-"
     },
@@ -35,7 +35,7 @@
     {
       "id": "q5",
       "type": "true_false",
-      "prompt": "Unlike skeletal muscle, cardiac and smooth muscle cells lack a T-tubule system, which is why they are entirely dependent on extracellular Ca2+ for contraction.",
+      "prompt": "Unlike skeletal muscle, cardiac and smooth muscle cells lack a T-tubule system, which is why they are entirely dependent on extracellular Ca^(2+) for contraction.",
       "answer": "false",
       "explanation": "-"
     },
@@ -49,7 +49,7 @@
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "In a classic chemical synapse, the influx of Ca2+ into the presynaptic terminal triggers the exocytosis of neurotransmitters by binding to synaptobrevin, a vesicle-associated calcium-binding protein.",
+      "prompt": "In a classic chemical synapse, the influx of Ca^(2+) into the presynaptic terminal triggers the exocytosis of neurotransmitters by binding to synaptobrevin, a vesicle-associated calcium-binding protein.",
       "answer": "false",
       "explanation": "-"
     },
@@ -98,7 +98,7 @@
     {
       "id": "q14",
       "type": "true_false",
-      "prompt": "In a patient with severe acute anxiety who is hyperventilating, the arterial PaCO2 decreases, which causes an acute metabolic acidosis because the loss of CO2 directly drives down the bicarbonate concentration.",
+      "prompt": "In a patient with severe acute anxiety who is hyperventilating, the arterial P_(aCO2) decreases, which causes an acute metabolic acidosis because the loss of CO2 directly drives down the bicarbonate concentration.",
       "answer": "false",
       "explanation": "-"
     },
@@ -112,14 +112,14 @@
     {
       "id": "q16",
       "type": "true_false",
-      "prompt": "An increase in temperature, partial pressure of CO2 (PCO2), and 2,3-BPG all shift the oxygen-hemoglobin dissociation curve to the right, which decreases the affinity of hemoglobin for oxygen and increases P50.",
+      "prompt": "An increase in temperature, partial pressure of CO2 (P_(CO2)), and 2,3-BPG all shift the oxygen-hemoglobin dissociation curve to the right, which decreases the affinity of hemoglobin for oxygen and increases P50.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q17",
       "type": "true_false",
-      "prompt": "The peripheral chemoreceptors in the carotid bodies are highly sensitive to changes in arterial PaO2, PaCO2, and pH, whereas the central chemoreceptors do not respond directly to changes in arterial PaO2.",
+      "prompt": "The peripheral chemoreceptors in the carotid bodies are highly sensitive to changes in arterial PaO2, P_(aCO2), and pH, whereas the central chemoreceptors do not respond directly to changes in arterial PaO2.",
       "answer": "true",
       "explanation": "-"
     },
@@ -287,7 +287,7 @@
     {
       "id": "q41",
       "type": "true_false",
-      "prompt": "A decrease in extracellular Ca2+ concentration is sensed by calcium-sensing receptors (CaSR) on parathyroid chief cells, which relieves tonic inhibition and stimulates the exocytosis of preformed PTH.",
+      "prompt": "A decrease in extracellular Ca^(2+) concentration is sensed by calcium-sensing receptors (CaSR) on parathyroid chief cells, which relieves tonic inhibition and stimulates the exocytosis of preformed PTH.",
       "answer": "true",
       "explanation": "-"
     },
@@ -343,7 +343,7 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "If a patient has a metabolic acidosis with an arterial pH of 7.20 and a serum HCO_3^- of 12 mEq/L, the predicted compensatory PaCO2 according to Winters' formula (PaCO2 = 1.5 * [HCO_3^-] + 8 +/- 2) is between 24 and 28 mmHg.",
+      "prompt": "If a patient has a metabolic acidosis with an arterial pH of 7.20 and a serum HCO_3^- of 12 mEq/L, the predicted compensatory P_(aCO2) according to Winters' formula (P_(aCO2) = 1.5 * [HCO_3^-] + 8 +/- 2) is between 24 and 28 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -378,7 +378,7 @@
     {
       "id": "q54",
       "type": "true_false",
-      "prompt": "In cardiac muscle, the force of contraction can be graded by varying the amount of intracellular Ca2+ released during the calcium-induced calcium release (CICR) process.",
+      "prompt": "In cardiac muscle, the force of contraction can be graded by varying the amount of intracellular Ca^(2+) released during the calcium-induced calcium release (CICR) process.",
       "answer": "true",
       "explanation": "-"
     },
@@ -448,14 +448,14 @@
     {
       "id": "q64",
       "type": "true_false",
-      "prompt": "The functional residual capacity (FRC) acts as an oxygen buffer, preventing large fluctuations in arterial PO2 between inspiration and expiration.",
+      "prompt": "The functional residual capacity (FRC) acts as an oxygen buffer, preventing large fluctuations in arterial P_(O2) between inspiration and expiration.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q65",
       "type": "true_false",
-      "prompt": "In a patient with a normal PaCO2 of 40 mmHg and a normal dead space, doubling alveolar ventilation will double the PaCO2 to 80 mmHg.",
+      "prompt": "In a patient with a normal P_(aCO2) of 40 mmHg and a normal dead space, doubling alveolar ventilation will double the P_(aCO2) to 80 mmHg.",
       "answer": "false",
       "explanation": "-"
     },
@@ -476,7 +476,7 @@
     {
       "id": "q68",
       "type": "true_false",
-      "prompt": "At high altitudes, the primary driver for hyperventilation is the stimulation of peripheral chemoreceptors by the low arterial PO2, which overrides the inhibitory effect of the resulting respiratory alkalosis.",
+      "prompt": "At high altitudes, the primary driver for hyperventilation is the stimulation of peripheral chemoreceptors by the low arterial P_(O2), which overrides the inhibitory effect of the resulting respiratory alkalosis.",
       "answer": "true",
       "explanation": "-"
     },

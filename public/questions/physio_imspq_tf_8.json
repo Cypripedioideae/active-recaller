@@ -7,7 +7,7 @@
     {
       "id": "q1",
       "type": "true_false",
-      "prompt": "Under physiological conditions, the intracellular concentration of free Mg2+ is significantly higher than the intracellular concentration of free Ca2+.",
+      "prompt": "Under physiological conditions, the intracellular concentration of free Mg2+ is significantly higher than the intracellular concentration of free Ca^(2+).",
       "answer": "true",
       "explanation": "-"
     },
@@ -21,7 +21,7 @@
     {
       "id": "q3",
       "type": "true_false",
-      "prompt": "In skeletal muscle, the Ryanodine receptor (RyR1) acts as a ligand-gated calcium channel that must be opened by extracellular Ca2+ entering through the L-type calcium channel during depolarization.",
+      "prompt": "In skeletal muscle, the Ryanodine receptor (RyR1) acts as a ligand-gated calcium channel that must be opened by extracellular Ca^(2+) entering through the L-type calcium channel during depolarization.",
       "answer": "false",
       "explanation": "-"
     },
@@ -105,7 +105,7 @@
     {
       "id": "q15",
       "type": "true_false",
-      "prompt": "If a patient breathing room air at sea level has a PaCO2 of 40 mmHg and a PaO2 of 50 mmHg, their Alveolar-arterial (A-a) oxygen gradient must be elevated, indicating a ventilation-perfusion mismatch, shunt, or diffusion barrier.",
+      "prompt": "If a patient breathing room air at sea level has a P_(aCO2) of 40 mmHg and a PaO2 of 50 mmHg, their Alveolar-arterial (A-a) oxygen gradient must be elevated, indicating a ventilation-perfusion mismatch, shunt, or diffusion barrier.",
       "answer": "true",
       "explanation": "-"
     },
@@ -119,7 +119,7 @@
     {
       "id": "q17",
       "type": "true_false",
-      "prompt": "Under normal conditions, peripheral chemoreceptors in the carotid bodies contribute only a small fraction of the resting ventilatory drive, but they become the primary drivers of ventilation when arterial PO2 drops below 60 mmHg.",
+      "prompt": "Under normal conditions, peripheral chemoreceptors in the carotid bodies contribute only a small fraction of the resting ventilatory drive, but they become the primary drivers of ventilation when arterial P_(O2) drops below 60 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -336,7 +336,7 @@
     {
       "id": "q48",
       "type": "true_false",
-      "prompt": "In a patient with metabolic acidosis, respiratory compensation is immediate, and the expected PaCO2 can be calculated using Winters' formula (PaCO2 = 1.5 * [HCO_3^-] + 8 +/- 2); however, the respiratory system can never compensate enough to return the arterial pH completely to 7.40.",
+      "prompt": "In a patient with metabolic acidosis, respiratory compensation is immediate, and the expected P_(aCO2) can be calculated using Winters' formula (P_(aCO2) = 1.5 * [HCO_3^-] + 8 +/- 2); however, the respiratory system can never compensate enough to return the arterial pH completely to 7.40.",
       "answer": "true",
       "explanation": "-"
     },
@@ -371,14 +371,14 @@
     {
       "id": "q53",
       "type": "true_false",
-      "prompt": "The Na^+-Ca2+ exchanger (NCX) utilizes the energy of the Na^+ gradient to pump Ca2+ out of the cell with a stoichiometry of 3 Na^+ ions per 1 Ca2+ ion, which means its operation is electroneutral and unaffected by changes in membrane potential.",
+      "prompt": "The Na^+-Ca^(2+) exchanger (NCX) utilizes the energy of the Na^+ gradient to pump Ca^(2+) out of the cell with a stoichiometry of 3 Na^+ ions per 1 Ca^(2+) ion, which means its operation is electroneutral and unaffected by changes in membrane potential.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q54",
       "type": "true_false",
-      "prompt": "In cardiac muscle, the ryanodine receptor (RyR2) is physically coupled to the L-type Ca2+ channel (DHPR) in the T-tubule membrane, which allows for mechanical coupling-induced Ca2+ release during excitation-contraction coupling.",
+      "prompt": "In cardiac muscle, the ryanodine receptor (RyR2) is physically coupled to the L-type Ca^(2+) channel (DHPR) in the T-tubule membrane, which allows for mechanical coupling-induced Ca^(2+) release during excitation-contraction coupling.",
       "answer": "false",
       "explanation": "-"
     },
@@ -399,7 +399,7 @@
     {
       "id": "q57",
       "type": "true_false",
-      "prompt": "Under physiological conditions, an increase in extracellular Ca2+ concentration (hypercalcemia) depolarizes the resting membrane potential of neurons, bringing them closer to threshold and increasing overall neuromuscular excitability.",
+      "prompt": "Under physiological conditions, an increase in extracellular Ca^(2+) concentration (hypercalcemia) depolarizes the resting membrane potential of neurons, bringing them closer to threshold and increasing overall neuromuscular excitability.",
       "answer": "false",
       "explanation": "-"
     },
@@ -455,14 +455,14 @@
     {
       "id": "q65",
       "type": "true_false",
-      "prompt": "A patient breathing room air at sea level (barometric pressure = 760 mmHg, water vapor pressure = 47 mmHg) has a PaCO2 of 40 mmHg and an arterial PaO2 of 85 mmHg. If their respiratory exchange ratio is 0.8, their alveolar-arterial (A-a) oxygen gradient is 15 mmHg.",
+      "prompt": "A patient breathing room air at sea level (barometric pressure = 760 mmHg, water vapor pressure = 47 mmHg) has a P_(aCO2) of 40 mmHg and an arterial PaO2 of 85 mmHg. If their respiratory exchange ratio is 0.8, their alveolar-arterial (A-a) oxygen gradient is 15 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q66",
       "type": "true_false",
-      "prompt": "Hyperventilation decreases the arterial PaCO2, which increases the proportion of ionized Ca2+ in the plasma because hydrogen ions compete with calcium for binding sites on albumin.",
+      "prompt": "Hyperventilation decreases the arterial P_(aCO2), which increases the proportion of ionized Ca^(2+) in the plasma because hydrogen ions compete with calcium for binding sites on albumin.",
       "answer": "false",
       "explanation": "-"
     },
@@ -497,7 +497,7 @@
     {
       "id": "q71",
       "type": "true_false",
-      "prompt": "The phase 0 upstroke of the cardiac action potential in the sinoatrial (SA) node is mediated by the influx of Ca2+ through L-type Ca2+ channels, whereas in ventricular muscle, it is mediated by Na^+ influx through fast voltage-gated Na^+ channels.",
+      "prompt": "The phase 0 upstroke of the cardiac action potential in the sinoatrial (SA) node is mediated by the influx of Ca^(2+) through L-type Ca^(2+) channels, whereas in ventricular muscle, it is mediated by Na^+ influx through fast voltage-gated Na^+ channels.",
       "answer": "true",
       "explanation": "-"
     },
@@ -644,7 +644,7 @@
     {
       "id": "q92",
       "type": "true_false",
-      "prompt": "Active vitamin D (1,25-dihydroxycholecalciferol) increases the intestinal absorption of calcium by upregulating the expression of apical calcium channels (TRPV6), intracellular calbindin, and basolateral Ca2+-ATPase (PMCA).",
+      "prompt": "Active vitamin D (1,25-dihydroxycholecalciferol) increases the intestinal absorption of calcium by upregulating the expression of apical calcium channels (TRPV6), intracellular calbindin, and basolateral Ca^(2+)-ATPase (PMCA).",
       "answer": "true",
       "explanation": "-"
     },
@@ -693,7 +693,7 @@
     {
       "id": "q99",
       "type": "true_false",
-      "prompt": "In a patient presenting with an arterial blood pH of 7.20, HCO_3^- of 12 mEq/L, and PaCO2 of 26 mmHg, the primary disorder is a metabolic acidosis, and the respiratory compensation is fully adequate according to Winters' formula.",
+      "prompt": "In a patient presenting with an arterial blood pH of 7.20, HCO_3^- of 12 mEq/L, and P_(aCO2) of 26 mmHg, the primary disorder is a metabolic acidosis, and the respiratory compensation is fully adequate according to Winters' formula.",
       "answer": "true",
       "explanation": "-"
     },

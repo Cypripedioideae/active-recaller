@@ -98,7 +98,7 @@
     {
       "id": "q14",
       "type": "true_false",
-      "prompt": "If a patient breathing room air at sea level has a PaCO2 of 32 mmHg and an arterial PaO2 of 100 mmHg, their alveolar-arterial (A-a) oxygen gradient is approximately 10 mmHg, assuming a respiratory exchange ratio of 0.8.",
+      "prompt": "If a patient breathing room air at sea level has a P_(aCO2) of 32 mmHg and an arterial PaO2 of 100 mmHg, their alveolar-arterial (A-a) oxygen gradient is approximately 10 mmHg, assuming a respiratory exchange ratio of 0.8.",
       "answer": "true",
       "explanation": "-"
     },
@@ -119,7 +119,7 @@
     {
       "id": "q17",
       "type": "true_false",
-      "prompt": "The central chemoreceptors are directly stimulated by a decrease in arterial PO2 below 60 mmHg, providing the primary drive to increase ventilation during acute hypoxia.",
+      "prompt": "The central chemoreceptors are directly stimulated by a decrease in arterial P_(O2) below 60 mmHg, providing the primary drive to increase ventilation during acute hypoxia.",
       "answer": "false",
       "explanation": "-"
     },
@@ -329,7 +329,7 @@
     {
       "id": "q47",
       "type": "true_false",
-      "prompt": "During moderate-intensity steady-state exercise, the arterial partial pressure of oxygen (PaO2) and partial pressure of carbon dioxide (PaCO2) both change significantly from their resting baseline values due to a delay in respiratory matching.",
+      "prompt": "During moderate-intensity steady-state exercise, the arterial partial pressure of oxygen (PaO2) and partial pressure of carbon dioxide (P_(aCO2)) both change significantly from their resting baseline values due to a delay in respiratory matching.",
       "answer": "false",
       "explanation": "-"
     },
@@ -350,7 +350,7 @@
     {
       "id": "q50",
       "type": "true_false",
-      "prompt": "In a patient with metabolic alkalosis, the respiratory compensation is immediate hyperventilation, which can elevate the PaCO2 up to 80 mmHg to completely restore the arterial pH to 7.40.",
+      "prompt": "In a patient with metabolic alkalosis, the respiratory compensation is immediate hyperventilation, which can elevate the P_(aCO2) up to 80 mmHg to completely restore the arterial pH to 7.40.",
       "answer": "false",
       "explanation": "-"
     },
@@ -462,7 +462,7 @@
     {
       "id": "q66",
       "type": "true_false",
-      "prompt": "If a patient breathing room air at sea level (PIO2 = 150 mmHg) has an arterial PaCO2 of 40 mmHg and a respiratory exchange ratio of 0.8, and their measured arterial PaO2 is 85 mmHg, their alveolar-arterial (A-a) oxygen gradient is 15 mmHg.",
+      "prompt": "If a patient breathing room air at sea level (PIO2 = 150 mmHg) has an arterial P_(aCO2) of 40 mmHg and a respiratory exchange ratio of 0.8, and their measured arterial PaO2 is 85 mmHg, their alveolar-arterial (A-a) oxygen gradient is 15 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -476,21 +476,21 @@
     {
       "id": "q68",
       "type": "true_false",
-      "prompt": "Peripheral chemoreceptors located in the carotid and aortic bodies are stimulated by decreases in arterial PO2, increases in arterial PCO2, and decreases in arterial pH, whereas central chemoreceptors are stimulated primarily by decreases in the pH of the brain interstitial fluid.",
+      "prompt": "Peripheral chemoreceptors located in the carotid and aortic bodies are stimulated by decreases in arterial P_(O2), increases in arterial P_(CO2), and decreases in arterial pH, whereas central chemoreceptors are stimulated primarily by decreases in the pH of the brain interstitial fluid.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q69",
       "type": "true_false",
-      "prompt": "According to the Frank-Starling law of the heart, an increase in end-diastolic volume increases the force of contraction because the stretch of the cardiac myocytes causes a significant influx of extracellular Ca2+ through voltage-gated channels.",
+      "prompt": "According to the Frank-Starling law of the heart, an increase in end-diastolic volume increases the force of contraction because the stretch of the cardiac myocytes causes a significant influx of extracellular Ca^(2+) through voltage-gated channels.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q70",
       "type": "true_false",
-      "prompt": "The phase 0 upstroke of the cardiac action potential in the SA node is mediated by Ca2+ influx through L-type Ca2+ channels, whereas in ventricular myocytes, it is mediated by Na^+ influx through fast voltage-gated Na^+ channels.",
+      "prompt": "The phase 0 upstroke of the cardiac action potential in the SA node is mediated by Ca^(2+) influx through L-type Ca^(2+) channels, whereas in ventricular myocytes, it is mediated by Na^+ influx through fast voltage-gated Na^+ channels.",
       "answer": "true",
       "explanation": "-"
     },
@@ -546,7 +546,7 @@
     {
       "id": "q78",
       "type": "true_false",
-      "prompt": "Loop diuretics like furosemide inhibit the NKCC2 cotransporter in the thick ascending limb, which abolishes the lumen-positive transepithelial potential and leads to an increased urinary excretion of both Ca2+ and Mg2+.",
+      "prompt": "Loop diuretics like furosemide inhibit the NKCC2 cotransporter in the thick ascending limb, which abolishes the lumen-positive transepithelial potential and leads to an increased urinary excretion of both Ca^(2+) and Mg2+.",
       "answer": "true",
       "explanation": "-"
     },

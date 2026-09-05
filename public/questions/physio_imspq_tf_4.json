@@ -14,7 +14,7 @@
     {
       "id": "q2",
       "type": "true_false",
-      "prompt": "The sodium-calcium exchanger (NCX) is a secondary active transporter that utilizes the electrochemical gradient of Na^+ to export Ca2+ from the cell, and its activity is directly enhanced by digitalis (digoxin).",
+      "prompt": "The sodium-calcium exchanger (NCX) is a secondary active transporter that utilizes the electrochemical gradient of Na^+ to export Ca^(2+) from the cell, and its activity is directly enhanced by digitalis (digoxin).",
       "answer": "false",
       "explanation": "-"
     },
@@ -49,7 +49,7 @@
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "Activation of beta-2 adrenergic receptors on vascular smooth muscle causes vasodilation via a Gs-coupled pathway that increases cAMP, which activates protein kinase A (PKA) and subsequently phosphorylates and inhibits myosin light chain kinase (MLCK).",
+      "prompt": "Activation of beta-2 adrenergic receptors on vascular smooth muscle causes vasodilation via a G_s-coupled pathway that increases cAMP, which activates protein kinase A (PKA) and subsequently phosphorylates and inhibits myosin light chain kinase (MLCK).",
       "answer": "true",
       "explanation": "-"
     },
@@ -112,7 +112,7 @@
     {
       "id": "q16",
       "type": "true_false",
-      "prompt": "Patients with chronic, severe hypercapnia (such as in end-stage COPD) lose their central chemoreceptor sensitivity to CO2, making their ventilatory drive entirely dependent on hypoxic stimulation of peripheral chemoreceptors by low arterial PO2.",
+      "prompt": "Patients with chronic, severe hypercapnia (such as in end-stage COPD) lose their central chemoreceptor sensitivity to CO2, making their ventilatory drive entirely dependent on hypoxic stimulation of peripheral chemoreceptors by low arterial P_(O2).",
       "answer": "true",
       "explanation": "-"
     },
@@ -175,7 +175,7 @@
     {
       "id": "q25",
       "type": "true_false",
-      "prompt": "Loop diuretics such as furosemide act by inhibiting the Na^+-K^+-2Cl^- (NKCC2) cotransporter in the thick ascending limb of the loop of Henle, which abolishes the lumen-positive transepithelial potential and increases the urinary excretion of Ca2+ and Mg2+.",
+      "prompt": "Loop diuretics such as furosemide act by inhibiting the Na^+-K^+-2Cl^- (NKCC2) cotransporter in the thick ascending limb of the loop of Henle, which abolishes the lumen-positive transepithelial potential and increases the urinary excretion of Ca^(2+) and Mg2+.",
       "answer": "true",
       "explanation": "-"
     },
@@ -294,7 +294,7 @@
     {
       "id": "q42",
       "type": "true_false",
-      "prompt": "Glucagon is a polypeptide hormone that stimulates hepatic glycogenolysis and gluconeogenesis via a Gs-coupled pathway that increases cAMP and activates protein kinase A, and its secretion is potently inhibited by elevated blood glucose and insulin.",
+      "prompt": "Glucagon is a polypeptide hormone that stimulates hepatic glycogenolysis and gluconeogenesis via a G_s-coupled pathway that increases cAMP and activates protein kinase A, and its secretion is potently inhibited by elevated blood glucose and insulin.",
       "answer": "true",
       "explanation": "-"
     },
@@ -322,7 +322,7 @@
     {
       "id": "q46",
       "type": "true_false",
-      "prompt": "During strenuous anaerobic exercise, the accumulation of lactic acid in the muscles causes a metabolic acidosis, which is compensated for by an increase in alveolar ventilation that reduces PaCO2 below normal.",
+      "prompt": "During strenuous anaerobic exercise, the accumulation of lactic acid in the muscles causes a metabolic acidosis, which is compensated for by an increase in alveolar ventilation that reduces P_(aCO2) below normal.",
       "answer": "true",
       "explanation": "-"
     },
@@ -343,7 +343,7 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "A patient has the following arterial blood gas results: pH = 7.52, PaCO2 = 25 mmHg, HCO_3^- = 20 mEq/L. This represents an acute respiratory alkalosis with partial metabolic compensation.",
+      "prompt": "A patient has the following arterial blood gas results: pH = 7.52, P_(aCO2) = 25 mmHg, HCO_3^- = 20 mEq/L. This represents an acute respiratory alkalosis with partial metabolic compensation.",
       "answer": "true",
       "explanation": "-"
     },
@@ -378,7 +378,7 @@
     {
       "id": "q54",
       "type": "true_false",
-      "prompt": "In smooth muscle, contraction can be initiated in the absence of an action potential or membrane depolarization via hormone-induced, IP3-mediated calcium release from the sarcoplasmic reticulum.",
+      "prompt": "In smooth muscle, contraction can be initiated in the absence of an action potential or membrane depolarization via hormone-induced, IP_3-mediated calcium release from the sarcoplasmic reticulum.",
       "answer": "true",
       "explanation": "-"
     },
@@ -399,7 +399,7 @@
     {
       "id": "q57",
       "type": "true_false",
-      "prompt": "During olfactory transduction, the binding of an odorant to its receptor activates adenylyl cyclase to increase intracellular cAMP, which directly opens cyclic nucleotide-gated channels to allow depolarizing Na^+ and Ca2+ influx.",
+      "prompt": "During olfactory transduction, the binding of an odorant to its receptor activates adenylyl cyclase to increase intracellular cAMP, which directly opens cyclic nucleotide-gated channels to allow depolarizing Na^+ and Ca^(2+) influx.",
       "answer": "true",
       "explanation": "-"
     },
@@ -420,7 +420,7 @@
     {
       "id": "q60",
       "type": "true_false",
-      "prompt": "Activation of presynaptic alpha-2 adrenergic receptors on sympathetic nerve terminals stimulates a Gs-coupled pathway that increases norepinephrine release via a positive feedback loop.",
+      "prompt": "Activation of presynaptic alpha-2 adrenergic receptors on sympathetic nerve terminals stimulates a G_s-coupled pathway that increases norepinephrine release via a positive feedback loop.",
       "answer": "false",
       "explanation": "-"
     },
@@ -469,7 +469,7 @@
     {
       "id": "q67",
       "type": "true_false",
-      "prompt": "If a patient has a tidal volume of 600 mL, a respiratory rate of 10 breaths/minute, an arterial PaCO2 of 40 mmHg, and a mixed expired PECO2 of 30 mmHg, their physiological dead space is 150 mL and their alveolar ventilation is 4.5 L/minute.",
+      "prompt": "If a patient has a tidal volume of 600 mL, a respiratory rate of 10 breaths/minute, an arterial P_(aCO2) of 40 mmHg, and a mixed expired PECO2 of 30 mmHg, their physiological dead space is 150 mL and their alveolar ventilation is 4.5 L/minute.",
       "answer": "true",
       "explanation": "-"
     },
@@ -623,7 +623,7 @@
     {
       "id": "q89",
       "type": "true_false",
-      "prompt": "Thyroid-stimulating hormone (TSH) stimulates the thyroid gland to produce thyroid hormones primarily by activating Gs-coupled receptors on follicular cells, which increases intracellular cAMP levels.",
+      "prompt": "Thyroid-stimulating hormone (TSH) stimulates the thyroid gland to produce thyroid hormones primarily by activating G_s-coupled receptors on follicular cells, which increases intracellular cAMP levels.",
       "answer": "true",
       "explanation": "-"
     },
@@ -672,7 +672,7 @@
     {
       "id": "q96",
       "type": "true_false",
-      "prompt": "During moderate-intensity aerobic exercise, arterial PaCO2 falls significantly below resting levels because the respiratory centers are overstimulated by joint and muscle proprioceptors.",
+      "prompt": "During moderate-intensity aerobic exercise, arterial P_(aCO2) falls significantly below resting levels because the respiratory centers are overstimulated by joint and muscle proprioceptors.",
       "answer": "false",
       "explanation": "-"
     },
