@@ -532,7 +532,7 @@
     {
       "id": "q76",
       "type": "true_false",
-      "prompt": "The filtration fraction (FF) represents the fraction of renal blood flow that is filtered across the glomerular capillaries into Bowman\u2019s space.",
+      "prompt": "The filtration fraction (FF) represents the fraction of renal blood flow that is filtered across the glomerular capillaries into Bowman's space.",
       "answer": "false",
       "explanation": "-"
     },

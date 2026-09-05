@@ -91,7 +91,7 @@
     {
       "id": "q13",
       "type": "true_false",
-      "prompt": "If a patient\u2019s anatomical dead space is 150 mL, their tidal volume is 500 mL, and their respiratory rate is 12 breaths/minute, their minute ventilation is 6.0 L/minute and their alveolar ventilation is 3.6 L/minute.",
+      "prompt": "If a patient's anatomical dead space is 150 mL, their tidal volume is 500 mL, and their respiratory rate is 12 breaths/minute, their minute ventilation is 6.0 L/minute and their alveolar ventilation is 3.6 L/minute.",
       "answer": "false",
       "explanation": "-"
     },
@@ -147,7 +147,7 @@
     {
       "id": "q21",
       "type": "true_false",
-      "prompt": "If a patient\u2019s heart rate is 100 beats/minute, end-diastolic volume is 140 mL, and end-systolic volume is 60 mL, their ejection fraction is approximately 57% and their cardiac output is 8.0 L/minute.",
+      "prompt": "If a patient's heart rate is 100 beats/minute, end-diastolic volume is 140 mL, and end-systolic volume is 60 mL, their ejection fraction is approximately 57% and their cardiac output is 8.0 L/minute.",
       "answer": "true",
       "explanation": "-"
     },
@@ -189,7 +189,7 @@
     {
       "id": "q27",
       "type": "true_false",
-      "prompt": "If a patient\u2019s urine flow rate is 2.0 mL/minute, urine creatinine is 90 mg/dL, and plasma creatinine is 1.2 mg/dL, their creatinine clearance is 150 mL/minute.",
+      "prompt": "If a patient's urine flow rate is 2.0 mL/minute, urine creatinine is 90 mg/dL, and plasma creatinine is 1.2 mg/dL, their creatinine clearance is 150 mL/minute.",
       "answer": "true",
       "explanation": "-"
     },
@@ -455,7 +455,7 @@
     {
       "id": "q65",
       "type": "true_false",
-      "prompt": "If a patient\u2019s anatomical dead space is 150 mL, and they decrease their tidal volume from 500 mL to 300 mL while doubling their respiratory rate, their total minute ventilation will increase, but their alveolar ventilation will decrease.",
+      "prompt": "If a patient's anatomical dead space is 150 mL, and they decrease their tidal volume from 500 mL to 300 mL while doubling their respiratory rate, their total minute ventilation will increase, but their alveolar ventilation will decrease.",
       "answer": "true",
       "explanation": "-"
     },
@@ -469,7 +469,7 @@
     {
       "id": "q67",
       "type": "true_false",
-      "prompt": "A patient with severe pulmonary emphysema has a highly compliant lung, which makes it easier to inflate but leads to a decreased functional residual capacity (FRC) because the lung\u2019s inward elastic recoil is reduced.",
+      "prompt": "A patient with severe pulmonary emphysema has a highly compliant lung, which makes it easier to inflate but leads to a decreased functional residual capacity (FRC) because the lung's inward elastic recoil is reduced.",
       "answer": "false",
       "explanation": "-"
     },
@@ -490,7 +490,7 @@
     {
       "id": "q70",
       "type": "true_false",
-      "prompt": "If a patient\u2019s cardiac output is 5 L/minute and their heart rate is 100 beats/minute, their stroke volume is 50 mL; if their end-diastolic volume is 150 mL, their ejection fraction is approximately 33%.",
+      "prompt": "If a patient's cardiac output is 5 L/minute and their heart rate is 100 beats/minute, their stroke volume is 50 mL; if their end-diastolic volume is 150 mL, their ejection fraction is approximately 33%.",
       "answer": "true",
       "explanation": "-"
     },
@@ -532,7 +532,7 @@
     {
       "id": "q76",
       "type": "true_false",
-      "prompt": "If a patient\u2019s GFR is 100 mL/minute, their plasma sodium is 140 mEq/L, and their urinary sodium excretion rate is 1.4 mEq/minute, their fractional excretion of sodium (FENa) is exactly 10%.",
+      "prompt": "If a patient's GFR is 100 mL/minute, their plasma sodium is 140 mEq/L, and their urinary sodium excretion rate is 1.4 mEq/minute, their fractional excretion of sodium (FENa) is exactly 10%.",
       "answer": "true",
       "explanation": "-"
     },

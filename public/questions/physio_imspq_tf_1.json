@@ -511,7 +511,7 @@
     {
       "id": "q73",
       "type": "true_false",
-      "prompt": "According to Poiseuille\u2019s law, if the radius of a blood vessel is reduced by 50%, the resistance to blood flow increases by 16-fold, which requires a 16-fold increase in the pressure gradient to maintain the original flow rate.",
+      "prompt": "According to Poiseuille's law, if the radius of a blood vessel is reduced by 50%, the resistance to blood flow increases by 16-fold, which requires a 16-fold increase in the pressure gradient to maintain the original flow rate.",
       "answer": "true",
       "explanation": "-"
     },

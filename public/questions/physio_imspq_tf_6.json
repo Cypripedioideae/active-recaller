@@ -574,7 +574,7 @@
     {
       "id": "q82",
       "type": "true_false",
-      "prompt": "Cimetidine, an H2 receptor antagonist, reduces gastrin-stimulated gastric acid secretion because histamine acts as a permissive and synergistic mediator of gastrin\u2019s action on parietal cells.",
+      "prompt": "Cimetidine, an H2 receptor antagonist, reduces gastrin-stimulated gastric acid secretion because histamine acts as a permissive and synergistic mediator of gastrin's action on parietal cells.",
       "answer": "true",
       "explanation": "-"
     },

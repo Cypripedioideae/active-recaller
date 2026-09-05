@@ -14,14 +14,14 @@
     {
       "id": "q2",
       "type": "true_false",
-      "prompt": "The sodium-calcium exchanger (NCX) is a secondary active transporter that utilizes the electrochemical gradient of Na^+ to export Ca^(2+) from the cell, and its activity is directly enhanced by digitalis (digoxin).",
+      "prompt": "The sodium-calcium exchanger (NCX) is a secondary active transporter that utilizes the electrochemical gradient of Na^+ to export Ca^(2+) from the cell, and its activity is directly enhanced by digitalis.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q3",
       "type": "true_false",
-      "prompt": "In smooth muscle, the phosphorylation of light chains on myosin by myosin light chain kinase (MLCK) is required to initiate contraction, whereas in skeletal muscle, the phosphorylation of myosin light chains acts to inhibit cross-bridge cycling.",
+      "prompt": "In smooth muscle, the phosphorylation of light chains on myosin by myosin light chain kinase is required to initiate contraction, whereas in skeletal muscle, the phosphorylation of myosin light chains acts to inhibit cross-bridge cycling.",
       "answer": "false",
       "explanation": "-"
     },
@@ -49,7 +49,7 @@
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "Activation of beta-2 adrenergic receptors on vascular smooth muscle causes vasodilation via a G_s-coupled pathway that increases cAMP, which activates protein kinase A (PKA) and subsequently phosphorylates and inhibits myosin light chain kinase (MLCK).",
+      "prompt": "Activation of beta-2 adrenergic receptors on vascular smooth muscle causes vasodilation via a G_s-coupled pathway that increases cAMP, which activates protein kinase A (PKA) and subsequently phosphorylates and inhibits myosin light chain kinase.",
       "answer": "true",
       "explanation": "-"
     },
@@ -84,7 +84,7 @@
     {
       "id": "q12",
       "type": "true_false",
-      "prompt": "The pupillary light reflex is mediated by parasympathetic fibers traveling in the oculomotor nerve (CN III) that synapse in the ciliary ganglion and release acetylcholine onto muscarinic M3 receptors on the pupillary dilator muscle.",
+      "prompt": "The pupillary light reflex is mediated by parasympathetic fibers traveling in the oculomotor nerve that synapse in the ciliary ganglion and release acetylcholine onto muscarinic M_3 receptors on the pupillary dilator muscle.",
       "answer": "false",
       "explanation": "-"
     },

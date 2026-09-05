@@ -84,7 +84,7 @@
     {
       "id": "q12",
       "type": "true_false",
-      "prompt": "Parkinson\u2019s disease is characterized by a loss of dopaminergic neurons in the substantia nigra pars compacta, which selectively increases the activity of the direct pathway while inhibiting the indirect pathway of the basal ganglia.",
+      "prompt": "Parkinson's disease is characterized by a loss of dopaminergic neurons in the substantia nigra pars compacta, which selectively increases the activity of the direct pathway while inhibiting the indirect pathway of the basal ganglia.",
       "answer": "false",
       "explanation": "-"
     },
@@ -98,7 +98,7 @@
     {
       "id": "q14",
       "type": "true_false",
-      "prompt": "In a patient with severe acute anxiety who is hyperventilating, the arterial P_(aCO2) decreases, which causes an acute metabolic acidosis because the loss of CO2 directly drives down the bicarbonate concentration.",
+      "prompt": "In a patient with severe acute anxiety who is hyperventilating, the arterial P_(aCO2) decreases, which causes an acute respiratory alkalosis because the loss of CO2 directly drives down the bicarbonate concentration.",
       "answer": "false",
       "explanation": "-"
     },
@@ -176,7 +176,7 @@
       "id": "q25",
       "type": "true_false",
       "prompt": "A substance with a renal clearance equal to the clearance of inulin must be freely filtered at the glomerulus and is neither reabsorbed nor secreted along the tubule.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -189,7 +189,7 @@
     {
       "id": "q27",
       "type": "true_false",
-      "prompt": "Type A intercalated cells in the late distal tubule secrete H^+ via an apical H^+-ATPase and reabsorb HCO_3^- via a basolateral Cl^--HCO_3^- exchanger (AE1) to correct acidosis.",
+      "prompt": "Type A intercalated cells in the collecting secrete H^+ via an apical H^+-ATPase and reabsorb HCO_3^- via a basolateral Cl^--HCO_3^- exchanger (AE1) to correct acidosis.",
       "answer": "true",
       "explanation": "-"
     },
@@ -266,14 +266,14 @@
     {
       "id": "q38",
       "type": "true_false",
-      "prompt": "The posterior pituitary gland (neurohypophysis) synthesizes and secretes oxytocin and ADH directly from its glandular endocrine cells in response to hypothalamic releasing hormones.",
+      "prompt": "The posterior pituitary synthesizes and secretes oxytocin and ADH directly from its glandular endocrine cells in response to hypothalamic releasing hormones.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q39",
       "type": "true_false",
-      "prompt": "Under the influence of ACTH, the rate-limiting step in steroidogenesis across all zones of the adrenal cortex is the conversion of cholesterol to pregnenolone by the enzyme cholesterol desmolase (CYP11A1).",
+      "prompt": "Under the influence of ACTH, the rate-limiting step in steroidogenesis across all zones of the adrenal cortex is the conversion of cholesterol to pregnenolone by the enzyme cholesterol desmolase.",
       "answer": "true",
       "explanation": "-"
     },
@@ -329,7 +329,7 @@
     {
       "id": "q47",
       "type": "true_false",
-      "prompt": "Following an acute moderate hemorrhage, the hematocrit drops immediately due to the loss of whole blood, before any fluid shifts from the interstitial compartment can occur.",
+      "prompt": "Following an acute moderate hemorrhage, the hematocrit drops immediately due to the loss of whole blood.",
       "answer": "false",
       "explanation": "-"
     },
@@ -343,7 +343,7 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "If a patient has a metabolic acidosis with an arterial pH of 7.20 and a serum HCO_3^- of 12 mEq/L, the predicted compensatory P_(aCO2) according to Winters' formula (P_(aCO2) = 1.5 * [HCO_3^-] + 8 +/- 2) is between 24 and 28 mmHg.",
+      "prompt": "If a patient has a metabolic acidosis with an arterial pH of 7.20 and a serum HCO_3^- of 12 mEq/L, the predicted compensatory P_(aCO2) according to Winters' formula is between 24 and 28 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
@@ -504,8 +504,8 @@
     {
       "id": "q72",
       "type": "true_false",
-      "prompt": "During the rapid ejection phase of the cardiac cycle, left ventricular pressure rises above aortic pressure, causing the mitral valve to open.",
-      "answer": "false",
+      "prompt": "During the rapid ejection phase of the cardiac cycle, left ventricular pressure rises above aortic pressure, causing the aortic valve to open.",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -553,7 +553,7 @@
     {
       "id": "q79",
       "type": "true_false",
-      "prompt": "The renal transport maximum (Tm) for glucose is the plasma glucose concentration at which glucose first begins to appear in the urine.",
+      "prompt": "The renal transport maximum for glucose is the plasma glucose concentration at which glucose first begins to appear in the urine.",
       "answer": "false",
       "explanation": "-"
     },
@@ -665,14 +665,14 @@
     {
       "id": "q95",
       "type": "true_false",
-      "prompt": "Prolactin inhibits the secretion of GnRH from the hypothalamus, which explains why hyperprolactinemia (e.g., from a pituitary prolactinoma) can cause hypogonadism, infertility, and amenorrhea.",
+      "prompt": "Prolactin inhibits the secretion of GnRH from the hypothalamus.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q96",
       "type": "true_false",
-      "prompt": "During moderate dynamic exercise, total peripheral resistance (TPR) decreases because the vasodilation in active skeletal muscles overrides the sympathetic vasoconstriction occurring in non-active tissues.",
+      "prompt": "During moderate dynamic exercise, total peripheral resistance decreases because the vasodilation in active skeletal muscles overrides the sympathetic vasoconstriction occurring in non-active tissues.",
       "answer": "true",
       "explanation": "-"
     },
@@ -686,7 +686,7 @@
     {
       "id": "q98",
       "type": "true_false",
-      "prompt": "The baroreceptor reflex is a short-term pressure-regulating system that adjusts heart rate and vascular resistance, but it cannot regulate long-term arterial pressure because the receptors \"reset\" to the new pressure level within days.",
+      "prompt": "The baroreceptor reflex is a long-term pressure-regulating system that adjusts heart rate and vascular resistance.",
       "answer": "true",
       "explanation": "-"
     },
@@ -700,7 +700,7 @@
     {
       "id": "q100",
       "type": "true_false",
-      "prompt": "In a patient with chronic renal failure, the loss of functional nephrons leads to a decrease in active vitamin D production and phosphate retention, resulting in hypocalcemia and secondary hyperparathyroidism.",
+      "prompt": "In a patient with chronic renal failure, hypocalcemia and secondary hyperparathyroidism are present.",
       "answer": "true",
       "explanation": "-"
     }
