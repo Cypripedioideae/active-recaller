@@ -91,7 +91,7 @@
     {
       "id": "q13",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) stimulates the reabsorption of filtered phosphate in the proximal tubule by up-regulating the activity of Na^+-phosphate cotransporters.",
+      "prompt": "Parathyroid hormone  stimulates the reabsorption of filtered phosphate in the proximal tubule by up-regulating the activity of Na^+-phosphate cotransporters.",
       "answer": "false",
       "explanation": "-"
     },

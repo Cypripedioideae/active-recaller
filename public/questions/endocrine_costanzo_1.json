@@ -147,7 +147,7 @@
     {
       "id": "q21",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) coordinates an increase in serum calcium while simultaneously causing an increase in serum phosphate.",
+      "prompt": "Parathyroid hormone  coordinates an increase in serum calcium while simultaneously causing an increase in serum phosphate.",
       "answer": "false",
       "explanation": "-"
     },

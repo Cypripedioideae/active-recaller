@@ -22,13 +22,7 @@
       "id": "q2",
       "type": "mcq",
       "prompt": "During a micropuncture study on a healthy volunteer, a researcher samples tubular fluid from the end of the proximal convoluted tubule. Laboratory analysis reveals that the concentration of inulin in the tubular fluid is 4.0 mg/mL, while the plasma inulin concentration is 1.0 mg/mL. Based on these findings, what percentage of the filtered water remains in the tubule at this point?",
-      "options": [
-        "12.5%",
-        "25%",
-        "50%",
-        "75%",
-        "100%"
-      ],
+      "options": ["12.5%", "25%", "50%", "75%", "100%"],
       "answer": 1,
       "explanation": "-"
     },
@@ -108,7 +102,7 @@
       "prompt": "Following a high-protein meal, there is a significant increase in the filtered load of amino acids. Which of the following mechanisms in the proximal tubule accounts for the subsequent dilation of the afferent arteriole and increase in GFR?",
       "options": [
         "Decreased Na^+/H^+ exchange in the early proximal tubule",
-        "Increased parathyroid hormone (PTH) release in response to amino acids",
+        "Increased parathyroid hormone  release in response to amino acids",
         "Increased Na^+-amino acid cotransport reduces NaCl delivery to the macula densa",
         "Dilation of the efferent arteriole via direct sympathetic inhibition",
         "Inhibition of the Na^+/K^+-ATPase by high intracellular amino acid levels"

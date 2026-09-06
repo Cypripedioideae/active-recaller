@@ -308,7 +308,7 @@
     {
       "id": "q44",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) decreases renal phosphate reabsorption in the proximal tubule by causing the internalization and degradation of apical Na^+-phosphate cotransporters (NaPi-IIa).",
+      "prompt": "Parathyroid hormone  decreases renal phosphate reabsorption in the proximal tubule by causing the internalization and degradation of apical Na^+-phosphate cotransporters (NaPi-IIa).",
       "answer": "true",
       "explanation": "-"
     },

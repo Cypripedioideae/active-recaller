@@ -21,7 +21,7 @@
     {
       "id": "q2",
       "type": "mcq",
-      "prompt": "A 52-year-old woman is found to have a parathyroid adenoma secreting excessive amounts of parathyroid hormone (PTH). Which set of findings would most likely be observed in her clinical laboratory profile?",
+      "prompt": "A 52-year-old woman is found to have a parathyroid adenoma secreting excessive amounts of parathyroid hormone . Which set of findings would most likely be observed in her clinical laboratory profile?",
       "options": [
         "Decreased renal phosphate reabsorption, hypercalcemia, and increased urinary cAMP.",
         "Increased renal phosphate reabsorption, hypocalcemia, and decreased urinary cAMP.",
@@ -91,7 +91,7 @@
     {
       "id": "q7",
       "type": "mcq",
-      "prompt": "A patient with Albright's hereditary osteodystrophy is found to have hypocalcemia and hyperphosphatemia. Laboratory testing reveals that administration of exogenous parathyroid hormone (PTH) fails to increase urinary cAMP or phosphate excretion. What is the molecular basis for this disorder?",
+      "prompt": "A patient with Albright's hereditary osteodystrophy is found to have hypocalcemia and hyperphosphatemia. Laboratory testing reveals that administration of exogenous parathyroid hormone  fails to increase urinary cAMP or phosphate excretion. What is the molecular basis for this disorder?",
       "options": [
         "Congenital absence of parathyroid chief cells.",
         "Autoimmune destruction of the PTH receptors in the proximal tubule.",

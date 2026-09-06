@@ -231,7 +231,7 @@
     {
       "id": "q33",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) increases the renal reabsorption of phosphate in the proximal tubule by up-regulating Na + -phosphate cotransporters.",
+      "prompt": "Parathyroid hormone  increases the renal reabsorption of phosphate in the proximal tubule by up-regulating Na + -phosphate cotransporters.",
       "answer": "false",
       "explanation": "-"
     },

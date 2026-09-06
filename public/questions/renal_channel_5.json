@@ -56,7 +56,7 @@
     {
       "id": "q8",
       "type": "long_answer",
-      "prompt": "Identify the specific effect of Parathyroid Hormone (PTH) on bicarbonate handling in the proximal tubule and the resulting clinical consequence of hyperparathyroidism.",
+      "prompt": "Identify the specific effect of Parathyroid Hormone  on bicarbonate handling in the proximal tubule and the resulting clinical consequence of hyperparathyroidism.",
       "modelAnswer": "PTH binds to basolateral receptors to activate cAMP-dependent pathways that inhibit apical NHE3 and basolateral NBCe1 transporters; logically, this reduces proximal bicarbonate reabsorption, which can result in proximal renal tubular acidosis (Type 2 RTA) and a hyperchloremic metabolic acidosis in states of PTH excess.",
       "explanation": "-"
     },

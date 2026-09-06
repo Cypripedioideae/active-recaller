@@ -14,14 +14,14 @@
     {
       "id": "q2",
       "type": "true_false",
-      "prompt": "The sodium-potassium pump (Na^+-K^+ ATPase) is directly phosphorylated by ATP on its extracellular domain during the transition from the E1 state to the E2 state.",
+      "prompt": "The sodium-potassium pump (Na+-K+ ATPase) is directly phosphorylated by ATP on its extracellular domain during the transition from the E1 state to the E2 state.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q3",
       "type": "true_false",
-      "prompt": "During skeletal muscle contraction, the binding of Ca^(2+) to troponin C induces a conformational change in tropomyosin, which moves tropomyosin into the groove of the thin filament and exposes the myosin-binding sites on actin.",
+      "prompt": "During skeletal muscle contraction, the binding of Ca2+ to troponin C induces a conformational change in tropomyosin, which moves tropomyosin into the groove of the thin filament and exposes the myosin-binding sites on actin.",
       "answer": "true",
       "explanation": "-"
     },
@@ -42,7 +42,7 @@
     {
       "id": "q6",
       "type": "true_false",
-      "prompt": "During the absolute refractory period of a neuronal action potential, a second action potential cannot be generated because the activation gates (m gates) of the voltage-gated Na^+ channels are held shut by the high membrane depolarization.",
+      "prompt": "During the absolute refractory period of a neuronal action potential, a second action potential cannot be generated because the activation gates (m gates) of the voltage-gated Na+ channels are held shut by the high membrane depolarization.",
       "answer": "false",
       "explanation": "-"
     },
@@ -105,7 +105,7 @@
     {
       "id": "q15",
       "type": "true_false",
-      "prompt": "An increase in blood H^+ concentration (decreased pH) shifts the oxygen-hemoglobin dissociation curve to the right, which decreases the affinity of hemoglobin for oxygen and increases the P50, a phenomenon known as the Bohr effect.",
+      "prompt": "An increase in blood H+ concentration (decreased pH) shifts the oxygen-hemoglobin dissociation curve to the right, which decreases the affinity of hemoglobin for oxygen and increases the P50, a phenomenon known as the Bohr effect.",
       "answer": "true",
       "explanation": "-"
     },
@@ -161,7 +161,7 @@
     {
       "id": "q23",
       "type": "true_false",
-      "prompt": "Because the descending limb of the loop of Henle is highly permeable to NaCl but impermeable to water, the tubular fluid becomes increasingly concentrated as it flows toward the tip of the loop.",
+      "prompt": "During a state of acute hypovolemia, glomerulotubular balance is enhanced, causing the proximal convoluted tubule to reabsorb a higher fraction of the filtered sodium and water load.",
       "answer": "false",
       "explanation": "-"
     },
@@ -175,7 +175,7 @@
     {
       "id": "q25",
       "type": "true_false",
-      "prompt": "Under the influence of high circulating levels of aldosterone, the principal cells of the late distal tubule and collecting duct increase the reabsorption of sodium and the secretion of potassium, which can lead to hypernatremia and hypokalemia.",
+      "prompt": "A healthy subject undergoing a maximum water diuresis will excrete a higher absolute daily load of urea (mmol/day) compared to when they are in a state of maximum antidiuresis, assuming constant dietary protein intake.",
       "answer": "true",
       "explanation": "-"
     },
@@ -196,15 +196,15 @@
     {
       "id": "q28",
       "type": "true_false",
-      "prompt": "In patients with central diabetes insipidus, the primary defect is a lack of ADH secretion from the posterior pituitary, which means that administering exogenous desmopressin (dDAVP) will fail to increase their urine osmolality.",
+      "prompt": "In a patient with primary hyperaldosteronism, despite increased Na^+ reabsorption, hypernatremia is not found due to water diuresis.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q29",
       "type": "true_false",
-      "prompt": "Constriction of the afferent arteriole decreases both the renal plasma flow (RPF) and the glomerular capillary hydrostatic pressure, leading to a decrease in the glomerular filtration rate (GFR).",
-      "answer": "true",
+      "prompt": "The homeostatic mechanisms regulating extracellular fluid sodium concentration are primarily driven by the homeostatic regulation of total body sodium balance.",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -224,21 +224,21 @@
     {
       "id": "q32",
       "type": "true_false",
-      "prompt": "Gastric receptive relaxation is a vagovagal reflex that allows the stomach to accommodate large volumes of food with minimal increases in intragastric pressure, and it is mediated by enteric neurons releasing nitric oxide and VIP.",
-      "answer": "true",
+      "prompt": "Because esophageal peristalsis is coordinated centrally, a vagotomy that eliminates all vagal output to the gastrointestinal tract will completely abolish both primary and secondary peristalsis in the esophagus.",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q33",
       "type": "true_false",
-      "prompt": "Secretin is released from S cells of the duodenum in response to the presence of acid in the lumen, and its primary action is to stimulate the secretion of a bicarbonate-rich fluid from the pancreatic duct cells.",
+      "prompt": "Under normal physiological conditions, secretin acts as an endocrine inhibitor of gastric acid secretion from parietal cells.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q34",
       "type": "true_false",
-      "prompt": "Dietary lipids are emulsified by bile salts, hydrolyzed by pancreatic lipase into free fatty acids and 2-monoglycerides, and then absorbed across the apical membrane of enterocytes primarily by simple passive diffusion.",
+      "prompt": "At normal physiological concentrations, gastrin and cholecystokinin (CCK) do not share any functional effects in the gastrointestinal tract despite their significant amino acid structural homology.",
       "answer": "true",
       "explanation": "-"
     },
@@ -259,7 +259,7 @@
     {
       "id": "q37",
       "type": "true_false",
-      "prompt": "In the salivary glands, the primary secretion produced by acinar cells is isotonic to plasma, but as it passes through the ductal system, it becomes hypotonic because the ductal cells reabsorb Na^+ and Cl^- in excess of water.",
+      "prompt": "In the salivary glands, the primary secretion produced by acinar cells is isotonic to plasma, but as it passes through the ductal system, it becomes hypotonic because the ductal cells reabsorb Na+ and Cl- in excess of water.",
       "answer": "true",
       "explanation": "-"
     },
@@ -315,7 +315,7 @@
     {
       "id": "q45",
       "type": "true_false",
-      "prompt": "Angiotensin II stimulates aldosterone secretion from the zona glomerulosa by binding to AT1 receptors, which activates a G_q-coupled pathway that increases intracellular calcium and activates protein kinase PKC.",
+      "prompt": "Angiotensin II stimulates aldosterone secretion from the zona glomerulosa by binding to AT1 receptors, which activates a Gq-coupled pathway that increases intracellular calcium and activates protein kinase PKC.",
       "answer": "true",
       "explanation": "-"
     },
@@ -351,7 +351,7 @@
       "id": "q50",
       "type": "true_false",
       "prompt": "During the first few days of exposure to microgravity, the shift of fluid from the lower extremities to the central thoracic compartment causes a transient increase in central venous pressure, which triggers a reflex decrease in ADH release and an increase in renal sodium and water excretion.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -364,7 +364,7 @@
     {
       "id": "q52",
       "type": "true_false",
-      "prompt": "Digitalis (digoxin) increases cardiac contractility by directly inhibiting the Na^+-K^+ ATPase, which decreases intracellular Na^+ and subsequently increases the activity of the Na^+-Ca^(2+) exchanger.",
+      "prompt": "Digitalis (digoxin) increases cardiac contractility by directly inhibiting the Na+-K+ ATPase, which decreases intracellular Na+ and subsequently increases the activity of the Na+-Ca2+ exchanger.",
       "answer": "false",
       "explanation": "-"
     },
@@ -372,14 +372,14 @@
       "id": "q53",
       "type": "true_false",
       "prompt": "The vesicle-associated protein synaptobrevin acts as the primary calcium sensor that triggers neurotransmitter exocytosis at the chemical synapse.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q54",
       "type": "true_false",
       "prompt": "In skeletal muscle, during the power stroke of the cross-bridge cycle, the release of inorganic phosphate (Pi) from the myosin head occurs before the release of ADP.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -393,7 +393,7 @@
       "id": "q56",
       "type": "true_false",
       "prompt": "A patient with damage to the primary auditory cortex will have complete unilateral deafness in the ipsilateral ear.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -406,7 +406,7 @@
     {
       "id": "q58",
       "type": "true_false",
-      "prompt": "The endocochlear potential, which is the driving force for auditory transduction, is approximately +80 mV and is maintained by the active transport of K^+ into the endolymph by the stria vascularis of the cochlea.",
+      "prompt": "The endocochlear potential, which is the driving force for auditory transduction, is approximately +80 mV and is maintained by the active transport of K+ into the endolymph by the stria vascularis of the cochlea.",
       "answer": "true",
       "explanation": "-"
     },
@@ -414,7 +414,7 @@
       "id": "q59",
       "type": "true_false",
       "prompt": "In the cerebellum, climbing fibers originate from the contralateral inferior olivary nucleus and synapse directly onto the dendrites of Purkinje cells, generating highly powerful, multi-peaked electrical responses known as complex spikes.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -435,35 +435,35 @@
       "id": "q62",
       "type": "true_false",
       "prompt": "The velocity of an action potential is increased in myelinated fibers because myelin decreases the membrane resistance and increases the membrane capacitance of the axon.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q63",
       "type": "true_false",
       "prompt": "In the somatic sensory system, the receptive field size of a sensory neuron is inversely proportional to its tactile acuity or two-point discrimination threshold.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q64",
       "type": "true_false",
       "prompt": "In a healthy person standing upright, the ventilation-perfusion (V/Q) ratio is highest at the base of the lung because gravity causes a massive increase in blood flow to the base.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q65",
       "type": "true_false",
       "prompt": "If a patient's anatomical dead space is 150 mL, their tidal volume is 600 mL, and their respiratory rate is 10 breaths/minute, their alveolar ventilation is 4.5 L/minute.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q66",
       "type": "true_false",
       "prompt": "A true right-to-left pulmonary shunt can be differentiated from a ventilation-perfusion mismatch because breathing 100% supplemental oxygen will significantly increase the arterial PaO2 in a shunt but not in a V/Q mismatch.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -477,14 +477,14 @@
       "id": "q68",
       "type": "true_false",
       "prompt": "In a patient with severe anemia, the arterial partial pressure of oxygen (PaO2) and the oxygen saturation of hemoglobin (SaO2) are normal at rest, but the total oxygen content of the blood is significantly reduced.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q69",
       "type": "true_false",
       "prompt": "According to the Law of Laplace, as the radius of a blood vessel decreases, the wall tension required to withstand a given internal hydrostatic pressure must increase.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -497,7 +497,7 @@
     {
       "id": "q71",
       "type": "true_false",
-      "prompt": "During the Phase 2 plateau of the ventricular action potential, the membrane is highly permeable to both Ca^(2+) and K^+, which prevents the activation of voltage-gated Na^+ channels and prolongs the absolute refractory period.",
+      "prompt": "During the Phase 2 plateau of the ventricular action potential, the membrane is highly permeable to both Ca2+ and K+, which prevents the activation of voltage-gated Na+ channels and prolongs the absolute refractory period.",
       "answer": "true",
       "explanation": "-"
     },
@@ -505,7 +505,7 @@
       "id": "q72",
       "type": "true_false",
       "prompt": "If a patient's mean arterial pressure is 100 mmHg, right atrial pressure is 4 mmHg, and cardiac output is 6 L/minute, their systemic vascular resistance is 16 mmHg per L/minute.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -526,27 +526,27 @@
       "id": "q75",
       "type": "true_false",
       "prompt": "At plasma concentrations below the renal threshold for glucose, the renal clearance of glucose is equal to the renal clearance of inulin.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q76",
       "type": "true_false",
       "prompt": "If a patient has a urine flow rate of 2 mL/minute, a urine osmolality of 600 mOsm/kg H2O, and a plasma osmolality of 300 mOsm/kg H2O, their free water clearance is -2 mL/minute.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q77",
       "type": "true_false",
-      "prompt": "In a patient with proximal renal tubular acidosis (Type 2 RTA), the primary defect is an impaired ability of the distal nephron to secrete H^+ ions, resulting in a persistently high urine pH (> 5.5).",
-      "answer": "true",
+      "prompt": "In a patient with proximal renal tubular acidosis (Type 2 RTA), the primary defect is an impaired ability of the distal nephron to secrete H+ ions, resulting in a persistently high urine pH (> 5.5).",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q78",
       "type": "true_false",
-      "prompt": "In states of severe extracellular fluid volume depletion, the high levels of angiotensin II stimulate the Na^+-H^+ exchanger in the proximal tubule, which increases the reabsorption of Na^+, water, and HCO_3^-.",
+      "prompt": "In states of severe extracellular fluid volume depletion, the high levels of angiotensin II stimulate the Na+-H+ exchanger in the proximal tubule, which increases the reabsorption of Na+, water, and HCO3-.",
       "answer": "true",
       "explanation": "-"
     },
@@ -554,35 +554,35 @@
       "id": "q79",
       "type": "true_false",
       "prompt": "The clearance of inulin is independent of its plasma concentration because inulin is freely filtered and is neither reabsorbed nor secreted along the nephron.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q80",
       "type": "true_false",
       "prompt": "If the excretion rate of a substance is greater than its filtered load, there must have been net tubular reabsorption of that substance along the nephron.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q81",
       "type": "true_false",
-      "prompt": "Pancreatic acinar cells secrete a low volume of enzyme-rich fluid stimulated primarily by CCK and acetylcholine, whereas pancreatic ductal cells secrete a large volume of HCO_3^--rich fluid stimulated primarily by secretin.",
-      "answer": "false",
+      "prompt": "Pancreatic acinar cells secrete a low volume of enzyme-rich fluid stimulated primarily by CCK and acetylcholine, whereas pancreatic ductal cells secrete a large volume of HCO3--rich fluid stimulated primarily by secretin.",
+      "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q82",
       "type": "true_false",
-      "prompt": "Salivary secretion is always hypotonic to plasma, and its osmolality decreases even further as the salivary flow rate increases because more time is available for ductal reabsorption of Na^+ and Cl^-.",
-      "answer": "true",
+      "prompt": "Salivary secretion is always hypotonic to plasma, and its osmolality decreases even further as the salivary flow rate increases because more time is available for ductal reabsorption of Na+ and Cl-.",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q83",
       "type": "true_false",
       "prompt": "In patients with severe achlorhydria (lack of gastric acid secretion), the absorption of dietary non-heme iron is impaired because acid is required to keep iron in its soluble ferrous (Fe2+) state.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -610,7 +610,7 @@
       "id": "q87",
       "type": "true_false",
       "prompt": "In the liver, unconjugated bilirubin is water-soluble and is actively secreted into the bile canaliculi, whereas conjugated bilirubin is bound to albumin in the blood and cannot be filtered by the kidneys.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -638,7 +638,7 @@
       "id": "q91",
       "type": "true_false",
       "prompt": "In females, the conversion of testosterone to estradiol is catalyzed by the enzyme aromatase (CYP19) in the granulosa cells, which is stimulated by follicle-stimulating hormone (FSH).",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -652,13 +652,13 @@
       "id": "q93",
       "type": "true_false",
       "prompt": "In Cushing's disease caused by an ACTH-secreting pituitary adenoma, high doses of dexamethasone (a potent glucocorticoid) fail to suppress cortisol secretion, whereas in ectopic ACTH syndrome, cortisol secretion is suppressed by high doses of dexamethasone.",
-      "answer": "true",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q94",
       "type": "true_false",
-      "prompt": "During the first stage of labor, uterine contractions are stimulated by oxytocin, which acts on G_q-coupled receptors on myometrial smooth muscle cells to increase intracellular calcium and activate MLCK.",
+      "prompt": "During the first stage of labor, uterine contractions are stimulated by oxytocin, which acts on Gq-coupled receptors on myometrial smooth muscle cells to increase intracellular calcium and activate MLCK.",
       "answer": "true",
       "explanation": "-"
     },
@@ -666,7 +666,7 @@
       "id": "q95",
       "type": "true_false",
       "prompt": "The enzyme 11-beta-hydroxysteroid dehydrogenase type 2 (11-beta-HSD2) protects the mineralocorticoid receptor from inappropriate activation by converting cortisol into inactive cortisone.",
-      "answer": "false",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -693,7 +693,14 @@
     {
       "id": "q99",
       "type": "true_false",
-      "prompt": "In response to acute respiratory acidosis, the kidneys compensate by increasing the excretion of NH4+ and the reabsorption of HCO_3^-, a process that begins immediately and reaches completion within 12 to 24 hours.",
+      "prompt": "In response to acute respiratory acidosis, the kidneys compensate by increasing the excretion of NH4+ and the reabsorption of HCO3-, a process that begins immediately and reaches completion within 12 to 24 hours.",
+      "answer": "false",
+      "explanation": "-"
+    },
+    {
+      "id": "q100",
+      "type": "true_false",
+      "prompt": "In a patient with metabolic acidosis, the respiratory compensation is immediate hyperventilation, which can reduce the PaCO2 to a minimum value of approximately 10 mmHg to completely normalize the arterial pH.",
       "answer": "false",
       "explanation": "-"
     }

@@ -308,7 +308,7 @@
     {
       "id": "q44",
       "type": "true_false",
-      "prompt": "The renal 1-alpha-hydroxylase enzyme, which catalyzes the synthesis of active 1,25-dihydroxyvitamin D, is directly stimulated by parathyroid hormone (PTH) and hypophosphatemia, and is feedback-inhibited by active 1,25-dihydroxyvitamin D and FGF23.",
+      "prompt": "The renal 1-alpha-hydroxylase enzyme, which catalyzes the synthesis of active 1,25-dihydroxyvitamin D, is directly stimulated by parathyroid hormone  and hypophosphatemia, and is feedback-inhibited by active 1,25-dihydroxyvitamin D and FGF23.",
       "answer": "true",
       "explanation": "-"
     },
@@ -644,7 +644,7 @@
     {
       "id": "q92",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) decreases blood phosphate levels by inhibiting the Na^+-phosphate cotransporters (NaPi-IIa) in the apical membrane of the renal proximal tubule, thereby reducing phosphate reabsorption.",
+      "prompt": "Parathyroid hormone  decreases blood phosphate levels by inhibiting the Na^+-phosphate cotransporters (NaPi-IIa) in the apical membrane of the renal proximal tubule, thereby reducing phosphate reabsorption.",
       "answer": "true",
       "explanation": "-"
     },

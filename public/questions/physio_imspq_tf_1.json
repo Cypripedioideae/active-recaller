@@ -308,7 +308,7 @@
     {
       "id": "q44",
       "type": "true_false",
-      "prompt": "In patients with primary hyperparathyroidism, elevated parathyroid hormone (PTH) levels stimulate 1-alpha-hydroxylase in the kidneys to increase active vitamin D (1,25-dihydroxycholecalciferol) synthesis, which enhances intestinal Ca^(2+) absorption",
+      "prompt": "In patients with primary hyperparathyroidism, elevated parathyroid hormone  levels stimulate 1-alpha-hydroxylase in the kidneys to increase active vitamin D (1,25-dihydroxycholecalciferol) synthesis, which enhances intestinal Ca^(2+) absorption",
       "answer": "true",
       "explanation": "-"
     },

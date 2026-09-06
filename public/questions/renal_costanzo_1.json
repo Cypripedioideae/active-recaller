@@ -196,7 +196,7 @@
     {
       "id": "q28",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) inhibits phosphate reabsorption in the proximal tubule by decreasing the transport maximum (Tm) for phosphate.",
+      "prompt": "Parathyroid hormone  inhibits phosphate reabsorption in the proximal tubule by decreasing the transport maximum (Tm) for phosphate.",
       "answer": "true",
       "explanation": "-"
     },

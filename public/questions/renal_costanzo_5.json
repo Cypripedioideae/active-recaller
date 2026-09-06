@@ -182,7 +182,7 @@
     {
       "id": "q26",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) produces its phosphaturic effect by activating adenylyl cyclase and inhibiting Na^+-phosphate cotransport in the proximal tubule.",
+      "prompt": "Parathyroid hormone  produces its phosphaturic effect by activating adenylyl cyclase and inhibiting Na^+-phosphate cotransport in the proximal tubule.",
       "answer": "true",
       "explanation": "-"
     },

@@ -63,7 +63,7 @@
     {
       "id": "q9",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) increases the renal clearance of phosphate by stimulating Na^+-phosphate cotransport in the luminal membrane of the proximal tubule.",
+      "prompt": "Parathyroid hormone  increases the renal clearance of phosphate by stimulating Na^+-phosphate cotransport in the luminal membrane of the proximal tubule.",
       "answer": "false",
       "explanation": "-"
     },

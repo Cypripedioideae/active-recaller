@@ -28,7 +28,7 @@
     {
       "id": "q4",
       "type": "long_answer",
-      "prompt": "Identify the major site of phosphate reabsorption and explain how parathyroid hormone (PTH) regulates this process at the cellular level.",
+      "prompt": "Identify the major site of phosphate reabsorption and explain how parathyroid hormone  regulates this process at the cellular level.",
       "modelAnswer": "The proximal tubule is the major site of reabsorption. PTH binds to its basolateral receptor, stimulating cAMP/PKA and PKC pathways that lead to the internalization and lysosomal degradation of apical Na-Pi IIa cotransporters, thereby reducing phosphate reabsorption and increasing its excretion (phosphaturia).",
       "explanation": "-"
     },

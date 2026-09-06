@@ -273,7 +273,7 @@
     {
       "id": "q39",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) increases the renal reabsorption of calcium in the distal tubule while simultaneously decreasing the reabsorption of phosphate in the proximal tubule.",
+      "prompt": "Parathyroid hormone  increases the renal reabsorption of calcium in the distal tubule while simultaneously decreasing the reabsorption of phosphate in the proximal tubule.",
       "answer": "true",
       "explanation": "-"
     },

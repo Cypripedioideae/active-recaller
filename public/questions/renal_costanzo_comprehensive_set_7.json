@@ -35,7 +35,7 @@
     {
       "id": "q5",
       "type": "short_answer",
-      "prompt": "By what intracellular signaling pathway does parathyroid hormone (PTH) inhibit phosphate reabsorption in the proximal tubule?",
+      "prompt": "By what intracellular signaling pathway does parathyroid hormone  inhibit phosphate reabsorption in the proximal tubule?",
       "modelAnswer": "PTH activates adenylyl cyclase, generating cAMP, which inhibits the Na^+ -phosphate cotransporter in the luminal membrane.",
       "explanation": "-"
     },

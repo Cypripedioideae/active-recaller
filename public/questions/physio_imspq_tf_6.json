@@ -21,14 +21,14 @@
     {
       "id": "q3",
       "type": "true_false",
-      "prompt": "In skeletal muscle, the Ryanodine receptor (RyR1) is a voltage-gated Ca^(2+) channel that opens directly in response to T-tubule depolarization, allowing Ca^(2+) to flow from the sarcoplasmic reticulum into the cytosol.",
+      "prompt": "In skeletal muscle, the Ryanodine receptor is a voltage-gated Ca^(2+) channel that opens directly in response to T-tubule depolarization, allowing Ca^(2+) to flow from the sarcoplasmic reticulum into the cytosol.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q4",
       "type": "true_false",
-      "prompt": "In smooth muscle, the enzymatic activity of myosin light chain phosphatase (MLCP) is inhibited by the phosphorylation of its regulatory subunit by Rho-kinase, which promotes smooth muscle contraction at a constant intracellular Ca^(2+) concentration (calcium sensitization).",
+      "prompt": "In smooth muscle, the enzymatic activity of myosin light chain phosphatase is inhibited by the phosphorylation of its regulatory subunit by Rho-kinase, which promotes smooth muscle contraction at a constant intracellular Ca^(2+) concentration.",
       "answer": "true",
       "explanation": "-"
     },
@@ -49,7 +49,7 @@
     {
       "id": "q7",
       "type": "true_false",
-      "prompt": "In the spinal cord, Renshaw cells are inhibitory interneurons that receive excitatory input from an alpha motor neuron's collateral axon and send inhibitory feedback to the same alpha motor neuron to prevent over-excitation (recurrent inhibition).",
+      "prompt": "In the spinal cord, Renshaw cells are inhibitory interneurons that receive excitatory input from an alpha motor neuron's collateral axon and send inhibitory feedback to the same alpha motor neuron to prevent over-excitation.",
       "answer": "true",
       "explanation": "-"
     },
@@ -63,7 +63,7 @@
     {
       "id": "q9",
       "type": "true_false",
-      "prompt": "During the light response in a rod cell, the closure of cGMP-gated cation channels leads to hyperpolarization of the membrane, which decreases the release of the inhibitory neurotransmitter glutamate, thereby disinhibiting (exciting) ON-center bipolar cells.",
+      "prompt": "During the light response in a rod cell, the closure of cGMP-gated cation channels leads to hyperpolarization of the membrane, which decreases the release of the inhibitory neurotransmitter glutamate, thereby disinhibiting ON-center bipolar cells.",
       "answer": "true",
       "explanation": "-"
     },
@@ -91,14 +91,14 @@
     {
       "id": "q13",
       "type": "true_false",
-      "prompt": "At the end of a normal quiet expiration (at FRC), the inward elastic recoil of the lungs is exactly equal and opposite to the outward elastic recoil of the chest wall, resulting in a net transpulmonary pressure of approximately 5 cm H2O.",
+      "prompt": "In normal individuals, at the end of a normal quiet expiration, the inward elastic recoil of the lungs is exactly equal and opposite to the outward elastic recoil of the chest wall, resulting in a net transpulmonary pressure of approximately 5 cm H_2O.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q14",
       "type": "true_false",
-      "prompt": "In a patient with severe acute asthma, the forced expiratory volume in 1 second (FEV1) is decreased, but the FEV1/FVC ratio is typically normal or elevated because the forced vital capacity (FVC) is reduced to the same extent.",
+      "prompt": "In a patient with severe acute asthma, the forced expiratory volume in 1 second (FEV_1) is decreased, but the FEV_1/FVC ratio is typically normal or elevated because the forced vital capacity (FVC) is reduced to the same extent.",
       "answer": "false",
       "explanation": "-"
     },
@@ -112,14 +112,14 @@
     {
       "id": "q16",
       "type": "true_false",
-      "prompt": "Hypoxic pulmonary vasoconstriction (HPV) is a unique compensatory mechanism where low alveolar P_(O2) causes vasoconstriction of local pulmonary arterioles, which increases blood flow to poorly ventilated regions of the lung to optimize gas exchange.",
+      "prompt": "Hypercapnia in alveoli could lead to constriction of bronchioles in that local region.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q17",
       "type": "true_false",
-      "prompt": "If a patient has an arterial P_(aCO2) of 40 mmHg and a mixed expired PECO2 of 30 mmHg, their physiological dead space fraction (VD/VT) is 0.25, meaning 25% of each tidal volume does not participate in gas exchange.",
+      "prompt": "If a patient has an arterial P_(aCO2) of 40 mmHg and a mixed expired P_(ECO2) of 30 mmHg, their physiological dead space fraction (V_D/V_T) is 0.25, meaning 25% of each tidal volume does not participate in gas exchange.",
       "answer": "true",
       "explanation": "-"
     },
@@ -133,7 +133,7 @@
     {
       "id": "q19",
       "type": "true_false",
-      "prompt": "An increase in contractility (positive inotropic effect) increases the stroke volume by selectively increasing the end-diastolic volume (preload) while leaving the end-systolic volume unchanged.",
+      "prompt": "An increase in contractility increases the stroke volume by selectively increasing the end-diastolic volume while leaving the end-systolic volume unchanged.",
       "answer": "false",
       "explanation": "-"
     },
@@ -147,8 +147,8 @@
     {
       "id": "q21",
       "type": "true_false",
-      "prompt": "If a patient's mean arterial pressure is 90 mmHg, right atrial pressure is 6 mmHg, and cardiac output is 7 L/minute, their systemic vascular resistance is approximately 12 mmHg per L/minute.",
-      "answer": "true",
+      "prompt": "If a patient's renal plasma flow is 600 mL/min and their hematocrit is 40%, their renal blood flow is 240 mL/min.",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -182,8 +182,8 @@
     {
       "id": "q26",
       "type": "true_false",
-      "prompt": "In a patient with central diabetes insipidus, the administration of desmopressin (dDAVP) results in a rapid decrease in urine flow rate and a significant increase in urine osmolality, whereas no change is observed in nephrogenic diabetes insipidus.",
-      "answer": "true",
+      "prompt": "If the glomerular filtration rate (GFR) falls to zero, the concentration ratio of a partially restricted macromolecule between Bowman's space and glomerular capillary plasma (the filtrate/filtrand ratio) will also drop to zero.",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -203,49 +203,49 @@
     {
       "id": "q29",
       "type": "true_false",
-      "prompt": "In the cortical collecting duct, aldosterone stimulates Na^+ reabsorption and K^+ secretion primarily by activating apical Na^+-K^+ ATPase pumps and basolateral epithelial sodium channels (ENaC).",
+      "prompt": "In the cortical collecting duct, aldosterone stimulates Na^+ reabsorption and K^+ secretion primarily by activating apical Na^+-K^+ ATPase pumps and basolateral epithelial sodium channels.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q30",
       "type": "true_false",
-      "prompt": "During a severe metabolic acidosis, the renal production of ammonium (NH4+) from glutamine in the proximal tubule is upregulated, providing the major urinary buffer needed to excrete excess hydrogen ions.",
+      "prompt": "During a severe metabolic acidosis, the renal production of ammonium (NH_4^+) from glutamine in the proximal tubule is upregulated, providing the major urinary buffer needed to excrete excess hydrogen ions.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q31",
       "type": "true_false",
-      "prompt": "The migrating motor complex (MMC) is a cyclic pattern of gastrointestinal motility during fasting that is initiated by the hormone motilin and serves to sweep undigested food and bacteria into the colon.",
-      "answer": "true",
+      "prompt": "The direct secretagogue for cholecystokinin secretion includes triglycerides and free fatty acids.",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q32",
       "type": "true_false",
-      "prompt": "In the stomach, parietal cell secretion of hydrochloric acid (HCl) is mediated by an apical Na^+-H^+ exchanger that pumps H^+ into the lumen in exchange for Na^+.",
-      "answer": "false",
+      "prompt": "The slow waves of gastrointestinal smooth muscle are oscillating resting membrane potentials that set the maximum frequency of contractions, but they are not action potentials themselves.",
+      "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q33",
       "type": "true_false",
-      "prompt": "Pancreatic acinar cells secrete digestive enzymes in response to cholecystokinin (CCK) and acetylcholine, whereas pancreatic ductal cells secrete a large volume of HCO_3^--rich fluid in response to secretin.",
-      "answer": "true",
+      "prompt": "Norepinephrine decreases the frequency of intestinal smooth muscle contractions by hyperpolarizing the cells and lowering the fundamental frequency of the underlying mucosal slow waves.",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q34",
       "type": "true_false",
-      "prompt": "Because of the high lipid solubility of long-chain fatty acids, they are absorbed across the apical membrane of enterocytes and directly enter the portal venous blood to be transported to the liver.",
-      "answer": "false",
+      "prompt": "Surgical vagotomy completely abolishes the receptive relaxation and accommodation reflexes of the proximal (orad) stomach in response to swallowing food.",
+      "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q35",
       "type": "true_false",
-      "prompt": "The absorption of vitamin B12 (cobalamin) requires its binding to haptocorrin in the stomach, its subsequent binding to intrinsic factor in the duodenum after pancreatic proteases degrade haptocorrin, and final active absorption of the complex in the terminal ileum.",
+      "prompt": "The absorption of vitamin B12 requires its binding to haptocorrin in the stomach, its subsequent binding to intrinsic factor in the duodenum after pancreatic proteases degrade haptocorrin, and final active absorption of the complex in the terminal ileum.",
       "answer": "true",
       "explanation": "-"
     },
@@ -273,14 +273,14 @@
     {
       "id": "q39",
       "type": "true_false",
-      "prompt": "Cortisol deficiency in primary adrenal insufficiency (Addison's disease) leads to hyperpigmentation because of the lack of negative feedback on the anterior pituitary, which increases the transcription of the gene for pro-opiomelanocortin (POMC) and results in the co-secretion of melatonin.",
+      "prompt": "Cortisol deficiency in primary adrenal insufficiency leads to hyperpigmentation because of the lack of negative feedback on the anterior pituitary, which increases the transcription of the gene for pro-opiomelanocortin (POMC) and results in the co-secretion of melatonin.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q40",
       "type": "true_false",
-      "prompt": "In the thyroid gland, the sodium-iodide symporter (NIS) on the basolateral membrane of follicular cells is a secondary active cotransporter that utilizes the sodium gradient established by the Na^+-K^+ ATPase to accumulate iodide.",
+      "prompt": "In the thyroid gland, the sodium-iodide symporter on the basolateral membrane of follicular cells is a secondary active cotransporter that utilizes the sodium gradient established by the Na^+-K^+ ATPase to accumulate iodide.",
       "answer": "true",
       "explanation": "-"
     },
@@ -301,15 +301,15 @@
     {
       "id": "q43",
       "type": "true_false",
-      "prompt": "Parathyroid hormone (PTH) acts directly on the renal distal tubule to stimulate 1-alpha-hydroxylase, which converts 25-hydroxyvitamin D into active 1,25-dihydroxyvitamin D, thereby increasing intestinal calcium absorption.",
+      "prompt": "Parathyroid hormone  acts directly on the renal distal tubule to stimulate 1-alpha-hydroxylase, which converts 25-hydroxyvitamin D into active 1,25-dihydroxyvitamin D, thereby increasing intestinal calcium absorption.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q44",
       "type": "true_false",
-      "prompt": "Type 1 diabetes mellitus is characterized by autoimmune destruction of pancreatic beta cells, leading to an absolute insulin deficiency, whereas Type 2 diabetes mellitus is primarily characterized by peripheral insulin resistance and progressive beta-cell dysfunction.",
-      "answer": "true",
+      "prompt": "In pancreatic β-cells, glucose-stimulated insulin release is initiated by the opening of ATP-sensitive K^+ channels, which depolarises the cell membrane and triggers calcium influx.",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -322,8 +322,8 @@
     {
       "id": "q46",
       "type": "true_false",
-      "prompt": "During prolonged, intense aerobic exercise, the increase in skeletal muscle blood flow is primarily mediated by local metabolic factors (such as adenosine, hypoxia, and increased extracellular K^+), which override sympathetic adrenergic vasoconstrictor signals (active hyperemia).",
-      "answer": "true",
+      "prompt": "During heavy exercise that exceeds the anaerobic threshold, the severe hyperventilation that reduces arterial P_(aCO2) below resting basal levels is mediated primarily by the activation of central medullary chemoreceptors sensing the accumulation of lactic acid-derived H^+ ions in the cerebrospinal fluid.",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -343,15 +343,15 @@
     {
       "id": "q49",
       "type": "true_false",
-      "prompt": "A patient with metabolic acidosis has a serum bicarbonate of 16 mEq/L. According to Winters' formula (predicted P_(aCO2) = 1.5 * [HCO_3^-] + 8 +/- 2), if their measured P_(aCO2) is 40 mmHg, they have a fully compensated metabolic acidosis.",
+      "prompt": "Adding a nonvolatile acid like sulfuric acid to the blood will consume bicarbonate but leave the protonation state of intracellular proteins and organic phosphates unaffected.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q50",
       "type": "true_false",
-      "prompt": "During a fever, endogenous pyrogens (like IL-1 and TNF-alpha) stimulate the synthesis of PGE2 in the preoptic area of the hypothalamus, raising the thermoregulatory set-point; the body's initial response to reach this higher set-point is to shivering and cutaneous vasoconstriction.",
-      "answer": "true",
+      "prompt": "Although sympathetic vasoconstrictor drive is elevated during static exercise, the overall total peripheral resistance  decreases because the local metabolic vasodilators produced in active skeletal muscles physically override sympathetic α_1-mediated vasoconstriction at the arteriole level.",
+      "answer": "false",
       "explanation": "-"
     },
     {
@@ -371,7 +371,7 @@
     {
       "id": "q53",
       "type": "true_false",
-      "prompt": "The plasma membrane Ca^(2+) ATPase (PMCA) has a lower affinity for Ca^(2+) but a much higher transport capacity than the sodium-calcium exchanger (NCX).",
+      "prompt": "First pain is a slow, burning sensation mediated by unmyelinated C-fibers that release glutamate in the dorsal horn, whereas second pain is a sharp, rapid sensation mediated by thinly myelinated A-delta fibers that release both glutamate and substance P.",
       "answer": "false",
       "explanation": "-"
     },
@@ -406,7 +406,7 @@
     {
       "id": "q58",
       "type": "true_false",
-      "prompt": "Beta-1 adrenergic receptor activation decreases heart rate by opening G protein-coupled potassium channels (GIRK) in the sinoatrial node.",
+      "prompt": "Beta-1 adrenergic receptor activation decreases heart rate by opening G protein-coupled potassium channels (G_(IRK)) in the sinoatrial node.",
       "answer": "false",
       "explanation": "-"
     },
@@ -469,28 +469,28 @@
     {
       "id": "q67",
       "type": "true_false",
-      "prompt": "Peripheral chemoreceptors are highly sensitive to arterial pH changes, whereas central chemoreceptors are unaffected by metabolic acidosis because hydrogen ions cannot readily cross the blood-brain barrier.",
+      "prompt": "Central chemoreceptors are unaffected by metabolic acidosis.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q68",
       "type": "true_false",
-      "prompt": "A patient breathing room air (PIO2 = 150 mmHg) at sea level has a P_(aCO2) of 48 mmHg and a respiratory exchange ratio of 0.8. If their measured arterial PaO2 is 80 mmHg, their alveolar-arterial (A-a) oxygen gradient is 10 mmHg.",
+      "prompt": "A patient breathing room air (P_(IO2) = 150 mmHg) at sea level has a P_(aCO2) of 48 mmHg and a respiratory exchange ratio of 0.8. If their measured arterial P_(aO2) is 80 mmHg, their alveolar-arterial (A-a) oxygen gradient is 10 mmHg.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q69",
       "type": "true_false",
-      "prompt": "According to the Fick principle, if a patient's oxygen consumption is 300 mL/minute, arterial oxygen content is 15 mL O2/100 mL blood, and mixed venous oxygen content is 10 mL O2/100 mL blood, their cardiac output is 6 L/minute.",
+      "prompt": "According to the Fick principle, if a patient's oxygen consumption is 300 mL/minute, arterial oxygen content is 15 mL O_2/100 mL blood, and mixed venous oxygen content is 10 mL O_2/100 mL blood, their cardiac output is 6 L/minute.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q70",
       "type": "true_false",
-      "prompt": "The funny current (If) in sinoatrial nodal cells is a hyperpolarization-activated inward current carried primarily by Ca^(2+) ions.",
+      "prompt": "The funny current (I_f) in sinoatrial nodal cells is a hyperpolarization-activated inward current carried primarily by Ca^(2+) ions.",
       "answer": "false",
       "explanation": "-"
     },
@@ -504,8 +504,8 @@
     {
       "id": "q72",
       "type": "true_false",
-      "prompt": "In a patient with severe right ventricular failure, the systemic venous pressure rises, causing a decrease in capillary hydrostatic pressure that leads to interstitial fluid absorption.",
-      "answer": "false",
+      "prompt": "In a patient with severe right ventricular failure, the systemic venous pressure rises, causing a increase in capillary hydrostatic pressure that leads to interstitial fluid filtration.",
+      "answer": "true",
       "explanation": "-"
     },
     {
@@ -525,7 +525,7 @@
     {
       "id": "q75",
       "type": "true_false",
-      "prompt": "Loop diuretics like bumetanide inhibit the NKCC2 cotransporter, which leads to a decrease in the excretion of calcium and magnesium because the paracellular pathway is stimulated.",
+      "prompt": "Loop diuretics inhibit the NKCC2 cotransporter, which leads to a decrease in the excretion of calcium and magnesium because the paracellular pathway is stimulated.",
       "answer": "false",
       "explanation": "-"
     },
@@ -539,14 +539,14 @@
     {
       "id": "q77",
       "type": "true_false",
-      "prompt": "In tubuloglomerular feedback, an increase in GFR delivers more NaCl to the macula densa, which stimulates the release of nitric oxide to dilate the afferent arteriole and increase GFR further.",
+      "prompt": "In tubuloglomerular feedback, an increase in GFR delivers more NaCl to the macula densa, which stimulates the release of nitric oxide to dilate the afferent arteriole.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q78",
       "type": "true_false",
-      "prompt": "Contraction of glomerular mesangial cells in response to angiotensin II decreases the glomerular surface area, which decreases the ultrafiltration coefficient (Kf) and lowers GFR.",
+      "prompt": "Contraction of glomerular mesangial cells in response to angiotensin II decreases the glomerular surface area, which decreases the ultrafiltration coefficient (K_f) and lowers GFR.",
       "answer": "true",
       "explanation": "-"
     },
@@ -560,28 +560,28 @@
     {
       "id": "q80",
       "type": "true_false",
-      "prompt": "Luminal carbonic anhydrase (CA IV) in the proximal tubule converts filtered HCO_3^- and secreted H^+ into CO2 and H2O, which can then passively diffuse across the apical membrane of the tubular cells.",
-      "answer": "true",
+      "prompt": "Luminal carbonic anhydrase (CA IV) in the proximal tubule converts CO_2 and H_2O into HCO_3^- and H^+.",
+      "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q81",
       "type": "true_false",
-      "prompt": "Atropine administration completely abolishes salivary secretion because saliva production is solely under parasympathetic cholinergic control.",
+      "prompt": "Atropine administration completely abolishes salivary secretion because saliva production.",
       "answer": "false",
       "explanation": "-"
     },
     {
       "id": "q82",
       "type": "true_false",
-      "prompt": "Cimetidine, an H2 receptor antagonist, reduces gastrin-stimulated gastric acid secretion because histamine acts as a permissive and synergistic mediator of gastrin's action on parietal cells.",
+      "prompt": "Cimetidine, an H_2 receptor antagonist, reduces gastrin-stimulated gastric acid secretion because histamine acts as a synergistic mediator of gastrin's action on parietal cells.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q83",
       "type": "true_false",
-      "prompt": "Secretin stimulates the apical Cl^-HCO_3^- exchanger in pancreatic ductal cells, while the necessary Cl^- recycling is mediated by apical CFTR chloride channels.",
+      "prompt": "Secretin stimulates the apical Cl^--HCO_3^- exchanger in pancreatic ductal cells, while the necessary Cl^- recycling is mediated by apical CFTR chloride channels.",
       "answer": "true",
       "explanation": "-"
     },
@@ -595,7 +595,7 @@
     {
       "id": "q85",
       "type": "true_false",
-      "prompt": "Gastrointestinal slow waves represent rapid depolarizations that always trigger muscle contraction, even in the absence of spike potentials.",
+      "prompt": "Gastrointestinal slow waves represent rapid depolarizations that always trigger muscle contraction.",
       "answer": "false",
       "explanation": "-"
     },
@@ -637,14 +637,14 @@
     {
       "id": "q91",
       "type": "true_false",
-      "prompt": "In the anterior pituitary, thyrotropes convert thyroxine (T4) to the more active triiodothyronine (T3) via the enzyme type 2 deiodinase (D2) to mediate negative feedback inhibition of TSH secretion.",
+      "prompt": "In the anterior pituitary, thyrotropes convert thyroxine to the more active triiodothyronine via the enzyme type 2 deiodinase to mediate negative feedback inhibition of TSH secretion.",
       "answer": "true",
       "explanation": "-"
     },
     {
       "id": "q92",
       "type": "true_false",
-      "prompt": "Calcitonin is the primary, minute-to-minute regulator of plasma Ca^(2+) concentration in adult humans, and its secretion from parathyroid chief cells is stimulated by hypercalcemia.",
+      "prompt": "Calcitonin secretion from parathyroid parafollicular cells is stimulated by hypercalcemia.",
       "answer": "false",
       "explanation": "-"
     },
@@ -658,7 +658,7 @@
     {
       "id": "q94",
       "type": "true_false",
-      "prompt": "Dopamine secreted by the tuberoinfundibular tract of the hypothalamus inhibits prolactin secretion by binding to D2 receptors on lactotrophs in the anterior pituitary.",
+      "prompt": "Primary hypothyroidism can lead to secondary amenorrhea and galactorrhea.",
       "answer": "true",
       "explanation": "-"
     },
@@ -672,7 +672,7 @@
     {
       "id": "q96",
       "type": "true_false",
-      "prompt": "Within hours of arriving at high altitude, a person's arterial oxygen saturation (SaO2) begins to recover due to a rapid increase in the hematocrit caused by splenic contraction and erythropoietin-stimulated red blood cell production.",
+      "prompt": "Within hours of arriving at high altitude, a person's arterial oxygen saturation begins to recover due to a rapid increase in the hematocrit caused by splenic contraction and erythropoietin-stimulated red blood cell production.",
       "answer": "false",
       "explanation": "-"
     },
@@ -686,8 +686,8 @@
     {
       "id": "q98",
       "type": "true_false",
-      "prompt": "During the chill phase of a fever, the hypothalamic set-point is elevated, making the patient feel cold, which triggers shivering and cutaneous vasoconstriction to raise body temperature to the new set-point.",
-      "answer": "true",
+      "prompt": "Decompression sickness is primarily caused by gaseous oxygen bubbles rapidly escaping solution and blocking systemic capillaries during ascent.",
+      "answer": "false",
       "explanation": "-"
     },
     {
